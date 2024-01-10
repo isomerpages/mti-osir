@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Significant Investments Review Act.md
+      - Sector Legislation/Security and Emergency Services.md
       - Sector Legislation/Public Utilities.md
       - Sector Legislation/Healthcare.md
       - Sector Legislation/Banking and Finance.md
