@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Significant Investments Review Act.md
+      - Sector Legislation/Healthcare.md
       - Sector Legislation/Banking and Finance.md
       - Sector Legislation/.keep
       - Sector Legislation/Sectoral legislation with O&C provisions.md
