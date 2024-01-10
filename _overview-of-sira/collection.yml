@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Significant Investments Review Act.md
-      - Other legislations/.keep
-      - Other legislations/Sectoral legislation with O&C provisions.md
+      - Sector Legislation/.keep
+      - Sector Legislation/Sectoral legislation with O&C provisions.md
