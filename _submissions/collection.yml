@@ -2,5 +2,6 @@ collections:
   submissions:
     output: true
     order:
+      - Reconsiderations and Appeals.md
       - Approvals.md
       - Notifications.md
