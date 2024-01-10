@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Title
-description: An Isomer site of the Singapore Government
+title: The Office of Significant Investments Review (OSIR)
+description: The Office of Significant Investments Review (OSIR)
 image: /images/isomer-logo.svg
 permalink: /
 notification: "*This webpage is undergoing development. Apologies for the
