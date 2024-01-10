@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Significant Investments Review Act.md
+      - Sectoral Legislation/Information, Communications and Media.md
       - Sectoral Legislation/Transport.md
       - Sectoral Legislation/Security and Emergency Services.md
       - Sectoral Legislation/Public Utilities.md
