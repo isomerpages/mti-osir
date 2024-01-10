@@ -16,15 +16,8 @@ links:
         url: /designation
       - title: Designated Entities
         url: /designated
-  - title: Submissions
-    url: /notifications
-    sublinks:
-      - title: Notifications
-        url: /notifications
-      - title: Approvals
-        url: /approvals
-      - title: Reconsideration and Appeals
-        url: /reconsiderationandappeals
+  - title: Forms
+    url: /forms
   - title: Guidance Documents
     url: /guidance
     sublinks:
