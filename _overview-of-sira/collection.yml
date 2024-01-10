@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - Significant Investments Review Act.md
-      - Sector Legislation/Transport.md
-      - Sector Legislation/Security and Emergency Services.md
-      - Sector Legislation/Public Utilities.md
-      - Sector Legislation/Healthcare.md
-      - Sector Legislation/Banking and Finance.md
-      - Sector Legislation/.keep
-      - Sector Legislation/Sectoral legislation with O&C provisions.md
+      - Sectoral Legislation/Transport.md
+      - Sectoral Legislation/Security and Emergency Services.md
+      - Sectoral Legislation/Public Utilities.md
+      - Sectoral Legislation/Healthcare.md
+      - Sectoral Legislation/Banking and Finance.md
+      - Sectoral Legislation/.keep
+      - Sectoral Legislation/Sectoral legislation with O&C provisions.md
