@@ -2,6 +2,7 @@ collections:
   sectoral-legislation:
     output: true
     order:
+      - Public Utilities.md
       - Information, Communications and Media.md
       - Healthcare.md
       - Banking and Finance.md
