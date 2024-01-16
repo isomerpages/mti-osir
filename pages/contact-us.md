@@ -25,5 +25,10 @@ contacts:
       - email: contact@osir.gov.sg
       - other: ""
     title: Submissions
+  - content:
+      - phone: ""
+      - email: alertus@osir.gov.sg
+      - other: ""
+    title: Raise your concern
 feedback: ""
 ---
