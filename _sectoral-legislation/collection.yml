@@ -2,6 +2,7 @@ collections:
   sectoral-legislation:
     output: true
     order:
+      - Insolvency, Restructuring and Dissolution Act (IRDA).md
       - Other Legislations/Transport.md
       - Other Legislations/Information, Communications and Media.md
       - Other Legislations/Security and Emergency Services.md
