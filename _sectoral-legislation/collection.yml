@@ -2,6 +2,7 @@ collections:
   sectoral-legislation:
     output: true
     order:
+      - Other Legislations/Information, Communications and Media.md
       - Other Legislations/Security and Emergency Services.md
       - Other Legislations/Healthcare.md
       - Other Legislations/Public Utilities.md
