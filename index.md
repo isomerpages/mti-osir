@@ -8,8 +8,7 @@ notification: "*This webpage is undergoing development. Apologies for the
   inconvenience caused.*"
 sections:
   - hero:
-      title: Office of Significant Investments Review (OSIR)
-      subtitle: For the Significant Investments Review Act (SIRA)
+      title: Office of Significant Investments Review
       background: /images/hero-banner.png
       key_highlights:
         - title: About OSIR
