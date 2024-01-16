@@ -2,5 +2,6 @@ collections:
   sectoral-legislation:
     output: true
     order:
+      - Information, Communications and Media.md
       - Healthcare.md
       - Banking and Finance.md
