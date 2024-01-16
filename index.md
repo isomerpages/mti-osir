@@ -11,33 +11,35 @@ sections:
       title: Office of Significant Investments Review
       background: /images/hero-banner.png
       key_highlights:
-        - title: About OSIR
-          description: More information on the team
+        - title: About Office of Significant Investments Review
+          description: More information on OSIR
           url: /aboutus
-        - title: About SIRA
-          description: More information on the Act
+        - title: About Significant Investments Review Act
+          description: More information on SIRA
           url: /sira
   - infobar:
       title: Designated Entities
-      subtitle: Entities designated under SIRA
       button: List of Designated Entities
       url: /designated
   - textcards:
-      title: Submissions to OSIR
-      subtitle: How do I submit?
+      title: Forms
+      subtitle: Submissions to OSIR
       id: textcards
       cards:
-        - title: Notifications
-          description: Find out how to submit notifications by clicking the link below.
-          linktext: More information
+        - title: Notification Forms
+          description: Find out how to submit notification forms
+          linktext: Learn more
           url: /notifications
-        - title: Approvals
-          description: Find out how to submit approvals by clicking the link below.
-          linktext: More information
+        - title: Approval Forms
+          description: Find out how to submit approval forms
+          linktext: Learn more
           url: /approvals
+        - title: Validation Forms
+          description: "Find out how to submit validation forms "
+          linktext: Learn more
+          url: /validation-forms/
         - title: Reconsiderations and Appeals
-          description: Find out how to submit reconsiderations and appeals by clicking the
-            link below.
+          description: Find out how to submit reconsiderations and appeals
           linktext: More information
           url: /reconsiderationappeal/
   - resources:
