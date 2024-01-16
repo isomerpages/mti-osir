@@ -38,14 +38,9 @@ sections:
           description: Find out how to submit validation forms
           linktext: Learn more
           url: /validation-forms/
-  - resources:
-      title: Latest Commission's Updates
-      subtitle: Be Updated
-      id: resources
-      button: More
   - textcards:
       title: Resources
-      subtitle: "Supplementary Information "
+      subtitle: Supplementary Information
       id: textcards
       cards:
         - title: Guidance Documents
@@ -57,16 +52,20 @@ sections:
           linktext: Learn more
           url: /faqs/
         - title: Other Legislations
-          description: "This includes Sectoral Legislations. "
+          description: This includes Sectoral Legislations.
           linktext: Learn more
           url: /resources/other-legislations/
         - title: Reconsiderations and Appeals
           description: ""
           linktext: Learn more
           url: /resources/reconsiderations-and-appeals/
+  - resources:
+      title: Latest Commission's Updates
+      subtitle: Be Updated
+      id: resources
+      button: More
   - infobar:
       title: Contact us
       id: infobar
-      button: " "
       url: /contact-us/
 ---
