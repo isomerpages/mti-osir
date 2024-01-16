@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: The Office of Significant Investments Review (OSIR)
+title: Office of Significant Investments Review
 description: The Office of Significant Investments Review (OSIR)
 image: /images/isomer-logo.svg
 permalink: /
