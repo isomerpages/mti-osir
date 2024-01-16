@@ -1,0 +1,4 @@
+collections:
+  forms:
+    output: true
+    order: []
