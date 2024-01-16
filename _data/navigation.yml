@@ -4,8 +4,13 @@ links:
     url: /about-osir
   - title: Overview of SIRA
     url: /sira
-  - title: Designated Entities
-    url: /designated-entities
+  - title: Designation
+    url: /Designation
+    sublinks:
+      - title: Designated Entities
+        url: /designation/designated-entities/
+      - title: Designation Process
+        url: /designation/designation-process
   - title: Forms
     url: /forms
     sublinks:
