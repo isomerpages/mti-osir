@@ -9,7 +9,7 @@ notification: "*This webpage is undergoing development. Apologies for the
 sections:
   - hero:
       title: Office of Significant Investments Review
-      background: /images/hero-banner.png
+      background: /images/shutterstock_1297087753_resized.jpg
       key_highlights:
         - title: About Office of Significant Investments Review
           description: More information on OSIR
@@ -68,5 +68,4 @@ sections:
       title: Contact us
       id: infobar
       url: /contact-us/
-      button: " "
 ---
