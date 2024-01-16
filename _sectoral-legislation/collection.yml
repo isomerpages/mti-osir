@@ -2,6 +2,7 @@ collections:
   sectoral-legislation:
     output: true
     order:
+      - Other Legislations/Healthcare.md
       - Other Legislations/Public Utilities.md
       - Other Legislations/Banking and Finance.md
       - Other Legislations/.keep
