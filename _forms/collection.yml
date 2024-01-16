@@ -1,4 +1,5 @@
 collections:
   forms:
     output: true
-    order: []
+    order:
+      - Forms.md
