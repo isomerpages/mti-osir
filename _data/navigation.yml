@@ -1,7 +1,7 @@
 logo: /images/logo_1.jpg
 links:
-  - title: About Us
-    url: /aboutus
+  - title: About OSIR
+    url: /about-osir
   - title: Overview of SIRA
     url: /overview-of-sira/sira/
     sublinks:
@@ -9,23 +9,22 @@ links:
         url: /overview-of-sira/sira/
       - title: Sectoral Legislation
         url: /overview-of-sira/otherlegis/
-  - title: Designation
-    url: /designation
-    sublinks:
-      - title: Designation Process
-        url: /designation
-      - title: Designated Entities
-        url: /designated
+  - title: Designated Entities
+    url: /designated-entities
   - title: Forms
     url: /forms
-  - title: Guidance Documents
-    url: /guidance
+  - title: Resources
+    url: /resources
     sublinks:
-      - title: Fit and Proper Guidelines
-        url: /fnp
-      - title: Relevant Workflows
-        url: /workflows
-  - title: FAQ
-    url: /faq
+      - title: Guidance Documents
+        url: /guidance-documents
+      - title: Frequently Asked Questions
+        url: /faqs
+      - title: Other Legislations
+        url: /other-legislations
+      - title: Process Workflows
+        url: /process-workflows
+      - title: Reconsiderations and Appeals
+        url: /reconsiderations-and-appeals/
   - title: Contact Us
     url: /contact-us/
