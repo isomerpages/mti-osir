@@ -2,6 +2,6 @@ collections:
   faqs:
     output: true
     order:
-      - FAQs for Businesses and Investors.md
+      - FAQs for Investors.md
       - FAQs for Designated Entities.md
       - Frequently Asked Questions (FAQs).md
