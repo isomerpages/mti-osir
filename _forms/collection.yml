@@ -2,5 +2,6 @@ collections:
   forms:
     output: true
     order:
+      - Approval Forms.md
       - Notification Forms.md
       - Forms.md
