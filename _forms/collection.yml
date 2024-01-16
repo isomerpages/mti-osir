@@ -2,4 +2,5 @@ collections:
   forms:
     output: true
     order:
+      - Notification Forms.md
       - Forms.md
