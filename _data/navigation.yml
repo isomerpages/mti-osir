@@ -3,12 +3,7 @@ links:
   - title: About OSIR
     url: /about-osir
   - title: Overview of SIRA
-    url: /overview-of-sira/sira/
-    sublinks:
-      - title: SIRA
-        url: /overview-of-sira/sira/
-      - title: Sectoral Legislation
-        url: /overview-of-sira/otherlegis/
+    url: /sira
   - title: Designated Entities
     url: /designated-entities
   - title: Forms
@@ -17,14 +12,14 @@ links:
     url: /resources
     sublinks:
       - title: Guidance Documents
-        url: /guidance-documents
+        url: /resources/guidance-documents
       - title: Frequently Asked Questions
-        url: /faqs
+        url: /resources/faqs
       - title: Other Legislations
-        url: /other-legislations
+        url: /resources/other-legislations
       - title: Process Workflows
-        url: /process-workflows
+        url: /resources/process-workflows
       - title: Reconsiderations and Appeals
-        url: /reconsiderations-and-appeals/
+        url: /resources/reconsiderations-and-appeals/
   - title: Contact Us
     url: /contact-us/
