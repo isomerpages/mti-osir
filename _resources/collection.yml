@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Guidance Documents.md
       - Insolvency, Restructuring and Dissolution Act (IRDA).md
       - Other Legislations/Transport.md
       - Other Legislations/Information, Communications and Media.md
