@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Other Legislations/.keep
-      - Banking and Finance.md
       - Healthcare.md
       - Information, Communications and Media.md
       - Public Utilities.md
