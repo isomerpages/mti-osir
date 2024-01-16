@@ -18,7 +18,7 @@ sections:
           description: More information on SIRA
           url: /sira
   - infobar:
-      title: Designated Entities
+      title: Designation
       button: List of Designated Entities
       url: /designated
   - textcards:
@@ -35,16 +35,38 @@ sections:
           linktext: Learn more
           url: /approvals
         - title: Validation Forms
-          description: "Find out how to submit validation forms "
+          description: Find out how to submit validation forms
           linktext: Learn more
           url: /validation-forms/
-        - title: Reconsiderations and Appeals
-          description: Find out how to submit reconsiderations and appeals
-          linktext: More information
-          url: /reconsiderationappeal/
   - resources:
       title: Latest Commission's Updates
       subtitle: Be Updated
       id: resources
       button: More
+  - textcards:
+      title: Resources
+      subtitle: "Supplementary Information "
+      id: textcards
+      cards:
+        - title: Guidance Documents
+          description: This includes infographics, and the process workflows.
+          linktext: Learn more
+          url: /resources/guidance-documents
+        - title: Frequently Asked Questions
+          description: For Designated Entities, Investors and General Public.
+          linktext: Learn more
+          url: /faqs/
+        - title: Other Legislations
+          description: "This includes Sectoral Legislations. "
+          linktext: Learn more
+          url: /resources/other-legislations/
+        - title: Reconsiderations and Appeals
+          description: ""
+          linktext: Learn more
+          url: /resources/reconsiderations-and-appeals/
+  - infobar:
+      title: Contact us
+      id: infobar
+      button: " "
+      url: /contact-us/
 ---
