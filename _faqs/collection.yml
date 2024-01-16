@@ -2,4 +2,5 @@ collections:
   faqs:
     output: true
     order:
+      - FAQs for Designated Entities.md
       - faq.md
