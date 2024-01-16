@@ -6,8 +6,6 @@ links:
     url: /sira
   - title: Designated Entities
     url: /designated-entities
-  - title: Forms
-    url: /forms
   - title: Resources
     url: /resources
     sublinks:
@@ -23,3 +21,12 @@ links:
         url: /resources/reconsiderations-and-appeals/
   - title: Contact Us
     url: /contact-us/
+  - title: Forms
+    url: /forms
+    sublinks:
+      - title: Notification Forms
+        url: /forms/notification-forms
+      - title: Approval Forms
+        url: /forms/approval-forms
+      - title: Validation Forms
+        url: /forms/validation-forms
