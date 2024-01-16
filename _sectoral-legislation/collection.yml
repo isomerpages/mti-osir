@@ -2,6 +2,7 @@ collections:
   sectoral-legislation:
     output: true
     order:
+      - Transport.md
       - Security and Emergency Services.md
       - Public Utilities.md
       - Information, Communications and Media.md
