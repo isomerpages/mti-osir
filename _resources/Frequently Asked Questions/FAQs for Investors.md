@@ -45,15 +45,4 @@ third_nav_title: Frequently Asked Questions
 <p> Government regularly passes legislation which may impact businesses positively or negatively. This is consistent with normal business risk.</p>
 
 </div></li>
-
-<li><input type="checkbox" id="accordion5">
-
-<label for="accordion5"> Will my entity be doubly-regulated under SIRB and sectoral legislation? How will SIRB interact with sectoral legislation? </label><div>
-
-	<p> While sectoral licensees will not themselves be designated entities, they may be subject to provisions under SIRB if they are key shareholders of designated entities. In such cases, all relevant approvals under SIRB will have to be obtained before a particular transaction can proceed. </p>
-
-<p> Where a subsidiary of an entity under sectoral legislation is designated under SIRB it may be possible to align any ownership and control provisions under SIRB with those of the sectoral legislation to reduce any regulatory burden on the parent company. </p>
-
-</div></li>
-
 </ul>
