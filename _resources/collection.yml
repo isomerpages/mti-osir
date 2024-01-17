@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Reconsiderations and Appeals.md
       - Guidance Documents.md
       - FAQs/.keep
       - FAQs/Frequently Asked Questions (FAQs).md
