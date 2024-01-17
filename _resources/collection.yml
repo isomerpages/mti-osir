@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - FAQs/.keep
       - Process Workflows.md
       - Guidance Documents.md
       - Insolvency, Restructuring and Dissolution Act (IRDA).md
