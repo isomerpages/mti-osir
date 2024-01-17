@@ -5,4 +5,55 @@ variant: markdown
 description: ""
 third_nav_title: Frequently Asked Questions
 ---
-<ol data-tight="true" class="tight"><li><p>Is Singapore is closing up to foreign investments?</p><p>Singapore remains open to investments and believes that a fair, open and free trade environment remains an important line of defence in securing our critical needs. Robust review processes will support our economic resilience and national security, and enable businesses and investors to continue to invest with confidence in Singapore.</p><p>SIRA complements existing sectoral regulation, under which majority of the critical entities today are already covered. It will apply only to selected entities not covered by sectoral regulation. Only a handful are expected.</p><p>Our commitment is to keep Singapore an attractive destination for foreign investment, leveraging our extensive trade infrastructure, political stability and transparent regulatory framework.</p><p></p></li><li><p>Will the scope of SIRA be expanded in future?</p><p>We will regularly review the efficacy of our safeguards on critical entities/sectors in Singapore. The Government will closely engage the business community for feedback on SIRA and ensure that Singapore maintains a vibrant, open economy for trade and investments, while safeguarding our critical interests.</p><p></p></li><li><p>What will be the impact of SIRA on Singapore’s economy?</p><p>Singapore remains open to business and collaboration opportunities with our trade and investment partners.</p><p>As SIRA is expected to apply only to a handful of critical entities not already covered by sectoral regulation, the impact on Singapore’s economy is not expected to be significant.</p><p>The Government will continue to closely engage the business community for feedback on SIRA, and ensure that Singapore maintains a vibrant, open economy for trade and investments, while safeguarding our critical interests.</p><p></p></li><li><p>Will my entity be doubly-regulated under SIRA and sectoral legislation? How will SIRA interact with sectoral legislation?</p><p>While sectoral licensees will not themselves be designated entities, they may be subject to provisions under SIRA if they are key shareholders of designated entities. In such cases, all relevant approvals under SIRA will have to be obtained before a particular transaction can proceed.</p></li></ol><p><br></p>
+<ul class="jekyllcodex\_accordion">
+<li><input type="checkbox" id="accordion1">&nbsp;
+
+<label for="accordion1"> Is Singapore is closing up to foreign investments?</label><div>
+
+<p> Singapore remains open to investments and believes that a fair, open and free trade environment remains an important line of defence in securing our critical needs. Robust review processes will support our economic resilience and national security, and enable businesses and investors to continue to invest with confidence in Singapore. </p>
+
+<p>The Bill complements existing sectoral regulation, under which majority of the critical entities today are already covered. The Bill will apply only to selected entities not covered by sectoral regulation. Only a handful are expected. </p>
+
+<p>Our commitment is to keep Singapore an attractive destination for foreign investment, leveraging our extensive trade infrastructure, political stability and transparent regulatory framework.</p>&nbsp;
+
+</div></li>
+
+<li><input type="checkbox" id="accordion2">&nbsp;
+
+<label for="accordion2"> Will the scope of SIRB be expanded in future?</label><div>&nbsp;
+
+<p> We will regularly review the efficacy of our safeguards on critical entities/sectors in Singapore. The Government will closely engage the business community for feedback on SIRB and ensure that Singapore maintains a vibrant, open economy for trade and investments, while safeguarding our critical interests.</p>&nbsp;
+
+</div></li>&nbsp;
+
+<li><input type="checkbox" id="accordion3">&nbsp;
+
+<label for="accordion3"> What will be the impact of SIRB on Singapore’s economy?</label><div>&nbsp;
+
+<p> Singapore remains open to business and collaboration opportunities with our trade and investment partners. </p>&nbsp;
+
+<p> As the Bill is expected to apply only to a handful of critical entities not already covered by sectoral regulation, the impact on Singapore’s economy is not expected to be significant. </p>&nbsp;
+
+<p> The Government will continue to closely engage the business community for feedback on SIRB, and ensure that Singapore maintains a vibrant, open economy for trade and investments, while safeguarding our critical interests.</p>&nbsp;
+
+</div></li>
+
+<li><input type="checkbox" id="accordion4">&nbsp;
+
+<label for="accordion4"> Government’s designation of the Entity has caused the share valuation to drop. I want to be compensated. </label><div>&nbsp;
+
+<p> Government regularly passes legislation which may impact businesses positively or negatively. This is consistent with normal business risk.</p>&nbsp;
+
+</div></li>&nbsp;
+
+<li><input type="checkbox" id="accordion5">&nbsp;
+
+<label for="accordion5"> Will my entity be doubly-regulated under SIRB and sectoral legislation? How will SIRB interact with sectoral legislation? </label><div>&nbsp;
+
+<p> While sectoral licensees will not themselves be designated entities, they may be subject to provisions under SIRB if they are key shareholders of designated entities. In such cases, all relevant approvals under SIRB will have to be obtained before a particular transaction can proceed. </p>&nbsp;
+
+<p> Where a subsidiary of an entity under sectoral legislation is designated under SIRB it may be possible to align any ownership and control provisions under SIRB with those of the sectoral legislation to reduce any regulatory burden on the parent company. </p>&nbsp;
+
+</div></li>&nbsp;
+
+</ul>
