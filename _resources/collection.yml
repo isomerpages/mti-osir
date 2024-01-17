@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - FAQs/FAQs for Designated Entities.md
       - FAQs/Frequently Asked Questions (FAQs).md
       - FAQs/.keep
       - Process Workflows.md
