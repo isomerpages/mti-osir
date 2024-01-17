@@ -4,8 +4,8 @@ permalink: /faqs-for-designated-entities/
 variant: markdown
 description: ""
 ---
-<ul class="jekyllcodex\_accordion">
-	<li><input type="checkbox" id="accordion#">  
+<ul class="jekyllcodex_accordion">
+	<li><input type="checkbox" id="accordion1">  
 <label for="accordion1">Why is my entity designated?</label><div>
 		<p>The legislation seeks to strengthen our economic resilience and national security. It complements existing sectoral regulation, under which majority of the critical entities today are already covered.</p>  
 </div></li>
