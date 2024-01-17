@@ -3,11 +3,11 @@ collections:
     output: true
     order:
       - Guidance Documents.md
-      - FAQs/.keep
-      - FAQs/Frequently Asked Questions (FAQs).md
-      - FAQs/FAQs for Designated Entities.md
-      - FAQs/FAQs for Investors.md
-      - FAQs/FAQs for General Public.md
+      - Frequently Asked Questions/.keep
+      - Frequently Asked Questions/Frequently Asked Questions (FAQs).md
+      - Frequently Asked Questions/FAQs for Designated Entities.md
+      - Frequently Asked Questions/FAQs for Investors.md
+      - Frequently Asked Questions/FAQs for General Public.md
       - Other Legislations/.keep
       - Other Legislations/Insolvency, Restructuring and Dissolution Act
         (IRDA).md
