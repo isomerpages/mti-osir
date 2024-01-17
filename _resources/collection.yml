@@ -2,7 +2,7 @@ collections:
   resources:
     output: true
     order:
-      - Example Title.md
+      - Process Workflows.md
       - Guidance Documents.md
       - Insolvency, Restructuring and Dissolution Act (IRDA).md
       - Other Legislations/Transport.md
