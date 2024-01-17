@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Frequently Asked Questions
 ---
-<ul class="jekyllcodex\_accordion">
+<ul class="jekyllcodex_accordion">
 <li><input type="checkbox" id="accordion1">
 <label for="accordion1"> Is Singapore is closing up to foreign investments?</label><div>
 <p> Singapore remains open to investments and believes that a fair, open and free trade environment remains an important line of defence in securing our critical needs. Robust review processes will support our economic resilience and national security, and enable businesses and investors to continue to invest with confidence in Singapore. </p>
