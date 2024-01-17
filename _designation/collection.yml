@@ -2,5 +2,6 @@ collections:
   designation:
     output: true
     order:
+      - Example Title.md
       - Designation Process.md
       - Designated Entities.md
