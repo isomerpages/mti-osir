@@ -2,5 +2,4 @@ collections:
   faqs:
     output: true
     order:
-      - FAQs for Investors.md
       - FAQs for General Public.md
