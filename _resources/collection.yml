@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - FAQs/Frequently Asked Questions (FAQs).md
       - FAQs/.keep
       - Process Workflows.md
       - Guidance Documents.md
