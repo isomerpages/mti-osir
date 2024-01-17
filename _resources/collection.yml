@@ -2,11 +2,11 @@ collections:
   resources:
     output: true
     order:
-      - FAQs/FAQs for General Public.md
-      - FAQs/FAQs for Investors.md
-      - FAQs/FAQs for Designated Entities.md
-      - FAQs/Frequently Asked Questions (FAQs).md
       - FAQs/.keep
+      - FAQs/Frequently Asked Questions (FAQs).md
+      - FAQs/FAQs for Designated Entities.md
+      - FAQs/FAQs for Investors.md
+      - FAQs/FAQs for General Public.md
       - Process Workflows.md
       - Guidance Documents.md
       - Insolvency, Restructuring and Dissolution Act (IRDA).md
