@@ -2,6 +2,5 @@ collections:
   faqs:
     output: true
     order:
-      - FAQs for Designated Entities.md
       - FAQs for Investors.md
       - FAQs for General Public.md
