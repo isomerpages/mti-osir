@@ -6,6 +6,7 @@ description: ""
 third_nav_title: Frequently Asked Questions
 ---
 <ul class="jekyllcodex\_accordion">
+	
 <li><input type="checkbox" id="accordion1">&nbsp;
 
 <label for="accordion1"> Is Singapore is closing up to foreign investments?</label><div>
