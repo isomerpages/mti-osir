@@ -2,16 +2,15 @@ collections:
   resources:
     output: true
     order:
-      - Reconsiderations and Appeals.md
       - Guidance Documents.md
       - FAQs/.keep
       - FAQs/Frequently Asked Questions (FAQs).md
       - FAQs/FAQs for Designated Entities.md
       - FAQs/FAQs for Investors.md
       - FAQs/FAQs for General Public.md
+      - Other Legislations/.keep
       - Other Legislations/Insolvency, Restructuring and Dissolution Act
         (IRDA).md
-      - Other Legislations/.keep
       - Other Legislations/Transport.md
       - Other Legislations/Information, Communications and Media.md
       - Other Legislations/Security and Emergency Services.md
@@ -19,3 +18,4 @@ collections:
       - Other Legislations/Public Utilities.md
       - Other Legislations/Banking and Finance.md
       - Process Workflows.md
+      - Reconsiderations and Appeals.md
