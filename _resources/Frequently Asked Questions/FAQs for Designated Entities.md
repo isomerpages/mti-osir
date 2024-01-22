@@ -16,7 +16,7 @@ third_nav_title: Frequently Asked Questions
 		<p>Global developments in recent years have reinforced the importance of economic resilience. There is increasing need to screen for malicious actions effected through investments in critical entities.</p>
 </div></li>  
 	<li><input type="checkbox" id="accordion3">  
-<label for="accordion3">What is the designated process?</label><div>
+<label for="accordion3">What is the designation process?</label><div>
 		<p>[Infographic](/files/OSIR_Designation_of_Entity_Infographic_12012024_wl__mc__wl_.pdf)</p> 
 </div></li>
 	<li><input type="checkbox" id="accordion4">  
