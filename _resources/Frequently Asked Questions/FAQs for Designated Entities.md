@@ -25,11 +25,11 @@ third_nav_title: Frequently Asked Questions
 </div></li>
 	<li><input type="checkbox" id="accordion5">  
 <label for="accordion5">How do I seek approval for appointment of key officers?</label><div>
-		![](/images/OSIR_Appointment_of_Key_Officers_17012024_wl___mc_1.png)  
+		<p>![](/images/OSIR_Appointment_of_Key_Officers_17012024_wl___mc_1.png)</p>
 </div></li>
 	<li><input type="checkbox" id="accordion6">  
 <label for="accordion6">How do I appeal against a decision?</label><div>  
-![](/images/OSIR_Reconsideration_and_Appeal_Infographic_15012024_wl___mc__wl_1.png)  
+		<p>![](/images/OSIR_Reconsideration_and_Appeal_Infographic_15012024_wl___mc__wl_1.png)</p>  
 </div></li>  
 	<li><input type="checkbox" id="accordion7">  
 <label for="accordion7">How do I know what are the compliance requirements? Who do I contact if I have questions?</label><div>  
