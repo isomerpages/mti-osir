@@ -21,7 +21,7 @@ third_nav_title: Frequently Asked Questions
 </div></li>
 	<li><input type="checkbox" id="accordion4">  
 <label for="accordion4">What are the Ownership and Control (O&amp;C) obligations for Designated Entities?</label><div>
-		![](/images/MTI_OSIR_Infographic_OC_15012024_wl___mc_1.png)  
+		<p>![Try](/images/MTI_OSIR_Infographic_OC_15012024_wl___mc_1.png)</p>
 </div></li>
 	<li><input type="checkbox" id="accordion5">  
 <label for="accordion5">How do I seek approval for appointment of key officers?</label><div>
