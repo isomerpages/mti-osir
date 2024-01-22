@@ -2,7 +2,6 @@ collections:
   resources:
     output: true
     order:
-      - Process Workflows 2.md
       - Guidance Documents.md
       - Frequently Asked Questions/.keep
       - Frequently Asked Questions/Frequently Asked Questions (FAQs).md
@@ -19,4 +18,5 @@ collections:
       - Other Legislations/Insolvency, Restructuring and Dissolution Act
         (IRDA).md
       - Process Workflows.md
+      - Process Workflows 2.md
       - Reconsiderations and Appeals.md
