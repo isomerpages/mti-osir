@@ -22,12 +22,12 @@ contacts:
     title: General Enquiries & Feedback
   - content:
       - phone: ""
-      - email: contact@osir.gov.sg
+      - email: submissions@osir.gov.sg
       - other: ""
     title: Submissions
   - content:
       - phone: ""
-      - email: alertus@osir.gov.sg
+      - email: confidential@osir.gov.sg
       - other: ""
     title: Raise your concern
 feedback: ""
