@@ -17,7 +17,7 @@ third_nav_title: Frequently Asked Questions
 </div></li>  
 	<li><input type="checkbox" id="accordion3">  
 <label for="accordion3">What is the designated process?</label><div>
-		![](/images/infographic_resized.png) 
+		<p>![](/images/infographic_resized.png)</p> 
 </div></li>
 	<li><input type="checkbox" id="accordion4">  
 <label for="accordion4">What are the Ownership and Control (O&amp;C) obligations for Designated Entities?</label><div>
