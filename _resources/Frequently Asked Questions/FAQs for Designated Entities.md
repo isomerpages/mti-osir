@@ -17,7 +17,7 @@ third_nav_title: Frequently Asked Questions
 </div></li>  
 	<li><input type="checkbox" id="accordion3">  
 <label for="accordion3">What is the designation process?</label><div>
-		<p>[Infographic](/files/OSIR_Designation_of_Entity_Infographic_12012024_wl__mc__wl_.pdf)</p> 
+		<p>[Designation of Entity](/files/OSIR_Designation_of_Entity_Infographic_12012024_wl__mc__wl_.pdf)</p> 
 </div></li>
 	<li><input type="checkbox" id="accordion4">  
 <label for="accordion4">What are the Ownership and Control (O&amp;C) obligations for Designated Entities?</label><div>
