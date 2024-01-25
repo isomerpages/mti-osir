@@ -1,0 +1,22 @@
+collections:
+  resources:
+    output: true
+    order:
+      - Guidance Documents.md
+      - Frequently Asked Questions/.keep
+      - Frequently Asked Questions/Frequently Asked Questions (FAQs).md
+      - Frequently Asked Questions/FAQs for Designated Entities.md
+      - Frequently Asked Questions/FAQs for Investors.md
+      - Frequently Asked Questions/FAQs for General Public.md
+      - Other Legislations/.keep
+      - Other Legislations/Banking and Finance.md
+      - Other Legislations/Healthcare.md
+      - Other Legislations/Information, Communications and Media.md
+      - Other Legislations/Public Utilities.md
+      - Other Legislations/Security and Emergency Services.md
+      - Other Legislations/Transport.md
+      - Other Legislations/Insolvency, Restructuring and Dissolution Act
+        (IRDA).md
+      - Process Workflows.md
+      - Process Workflows 2.md
+      - Reconsiderations and Appeals.md

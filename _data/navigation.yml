@@ -1,0 +1,37 @@
+logo: /images/logo_1.jpg
+links:
+  - title: About OSIR
+    url: /about-osir
+  - title: Overview of SIRA
+    url: /sira
+  - title: Designation
+    url: /designation/designated-entities
+    sublinks:
+      - title: Designated Entities
+        url: /designation/designated-entities/
+      - title: Designation Process
+        url: /designation/designation-process
+  - title: Forms
+    url: /forms
+    sublinks:
+      - title: Notification Forms
+        url: /forms/notification-forms
+      - title: Approval Forms
+        url: /forms/approval-forms
+      - title: Validation Forms
+        url: /forms/validation-forms
+  - title: Resources
+    url: /resources/guidance-documents
+    sublinks:
+      - title: Guidance Documents
+        url: /resources/guidance-documents
+      - title: Frequently Asked Questions
+        url: /resources/faqs
+      - title: Other Legislations
+        url: /resources/other-legislations
+      - title: Process Workflows
+        url: /resources/process-workflows
+      - title: Reconsiderations and Appeals
+        url: /resources/reconsiderations-and-appeals/
+  - title: Contact Us
+    url: /contact-us/

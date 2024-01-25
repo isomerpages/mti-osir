@@ -1,0 +1,8 @@
+collections:
+  forms:
+    output: true
+    order:
+      - Forms.md
+      - Notification Forms.md
+      - Approval Forms.md
+      - Validation Forms.md
