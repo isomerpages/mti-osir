@@ -24,6 +24,8 @@ You can also refer to the Government Gazette <a href="https://www.egazette.com.s
 </ul>
 <p></p>
 <p></p>
-<p>&lt;p&gt;&lt;img src="/images/MTI_A3_Testing"&gt;&lt;/p&gt;</p>
-<p>&lt;/div&gt;&lt;/li&gt;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTI_A3_Testing.jpg">
+</div>
+<p></p>
 <p></p>
