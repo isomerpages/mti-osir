@@ -29,3 +29,7 @@ You can also refer to the Government Gazette <a href="https://www.egazette.com.s
 </div>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OSIR_Approval_for_Ownership_07022024.jpg">
+</div>
+<p></p>
