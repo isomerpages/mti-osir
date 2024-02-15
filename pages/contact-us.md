@@ -29,6 +29,6 @@ contacts:
       - phone: ""
       - email: confidential@osir.gov.sg
       - other: ""
-    title: Raise your concern
+    title: Raise Your Concerns
 feedback: ""
 ---
