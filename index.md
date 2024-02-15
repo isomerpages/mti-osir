@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: About Office of Significant Investments Review
           description: More information on OSIR
-          url: /test
+          url: /about-osir/
         - title: About Significant Investments Review Act
           description: More information on SIRA
           url: /sira
