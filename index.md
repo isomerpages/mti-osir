@@ -20,7 +20,7 @@ sections:
   - infobar:
       title: Designation
       button: List of Designated Entities
-      url: /designated
+      url: /designation/designated-entities/
   - textcards:
       title: Forms
       subtitle: Submissions to OSIR
