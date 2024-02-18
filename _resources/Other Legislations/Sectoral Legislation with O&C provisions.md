@@ -23,7 +23,7 @@ is given that this website or any information or materials are free from
 any virus or other malicious, destructive or corrupting code, agent, program
 or macros.</p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Banking and Finance</div><div class="isomer-card-description">Summary of applicable legislation with ownership or control requirements in the Banking and Finance sector.</div><div class="isomer-card-link">More information</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/sectoral-legislation/banking-and-finance/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Banking and Finance</div><div class="isomer-card-description">Summary of applicable legislation with ownership or control requirements in the Banking and Finance sector.</div><div class="isomer-card-link">More information</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">This is a title for your card</div>
