@@ -12,7 +12,7 @@ links:
       - title: Designation Process
         url: /designation/designation-process
   - title: Forms
-    url: /forms/notification-forms
+    url: /forms
     sublinks:
       - title: Notification Forms
         url: /forms/notification-forms
