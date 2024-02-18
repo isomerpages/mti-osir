@@ -27,4 +27,6 @@ processing.</p>
 We will notify the applicant once the application is processed. We seek
 your understanding that some applications may take longer to process.&nbsp;</p>
 <p>If approved, OSIR will provide more information on the following steps.</p>
-<p>More information on Reconsiderations and Appeals can be found on <a href="/resources/reconsiderations-and-appeals" rel="noopener noreferrer nofollow" target="_blank">this page</a>.</p>
+<p>If you dissatisifed with the outcome of the application, you may submit
+a reconsideration application. More information on Reconsiderations and
+Appeals can be found on <a href="/resources/reconsiderations-and-appeals" rel="noopener noreferrer nofollow" target="_blank">this page</a>.</p>
