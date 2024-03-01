@@ -10,6 +10,17 @@ third_nav_title: Other Legislations
 <label for="accordion1"> Banking and Finance </label><div>
 		<p>
 
+	
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
+		
+			
+			
+			
+			
 | S/N | Summary of applicable legislation with ownership or control requirements| Point of Contact for more information |
 | -------- | -------- | -------- |
 | 1    | **Banking Act 1970**	</p><p></p><p> The Banking Act 1970 provides for the licensing and regulation of the businesses of banks, merchant banks and related institutions, and the credit card and charge card business of banks, merchant banks and other institutions. </p><p></p><p> Approval or notification will be required for substantial shareholders and controllers of banks incorporated in Singapore, merchant banks in Singapore and licensees of credit card and charge business. Approval will also be required for shareholders of merchant banks in Singapore. | Agency in charge: Monetary Authority of Singapore (MAS) </p><p> </p><p> Email address: webmaster@mas.gov.sg </p><p></p><p> Website: https://www.mas.gov.sg |	
