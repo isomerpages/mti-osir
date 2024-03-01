@@ -13,13 +13,13 @@ third_nav_title: Other Legislations
 <table border="1">
 <tbody>
 <tr>
-<td>**S/N** </td>
-<td>**Summary of applicable legislation with ownership or control requirements**</td>
-<td>**Point of Contact for more information**</td>
+<td><p><b> S/N </b></p></td>
+<td><p><b>Summary of applicable legislation with ownership or control requirements</b></p></td>
+<td><p><b>Point of Contact for more information</b></p></td>
 </tr>
 <tr>
 <td>1 </td>
-<td>**Banking Act 1970** <p></p><p> The Banking Act 1970 provides for the licensing and regulation of the businesses of banks, merchant banks and related institutions, and the credit card and charge card business of banks, merchant banks and other institutions. </p><p></p><p> Approval or notification will be required for substantial shareholders and controllers of banks incorporated in Singapore, merchant banks in Singapore and licensees of credit card and charge business. Approval will also be required for shareholders of merchant banks in Singapore.</p></td>
+	<td><p><b>Banking Act 1970</b></p> The Banking Act 1970 provides for the licensing and regulation of the businesses of banks, merchant banks and related institutions, and the credit card and charge card business of banks, merchant banks and other institutions. <p> Approval or notification will be required for substantial shareholders and controllers of banks incorporated in Singapore, merchant banks in Singapore and licensees of credit card and charge business. Approval will also be required for shareholders of merchant banks in Singapore.</p></td>
 <td>Agency in charge: Monetary Authority of Singapore (MAS) <p> </p><p> Email address: webmaster@mas.gov.sg </p><p></p><p> Website: https://www.mas.gov.sg</p></td>
 </tr>
 <tr>
