@@ -5,7 +5,8 @@ variant: markdown
 description: ""
 third_nav_title: Other Legislations
 ---
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Banking and Finance</div><div class="isomer-card-description">Summary of applicable legislation with ownership or control requirements in the Banking and Finance sector.</div><div class="isomer-card-link">More information</div></div></a>
+
+```<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Banking and Finance</div><div class="isomer-card-description">Summary of applicable legislation with ownership or control requirements in the Banking and Finance sector.</div><div class="isomer-card-link">More information</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">This is a title for your card</div>
@@ -42,4 +43,11 @@ or macros.</p>
 </div>
 </div>
 </div>
-<p></p>
+
+<ul class="jekyllcodex_accordion">
+	<li><input type="checkbox" id="accordion1">  
+<label for="accordion1">Why is my entity designated?</label><div>
+		<p>The legislation seeks to strengthen our economic resilience and national security. It complements existing sectoral regulation, under which majority of the critical entities today are already covered.</p>  
+</div></li>
+
+<p></p></ul>
