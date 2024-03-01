@@ -7,7 +7,7 @@ third_nav_title: Other Legislations
 ---
 <ul class="jekyllcodex_accordion">
 	<li><input type="checkbox" id="accordion1">  
-<label for="accordion1">Banking and Finance</label><div>
+<label for="accordion1"> **Banking and Finance** </label><div>
 		<p>
 
 | S/N | Summary of applicable legislation with ownership or control requirements| Point of Contact for more information |
