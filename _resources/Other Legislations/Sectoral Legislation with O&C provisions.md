@@ -20,7 +20,7 @@ While we try to keep the information accurate and up to date, we give no warrant
 <label for="accordion2"> Healthcare </label><div>  
 
 <p>We regularly review the efficacy of our safeguards to protect critical sectors and entities.</p>  
-		<p>Global developments in recent years have reinforced the importance of economic resilience. There is increasing need to screen for malicious actions effected through investments in critical entities.</p></div></li><table style="width: 68%;">
+		<p>Global developments in recent years have reinforced the importance of economic resilience. There is increasing need to screen for malicious actions effected through investments in critical entities.</p></div></li><table style="width: 100%;">
 <tbody>
 <tr>
 <td><p><b> S/N </b></p></td>
