@@ -6,8 +6,8 @@ description: ""
 third_nav_title: Other Legislations
 ---
 <p>SIRA complements existing sectoral legislation by regulating entities which are not adequately covered under sectoral legislation. The following table provides a non-exhaustive overview of sectoral legislation in Singapore that contains ownership and control provisions.</p>
-<p>It is not intended to serve as a comprehensive list of all applicable legislation in Singapore. You may wish to seek independent legal advice or consult professionals who have experience with these obligations.</p>
-<p>While we try to keep the information accurate and up to date, we give no warranty as to the accuracy or currency of the information. No warranty is given that this website or any information or materials are free from any virus or other malicious, destructive or corrupting code, agent, program or macros.</p>
+<p>It is not intended to serve as a comprehensive list of all applicable legislation in Singapore. While we try to keep the information accurate and up to date, we give no warranty as to the accuracy or currency of the information. You may wish to seek independent legal advice or consult professionals who have experience with these obligations.</p>
+
 <ul class="jekyllcodex_accordion">
 <li><input type="checkbox" id="accordion1"> <label for="accordion1"> Banking and Finance </label>
 <div>
