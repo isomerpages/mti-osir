@@ -28,17 +28,24 @@ third_nav_title: Other Legislations
 <td><p><b>Financial Holding Companies Act 2013 </b></p> The Financial Holding Companies Act 2013 regulates financial holding companies. <p> Approval will be required for substantial shareholders and controllers of designated financial companies that are regulated under the Act.</p></td>
 <td>Agency in charge: Monetary Authority of Singapore (MAS) <p> </p><p> Email address: webmaster@mas.gov.sg </p><p></p><p> Website: https://www.mas.gov.sg</p></td>
 </tr>
+	
 <tr>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-</tr>
-<tr>
+<td>3</td>
+<td><p><b>Finance Companies Act 1967</b></p></td>
+<td>Finance Companies Act 1967 is an Act to license and control finance companies. <p> Approval will be required for substantital shareholders and controllers of designated financial companies that are regulated under the Act.</p></td>
+<td>Agency in charge: Monetary Authority of Singapore (MAS) <p> </p><p> Email address: webmaster@mas.gov.sg </p><p></p><p> Website: https://www.mas.gov.sg</p></td>
+
+</tr><tr>
+<td>4</td>
+<td>Securities and Futures Act 2001</td>
+<td>The Securities and Futures Act 2001 regulates activities and institutions in the securities and derivatives industry, financial benchmarks and clearing facilities.<p> Approval will be required for substantial shareholders and controllers of certain financial institutions that are approved, recognised or licensed under the Act.</p></td>
+<td>Agency in charge: Monetary Authority of Singapore (MAS) <p> </p><p> Email address: webmaster@mas.gov.sg </p><p></p><p> Website: https://www.mas.gov.sg</p></td>
+	
+	
+	
+	
+	
+</tr><tr>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
@@ -56,10 +63,7 @@ third_nav_title: Other Legislations
 </tbody>
 </table>
 
-
-| 2   | **Financial Holding Companies Act 2013** <p></p><p> The Financial Holding Companies Act 2013 regulates financial holding companies. </p><p></p><p> Approval will be required for substantital shareholders and controllers of designated financial companies that are regulated under the Act.| Agency in charge: Monetary Authority of Singapore (MAS) </p><p> </p><p> Email address: webmaster@mas.gov.sg </p><p></p><p> Website: https://www.mas.gov.sg |
-| 3   | **Finance Companies Act 1967** </p><p></p><p> Finance Companies Act 1967 is an Act to license and control finance companies. </p><p></p><p> Approval is required for substantial shareholders and controllers of finance companies incorporated in Singapore. | Agency in charge: Monetary Authority of Singapore (MAS) </p><p> </p><p> Email address: webmaster@mas.gov.sg </p><p></p><p> Website: https://www.mas.gov.sg |
-| 4   | **Securities and Futures Act 2001** </p><p></p><p> The Securities and Futures Act 2001 regulates activities and institutions in the securities and derivatives industry, financial benchmarks and clearing facilities. </p><p></p><p> Approval will be required for substantial shareholders and controllers of certain financial institutions that are approved, recognised or licensed under the Act.| Agency in charge: Monetary Authority of Singapore (MAS) </p><p> </p><p> Email address: webmaster@mas.gov.sg </p><p></p><p> Website: https://www.mas.gov.sg |
+| 4   | **Securities and Futures Act 2001** <p></p><p></p><p> The Securities and Futures Act 2001 regulates activities and institutions in the securities and derivatives industry, financial benchmarks and clearing facilities. </p><p></p><p> Approval will be required for substantial shareholders and controllers of certain financial institutions that are approved, recognised or licensed under the Act.| Agency in charge: Monetary Authority of Singapore (MAS) </p><p> </p><p> Email address: webmaster@mas.gov.sg </p><p></p><p> Website: https://www.mas.gov.sg |
 | 5   | **Insurance Act 1966** </p><p></p><p> The Insurance Act 1966 regulates insurance business in Singapore, insurers, insurance intermediaries and related institutions. </p><p></p><p> Approval will be required for substantial shareholders and controllers of licensed insurers incorporated in Singapore and for controllers of registered insurance brokers. | Agency in charge: Monetary Authority of Singapore (MAS) </p><p> </p><p> Email address: webmaster@mas.gov.sg </p><p></p><p> Website: https://www.mas.gov.sg |
 | 6   | **Trust Companies Act 2005** </p><p></p><p> The Trust Companies Act 2005 provides for the licensing and regulation of trust companies. </p><p></p><p> Approval will be required for controllers of a licensed trust company incorporated in Singapore and notification for controllers of a licensed trust company incorporated outside Singapore.| Agency in charge: Monetary Authority of Singapore (MAS) </p><p> </p><p> Email address: webmaster@mas.gov.sg </p><p></p><p> Website: https://www.mas.gov.sg |	
 | 7  | **Financial Advisers Act 2001** </p><p></p><p> The Financial Advisers Act 2001 regulates financial advisers and their representatives and supervisors. </p><p></p><p> Approval will be required for controllers of licensed financial advisers. | Agency in charge: Monetary Authority of Singapore (MAS) </p><p> </p><p> Email address: webmaster@mas.gov.sg </p><p></p><p> Website: https://www.mas.gov.sg |
