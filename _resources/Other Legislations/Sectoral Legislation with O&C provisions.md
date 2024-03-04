@@ -373,6 +373,48 @@ The Healthcare Services Act was enacted in 2020 to replace the Prviate Hospital 
 <p>&nbsp;</p>
 </td>
 </tr>
+<tr>
+<td>2</td>
+<td>
+<p><strong>Civil Aviation Authority of Singapore Act</strong></p>
+<p>The Civil Aviation Authority of Singapore (CAAS) Act provides for the functions, duties, and powers of CAAS, including the licensing of airport operators, and the regulation of airport development and operations.</p>
+<p>The are approval obligations for specified changes in ownership and control of the airport licensee, and for the acquisition as a going concern of the business of an airport licensee (or any part thereof) conducted pursuant to its licence for an airport. The airport licensee must also not appoint key officers without the prior approval of CAAS. Such officers may be removed if they have been appointed without approval. Please contact CAAS for more information.</p>
+</td>
+<td>
+<p>Agency in charge: Civil Aviation Authority of Singapore (CAAS)</p>
+<p>Email address: <a href="mailto:qsm@mpa.gov.sg">qsm@mpa.gov.sg</a>&nbsp;&nbsp;</p>
+<p>Website: <a href="http://www.caas.gov.sg">www.caas.gov.sg</a>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+<p><strong>Rapid Transit System Act</strong></p>
+<p>The Rapid Transit Systems (RTS) Act 1995 provides for the planning, construction, operation and maintenance of rapid transit systems.</p>
+<p>A rail licensee must not appoint, reappoint or remove key officers without the approval of LTA. Such officers may be removed or reinstated if they have been appointed or removed (as the case may be) without approval. There may be other ownership and control provisions in the license conditions for LTA licensees. Please contact LTA for more information.</p>
+</td>
+<td>
+<p>Agency in charge: Land Transport Authority (LTA)</p>
+<p>Email address: <a href="mailto:feedback@lta.gov.sg">feedback@lta.gov.sg</a>&nbsp;&nbsp;&nbsp;</p>
+<p>Website: <a href="http://www.lta.gov.sg">www.lta.gov.sg</a></p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+<p><strong>Bus Services Industry Act</strong></p>
+<p>The Bus Service Industry (BSI) Act 2015 provides for the regulation and provision of public bus services, and the operation of bus intechanges and bus depots.</p>
+<p>A bus licensee must not appoint, reappoint, remove key officers without the approval of LTA. Such officers may be removed or reinstated if they have been appointed or removed (as the case may be) without approval. There may be other ownership and control provisions in the licence conditions for LTA licensees. Please contact LTA for more information.</p>
+</td>
+<td>
+<p>Agency in charge: Land Transport Authority (LTA)</p>
+<p>Email address: <a href="mailto:feedback@lta.gov.sg">feedback@lta.gov.sg</a>&nbsp;&nbsp;&nbsp;</p>
+<p>Website: <a href="http://www.lta.gov.sg">www.lta.gov.sg</a></p>
+<p>&nbsp;</p>
+</td>
+</tr>
 </tbody>
 </table>
 </div>
