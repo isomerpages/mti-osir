@@ -311,4 +311,70 @@ The Healthcare Services Act was enacted in 2020 to replace the Prviate Hospital 
 </table>
 </div>
 </li>
+<li><input type="checkbox" id="accordion4"> <label for="accordion4"> Security and Emergency Services </label>
+<div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<p><strong> S/N </strong></p>
+</td>
+<td>
+<p><strong>Summary of applicable legislation with ownership or control requirements</strong></p>
+</td>
+<td>
+<p><strong>Point of Contact for more information</strong></p>
+</td>
+</tr>
+<tr>
+<td>1</td>
+<td>
+<p><strong>Police Force Act 2004</strong></p>
+<p>The&nbsp;Police Force Act governs the organisation, discipline and related matters of the Singapore Police Force and Auxillary Police Fores (APFs). The Act also regulates the employers of APFs. The Act also regulates the employers of APFs [see Government Gazette of APFs at <strong>(insert link).</strong>&nbsp;</p>
+<p>Prior approval or notification for specified changes in ownership and control, and acquisition as a going concern the business or undertaking of an employer of an APF are imposed on buyers, sellers and the employer. The employer of an APF is also required to seek prior approval for the appointment of any person as its chief executive officer, chairman and directors. Such persons may be removed if they have been appointed without approval or if condtions of approvals are breached.</p>
+</td>
+<td>
+<p>Agency in charge: Ministry of Home Affairs (MHA)</p>
+<p>Email address: <a href="mailto:mha_feedback@mha.gov.sg">mha_feedback@mha.gov.sg</a>&nbsp;</p>
+<p>Website: <a href="http://www.mha.gov.sg">www.mha.gov.sg</a></p>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</li>
+<li><input type="checkbox" id="accordion5"> <label for="accordion5"> Transport </label>
+<div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<p><strong> S/N </strong></p>
+</td>
+<td>
+<p><strong>Summary of applicable legislation with ownership or control requirements</strong></p>
+</td>
+<td>
+<p><strong>Point of Contact for more information</strong></p>
+</td>
+</tr>
+<tr>
+<td>1</td>
+<td>
+<p><strong>Maritime and Port Authority of Singapore Act</strong></p>
+<p>The Maritime and Port Authority of Singapore (MPA) Act provides for the functions, duties and powers of MPA, including the licensing and regulation of marine and port facilities and services.&nbsp;</p>
+<p>There are notification or approval obligations for specified changes in ownership and control of designated entities. There may be other ownership and control provisions in the licence conditions for MPA licensees. Please contact MPA for more information.&nbsp;</p>
+</td>
+<td>
+<p>Agency in charge: Maritime and Port Authority of Singapore (MPA)</p>
+<p>Email address: <a href="mailto:qsm@mpa.gov.sg">qsm@mpa.gov.sg</a>&nbsp;&nbsp;</p>
+<p>Website: <a href="http://www.mpa.gov.sg">www.mpa.gov.sg</a>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</li>
 </ul>
