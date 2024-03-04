@@ -10,6 +10,7 @@ third_nav_title: Other Legislations
 <p>It is not intended to serve as a comprehensive list of all applicable legislation in Singapore. You may wish to seek independent legal advice or consult professionals who have experience with these obligations.
   
 </p><p>While we try to keep the information accurate and up to date, we give no warranty as to the accuracy or currency of the information. No warranty is given that this website or any information or materials are free from any virus or other malicious, destructive or corrupting code, agent, program or macros.</p>
+
 <ul class="jekyllcodex_accordion">
 <li><input type="checkbox" id="accordion1"> <label for="accordion1"> Banking and Finance </label>
 <div>
@@ -165,4 +166,8 @@ The Credit Bureau Act 2016 provides for the regulation of certain credit bureaus
 </table>
 </div>
 </li>
+	
+	
+	
+	
 </ul>
