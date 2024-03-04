@@ -10,14 +10,7 @@ third_nav_title: Other Legislations
 <li><input type="checkbox" id="accordion1">  
 <label for="accordion1"> Banking and Finance </label><div>
 	
-
-
-
-| 5   | **Insurance Act 1966** <p></p><p></p><p> The Insurance Act 1966 regulates insurance business in Singapore, insurers, insurance intermediaries and related institutions. </p><p></p><p> Approval will be required for substantial shareholders and controllers of licensed insurers incorporated in Singapore and for controllers of registered insurance brokers. | Agency in charge: Monetary Authority of Singapore (MAS) </p><p> </p><p> Email address: webmaster@mas.gov.sg </p><p></p><p> Website: https://www.mas.gov.sg |
-| 6   | **Trust Companies Act 2005** </p><p></p><p> The Trust Companies Act 2005 provides for the licensing and regulation of trust companies. </p><p></p><p> Approval will be required for controllers of a licensed trust company incorporated in Singapore and notification for controllers of a licensed trust company incorporated outside Singapore.| Agency in charge: Monetary Authority of Singapore (MAS) </p><p> </p><p> Email address: webmaster@mas.gov.sg </p><p></p><p> Website: https://www.mas.gov.sg |	
-| 7  | **Financial Advisers Act 2001** </p><p></p><p> The Financial Advisers Act 2001 regulates financial advisers and their representatives and supervisors. </p><p></p><p> Approval will be required for controllers of licensed financial advisers. | Agency in charge: Monetary Authority of Singapore (MAS) </p><p> </p><p> Email address: webmaster@mas.gov.sg </p><p></p><p> Website: https://www.mas.gov.sg |
-| 8   | **Payment Services Act 2019** </p><p></p><p> Payment Services Act 2019 provides for the licensing and regulation of payment service providers and the oversight of payment systems. </p><p></p><p> Approval will be required for controllers of licensees and operators of designated payment systems. Approval will also be required for any agreement or arrangement to act together with any person with respect to their interests in voting shares in an operator of a designated payment system. | Agency in charge: Monetary Authority of Singapore (MAS) </p><p> </p><p> Email address: webmaster@mas.gov.sg </p><p></p><p> Website: https://www.mas.gov.sg |
-| 8   | **Credit Bureau Act 2016** </p><p></p><p> The Credit Bureau Act 2016 provides for the regulation of certain credit bureaus, the credit reporting business, and certain members of these credit bureaus to whom the credit bureaus provide customer information, and for matters connected with any of these. </p><p></p><p> Approval will be required for substantial shareholders and controllers of licensed credit bureaus. Approval will also be required for any agreement or arrangement to act together with any person with respect to their interests in voting shares in a licensed credit bureau. | Agency in charge: Monetary Authority of Singapore (MAS) </p><p> </p><p> Email address: webmaster@mas.gov.sg </p><p></p><p> Website: https://www.mas.gov.sg | </p><li><input type="checkbox" id="accordion2">  
+<li><input type="checkbox" id="accordion2">  
 <label for="accordion2"> Healthcare </label><div>  
 
 <p>We regularly review the efficacy of our safeguards to protect critical sectors and entities.</p>  
@@ -57,11 +50,38 @@ third_nav_title: Other Legislations
 <tr>
 <td>5</td>
 <td>Insurance Act 1966</td>
-<td>The Insurance Act 1966 regulates insurance business in Singapore, insurers, insurance intermediaries and related institutions.<p> Approval will be required for substantial shareholders and controllers of licensed insurers incorporated in Singapore and for controllers of registered insurance brokers.</p></td>
+<td>The Trust Companies Act 2005 provides for the licensing and regulation of trust companies.<p> Approval will be required for substantial shareholders and controllers of licensed insurers incorporated in Singapore and for controllers of registered insurance brokers.</p></td>
 <td>Agency in charge: Monetary Authority of Singapore (MAS) <p> </p><p> Email address: webmaster@mas.gov.sg </p><p></p><p> Website: https://www.mas.gov.sg</p></td>
 </tr>
 
-	
+<tr>
+<td>6</td>
+<td>Trust Companies Act 2005</td>
+<td>The Trust Companies Act 2005 provides for the licensing and regulation of trust companies. <p> Approval will be required for controllers of a licensed trust company incorporated in Singapore and notification for controllers of a licensed trust company incorporated outside Singapore.</p></td>
+<td>Agency in charge: Monetary Authority of Singapore (MAS) <p> </p><p> Email address: webmaster@mas.gov.sg </p><p></p><p> Website: https://www.mas.gov.sg</p></td>
+</tr>	
+
+<tr>
+<td>7</td>
+<td>Financial Advisers Act 2001</td>
+<td>The Financial Advisers Act 2001 regulates financial advisers and their representatives and supervisors. <p> Approval will be required for controllers of licensed financial advisers.</p></td>
+<td>Agency in charge: Monetary Authority of Singapore (MAS) <p> </p><p> Email address: webmaster@mas.gov.sg </p><p></p><p> Website: https://www.mas.gov.sg</p></td>
+</tr>	
+
+<tr>
+<td>8</td>
+<td>Payment Services Act 2019</td>
+<td>Payment Services Act 2019 provides for the licensing and regulation of payment service providers and the oversight of payment systems.<p> Approval will be required for controllers of licensees and operators of designated payment systems. Approval will also be required for any agreement or arrangement to act together with any person with respect to their interests in voting shares in an operator of a designated payment system.</p></td>
+<td>Agency in charge: Monetary Authority of Singapore (MAS) <p> </p><p> Email address: webmaster@mas.gov.sg </p><p></p><p> Website: https://www.mas.gov.sg</p></td>
+</tr>	
+
+<tr>
+<td>9</td>
+<td>Credit Bureau Act 2016</td>
+<td>The Credit Bureau Act 2016 provides for the regulation of certain credit bureaus, the credit reporting business, and certain members of these credit bureaus to whom the credit bureaus provide customer information, and for matters connected with any of these. <p> Approval will be required for substantial shareholders and controllers of licensed credit bureaus. Approval will also be required for any agreement or arrangement to act together with any person with respect to their interests in voting shares in a licensed credit bureau.</p></td>
+<td>Agency in charge: Monetary Authority of Singapore (MAS) <p> </p><p> Email address: webmaster@mas.gov.sg </p><p></p><p> Website: https://www.mas.gov.sg</p></td>
+</tr>	
+
 
 
 	
