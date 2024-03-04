@@ -14,7 +14,7 @@ third_nav_title: Other Legislations
 <label for="accordion2"> Healthcare </label><div>  
 
 <p>We regularly review the efficacy of our safeguards to protect critical sectors and entities.</p>  
-		<p>Global developments in recent years have reinforced the importance of economic resilience. There is increasing need to screen for malicious actions effected through investments in critical entities.</p></div></li><table>
+		<p>Global developments in recent years have reinforced the importance of economic resilience. There is increasing need to screen for malicious actions effected through investments in critical entities.</p></div></li><table style="width: 68%;">
 <tbody>
 <tr>
 <td><p><b> S/N </b></p></td>
