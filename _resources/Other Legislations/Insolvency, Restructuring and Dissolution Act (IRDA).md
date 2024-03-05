@@ -9,7 +9,7 @@ third_nav_title: Other Legislations
 <p>The Insolvency, Restructuring and Dissolution Act 2018 ("IRDA") is an
 omnibus Act that covers corporate and personal insolvency and debt restructuring
 laws.</p>
-<p>Under Section 126(1)(n), the Court may order the winding up of the company
+<p>Under Section 125(1)(n), the Court may order the winding up of the company
 if the company "is being used for an unlawful purpose or for purposes prejudicial
 to public peace, welfare or good order in Singapore or against national
 security or interest".</p>
