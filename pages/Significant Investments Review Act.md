@@ -37,8 +37,9 @@ regime (“designated entities”) and will be regulated. The designated entitie
 are published in the Government Gazette. You can search the Government
 Gazette <a href="https://www.egazette.com.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 A list of the entities designated under SIRA can also be found <a href="https://osir.gov.sg/designated/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p>A quick overview of SIRA provisions can be found here (<strong>INSERT INFOGRAPHICS).</strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ownership_and_control_obligations.jpg">
+</div>
 <hr>
 <h4><strong>Provisions on Designated Entities</strong></h4>
 <p>Designated entities will have the following ownership and control requirements:</p>
