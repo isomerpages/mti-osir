@@ -15,7 +15,7 @@ covered under these legislation.</p>
 <p>Click to access the following via Singapore Statutes Online:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="https://sso.agc.gov.sg/Act/POFMA2019?TransactionDate=20191001235959" rel="noopener noreferrer nofollow" target="_blank">SIRA</a>
+<p><a href="https://www.parliament.gov.sg/docs/default-source/default-document-library/significant-investments-review-bill-38-2023.pdf" rel="noopener noreferrer nofollow" target="_blank">SIRA</a>
 </p>
 </li>
 <li>
