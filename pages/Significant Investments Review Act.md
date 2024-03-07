@@ -5,40 +5,21 @@ variant: tiptap
 description: Description of the Significant Investments Review Act
 ---
 <h4><strong>What is the Significant Investments Review Act?</strong></h4>
+<p>As an open economy, we can be vulnerable to actors that may seek to undermine
+our national security interests through ownership and control of critical
+business entities. For Singapore to remain open and attract new investments,
+it is important to have adequate and effective investment management measures
+to safeguard our national security, and to ensure our economy remains resilient.&nbsp;</p>
 <p>The Significant Investments Review Act (SIRA) is an Act that protects
 the national security interests of Singapore by regulating significant
-investments in, and control of, critical entities.</p>
-<p>For Singapore to remain open and attract new investments,</p>
-<p>It is therefore important to have adequate and effective investment management
-measures to safeguard our national security, and to ensure our economy
-remails resilient.</p>
-<p>This will provide businesses and investors with continued confidence in
-Singapore as a stable, trusted, and well-connected global business and
-investment hub.</p>
-<p></p>
-<p>e must remain open and continue to attract new investments, so as to grow
-our economy and create good opportunities for our businesses and our people.</p>
-<p>&nbsp;Doing so will give our investors and businesses added confidence
-in our economy and our ability to respond to emerging challenges.</p>
-<p>&nbsp;</p>
-<p>8. Indeed, as an open economy, we can be vulnerable to actors that may
-seek to undermine our national security interests through ownership and
-control of critical business entities.&nbsp;</p>
-<p>5. However, we also recognise that the world has become increasingly complex,
-and the economic environment more uncertain and challenging, creating new
-risks and vulnerabilities.&nbsp;</p>
-<p>&nbsp;</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p>6. We must constantly review and update our regulatory regime, to keep
-pace with the changes in the global economic landscape and to strengthen
-the resilience of our economy in the face of new threats.&nbsp;</p>
-<p>The Act sets out an investment management regime, which applies to both
-local and foreign investors, thereby providing a level playing field for
-all investors. SIRA complements existing sectoral legislation by regulating
-entities which are not adequately covered under these legislation.</p>
+investments in, and control of, critical entities. The Act sets out an
+investment management regime, which applies to both local and foreign investors,
+thereby providing a level playing field for all investors. SIRA complements
+existing sectoral legislation by regulating entities which are not adequately
+covered under these legislation.</p>
+<p>This will provide businesses and investors with added confidence in Singapore
+as a stable, trusted, and well-connected global business and investment
+hub.</p>
 <p>Click to access the following via Singapore Statutes Online:</p>
 <ol data-tight="true" class="tight">
 <li>
