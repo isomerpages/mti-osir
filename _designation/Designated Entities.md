@@ -5,10 +5,7 @@ variant: tiptap
 description: List of Designated Entities
 ---
 <h3><strong>List of designated entities</strong></h3>
-<p>Only entities that are critical to Singapore's national security interests
-will be designated under SIRA ("designated entities") and will be regulated.
-The designated entities are published in the Government Gazette. You can
-search the Government Gazette <a href="https://www.egazette.com.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>The designated entities are also published in the <strong><u>Government Gazette (link)</u></strong>.</p>
 <table>
 <tbody>
 <tr>
