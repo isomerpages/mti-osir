@@ -4,4 +4,39 @@ permalink: /about-osir/
 variant: tiptap
 description: Description of Office of Significant Investments Review (OSIR)
 ---
-<p></p><div class="isomer-image-wrapper"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/logo_1.jpg"></div><h4>The Office of Significant Investments Review (OSIR), situated within the Ministry of Trade and Industry (MTI), is a dedicated one-stop touchpoint for stakeholders.</h4><hr><h4><strong>About MTI</strong></h4><h4>Our Vision&nbsp;</h4><p>Our vision is for Singapore to be a leading global city with a dynamic economy, world-class and innovative enterprises, a conducive environment for entrepreneurs and enterprises to tap its diverse opportunities and good jobs for all Singaporeans.</p><h4>Our Mission</h4><p>To promote economic growth and create good jobs, to enable Singaporeans to improve their lives. Together with our statutory boards, we will ensure that Singapore’s economy continues to be competitive, is able to attract investments, and nurture a deeper base of global Singapore enterprises.</p><hr><h4><strong>About OSIR's Functions</strong></h4><p>OSIR supports the Minister for Trade and Industry in the administration of the Act:</p><ul data-tight="true" class="tight"><li><p>Issues directions and notices upon the instruction of Ministers;</p></li><li><p>Monitors and enforces compliance with the directions and notices.</p></li></ul><h4></h4><p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/logo_1.jpg">
+</div>
+<h3>About OSIR</h3>
+<p>The Office of Significant Investments Review (OSIR), situated within the
+Ministry of Trade and Industry (MTI), is responsible for the administration
+of the Significant Investments Review Act (SIRA). OSIR serves as a dedicated
+one-stop touchpoint for stakeholders.</p>
+<h3>About OSIR's Functions</h3>
+<p>OSIR supports the Minister for Trade and Industry in the administration
+of the Act:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Issues directions and notices upon the instruction of Ministers;</p>
+</li>
+<li>
+<p>Monitors and enforces compliance with the directions and notices.</p>
+</li>
+</ul>
+<hr>
+<h3>About MTI</h3>
+<p><strong>Our Vision&nbsp;</strong>
+</p>
+<p>Our vision is for Singapore to be a leading global city with a dynamic
+economy, world-class and innovative enterprises, a conducive environment
+for entrepreneurs and enterprises to tap its diverse opportunities and
+good jobs for all Singaporeans.</p>
+<p><strong>Our Mission</strong>
+</p>
+<p>To promote economic growth and create good jobs, to enable Singaporeans
+to improve their lives. Together with our statutory boards, we will ensure
+that Singapore’s economy continues to be competitive, is able to attract
+investments, and nurture a deeper base of global Singapore enterprises.</p>
+<hr>
+<h4></h4>
+<p></p>
