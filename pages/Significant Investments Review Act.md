@@ -4,14 +4,14 @@ permalink: /sira/
 variant: tiptap
 description: Description of the Significant Investments Review Act
 ---
-<h3><strong>What is the Significant Investments Review Act?</strong></h3>
-<p>The Significant Investments Review Act (SIRA) is an Act to protect the
-national security interests of Singapore by regulating significant investments
-in, and control of, critical entities. The Act sets out an investment management
-regime, which applies to both local and foreign investors, thereby providing
-a level playing field for all investors. SIRA complements existing sectoral
-legislation by regulating entities which are not adequately covered under
-these legislation.</p>
+<h4><strong>What is the Significant Investments Review Act?</strong></h4>
+<p>The Significant Investments Review Act (SIRA) is an Act that protects
+the national security interests of Singapore by regulating significant
+investments in, and control of, critical entities. The Act sets out an
+investment management regime, which applies to both local and foreign investors,
+thereby providing a level playing field for all investors. SIRA complements
+existing sectoral legislation by regulating entities which are not adequately
+covered under these legislation.</p>
 <p>Click to access the following via Singapore Statutes Online:</p>
 <ol data-tight="true" class="tight">
 <li>
