@@ -4,7 +4,7 @@ permalink: /designation/designation-process/
 variant: tiptap
 description: Designation Process
 ---
-<h3>Designation Process</h3>
+<h3><strong>Designation Process</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Entity considered for designation under SIRA will be formally notified
@@ -27,7 +27,8 @@ in the Government Gazette.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Designation_of_Entity.jpg">
 </div>
-<h3>Cancellation of Designation</h3>
+<hr>
+<h3><strong>Cancellation of Designation</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>MTI will regularly review the list of designated entities, and these entities
