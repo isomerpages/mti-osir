@@ -4,9 +4,7 @@ permalink: /designation/designation-process/
 variant: tiptap
 description: Designation Process
 ---
-<h3><strong>Designation Process</strong></h3>
-<p>An overview of the designation process may be found here <strong>(insert infographics/link).</strong>
-</p>
+<h4><strong>Designation Process</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Entity considered for designation will be issued with a <u>Notice of Intention to Designate</u>.
