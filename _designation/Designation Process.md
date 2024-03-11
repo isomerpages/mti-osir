@@ -4,7 +4,7 @@ permalink: /designation/designation-process/
 variant: tiptap
 description: Designation Process
 ---
-<h3><strong>Designation Process</strong></h3>
+<h4><strong>Designation Process</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Entity considered for designation under SIRA will be formally notified
