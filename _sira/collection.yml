@@ -2,5 +2,6 @@ collections:
   sira:
     output: true
     order:
+      - SIRA/Significant Investments Review Act.md
       - SIRA/Ownership and Control Obligations.md
       - SIRA/.keep
