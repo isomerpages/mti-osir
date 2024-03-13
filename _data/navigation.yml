@@ -3,7 +3,7 @@ links:
   - title: About OSIR
     url: /about-osir
   - title: Overview of SIRA
-    url: /overview-of-sira/sira/
+    collection: overview-of-sira
   - title: Designation
     url: /designation/designated-entities
     sublinks:
