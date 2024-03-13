@@ -16,7 +16,7 @@ sections:
           url: /about-osir/
         - title: About Significant Investments Review Act
           description: More information on SIRA
-          url: /sira
+          url: /overview-of-sira/sira/
   - infobar:
       title: Designation
       button: List of Designated Entities
