@@ -28,7 +28,7 @@ in the Government Gazette.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Designation_of_Entity.jpg">
 </div>
 <hr>
-<h3><strong>Cancellation of Designation</strong></h3>
+<h4><strong>Cancellation of Designation</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>MTI will regularly review the list of designated entities, and these entities
