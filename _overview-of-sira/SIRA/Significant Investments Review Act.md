@@ -5,7 +5,7 @@ variant: tiptap
 description: Description of the Significant Investments Review Act
 third_nav_title: SIRA
 ---
-<h3>What is the Significant Investments Review Act?</h3>
+<h4><strong>What is the Significant Investments Review Act?</strong></h4>
 <p>As an open economy, Singapore can be vulnerable to actors that may seek
 to undermine our national security interests through ownership and control
 of critical business entities. It is therefore important to have adequate
