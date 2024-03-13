@@ -2,5 +2,5 @@ collections:
   sira:
     output: true
     order:
-      - Ownership and Control Obligations.md
       - Significant Investments Review Act.md
+      - Ownership and Control Obligations.md
