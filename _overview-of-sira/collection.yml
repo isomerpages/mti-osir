@@ -2,6 +2,7 @@ collections:
   overview-of-sira:
     output: true
     order:
+      - Significant Investments Review Act.md
       - Ownership and Control Obligations.md
       - Reconsiderations and Appeals.md
       - SIRA/.keep
