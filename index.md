@@ -38,6 +38,10 @@ sections:
           description: Find out how to submit validation forms
           linktext: Learn more
           url: /validation-forms/
+        - title: Reconsideration Forms
+          description: Find out how to submit reconsideration forms
+          linktext: Learn more
+          url: /reconsideration-forms/
   - textcards:
       title: Resources
       subtitle: Supplementary Information
