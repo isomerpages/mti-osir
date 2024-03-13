@@ -4,7 +4,7 @@ permalink: /designation/designated-entities/
 variant: tiptap
 description: List of Designated Entities
 ---
-<h3><strong>List of designated entities</strong></h3>
+<h4><strong>List of designated entities</strong></h4>
 <p>The designated entities are also published in the <strong><u>Government Gazette (link)</u></strong>.</p>
 <table>
 <tbody>
