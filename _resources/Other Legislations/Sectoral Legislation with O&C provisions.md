@@ -262,7 +262,7 @@ The Healthcare Services Act was enacted in 2020 to replace the Prviate Hospital 
 </table>
 </div>
 </li>
-<li><input type="checkbox" id="accordion4"> <label for="accordion3"> Public Utilities</label>
+<li><input type="checkbox" id="accordion4"> <label for="accordion4"> Public Utilities</label>
 <div>
 <table style="width: 100%;">
 <tbody>
@@ -310,7 +310,7 @@ The Healthcare Services Act was enacted in 2020 to replace the Prviate Hospital 
 </table>
 </div>
 </li>
-<li><input type="checkbox" id="accordion4"> <label for="accordion4"> Security and Emergency Services </label>
+<li><input type="checkbox" id="accordion5"> <label for="accordion5"> Security and Emergency Services </label>
 <div>
 <table style="width: 100%;">
 <tbody>
@@ -343,7 +343,7 @@ The Healthcare Services Act was enacted in 2020 to replace the Prviate Hospital 
 </table>
 </div>
 </li>
-<li><input type="checkbox" id="accordion5"> <label for="accordion5"> Transport </label>
+<li><input type="checkbox" id="accordion6"> <label for="accordion6"> Transport </label>
 <div>
 <table style="width: 100%;">
 <tbody>
