@@ -32,7 +32,7 @@ Under SIRA, parties that wish to acquire any part of the business or undertaking
 <li><input type="checkbox" id="accordion4">  
 <label for="accordion4">Appointment of key officers in a designated entity</label>
 <div><p>
-Under SIRA, designated entity that wishes to appoint key officers is to seek approval from the Minister. </p>
+Under SIRA, designated entities are required to seek approval for the appointment of key officers such as the chief executive officer, directors, and the chairperson of the board. Such officers may be removed if they have been appointed without approval or if conditions of approval are breached. The Minister may also remove key officers in the interest of national security.</p>
 <img width="400" alt="" src="/images/Appt_of_Key_Officers.jpg">
 </div></li>  
 	
