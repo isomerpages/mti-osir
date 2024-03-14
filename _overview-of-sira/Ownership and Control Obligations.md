@@ -11,8 +11,7 @@ description: ""
 <label for="accordion1"> Acquiring equity interest or voting power in a designated entity </label>
 <div><p>
 Under SIRA, potential investors that wish to acquire equity interest or voting power in a designated entity are subjected to notification or approval obligations if their transactions cross specified thresholds. </p>
-
-![](/images/Acquiring_Interest.jpg)
+<img width="400" alt="" src="/images/Acquiring_Interest.jpg">
 <p></p>  
 </div></li>
 	
