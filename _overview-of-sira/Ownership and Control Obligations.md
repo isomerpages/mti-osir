@@ -24,7 +24,9 @@ Ownership and control thresholds may be varied on an entity-by-entity basis. If 
 <li><input type="checkbox" id="accordion2">  
 <label for="accordion2">Disposal of equity interest or voting power in a designated entity</label>
 <div><p>
-Under SIRA, existing investors that wish to acquire equity interest or voting power in a designated entity are subjected to notification or approval obligations if their transactions cross specified thresholds. </p>
+Under SIRA, existing investors that wish to acquire equity interest or voting power in a designated entity are subjected to notification or approval obligations if their transactions cross specified thresholds.
+
+Ownership and control thresholds may be varied on an entity-by-entity basis. If applicable, they will be prescribed in subsidiary legislation.</p>
 </div></li>  
 
 <li><input type="checkbox" id="accordion3">  
