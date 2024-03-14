@@ -30,7 +30,7 @@ Ownership and control thresholds may be varied on an entity-by-entity basis. If 
 </div></li>  
 
 <li><input type="checkbox" id="accordion3">  
-<label for="accordion3">Acquisition of, any part of the business or undertaking, as a going concern of a designated entity</label>
+<label for="accordion3">Acquisition of any part of the business or undertaking, as a going concern, of a designated entity</label>
 <div><p>
 Under SIRA, parties that wish to acquire any part of the business or undertaking, as a going concern of a designated entity are to seek approval from the Minister.</p>
 <img width="400" alt="" src="/images/Acquisition.jpg">
