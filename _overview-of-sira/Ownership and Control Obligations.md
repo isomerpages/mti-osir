@@ -4,7 +4,8 @@ permalink: /overview-of-sira/ownershipandcontrolobligations/
 variant: markdown
 description: ""
 ---
-<p><big> Buyers, sellers and designated entities are responsible for notifying or seeking approval for specified changes in ownership and control of designated entities. </big></p>
+<p><big> Buyers, sellers, indirect controllers and designated entities are responsible for notifying or seeking approval for specified changes in ownership and control of designated entities. </big></p>
+<img width="400" alt="" src="/images/ownership_and_control_obligations.jpg">
 
 <ul class="jekyllcodex_accordion">
 <li><input type="checkbox" id="accordion1"> 
@@ -18,8 +19,7 @@ Under SIRA, potential investors that wish to acquire equity interest or voting p
 <li><input type="checkbox" id="accordion2">  
 <label for="accordion2">Disposal of equity interest or voting power in a designated entity</label>
 <div><p>
-We regularly review the efficacy of our safeguards to protect critical sectors and entities.</p>  
-<p>Global developments in recent years have reinforced the importance of economic resilience. There is increasing need to screen for malicious actions effected through investments in critical entities.</p>
+Under SIRA, existing investors that wish to acquire equity interest or voting power in a designated entity are subjected to notification or approval obligations if their transactions cross specified thresholds. </p>
 </div></li>  
 
 <li><input type="checkbox" id="accordion3">  
