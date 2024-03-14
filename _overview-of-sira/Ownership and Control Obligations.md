@@ -9,11 +9,10 @@ description: ""
 <ul class="jekyllcodex_accordion">
 <li><input type="checkbox" id="accordion1"> <label for="accordion1"> Acquiring equity interest or voting power in a designated entity </label>
 <div><p>
-Under SIRA, investors that wishes to acquire equity interest or voting power in a designated entity are subjected to notification or approval obligations if their transactions 
-	
-![](/images/Acquiring_Interest.jpg)
+Under SIRA, potential investors that wish to acquire equity interest or voting power in a designated entity are subjected to notification or approval obligations if their transactions cross specified thresholds. </p>
 
-</p>  
+![](/images/Acquiring_Interest.jpg)
+<p></p>  
 </div></li>
 	
 <li><input type="checkbox" id="accordion2">  
