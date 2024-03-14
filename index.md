@@ -60,10 +60,6 @@ sections:
           description: ""
           linktext: Learn more
           url: /resources/other-legislations/
-        - title: Reconsiderations and Appeals
-          description: ""
-          linktext: Learn more
-          url: /resources/reconsiderations-and-appeals/
   - resources:
       title: Latest Commission's Updates
       subtitle: Be Updated
