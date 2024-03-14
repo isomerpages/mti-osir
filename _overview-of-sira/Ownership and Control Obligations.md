@@ -28,7 +28,13 @@ Under SIRA, existing investors that wish to acquire equity interest or voting po
 Under SIRA, parties that wish to acquire any part of the business or undertaking, as a going concern of a designated entity are to seek approval from the Minister.</p>
 <img width="400" alt="" src="/images/Acquisition.jpg">
 </div></li>  
-	
+
+<li><input type="checkbox" id="accordion4">  
+<label for="accordion4">Appointment of key officers in a designated entity</label>
+<div><p>
+Under SIRA, designated entity that wishes to appoint key officers is to seek approval from the Minister. </p>
+<img width="400" alt="" src="/images/Appt_of_Key_Officers.jpg">
+</div></li>  
 	
 	
 	
