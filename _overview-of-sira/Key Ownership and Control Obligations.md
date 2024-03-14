@@ -18,7 +18,6 @@ Under SIRA, potential investors that wish to acquire equity interest or voting p
 
 Ownership and control thresholds may be varied on an entity-by-entity basis. If applicable, they will be prescribed in subsidiary legislation. </p>
 <img width="400" alt="" src="/images/Acquiring_Interest.jpg">
-<p></p>  
 </div></li>
 	
 <li><input type="checkbox" id="accordion2">  
@@ -27,6 +26,7 @@ Ownership and control thresholds may be varied on an entity-by-entity basis. If 
 Under SIRA, existing investors that wish to acquire equity interest or voting power in a designated entity are subjected to notification or approval obligations if their transactions cross specified thresholds.
 
 Ownership and control thresholds may be varied on an entity-by-entity basis. If applicable, they will be prescribed in subsidiary legislation.</p>
+<img width="400" alt="" src="/images/Disposal_of_Interest.jpg">
 </div></li>  
 
 <li><input type="checkbox" id="accordion3">  
