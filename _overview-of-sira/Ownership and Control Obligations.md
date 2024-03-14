@@ -4,14 +4,26 @@ permalink: /overview-of-sira/ownershipandcontrolobligations/
 variant: markdown
 description: ""
 ---
-#### **Key Ownership and Control Provisions of SIRA**
+<p><big> Buyers, sellers and designated entities are responsible for notifying or seeking approval for specified changes in ownership and control of designated entities. </big></p>
 
-Under SIRA, entities which are incorporated, formed, or established in Singapore; carry ou t activities in Singapore; or provide goods and services to persons in Singapore can be designated. Only entities that are critical to Singapore’s national security interests will be designated under this regime (“designated entities”) and will be regulated. The designated entities are published in the Government Gazette. You can search the Government Gazette [here](https://www.egazette.com.sg/). A list of the entities designated under SIRA can also be found [here](https://osir.gov.sg/designated/).
+<ul class="jekyllcodex_accordion">
+<li><input type="checkbox" id="accordion1"> <label for="accordion1"> Acquiring equity interest or voting power in a designated entity </label>
+<div><p>
+The legislation seeks to strengthen our economic resilience and national security. It complements existing sectoral regulation, under which majority of the critical entities today are already covered.</p>  
+</div></li>
 
-![](/images/ownership_and_control_obligations.jpg)
-
-* * *
-
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
 #### **Provisions on Designated Entities**
 
 Designated entities will have the following ownership and control requirements:
@@ -37,4 +49,4 @@ SIRA is designed to be business-friendly and sets out clear processes for partie
 
 #### **Provisions that apply to any entity that has acted against national security interests**
 
-Entities which have acted against Singapore’s national security interests may also have their transactions reviewed under certain circumstances, even if they have not been designated.
+Entities which have acted against Singapore’s national security interests may also have their transactions reviewed under certain circumstances, even if they have not been designated.</ul>
