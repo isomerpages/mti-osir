@@ -25,8 +25,8 @@ Under SIRA, existing investors that wish to acquire equity interest or voting po
 <li><input type="checkbox" id="accordion3">  
 <label for="accordion3">Acquisition of, any part of the business or undertaking, as a going concern of a designated entity</label>
 <div><p>
-We regularly review the efficacy of our safeguards to protect critical sectors and entities.</p>  
-<p>Global developments in recent years have reinforced the importance of economic resilience. There is increasing need to screen for malicious actions effected through investments in critical entities.</p>
+Under SIRA, parties that wish to acquire any part of the business or undertaking, as a going concern of a designated entity are to seek approval from the Minister.</p>
+<img width="400" alt="" src="/images/Acquisition.jpg">
 </div></li>  
 	
 	
