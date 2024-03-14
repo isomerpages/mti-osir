@@ -7,7 +7,8 @@ description: ""
 <p><big> Buyers, sellers and designated entities are responsible for notifying or seeking approval for specified changes in ownership and control of designated entities. </big></p>
 
 <ul class="jekyllcodex_accordion">
-<li><input type="checkbox" id="accordion1"> <label for="accordion1"> Acquiring equity interest or voting power in a designated entity </label>
+<li><input type="checkbox" id="accordion1"> 
+<label for="accordion1"> Acquiring equity interest or voting power in a designated entity </label>
 <div><p>
 Under SIRA, potential investors that wish to acquire equity interest or voting power in a designated entity are subjected to notification or approval obligations if their transactions cross specified thresholds. </p>
 
@@ -16,11 +17,18 @@ Under SIRA, potential investors that wish to acquire equity interest or voting p
 </div></li>
 	
 <li><input type="checkbox" id="accordion2">  
-<label for="accordion2">Why is there a need to designate my entity?</label><div>  
-<p>We regularly review the efficacy of our safeguards to protect critical sectors and entities.</p>  
+<label for="accordion2">Disposal of equity interest or voting power in a designated entity</label>
+<div><p>
+We regularly review the efficacy of our safeguards to protect critical sectors and entities.</p>  
 <p>Global developments in recent years have reinforced the importance of economic resilience. There is increasing need to screen for malicious actions effected through investments in critical entities.</p>
 </div></li>  
-	
+
+<li><input type="checkbox" id="accordion3">  
+<label for="accordion3">Acquisition of, any part of the business or undertaking, as a going concern of a designated entity</label>
+<div><p>
+We regularly review the efficacy of our safeguards to protect critical sectors and entities.</p>  
+<p>Global developments in recent years have reinforced the importance of economic resilience. There is increasing need to screen for malicious actions effected through investments in critical entities.</p>
+</div></li>  
 	
 	
 	
