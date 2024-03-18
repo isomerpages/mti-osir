@@ -17,7 +17,7 @@ Remedial directions may be issued under certain circumstances, such as non-compl
 Under SIRA, potential investors that wish to acquire equity interest or voting power in a designated entity are subjected to notification or approval obligations if their transactions cross specified thresholds. 
 
 Ownership and control thresholds may be varied on an entity-by-entity basis. If applicable, they will be prescribed in subsidiary legislation. </p>
-<img width="400" alt="" src="/images/Acquiring_Interest.jpg">
+<img width="100" alt="" src="/images/Acquiring_Interest.jpg">
 </div></li>
 	
 <li><input type="checkbox" id="accordion2">  
