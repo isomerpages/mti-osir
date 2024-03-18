@@ -57,7 +57,7 @@ sections:
           linktext: Learn more
           url: /faqs/
         - title: Other Legislations
-          description: ""
+          description: Sectoral and other legislation with similar provisions found in SIRA.
           linktext: Learn more
           url: /resources/other-legislations/
   - resources:
