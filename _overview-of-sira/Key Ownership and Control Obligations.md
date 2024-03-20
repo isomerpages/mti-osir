@@ -4,7 +4,7 @@ permalink: /overview-of-sira/ownership-and-control-obligations/
 variant: markdown
 description: ""
 ---
-<p><font color="766A62"><big><big><b>Key ownership and control obligations </b></big></big></font>
+<p><font color="766A62"><big><big><big><b>Key ownership and control obligations </b></big></big></big></font>
 	
 Under SIRA, the Minister is allowed to exercise oversight over ownership or control changes involving parties in positions to influence and direct the actions of the designated entities. 
 	
