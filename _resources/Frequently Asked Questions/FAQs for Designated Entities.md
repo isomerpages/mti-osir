@@ -5,11 +5,6 @@ variant: markdown
 description: ""
 third_nav_title: Frequently Asked Questions
 ---
- <form action="/search_results">
- <input placeholder="Search..." name="query" type="text">
- <button type="submit">Search</button>
- </form>
-
 <ul class="jekyllcodex_accordion">
 	<li><input type="checkbox" id="accordion1">  
 <label for="accordion1">Why is my entity designated?</label><div>
