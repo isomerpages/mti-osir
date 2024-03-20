@@ -5,9 +5,8 @@ variant: tiptap
 description: All downloadable forms
 third_nav_title: Forms
 ---
-<h2><strong>Submission of forms</strong></h2>
-<p><strong>All forms must be submitted online at the OSIR website via <a href="mailto:submissions@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank">submissions@osir.gov.sg</a>.</strong>
-</p>
+<h4><strong>Submission of forms</strong></h4>
+<p>All forms must be submitted online at the OSIR website via <a href="mailto:submissions@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank">submissions@osir.gov.sg</a>.</p>
 <p>Before submitting the form to OSIR for processing:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -23,7 +22,7 @@ processing.</p>
 </li>
 </ul>
 <hr>
-<h2><strong>Outcome of Application</strong></h2>
+<h4><strong>Outcome of Application</strong></h4>
 <p>OSIR will process your application upon receiving all required documents.
 We will notify the applicant once the application is processed. We seek
 your understanding that some applications may take longer to process.&nbsp;</p>
