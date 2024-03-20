@@ -38,6 +38,4 @@ good jobs for all Singaporeans.</p>
 to improve their lives. Together with our statutory boards, we will ensure
 that Singapore’s economy continues to be competitive, is able to attract
 investments, and nurture a deeper base of global Singapore enterprises.</p>
-<hr>
-<h4></h4>
 <p></p>
