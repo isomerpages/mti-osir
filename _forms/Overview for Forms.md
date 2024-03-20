@@ -4,12 +4,7 @@ permalink: /forms/
 variant: tiptap
 description: All downloadable forms
 ---
-<h4><strong>Submission of forms</strong></h4>
-<p></p>
-<p><strong>If you dont, then cannot guarantee the time it would take to process.</strong>
-</p>
-<p>Under section 3(2)(b), all application forms for approval must be submitted
-online at the OSIR website via <a href="mailto:submissions@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank">submissions@osir.gov.sg</a>.</p>
+<h4><strong>Before Submission</strong></h4>
 <p>Before submitting the form to OSIR for processing:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -19,13 +14,13 @@ unless otherwise indicated.</p>
 <li>
 <p>Attach all the relevant details and attachment(s) as required.</p>
 </li>
-<li>
-<p>Submit to <a href="mailto:contact@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank">submissions@osir.gov.sg</a> for
-processing.</p>
-</li>
 </ul>
-<p><strong>(highlight this to Robert- the concerns why this might make a mistake, not efficient</strong>
-</p>
+<hr>
+<h4><strong>Submission of forms</strong></h4>
+<p>To facilitate efficient processing of your application, please submit
+all application forms online at the OSIR website via <a href="mailto:submissions@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank">submissions@osir.gov.sg</a>.
+We are unable to guarantee that the forms would be processed timely if
+the forms are not sent to <a href="mailto:submissions@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank">submissions@osir.gov.sg</a>.</p>
 <hr>
 <h4><strong>Outcome of Application</strong></h4>
 <p>OSIR will process your application upon receiving all required documents.
