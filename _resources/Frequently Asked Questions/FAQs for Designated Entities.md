@@ -5,11 +5,10 @@ variant: markdown
 description: ""
 third_nav_title: Frequently Asked Questions
 ---
-<form>
-<input placeholder="Search..." type="text">
-<button type="submit">Search</button>
-</form>
-
+ <form action="/search_results">
+ <input placeholder="Search..." name="query" type="text">
+ <button type="submit">Search</button>
+ </form>
 
 <ul class="jekyllcodex_accordion">
 	<li><input type="checkbox" id="accordion1">  
