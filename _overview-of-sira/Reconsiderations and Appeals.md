@@ -5,8 +5,8 @@ variant: tiptap
 description: ""
 ---
 <p>SIRA is designed to be business-friendly and sets out clear processes
-for parties that wish to seek reconsideration for decisions by the Minister,
-and for further appeals to a Reviewing Tribunal.</p>
+for parties that wish to seek reconsideration from Minister for his decisions,
+and to make further appeals to an independent Reviewing Tribunal.</p>
 <h4><strong>Reconsideration requests</strong></h4>
 <p>Parties may submit a reconsideration request against decisions, remedial
 directions or orders issued by the Minister for Trade &amp; Industry or
