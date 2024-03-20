@@ -34,7 +34,11 @@ description: ""
 <li><input type="checkbox" id="accordion4">  
 	<label for="accordion4"><big>Appointment of key officers in a designated entity</big></label>
 <div><p>
-Under SIRA, designated entities are required to seek approval for the appointment of key officers such as the chief executive officer, directors, and the chairperson of the board. Such officers may be removed if they have been appointed without approval or if conditions of approval are breached. The Minister may also remove key officers in the interest of national security.</p>
+Under section 27(1) of SIRA, a designated entity must obtain prior approval from the Minister to appoint key officers. Key officers refer to:
+</p><ul> 
+	<li>A chief executive officer, director, or chairperson of the board of directors of a designated entity that is a corporation;</li>
+	<li>A manager, or a partner of a designated entity that is a limited liability partnership; and </li>
+	<li>A partner of a designated entity that is a partnership.<p></p>
 <img width="400" alt="" src="/images/Appt_of_Key_Officers.jpg">
-</div></li>  
+</li></ul></div></li>  
 </ul>
