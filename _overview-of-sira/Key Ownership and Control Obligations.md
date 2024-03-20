@@ -35,7 +35,7 @@ description: ""
 	<label for="accordion4"><big><font color="766A62">Appointment of key officers in a designated entity</font></big></label>
 <div><p>
 Under section 27(1) of SIRA, a designated entity must obtain prior approval from the Minister to appoint key officers. Key officers refer to:
-</p><ul style="color:black;">
+</p><ul>
 	<li>A chief executive officer, director, or chairperson of the board of directors of a designated entity that is a corporation;</li>
 	<li>A manager, or a partner of a designated entity that is a limited liability partnership; and </li>
 	<li>A partner of a designated entity that is a partnership.</li></ul>
