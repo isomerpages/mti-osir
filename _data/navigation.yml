@@ -31,3 +31,5 @@ links:
         url: /resources/other-legislations/sectorlegislation/
   - title: Contact Us
     url: /contact-us/
+  - title: New folder
+    collection: resources
