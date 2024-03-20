@@ -4,7 +4,7 @@ permalink: /overview-of-sira/ownership-and-control-obligations/
 variant: markdown
 description: ""
 ---
-<p><font color="766A62"><big><big><b>Key ownership and control obligations </b></big></big></font>
+<p><font color="766A62"><big><b> Key ownership and control obligations </b></big></font>
 	
 Under SIRA, the Minister is allowed to exercise oversight over ownership or control changes involving parties in positions to influence and direct the actions of the designated entities. </p><p>
 	
@@ -17,18 +17,18 @@ Notification or approval obligations will be imposed on prospective controllers,
 <div><p>
 Under SIRA, potential investors that wish to acquire equity interest or voting power in a designated entity are subjected to notification or approval obligations if their transactions cross specified thresholds. 
 
-Ownership and control thresholds may be varied on an entity-by-entity basis. If applicable, they will be prescribed in subsidiary legislation. </p>
+Ownership and control thresholds may be varied on an entity-by-entity basis. If applicable, they will be prescribed in subsidiary legislation.
 <img width="100" alt="" src="/images/Acquiring_Interest.jpg">
-</div></li>
+</p></div></li>
 	
 <li><input type="checkbox" id="accordion2">  
-<label for="accordion2">Disposal of equity interest or voting power in a designated entity</label>
+<label for="accordion2"><big><b>Disposal of equity interest or voting power in a designated entity</b></big></label>
 <div><p>
 Under SIRA, existing investors that wish to acquire equity interest or voting power in a designated entity are subjected to notification or approval obligations if their transactions cross specified thresholds.
 
-Ownership and control thresholds may be varied on an entity-by-entity basis. If applicable, they will be prescribed in subsidiary legislation.</p>
+Ownership and control thresholds may be varied on an entity-by-entity basis. If applicable, they will be prescribed in subsidiary legislation.
 <img width="100" alt="" src="/images/Disposal_of_Interest.jpg">
-</div></li>  
+</p></div></li>  
 
 <li><input type="checkbox" id="accordion3">  
 <label for="accordion3">Acquisition of any part of the business or undertaking, as a going concern, of a designated entity</label>
