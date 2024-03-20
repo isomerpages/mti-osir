@@ -2,7 +2,6 @@ collections:
   resources:
     output: true
     order:
-      - Frequently Asked Questions (FAQs).md
       - Guidance Documents.md
       - Frequently Asked Questions/Overview of FAQs.md
       - Frequently Asked Questions/.keep
