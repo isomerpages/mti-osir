@@ -20,7 +20,7 @@ to find what you are looking for, do contact us at <a href="mailto:contact@osir.
 </div>
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Obligations of Investors and Acquirors</div>
+<div class="isomer-card-title">Obligations of investors and acquirors</div>
 </div>
 </div>
 <div class="isomer-card">
