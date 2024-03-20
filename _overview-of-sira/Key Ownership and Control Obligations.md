@@ -38,7 +38,6 @@ Under section 27(1) of SIRA, a designated entity must obtain prior approval from
 </p><ul> 
 	<li>A chief executive officer, director, or chairperson of the board of directors of a designated entity that is a corporation;</li>
 	<li>A manager, or a partner of a designated entity that is a limited liability partnership; and </li>
-	<li>A partner of a designated entity that is a partnership.<p></p>
+	<li>A partner of a designated entity that is a partnership.</li></ul>
 <img width="400" alt="" src="/images/Appt_of_Key_Officers.jpg">
-</li></ul></div></li>  
-</ul>
+</div></li></ul>  
