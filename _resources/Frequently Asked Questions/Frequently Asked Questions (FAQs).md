@@ -5,4 +5,37 @@ variant: tiptap
 description: ""
 third_nav_title: Frequently Asked Questions
 ---
-<p></p><div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/resources/faqs-for-designated-entities/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">For Designated Entities</div><div class="isomer-card-link"></div></div></a><a rel="noopener noreferrer nofollow" href="/resources/faqs-for-investors/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">For Investors</div><div class="isomer-card-link"></div></div></a><a rel="noopener noreferrer nofollow" href="/resources/faqs-for-general-public/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">For General Public</div><div class="isomer-card-link"></div></div></a></div><p></p>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Designation Process</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Obligations of designated entities</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Obligations of Investors and Acquirors</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Reconsideration and Appeals</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Powers where entity has acted against national security interests</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">The Office of Significant Investments Review</div>
+</div>
+</div>
+</div>
+<p></p>
