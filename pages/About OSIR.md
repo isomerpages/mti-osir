@@ -10,10 +10,12 @@ description: Description of Office of Significant Investments Review (OSIR)
 <h4><strong>About OSIR</strong></h4>
 <p>The Office of Significant Investments Review (OSIR), situated within the
 Ministry of Trade and Industry (MTI), is responsible for the administration
-of the Significant Investments Review Act (SIRA).</p>
+of the Significant Investments Review Act (SIRA). The Office will serve
+as a dedicated one-stop touchpoint to engage affected stakeholders and
+provide them with guidance and clarifications.</p>
 <h4><strong>About OSIR's Functions</strong></h4>
-<p>OSIR supports the Minister for Trade and Industry in the administration
-of the Act:</p>
+<p>OSIR supports the Minister for Trade and Industry and relevant Ministers
+in the administration of the Act:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Issues directions and notices upon the instruction of Ministers;</p>
