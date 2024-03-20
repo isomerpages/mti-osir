@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Guidance Documents.md
-      - Frequently Asked Questions/Frequently Asked Questions (FAQs).md
+      - Frequently Asked Questions/Overview of FAQs.md
       - Frequently Asked Questions/.keep
       - Frequently Asked Questions/Designation Process.md
       - Frequently Asked Questions/Obligations of designated entities.md
