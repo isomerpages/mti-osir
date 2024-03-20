@@ -19,7 +19,7 @@ hub.</p>
 <p>Click to access the following via Singapore Statutes Online:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="https://www.parliament.gov.sg/docs/default-source/default-document-library/significant-investments-review-bill-38-2023.pdf" rel="noopener noreferrer nofollow" target="_blank">SIRA</a>
+<p><a href="https://sso.agc.gov.sg/Act/SIRA2024/Uncommenced/20240314115017?DocDate=20240214#:~:text=1.,by%20notification%20in%20the%20Gazette.&amp;text=2.,and%20control%20of%2C%20critical%20entities." rel="noopener noreferrer nofollow" target="_blank">SIRA</a>
 </p>
 </li>
 <li>
