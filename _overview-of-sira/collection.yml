@@ -2,8 +2,8 @@ collections:
   overview-of-sira:
     output: true
     order:
-      - Powers that apply to entities that have acted against national security
-        interests.md
       - Significant Investments Review Act.md
       - Key Ownership and Control Obligations.md
+      - Powers that apply to entities that have acted against national security
+        interests.md
       - Reconsiderations and Appeals.md
