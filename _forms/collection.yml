@@ -4,6 +4,5 @@ collections:
     order:
       - Forms/Forms.md
       - Forms/.keep
-      - Notification Forms.md
       - Approval Forms.md
       - Validation Forms.md
