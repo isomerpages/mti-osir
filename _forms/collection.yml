@@ -2,8 +2,8 @@ collections:
   forms:
     output: true
     order:
-      - Forms/Validation Forms.md
-      - Forms/Approval Forms.md
-      - Forms/Notification Forms.md
-      - Forms/Forms.md
       - Forms/.keep
+      - Forms/Forms.md
+      - Forms/Notification Forms.md
+      - Forms/Approval Forms.md
+      - Forms/Validation Forms.md
