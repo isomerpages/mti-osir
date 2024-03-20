@@ -6,7 +6,7 @@ description: ""
 ---
 <p><font color="766A62"><big><big><b>Key ownership and control obligations </b></big></big></font>
 	
-Under SIRA, the Minister is allowed to exercise oversight over ownership or control changes involving parties in positions to influence and direct the actions of the designated entities. 
+Under SIRA, the Minister is allowed to exercise oversight over ownership or control changes involving parties in positions to influence and direct the actions of the designated entities. </p><p>
 	
 Notification or approval obligations will be imposed on prospective controllers, existing controllers, and designated entities; based on specific thresholds that may take reference from existing sectoral legislation. These requirements will not apply retroactively, but only to new ownership or control changes after the entities have been designated.
 <img width="400" alt="" src="/images/ownership_and_control_obligations.jpg"> </p><hr>
