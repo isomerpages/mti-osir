@@ -22,7 +22,7 @@ Ownership and control thresholds may be varied on an entity-by-entity basis. If 
 </p></div></li>
 	
 <li><input type="checkbox" id="accordion2">  
-<label for="accordion2"><big><b>Disposal of equity interest or voting power in a designated entity</b></big></label>
+<label for="accordion2"><big>Disposal of equity interest or voting power in a designated entity</big></label>
 <div><p>
 Under SIRA, existing investors that wish to acquire equity interest or voting power in a designated entity are subjected to notification or approval obligations if their transactions cross specified thresholds.
 
@@ -31,14 +31,14 @@ Ownership and control thresholds may be varied on an entity-by-entity basis. If 
 </p></div></li>  
 
 <li><input type="checkbox" id="accordion3">  
-<label for="accordion3">Acquisition of any part of the business or undertaking, as a going concern, of a designated entity</label>
+<label for="accordion3"><big>Acquisition of any part of the business or undertaking, as a going concern, of a designated entity</big></label>
 <div><p>
 Under SIRA, parties that wish to acquire any part of the business or undertaking, as a going concern of a designated entity are to seek approval from the Minister.</p>
 <img width="400" alt="" src="/images/Acquisition.jpg">
 </div></li>  
 
 <li><input type="checkbox" id="accordion4">  
-<label for="accordion4">Appointment of key officers in a designated entity</label>
+	<label for="accordion4"><big>Appointment of key officers in a designated entity</big></label>
 <div><p>
 Under SIRA, designated entities are required to seek approval for the appointment of key officers such as the chief executive officer, directors, and the chairperson of the board. Such officers may be removed if they have been appointed without approval or if conditions of approval are breached. The Minister may also remove key officers in the interest of national security.</p>
 <img width="400" alt="" src="/images/Appt_of_Key_Officers.jpg">
