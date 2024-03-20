@@ -4,10 +4,13 @@ permalink: /overview-of-sira/ownership-and-control-obligations/
 variant: markdown
 description: ""
 ---
-<p><big> Buyers, sellers, indirect controllers and designated entities are responsible for notifying or seeking approval for specified changes in ownership and control of designated entities. 
+<p>
+Under SIRA, the Minister is allowed to exercise oversight over ownership or control changes involving parties in positions to influence and direct the actions of the designated entities. 
+	
+Notification or approval obligations will be imposed on prospective controllers, existing controllers, and designated entities; based on specific thresholds that take reference from existing sectoral legislation. These requirements will not apply retroactively, but only to new ownership or control changes after the entities have been designated.
 
 Remedial directions may be issued under certain circumstances, such as non-compliance.
-</big></p>
+</p>
 <img width="400" alt="" src="/images/ownership_and_control_obligations.jpg">
 
 <ul class="jekyllcodex_accordion">
