@@ -17,22 +17,22 @@ description: ""
 
 <ul class="jekyllcodex_accordion">
 <li><input type="checkbox" id="accordion1"> 
-<label for="accordion1"> <big> Acquiring equity interest or voting power in a designated entity</big> </label> <div>
+<label for="accordion1"> <big><font color="766A62">Acquiring equity interest or voting power in a designated entity</font></big></label> <div>
 <img width="400" alt="" src="/images/Acquiring_Interest.jpg">
 </div></li>
 	
 <li><input type="checkbox" id="accordion2">  
-<label for="accordion2"><big>Disposal of equity interest or voting power in a designated entity</big></label><div>
+<label for="accordion2"><big><font color="766A62">Disposal of equity interest or voting power in a designated entity</font></big></label><div>
 <img width="400" alt="" src="/images/Disposal_of_Interest.jpg">
 </div></li>  
 
 <li><input type="checkbox" id="accordion3">  
-<label for="accordion3"><big>Acquisition of any part of the business or undertaking, as a going concern, of a designated entity</big></label><div>
+<label for="accordion3"><big><font color="766A62">Acquisition of any part of the business or undertaking, as a going concern, of a designated entity</font></big></label><div>
 <img width="400" alt="" src="/images/Acquisition.jpg">
 </div></li>  
 
 <li><input type="checkbox" id="accordion4">  
-	<label for="accordion4"><big>Appointment of key officers in a designated entity</big></label>
+	<label for="accordion4"><big><font color="766A62">Appointment of key officers in a designated entity</font></big></label>
 <div><p>
 Under section 27(1) of SIRA, a designated entity must obtain prior approval from the Minister to appoint key officers. Key officers refer to:
 </p><ul> 
@@ -40,4 +40,6 @@ Under section 27(1) of SIRA, a designated entity must obtain prior approval from
 	<li>A manager, or a partner of a designated entity that is a limited liability partnership; and </li>
 	<li>A partner of a designated entity that is a partnership.</li></ul>
 <img width="400" alt="" src="/images/Appt_of_Key_Officers.jpg">
-</div></li></ul>  
+<big><b><font color="766A62">Appointment of key officers in a designated entity</font></b></big>
+<p>Under section 28 of SIRA, if a key officer of a designated entity was appointed without the necessary approval, or if any condition of approval has been breached, the appointed key officer can be removed. The Minister can also remove any key officer if deemed necessary in the interest of national security.
+</p></div></li></ul>
