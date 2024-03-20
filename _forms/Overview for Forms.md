@@ -6,7 +6,7 @@ description: All downloadable forms
 ---
 <h4><strong>Submission of forms</strong></h4>
 <p></p>
-<p><strong>If you dont, then cannot guarantee the time it  would take to process.</strong>
+<p><strong>If you dont, then cannot guarantee the time it would take to process.</strong>
 </p>
 <p>Under section 3(2)(b), all application forms for approval must be submitted
 online at the OSIR website via <a href="mailto:submissions@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank">submissions@osir.gov.sg</a>.</p>
@@ -24,7 +24,7 @@ unless otherwise indicated.</p>
 processing.</p>
 </li>
 </ul>
-<p><strong>(highlight this to Robert- the concerns why this might make a mistake, not efficient  </strong>
+<p><strong>(highlight this to Robert- the concerns why this might make a mistake, not efficient</strong>
 </p>
 <hr>
 <h4><strong>Outcome of Application</strong></h4>
