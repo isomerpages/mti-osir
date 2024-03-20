@@ -9,13 +9,11 @@ description: ""
 Under SIRA, the Minister is allowed to exercise oversight over ownership or control changes involving parties in positions to influence and direct the actions of the designated entities. 
 	
 Notification or approval obligations will be imposed on prospective controllers, existing controllers, and designated entities; based on specific thresholds that may take reference from existing sectoral legislation. These requirements will not apply retroactively, but only to new ownership or control changes after the entities have been designated.
-
-Should prospective or existing controllers proceed with the transaction without seeking the necessary prior approvals from Minister, the transaction is automatically void. Materially affected parties may apply to the Minister to validate the transaction and the Minister may do so by issuing a validation notice.
 <img width="400" alt="" src="/images/ownership_and_control_obligations.jpg"> </p><hr>
 
 <ul class="jekyllcodex_accordion">
 <li><input type="checkbox" id="accordion1"> 
-<label for="accordion1"> Acquiring equity interest or voting power in a designated entity </label>
+<label for="accordion1"> <big> <b> Acquiring equity interest or voting power in a designated entity </b></big><b> </b> </label>
 <div><p>
 Under SIRA, potential investors that wish to acquire equity interest or voting power in a designated entity are subjected to notification or approval obligations if their transactions cross specified thresholds. 
 
