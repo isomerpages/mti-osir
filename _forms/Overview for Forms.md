@@ -28,5 +28,5 @@ We will notify the applicant once the application is processed. We seek
 your understanding that some applications may take longer to process.&nbsp;</p>
 <p>If approved, OSIR will provide more information on the following steps.</p>
 <p>If you dissatisfied with the outcome of the application, you may submit
-a reconsideration application. More information on Reconsiderations and
-Appeals can be found on <a href="/overview-of-sira/sira/reconsideration-and-appeal/" rel="noopener noreferrer nofollow" target="_blank">this page</a>.</p>
+a reconsideration application within 14 calendar days. More information
+on Reconsiderations and Appeals can be found on <a href="/overview-of-sira/sira/reconsideration-and-appeal/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
