@@ -59,7 +59,7 @@ sections:
         - title: Other Legislations
           description: Sectoral and other legislation with similar provisions found in SIRA.
           linktext: Learn more
-          url: /resources/other-legislations/
+          url: /resources/other-legislations/sector-legislation/
   - resources:
       title: Latest Commission's Updates
       subtitle: Be Updated
