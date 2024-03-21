@@ -40,6 +40,6 @@ Under section 27(1) of SIRA, a designated entity must obtain prior approval from
 	<li>A manager, or a partner of a designated entity that is a limited liability partnership; and </li>
 	<li>A partner of a designated entity that is a partnership.</li></ul>
 <img width="400" alt="" src="/images/Appt_of_Key_Officers.jpg"><p>
-<big><b><font color="766A62">Appointment of key officers in a designated entity</font></b></big>
+<big><b><font color="766A62">Removal of key officers in a designated entity</font></b></big>
 </p><p>Under section 28 of SIRA, if a key officer of a designated entity was appointed without the necessary approval, or if any condition of approval has been breached, the appointed key officer can be removed. The Minister can also remove any key officer if deemed necessary in the interest of national security.
 </p></div></li></ul>
