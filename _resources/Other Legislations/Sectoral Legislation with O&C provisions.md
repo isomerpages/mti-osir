@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Other Legislations
 ---
 <p>SIRA is designed to complement the existing suite of sectoral safeguards with ownership and control provisions to mitigate risks and protect Singapore's national security interests. The following table provides a non-exhaustive overview of sectoral legislation in Singapore that contains ownership and control provisions.</p>
-<p><small><em>It is not intended to serve as a comprehensive list of all applicable legislation in Singapore. While we try to keep the information accurate and up to date, we give no warranty as to the accuracy or currency of the information. You may wish to seek independent legal advice or consult professionals who have experience with these obligations.</em></small></p>
+<p><small><em>It is not intended to serve as a comprehensive list of all applicable legislation in Singapore. While we try to keep the information accurate and up to date, we give no warranty as to the accuracy or currency of the information. Parties may wish to seek independent legal counsel or consult professionals to advise them on how their business operations should be conducted to satisfy the legal and regulatory requirements and to advise them on all applicable laws of Singapore.</em></small></p>
 
 <ul class="jekyllcodex_accordion">
 <li><input type="checkbox" id="accordion1"> <label for="accordion1"> Banking and Finance </label>
