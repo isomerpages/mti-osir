@@ -37,7 +37,7 @@ Form 2 - Application for Approval of Cessation of Control
 </p>
 </li>
 </ul>
-<h4>For Designated Entities on Appointment of Key Officers:</h4>
+<h4>For Designated Entities prior to Appointment of Key Officers:</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Key officers refer to:</p>
