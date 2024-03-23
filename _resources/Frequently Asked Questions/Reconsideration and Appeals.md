@@ -10,8 +10,9 @@ third_nav_title: Frequently Asked Questions
 <summary>What decisions, directions or orders can parties submit for reconsideration
 or appeal against?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The Significant Investments Review Act has been designed to be business-friendly.&nbsp;
-<br>Reconsideration applications and appeals can be submitted for all decisions,
+<p>The Significant Investments Review Act has been designed to be business-friendly.</p>
+<p></p>
+<p>Reconsideration applications and appeals can be submitted for all decisions,
 directions or orders issued, except for the certificate issued by the Minister
 charged with the responsibility for internal security that states that
 the Minister is satisfied that the entity has acted against our national
@@ -25,12 +26,15 @@ there any fees?</summary>
 <p>Parties may seek reconsideration from the Minister within 14 calendar
 days after receiving the decision. They may use the relevant form available
 at &lt;OSIR website - application for reconsideration&gt; and email the
-completed form to <a href="mailto:submissions@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>submissions@osir.gov.sg</u></a>.&nbsp;
-<br>There are no fees payable when submitting a reconsideration application.&nbsp;
-<br>The Minister's decision must be complied with and remains in effect until
+completed form to <a href="mailto:submissions@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>submissions@osir.gov.sg</u></a>.</p>
+<p></p>
+<p>There are no fees payable when submitting a reconsideration application.</p>
+<p></p>
+<p>The Minister's decision must be complied with and remains in effect until
 it is cancelled or substituted on reconsideration. No further reconsideration
-can be made after Minister makes a decision on the reconsideration application.
-<br>Parties may refer here &lt;Application for reconsideration and appeal
+can be made after Minister makes a decision on the reconsideration application.</p>
+<p></p>
+<p>Parties may refer here &lt;Application for reconsideration and appeal
 CJM&gt; for a step-by-step process on reconsiderations from the Minister.</p>
 </div>
 </details>
@@ -40,13 +44,17 @@ CJM&gt; for a step-by-step process on reconsiderations from the Minister.</p>
 <p>Parties aggrieved by either an initial appealable decision affirmed on
 reconsideration, or a substitute appealable decision made on reconsideration
 may appeal to an independent Reviewing Tribunal within 30 calendar days
-after the reconsideration outcome.
-<br>Parties will be required to pay the prescribed appeal fee of $200 as part
-of the application.&nbsp;</p>
+after the reconsideration outcome.</p>
+<p></p>
+<p>Parties will be required to pay the prescribed appeal fee of $200 as part
+of the application.</p>
+<p></p>
 <p>Appellants may use the relevant form available at &lt;MTI website&gt;
-and email the completed form to <a href="mailto:secretary@siratribunal.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>secretary@siratribunal.gov.sg</u></a>.
-<br>The Minister's reconsideration decision remains in effect until it is
+and email the completed form to <a href="mailto:secretary@siratribunal.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>secretary@siratribunal.gov.sg</u></a>.</p>
+<p></p>
+<p>The Minister's reconsideration decision remains in effect until it is
 reversed on appeal. A Reviewing Tribunal's decision is final.</p>
+<p></p>
 <p>Parties may refer here &lt;Application for reconsideration and appeal
 CJM&gt; for a step-by-step process on appeals.</p>
 </div>
@@ -67,6 +75,7 @@ or for the Reviewing Tribunal to make its decision on an appeal?</summary>
 national security concerns, decision-making authorities should be allowed
 adequate time to conduct thorough assessments and properly review the case
 before them.&nbsp;</p>
+<p></p>
 <p>Nonetheless, we will endeavour to process all applications for reconsideration
 and appeals expeditiously.&nbsp;</p>
 </div>
