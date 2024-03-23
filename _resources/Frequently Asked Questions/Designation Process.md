@@ -24,28 +24,19 @@ website – Designated Entities subpage&gt;.</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <details class="isomer-details">
 <summary>Designation is not a process treated lightly and is only done when deemed
-necessary in the interests of Singapore’s national security. Various factors
-will be taken into consideration in deciding which entities should be considered
-for designation. These include: Whether the entity provides a critical
-function in relation to Singapore’s national security interests; and Whether
-the entity is adequately covered by sectoral legislation. Should a designated
-entity subsequently cease to meet these criteria, cancellation of its designation
-may be possible.</summary>
+necessary in the interests of Singapore’s national security.&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
-<ul>
-<li>
-<p>Whether the entity is adequately covered by sectoral legislation.</p>
-</li>
-</ul>
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
+<p>
+<br>
+</p>
+<p>Various factors will be taken into consideration in deciding which entities
+should be considered for designation. These include:</p>
+<p>
+<br>
+</p>
 <details class="isomer-details">
 <summary></summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -69,8 +60,7 @@ to meet these criteria, cancellation of its designation may be possible.</summar
 the Minister designates any entity, notice will be given to the entity
 of the Minister’s intent to designate it and the entity will be given at
 least 14 days after the date of the notice to make representations on the
-proposed designation.</p>
-<p>
+proposed designation.
 <br>Once a designation is made, as far as practicable, the Minister will notify
 the designated entity and any other parties who, in the Minister’s opinion,
 ought to have notice of the designation. Any designation, or cancellation
