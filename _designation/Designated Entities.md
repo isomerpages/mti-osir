@@ -4,7 +4,7 @@ permalink: /designation/designated-entities/
 variant: tiptap
 description: List of Designated Entities
 ---
-<h4><strong>List of designated entities</strong></h4>
+<h4><strong>List of entities designated under SIRA</strong></h4>
 <p>The designated entities are also published in the <strong><u>Government Gazette (link)</u></strong>.</p>
 <table>
 <tbody>
@@ -121,5 +121,5 @@ description: List of Designated Entities
 </tbody>
 </table>
 <p></p>
-<p><em>Note: Formally designated entities will also be listed on this page when available.</em>
+<p><em>Note: Formerly designated entities will also be listed on this page when available.</em>
 </p>
