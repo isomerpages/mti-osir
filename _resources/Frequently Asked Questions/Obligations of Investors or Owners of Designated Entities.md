@@ -166,9 +166,97 @@ and may differ for specific entities.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary>What are the obligations of the parent entities of designated entities?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Only obligations related to changes in direct ownership or control specifically
+apply to parent entities. For example, if a parent entity seeks to sell
+off some of its shares in the designated entity and would fall below a
+prescribed threshold as a result, prior approval would be required for
+the sale.&nbsp;</p>
+<p>
+<br>Similarly, if a parent entity seeks to increase its shareholding in a
+designated entity which causes it to cross a prescribed threshold as a
+result, prior approval would be required.</p>
+<p>
+<br>Please refer to &lt;Ownership &amp; control obligations CJM&gt; for the
+prescribed ownership or control thresholds. The thresholds are default
+thresholds and may differ for specific entities.</p>
+<p>
+<br>Parent entities may seek clarification from OSIR at <a href="mailto:contact@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>contact@osir.gov.sg</u></a> before
+the commencement of any formal application.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Does a party have obligations when their equity interests in a designated
+entity changes as a result of actions by third parties?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>A party’s obligations arise whether the change in shareholdings or control
+is the result of its own actions or the actions of any other party.&nbsp;&nbsp;</p>
+<p>
+<br>Examples:</p>
+<ul>
+<li>
+<p>Where a party’s interest meets a prescribed threshold as the result of
+not participating in a share issuance; or</p>
+</li>
+<li>
+<p>Where a party’s interest meets a prescribed threshold as the result of
+not participating in a share buyback.</p>
+</li>
+</ul>
+<p>
+<br>Parties can refer to &lt;OSIR website - ownership &amp; control obligations
+subpage&gt; for the prescribed thresholds. The thresholds are default thresholds
+and may differ for specific entities.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Does a party need to notify or seek approval when acquiring an equity
+interest if there is no intention to vote or exercise control over the
+designated entity?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Any party investing in a designated entity, whether they seek control
+over the designated entity or otherwise, must comply with the obligations
+under the Significant Investments Review Act if they meet the prescribed
+thresholds.&nbsp;</p>
+<p>
+<br>Parties can refer to &lt;OSIR website - ownership &amp; control obligations
+subpage&gt; for the prescribed thresholds. The thresholds are default thresholds
+and may differ for specific entities.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Does a party need to seek approval for the acquisition of equity interest
+which is exercisable only in the future (e.g. convertible loan, or options)?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Under the Significant Investments Review Act, a party will be deemed to
+have equity interest as long as it has the right to acquire the equity
+interest or voting power.</p>
+<p>
+<br>This may arise under an option, convertible loan or other arrangement
+where the equity interest is transferred to (or to the order of) the party,
+regardless of when the right is exercisable and whether there are conditions
+tied to it.&nbsp;</p>
+<p>
+<br>Hence, a party entering into any such arrangement will need to notify
+or seek approval if the equity interest meets the prescribed thresholds.</p>
+<p>
+<br>Parties can refer to &lt;OSIR website - ownership &amp; control obligations
+subpage&gt; for the prescribed thresholds. The thresholds are default thresholds
+and may differ for specific entities.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>What other regulations may affect transactions?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Parties involved in transactions pertaining to an entity that is not designated
+under the SIRA, but covered by other domestic sectoral legislation may
+need to notify or seek approval from the relevant regulator in accordance
+with the relevant domestic sectoral legislation.</p>
 <p></p>
+<p>Please refer to &lt;OSIR website - Sectoral Legislation subpage&gt; to
+see examples of other domestic sectoral legislation in Singapore and their
+respective regulators.</p>
 </div>
 </details>
 </div>
