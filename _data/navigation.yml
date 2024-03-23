@@ -2,8 +2,8 @@ logo: /images/MTI_OSIR_Logo_Full_Colour__CMYK__zoomed.jpg
 links:
   - title: About OSIR
     url: /about-osir
-  - title: Overview of SIRA
-    collection: overview-of-sira
+  - title: About Sira
+    collection: about-sira
   - title: Designation
     url: /designation/designated-entities
     sublinks:
