@@ -29,8 +29,8 @@ contacts:
       - phone: ""
       - email: confidential@osir.gov.sg
       - other: If you have any concerns, you may submit them to this email. Information
-          disclosed will be kept with utmost confidentiality, and your identity
-          will be kept anonymous.
+          received be kept confidential and your identity will be kept
+          anonymous.
     title: Raise Your Concerns
 feedback: ""
 ---
