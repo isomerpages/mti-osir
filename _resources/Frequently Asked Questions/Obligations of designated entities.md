@@ -1,32 +1,104 @@
 ---
 title: Obligations of designated entities
 permalink: /resources/faqs/obligations-of-designated-entities/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: Frequently Asked Questions
 ---
-<ul class="jekyllcodex_accordion">
-<li><input type="checkbox" id="accordion1">
-<label for="accordion1"> Is Singapore is closing up to foreign investments?</label><div>
-<p> Singapore remains open to investments and believes that a fair, open and free trade environment remains an important line of defence in securing our critical needs. Robust review processes will support our economic resilience and national security, and enable businesses and investors to continue to invest with confidence in Singapore. </p>
-<p>The Bill complements existing sectoral regulation, under which majority of the critical entities today are already covered. The Bill will apply only to selected entities not covered by sectoral regulation. Only a handful are expected. </p>
-<p>Our commitment is to keep Singapore an attractive destination for foreign investment, leveraging our extensive trade infrastructure, political stability and transparent regulatory framework.</p>
-</div></li>
-
-<li><input type="checkbox" id="accordion2">
-<label for="accordion2"> Will the scope of SIRB be expanded in future?</label><div>
-<p> We will regularly review the efficacy of our safeguards on critical entities/sectors in Singapore. The Government will closely engage the business community for feedback on SIRB and ensure that Singapore maintains a vibrant, open economy for trade and investments, while safeguarding our critical interests.</p>
-</div></li>
-
-<li><input type="checkbox" id="accordion3">
-<label for="accordion3"> What will be the impact of SIRB on Singapore’s economy?</label><div>
-<p> Singapore remains open to business and collaboration opportunities with our trade and investment partners. </p>
-<p> As the Bill is expected to apply only to a handful of critical entities not already covered by sectoral regulation, the impact on Singapore’s economy is not expected to be significant. </p>
-<p> The Government will continue to closely engage the business community for feedback on SIRB, and ensure that Singapore maintains a vibrant, open economy for trade and investments, while safeguarding our critical interests.</p>
-</div></li>
-
-<li><input type="checkbox" id="accordion4">
-<label for="accordion4"> Government’s designation of the Entity has caused the share valuation to drop. I want to be compensated. </label><div>
-<p> Government regularly passes legislation which may impact businesses positively or negatively. This is consistent with normal business risk.</p>
-</div></li>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>What are the key obligations of designated entities?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Key obligations of designated entities include the following:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><u>Notifying the Minister </u></strong>within seven calendar days
+after becoming aware of any relevant change in ownership or control;</p>
+</li>
+<li>
+<p><strong><u>Seeking the Minister’s approval</u></strong> prior to the appointment
+of specific key officers;</p>
+</li>
+<li>
+<p><strong><u>Seeking the Minister’s approval, (together with the acquiror)</u> </strong>prior
+to selling, as a going concern, of (any part of) the business or undertaking;</p>
+</li>
+<li>
+<p><strong><u>Seeking the Minister’s approval</u></strong> prior to winding
+up, dissolving, or terminating the entity, the making of any judicial management
+order or the appointment of any (interim) judicial manager; or</p>
+</li>
+<li>
+<p><strong><u>Complying with conditions, directions or orders</u></strong> imposed
+by the Minister, if any.</p>
+</li>
 </ul>
+<p>Please refer to &lt;Ownership &amp; control obligations CJM&gt; for more
+details on the obligations of a designated entity.&nbsp;
+<br>
+</p>
+<p>Parties may seek clarification from OSIR at <a href="mailto:contact@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>contact@osir.gov.sg</u></a> before
+the commencement of any formal application.</p>
+<p>
+<br>To submit a notification or approval, please use the relevant form available
+at &lt;OSIR website – Notification Forms&gt; or &lt;OSIR website – Approval
+Forms&gt; and email the completed form to <a href="mailto:contact@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>submissions@osir.gov.sg</u></a>.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>What are the obligations of a designated entity when appointing key officers?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>For specified key officer roles, designated entities will need to seek
+approval prior to the appointment of any new person to those roles. Please
+refer to &lt;Appointment of Key Officers in a DE CJM&gt; for a step-by-step
+process flow.</p>
+<p></p>
+<p>The Minister may require the removal of an appointed key personnel of
+a designated entity if this was done without the necessary approval, or
+if any condition of approval has been breached. The Minister can also require
+the removal of any key personnel if deemed necessary in the interest of
+national security.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>What is the definition of a key officer?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Key officers include:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>[For corporations] Chief Executive Officers, Directors and Chairpersons
+of the Board of Directors;</p>
+</li>
+<li>
+<p>[For limited liability partnerships] Managers and Partners;</p>
+</li>
+<li>
+<p>[For partnerships] Partners.</p>
+</li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary>What is the criteria for a key officer to be approved?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>In assessing whether the appointment of a key officer should be approved,
+the Minister may consider factors such as:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Financial soundness;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Honesty, integrity and reputation;</p>
+</li>
+<li>
+<p>Potential impact on national security interests.</p>
+</li>
+</ul>
+<p>Minster may also consider any other relevant matter and will convey these
+requirements to the designated entity in writing.</p>
+</div>
+</details>
+</div>
+<p></p>
