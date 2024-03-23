@@ -19,16 +19,14 @@ sections:
           url: /overview-of-sira/sira/
   - textcards:
       title: Designation
-      subtitle: Add informational text
       id: textcards
-      description: Text card description
       cards:
-        - title: List of Designated Entities
-          description: Card description
+        - title: Designated Entities
+          description: ""
           linktext: Learn more
           url: ""
         - title: Designation Process
-          description: Card description
+          description: ""
           linktext: Learn more
           url: ""
   - textcards:
@@ -56,7 +54,7 @@ sections:
       id: textcards
       cards:
         - title: Guidance Documents
-          description: Infographics and step-by-step workflows on SIRA requirements.
+          description: Further guidance on SIRA requirements.
           linktext: Learn more.
           url: /resources/guidance-documents
         - title: Frequently Asked Questions
