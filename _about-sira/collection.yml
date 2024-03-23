@@ -2,6 +2,7 @@ collections:
   about-sira:
     output: true
     order:
+      - Appointment of Key Officers in a Designated Entity.md
       - Significant Investments Review Act.md
       - Overview of Ownership and Control Obligations.md
       - Acquiring Equity Interest or Voting Power in a Designated Entity.md
