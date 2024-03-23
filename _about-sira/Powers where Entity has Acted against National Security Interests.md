@@ -8,7 +8,8 @@ description: ""
 the following two criteria are met:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>The entity has acted against Singapore’s national security interests; <u>and</u>&nbsp;</p>
+<p>The entity has acted against Singapore’s national security interests;
+and&nbsp;</p>
 </li>
 <li>
 <p>There has been a transaction which resulted in changes to the entity’s
