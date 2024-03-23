@@ -240,7 +240,7 @@ tied to it.&nbsp;</p>
 <br>Hence, a party entering into any such arrangement will need to notify
 or seek approval if the equity interest meets the prescribed thresholds.</p>
 <p>
-<br>Parties can refer to &lt;OSIR website - ownership &amp; control obligations
+<br>Please refer to &lt;OSIR website - ownership &amp; control obligations
 subpage&gt; for the prescribed thresholds. The thresholds are default thresholds
 and may differ for specific entities.</p>
 </div>
