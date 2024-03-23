@@ -219,7 +219,7 @@ over the designated entity or otherwise, must comply with the obligations
 under the Significant Investments Review Act if they meet the prescribed
 thresholds.&nbsp;</p>
 <p>
-<br>Parties can refer to &lt;OSIR website - ownership &amp; control obligations
+<br>Please refer to &lt;OSIR website - ownership &amp; control obligations
 subpage&gt; for the prescribed thresholds. The thresholds are default thresholds
 and may differ for specific entities.</p>
 </div>
