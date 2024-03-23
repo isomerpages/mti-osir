@@ -11,13 +11,13 @@ of designated entities.</p>
 <h4>For Buyers:</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>When becoming 12%, 25% or 50% controller</p>
+<p>Prior to becoming 12%, 25% or 50% controller</p>
 </li>
 <li>
-<p>When becoming an indirect controller</p>
+<p>Prior to becoming an indirect controller</p>
 </li>
 <li>
-<p>For acquisition as a going concern of (any part of) the business or undertaking</p>
+<p>Prior to acquiring as a going concern (any part of) the business or undertaking</p>
 <p></p>
 <p>Click <a href="/files/Approvals/11__Application_to_Minister_by_Controller_v2__ddd_.pdf" rel="noopener noreferrer nofollow" target="_blank">here </a>for
 Form 11 - Application to Minister by Controller
@@ -30,7 +30,7 @@ Form 3 - Application for Approval of Business Acquisition
 <h4>For Sellers:</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>When ceasing to be 50% or 75% controller
+<p>Prior to ceasing to be 50% or 75% controller
 <br>Click <a href="/files/Approvals/2__Application_for_Approval_of_Business_Sale_by_Designated_Entity_v2__jh_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 Form 2 - Application for Approval of Cessation of Control
 <br><em>Form is to be updated</em>
