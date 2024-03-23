@@ -203,8 +203,8 @@ not participating in a share issuance; or</p>
 not participating in a share buyback.</p>
 </li>
 </ul>
-<p>
-<br>Parties can refer to &lt;OSIR website - ownership &amp; control obligations
+<p></p>
+<p>Please refer to &lt;OSIR website - ownership &amp; control obligations
 subpage&gt; for the prescribed thresholds. The thresholds are default thresholds
 and may differ for specific entities.</p>
 </div>
