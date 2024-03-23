@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h3>Criteria to submit notifications</h3>
-<p>&lt;to align with cleared FAQ&gt;</p>
+<p>&lt;do we want to include the timeline for submission of the forms&gt;</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Potential buyers are to notify when becoming 5% controller, given that
