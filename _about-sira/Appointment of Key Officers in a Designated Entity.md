@@ -28,8 +28,6 @@ the Minister may consider factors such as:</p>
 <li>
 <p>Financial soundness;</p>
 </li>
-</ul>
-<ul>
 <li>
 <p>Honesty, integrity and reputation;</p>
 </li>
