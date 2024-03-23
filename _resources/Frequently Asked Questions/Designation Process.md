@@ -99,7 +99,10 @@ website – Designated Entities subpage&gt;.</summary>
 necessary in the interests of Singapore’s national security. Various factors
 will be taken into consideration in deciding which entities should be considered
 for designation. These include: Whether the entity provides a critical
-function in relation to Singapore’s national security interests; and</summary>
+function in relation to Singapore’s national security interests; and Whether
+the entity is adequately covered by sectoral legislation. Should a designated
+entity subsequently cease to meet these criteria, cancellation of its designation
+may be possible.</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
