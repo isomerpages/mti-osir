@@ -48,15 +48,14 @@ sections:
       id: textcards
       cards:
         - title: Guidance Documents
-          description: Infographics and process workflows on the regulatory requirements
-            under SIRA.
+          description: Infographics and step-by-step workflows on SIRA requirements.
           linktext: Learn more.
           url: /resources/guidance-documents
         - title: Frequently Asked Questions
-          description: For Designated Entities, Investors and General Public.
+          description: For Designated Entities, Investors and Owners.
           linktext: Learn more
           url: /faqs/
-        - title: Other Legislations
+        - title: Other Legislation
           description: Sectoral and other legislation with similar provisions found in SIRA.
           linktext: Learn more
           url: /resources/other-legislations/sector-legislation/
