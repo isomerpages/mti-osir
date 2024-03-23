@@ -71,6 +71,30 @@ also maintains and publishes an updated list of designated entities at
 &lt;OSIR website – Designated Entities subpage&gt;.</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary>Can an entity be retrospectively designated?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Entities cannot be retrospectively designated.&nbsp;</p>
+<p></p>
+<p>Relevant provisions on designation will only apply to a designated entity
+from the point of designation and until such time that the designation
+is cancelled.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Can an entity apply for reconsideration or appeal against a designation,
+and will the entity remain designated pending the outcome of these processes?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Parties can seek reconsideration from the Minister within 14 days after
+his decision on designation; after which, they may appeal to a Reviewing
+Tribunal within 30 days after the reconsideration outcome.&nbsp;</p>
+<p></p>
+<p>The Minister’s decision to designate the entity remains in effect, and
+must be complied with, until it is cancelled or substituted on reconsideration.
+The Minister’s reconsideration decision remains in effect until and unless
+it is reversed on appeal.</p>
+</div>
+</details>
 </div>
 <p>
 <br>
