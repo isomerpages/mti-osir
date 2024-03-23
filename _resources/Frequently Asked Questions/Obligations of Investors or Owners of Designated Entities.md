@@ -97,5 +97,79 @@ flow on the disposal of equity interest or voting power in a designated
 entity.</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary>What are the obligations when <u>buying a business</u> from a designated
+entity?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The acquiror, together with the designated entity will need to seek approval
+from the Minister prior to the acquisition, as a going concern, of (any
+part of) the business or undertaking of the designated entity.&nbsp;</p>
+<p>
+<br>Parties may wish to refer here &lt;link to CJM&gt; for a step-by-step
+process flow.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Are the notification and approval obligations applicable to divestments,
+mergers, and acquisitions?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Regardless of the form of transaction, whenever a prescribed ownership
+or control threshold is met, or will be met, the relevant notification
+or approval obligation will apply.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Is notification or approval needed if a transaction was only completed
+after the entity’s designation date, but was entered into before it was
+designated?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Notification or approval would only need to be sought if:</p>
+<ul>
+<li>
+<p>The transaction was entered into on, or after the designation date of
+the entity; and&nbsp;</p>
+</li>
+<li>
+<p>If the transaction meets the prescribed ownership and control thresholds.&nbsp;</p>
+</li>
+</ul>
+<p>
+<br>Please refer to &lt;Ownership &amp; control obligations CJM&gt; for the
+prescribed ownership or control thresholds. The thresholds are default
+thresholds and may differ for specific entities.</p>
+<p>
+<br>If any clarification is required, parties may contact OSIR at <a href="mailto:contact@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>contact@osir.gov.sg</u></a>
+</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Is notification or approval needed if a party is investing into a holding
+company of a designated entity?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Whether an intermediate holding company or an ultimate parent company
+will be subject to the ownership and control obligations in the Bill is
+fact-specific, depending on the extent and nature of control they have
+in the designated entity.&nbsp;</p>
+<p>
+<br>For example, where an intermediate holding company or an ultimate parent
+company owner’s total investment holding reaches a prescribed threshold,
+the relevant notification or approval obligations may apply.&nbsp;</p>
+<p>
+<br>The obligations of a potential investor, intermediate holding company
+or an ultimate parent company to notify or seek approval apply regardless
+of whether the actions were the result of the intermediate holding company,
+the ultimate parent company or any other party.&nbsp;</p>
+<p></p>
+<p>Please refer to &lt;OSIR website - ownership &amp; control obligations
+subpage&gt; for the prescribed thresholds. The thresholds are default thresholds
+and may differ for specific entities.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
 </div>
 <p></p>
