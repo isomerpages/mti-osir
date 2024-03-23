@@ -54,7 +54,7 @@ sections:
       id: textcards
       cards:
         - title: Guidance Documents
-          description: Further guidance on SIRA requirements.
+          description: ""
           linktext: Learn more.
           url: /resources/guidance-documents
         - title: Frequently Asked Questions
