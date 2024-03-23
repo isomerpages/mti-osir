@@ -23,7 +23,7 @@ contacts:
   - content:
       - phone: ""
       - email: submissions@osir.gov.sg
-      - other: ""
+      - other: Please submit forms and requests under SIRA to this email.
     title: Submissions
   - content:
       - phone: ""
