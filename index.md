@@ -69,5 +69,4 @@ sections:
       title: Contact us
       id: infobar
       url: /contact-us/
-      button: Here
 ---
