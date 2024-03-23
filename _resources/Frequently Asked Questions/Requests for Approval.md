@@ -104,5 +104,34 @@ that it is in the interest of Singapore’s national security to do so.</p>
 Investments Review Act.</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary>What does it mean for a transaction to be void?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>A transaction which is void has no legal effect and is unenforceable.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Can multiple parties submit a single application for the same transaction?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The Significant Investments Review Act has been designed to be business-friendly.&nbsp;</p>
+<p></p>
+<p>If multiple parties to a particular transaction wish to submit a consolidated
+notification or application for approval (as applicable to their respective
+scenarios), they may do so.</p>
+<p></p>
+<p>They will need to provide appropriate evidence of authorisation that the
+party responsible for the submission is doing so on behalf of the relevant
+parties.</p>
+<p></p>
+<p>Parties may seek clarification from OSIR at <a href="mailto:contact@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>contact@osir.gov.sg</u></a> before
+the commencement of any formal application.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Are there any filing fees for notifications or application for approvals?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>There are no filing fees.</p>
+</div>
+</details>
 </div>
 <p></p>
