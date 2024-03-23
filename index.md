@@ -17,13 +17,22 @@ sections:
         - title: About the Significant Investments Review Act (SIRA)
           description: ""
           url: /overview-of-sira/sira/
-  - infobar:
+  - textcards:
       title: Designation
-      button: List of Designated Entities
-      url: /designation/designated-entities/
+      subtitle: Add informational text
+      id: textcards
+      description: Text card description
+      cards:
+        - title: List of Designated Entities
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Designation Process
+          description: Card description
+          linktext: Learn more
+          url: ""
   - textcards:
       title: Forms
-      subtitle: Submissions to OSIR
       id: textcards
       cards:
         - title: Notification Forms
@@ -44,7 +53,6 @@ sections:
           url: /reconsideration-forms/
   - textcards:
       title: Resources
-      subtitle: Supplementary Information
       id: textcards
       cards:
         - title: Guidance Documents
@@ -59,15 +67,9 @@ sections:
           description: Sectoral and other legislation with similar provisions found in SIRA.
           linktext: Learn more
           url: /resources/other-legislations/sector-legislation/
-  - resources:
-      title: Latest Commission's Updates
-      subtitle: Be Updated
-      id: resources
-      button: More
   - infobar:
       title: Contact us
       id: infobar
       url: /contact-us/
-      subtitle: You may
       button: Here
 ---
