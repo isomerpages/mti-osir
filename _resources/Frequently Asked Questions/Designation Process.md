@@ -9,7 +9,9 @@ third_nav_title: Frequently Asked Questions
 <details class="isomer-details">
 <summary>Which entities have been designated?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>All designation of entities will be notified in the &lt;Gazette link&gt;.
+OSIR also maintains and publishes a list of designated entities at &lt;DE
+subpage&gt;.</p>
 </div>
 </details>
 <details class="isomer-details">
