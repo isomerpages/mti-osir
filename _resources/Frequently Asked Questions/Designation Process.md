@@ -29,14 +29,15 @@ necessary in the interests of Singapore’s national security.&nbsp;</summary>
 <p></p>
 </div>
 </details>
-<p>
-<br>
-</p>
-<p>Various factors will be taken into consideration in deciding which entities
-should be considered for designation. These include:</p>
-<p>
-<br>
-</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>testing</p>
+</li>
+<li>
+<p>testing
+<br>testing</p>
+</li>
+</ul>
 <details class="isomer-details">
 <summary></summary>
 <div data-type="detailsContent" class="isomer-details-content">
