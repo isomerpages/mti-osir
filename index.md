@@ -11,11 +11,11 @@ sections:
       title: Office of Significant Investments Review
       background: /images/shutterstock_1297087753_resized.jpg
       key_highlights:
-        - title: About Office of Significant Investments Review
-          description: More information on OSIR
+        - title: About The Office Of Significant Investments Review (OSIR)
+          description: ""
           url: /about-osir/
-        - title: About Significant Investments Review Act
-          description: More information on SIRA
+        - title: About the Significant Investments Review Act (SIRA)
+          description: ""
           url: /overview-of-sira/sira/
   - infobar:
       title: Designation
