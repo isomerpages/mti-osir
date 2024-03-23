@@ -21,6 +21,25 @@ partnership; and</p>
 <p>A partner of a designated entity that is a partnership.</p>
 </li>
 </ul>
+<p></p>
+<p>In assessing whether the appointment of a key officer should be approved,
+the Minister may consider factors such as:</p>
+<ul>
+<li>
+<p>Financial soundness;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Honesty, integrity and reputation;</p>
+</li>
+<li>
+<p>Potential impact on national security interests.</p>
+</li>
+</ul>
+<p>Minster may also consider any other relevant matter and will convey these
+requirements to the designated entity in writing.</p>
+<p></p>
 <p>Please refer to the step-by-step process below on appointing key officers
 in a designated entity.</p>
 <p>&lt;Insert CJM&gt;</p>
