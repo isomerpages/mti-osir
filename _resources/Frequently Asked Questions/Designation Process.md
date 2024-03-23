@@ -98,7 +98,19 @@ website – Designated Entities subpage&gt;.</summary>
 <summary>Designation is not a process treated lightly and is only done when deemed
 necessary in the interests of Singapore’s national security. Various factors
 will be taken into consideration in deciding which entities should be considered
-for designation. These include:</summary>
+for designation. These include: Whether the entity provides a critical
+function in relation to Singapore’s national security interests; and</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<ul>
+<li>
+<p>Whether the entity is adequately covered by sectoral legislation.</p>
+</li>
+</ul>
+<details class="isomer-details">
+<summary></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -121,6 +133,35 @@ to meet these criteria, cancellation of its designation may be possible.</summar
 </details>
 <details class="isomer-details">
 <summary>What is the designation process?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Unless considered to be not practicable or desirable to do so, before
+the Minister designates any entity, notice will be given to the entity
+of the Minister’s intent to designate it and the entity will be given at
+least 14 days after the date of the notice to make representations on the
+proposed designation.</p>
+<p>
+<br>Once a designation is made, as far as practicable, the Minister will notify
+the designated entity and any other parties who, in the Minister’s opinion,
+ought to have notice of the designation. Any designation, or cancellation
+of designation, will be notified in the Gazette.</p>
+<p>
+<br>
+</p>
+<p>Parties can seek reconsideration from the Minister within 14 days after
+his decisions; after which, they may appeal to a Reviewing Tribunal within
+30 days after the reconsideration outcome.</p>
+<p>
+<br>
+</p>
+<p>Please refer to &lt; Designation of entity CJM&gt; for a step-by-step
+process flow.</p>
+<p>
+<br>
+</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
