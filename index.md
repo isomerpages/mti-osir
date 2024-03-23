@@ -34,19 +34,19 @@ sections:
       id: textcards
       cards:
         - title: Notification Forms
-          description: Find out how to submit notification forms
+          description: ""
           linktext: Learn more
           url: /notifications
         - title: Approval Forms
-          description: Find out how to submit approval forms
+          description: ""
           linktext: Learn more
           url: /approvals
         - title: Validation Forms
-          description: Find out how to submit validation forms
+          description: ""
           linktext: Learn more
           url: /validation-forms/
         - title: Reconsideration Forms
-          description: Find out how to submit reconsideration forms
+          description: ""
           linktext: Learn more
           url: /reconsideration-forms/
   - textcards:
