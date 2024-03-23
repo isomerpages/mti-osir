@@ -100,5 +100,49 @@ the Minister may consider factors such as:</p>
 requirements to the designated entity in writing.</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary>How long will it take to know the outcome of a request for approval?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>OSIR will process all applications promptly. Applicants would be notified
+should more time or documents be required. Applicants can contact OSIR
+regarding the status or next steps of their application.</p>
+<p>Business or investors may contact <a href="mailto:contact@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>contact@osir.gov.sg</u></a> on any
+clarifications prior to the commencement of any formal application.</p>
+<p>Please may refer to the pages below for the step-by-step process flows
+for:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>&lt;Acquiring equity interest or voting power in a Designated Entity CJM&gt;</p>
+</li>
+<li>
+<p>&lt;Disposal of equity interest or voting power in a designated entity
+CJM&gt;</p>
+</li>
+<li>
+<p>&lt;Acquisition, as a going concern, of any part of the business or undertaking
+of a designated entity CJM&gt;</p>
+</li>
+<li>
+<p>&lt;Appointment of key officers in a designated entity CJM&gt;</p>
+</li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary>What is a Special Administration Order and under what circumstances will
+it be issued on a designated entity?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Special Administration Orders (SAO) will only be exercised in the interest
+of security and reliability of the continued provisioning of critical functions
+by the designated entity, or when it is necessary in Singapore’s national
+security interests.</p>
+<p></p>
+<p>The Minister may issue SAOs to direct the takeover of control of the affairs,
+businesses, and property of a designated entity by another party. Other
+orders can also be issued, such as directing the designated entity to immediately
+take or cease any action; or appointing a person to advise the designated
+entity in the proper conduct of its businesses or undertaking.</p>
+</div>
+</details>
 </div>
 <p></p>
