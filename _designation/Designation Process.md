@@ -7,16 +7,16 @@ description: Designation Process
 <h4><strong>Designation Process</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Entity considered for designation under SIRA will be formally notified
+<p>Entities considered for designation under SIRA will be formally notified
 with a Notice of Intention to Designate. Entities will be given the opportunity
 to make representations relating to their potential designation.</p>
 <p></p>
 </li>
 <li>
-<p>If the eventual decision is to proceed with designation, the entity would
+<p>If the eventual decision is to proceed with designation, the entity will
 be issued a Designation Order and their designation status will be notified
 in the Government Gazette <strong><u>here</u></strong>. The Designation
-Order may contain information specific to your designation.</p>
+Order may contain information specific to each designated entity.</p>
 <p></p>
 </li>
 <li>
@@ -28,12 +28,26 @@ in the Government Gazette.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Designation_of_Entity.jpg">
 </div>
 <hr>
+<h4><strong>Designation Criteria</strong></h4>
+<p>Designation is not a process treated lightly and is only done when deemed
+necessary in the interests of Singapore’s national security.&nbsp;</p>
+<p>Various factors will be taken into consideration in deciding which entities
+should be considered for designation. These include:</p>
+<ul>
+<li>
+<p>Whether the entity provides a critical function in relation to Singapore’s
+national security interests; and</p>
+</li>
+<li>
+<p>Whether the entity is adequately covered by sectoral legislation.</p>
+<hr>
+</li>
+</ul>
 <h4><strong>Cancellation of Designation</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>MTI will regularly review the list of designated entities, and these entities
-may also engage OSIR to request for a review of their designation status.</p>
-<p></p>
+<p>Should a designated entity cease to meet the criteria for designation,
+cancellation of its designation may be possible.</p>
 </li>
 <li>
 <p>Any designation, or cancellation of designation, will be published in
