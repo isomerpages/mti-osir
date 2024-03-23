@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Other Legislation
 ---
-<h4><strong>Insolvency, Restructuring and Dissolution Act 2018</strong></h4>
 <p>The Insolvency, Restructuring and Dissolution Act 2018 ("IRDA") is an
 omnibus Act that covers corporate and personal insolvency and debt restructuring
 laws.</p>
@@ -17,6 +16,6 @@ security or interest".</p>
 on the aforementioned ground, the Minister may also apply under section
 125(5) for orders, pending the hearing of the winding up application, to
 restrain the company and its directors, officers and employees from carrying
-out specfied activities. Contravention of such orders is an offence punishable
+out specified activities. Contravention of such orders is an offence punishable
 with a fine not exceeding $10,000 or imprisonment not exceeding 2 years
 or both. The full text of the IRDA is available <a href="https://sso.agc.gov.sg/Act/IRDA2018" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
