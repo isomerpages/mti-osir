@@ -2,6 +2,7 @@ collections:
   about-sira:
     output: true
     order:
+      - Disposal of Equity Interest or Voting Power in a Designated Entity.md
       - Acquiring Equity Interest or Voting Power in a Designated Entity.md
       - Significant Investments Review Act.md
       - Overview of Ownership and Control Obligations.md
