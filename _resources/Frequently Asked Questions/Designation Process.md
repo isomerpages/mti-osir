@@ -22,36 +22,23 @@ website – Designated Entities subpage&gt;.</summary>
 <details class="isomer-details">
 <summary>What are the considerations in designating an entity?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<details class="isomer-details">
-<summary>Designation is not a process treated lightly and is only done when deemed
-necessary in the interests of Singapore’s national security.&nbsp;</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<p>Designation is not a process treated lightly and is only done when deemed
+necessary in the interests of Singapore’s national security.&nbsp;</p>
 <p></p>
-</div>
-</details>
+<p>Various factors will be taken into consideration in deciding which entities
+should be considered for designation. These include:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>testing</p>
+<p>Whether the entity provides a critical function in relation to Singapore’s
+national security interests; and</p>
 </li>
 <li>
-<p>testing
-<br>testing</p>
+<p>Whether the entity is adequately covered by sectoral legislation.</p>
+<p></p>
 </li>
 </ul>
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<details class="isomer-details">
-<summary>Whether the entity provides a critical function in relation to Singapore’s
-national security interests; and Whether the entity is adequately covered
-by sectoral legislation. Should a designated entity subsequently cease
-to meet these criteria, cancellation of its designation may be possible.</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
-</details>
+<p>Should a designated entity subsequently cease to meet these criteria,
+cancellation of its designation may be possible.</p>
 </div>
 </details>
 <details class="isomer-details">
