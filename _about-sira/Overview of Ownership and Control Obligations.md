@@ -24,53 +24,5 @@ are automatically rendered void.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="400" alt="" src="/images/ownership_and_control_obligations.jpg">
 </div>
-<ul>
-<li>
-<p>Acquiring equity interest or voting power in a designated entity</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="400" alt="" src="/images/Acquiring_Interest.jpg">
-</div>
-</li>
-<li>
-<p>Disposal of equity interest or voting power in a designated entity</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="400" alt="" src="/images/Disposal_of_Interest.jpg">
-</div>
-</li>
-<li>
-<p>Acquisition of any part of the business or undertaking, as a going concern,
-of a designated entity</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="400" alt="" src="/images/Acquisition.jpg">
-</div>
-</li>
-<li>
-<p>Appointment of key officers in a designated entity</p>
-<p>Under section 27(1) of SIRA, a designated entity must obtain prior approval
-from the Minister to appoint key officers. Key officers refer to:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>A chief executive officer, director, or chairperson of the board of directors
-of a designated entity that is a corporation;</p>
-</li>
-<li>
-<p>A manager, or a partner of a designated entity that is a limited liability
-partnership; and</p>
-</li>
-<li>
-<p>A partner of a designated entity that is a partnership.</p>
-</li>
-</ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="400" alt="" src="/images/Appt_of_Key_Officers.jpg">
-</div>
-<p><strong>Removal of key officers in a designated entity</strong>
-</p>
-<p>Under section 28 of SIRA, if a key officer of a designated entity was
-appointed without the necessary approval, or if any condition of approval
-has been breached, the appointed key officer can be removed. The Minister
-can also remove any key officer if deemed necessary in the interest of
-national security.</p>
-</li>
-</ul>
+<p></p>
 <p></p>
