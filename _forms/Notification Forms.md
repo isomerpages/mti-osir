@@ -5,18 +5,17 @@ variant: tiptap
 description: ""
 ---
 <h3>Criteria to submit notifications</h3>
-<p>&lt;do we want to include the timeline for submission of the forms&gt;</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Potential buyers are to notify when becoming 5% controller, given that
-they can influence and direct actions of the Designated Entities.</p>
+<p>Potential buyers are to notify within 7 calendar days after becoming a
+5% controller.</p>
 <p>Click <a href="/files/Notifications/10__Notice_to_Minister_by_Level_A_Controller_v2__ddd___wl_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 Form 10 - Notice to Minister by Level "A" Controller</p>
 <p></p>
 </li>
 <li>
-<p>Designated entities have to notify Minister after becoming aware of the
-ownership or control changes.</p>
+<p>Designated entities have to notify Minister within 7 days after becoming
+aware of a change in ownership or control.</p>
 <p></p>
 <p>Click <a href="/files/Notifications/6__Notice_to_Minister_by_Designated_Entity_for_OC_changes_v1__jh_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 Form 6 - Notice to Minister by Designated Entity for Ownership and Control
