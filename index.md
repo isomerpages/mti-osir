@@ -21,7 +21,7 @@ sections:
       title: Designation
       id: textcards
       cards:
-        - title: Designated Entities
+        - title: List of Designated Entities
           description: ""
           linktext: Learn more
           url: ""
