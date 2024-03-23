@@ -9,14 +9,7 @@ third_nav_title: Frequently Asked Questions
 <details class="isomer-details">
 <summary>Which entities have been designated?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<details class="isomer-details">
-<summary>All designation of entities will be notified in the Gazette. OSIR also
-maintains and publishes an updated list of designated entities at &lt;OSIR
-website – Designated Entities subpage&gt;.</summary>
-<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-</div>
-</details>
 </div>
 </details>
 <details class="isomer-details">
@@ -65,9 +58,15 @@ process flow.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary>How long will a designated entity be designated for?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Once designated, an entity will remain designated until its designation
+is cancelled.
+<br>
+</p>
+<p>Any cancellation of designation will be notified in the Gazette. OSIR
+also maintains and publishes an updated list of designated entities at
+&lt;OSIR website – Designated Entities subpage&gt;.</p>
 </div>
 </details>
 </div>
