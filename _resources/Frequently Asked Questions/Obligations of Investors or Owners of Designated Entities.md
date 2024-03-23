@@ -49,8 +49,8 @@ a going concern.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>What are the prescribed thresholds for notification or approval for <u>acquisition of equity interest or voting power</u> in
-a designated entity?</summary>
+<summary>What are the prescribed thresholds for notification or approval for acquisition
+of equity interest or voting power in a designated entity?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Parties will need to notify or seek approval if they are involved in transactions
 that meet the prescribed thresholds for the designated entities.</p>
@@ -81,8 +81,8 @@ process flow.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>What are the prescribed thresholds for notification or approval for the <u>sale of equity interest or voting power</u> in
-a designated entity?</summary>
+<summary>What are the prescribed thresholds for notification or approval for the
+sale of equity interest or voting power in a designated entity?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Parties will need to seek approval from the Minister prior to disposing
 equity interest or voting power in a designated entity which will result
@@ -98,8 +98,7 @@ entity.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>What are the obligations when <u>buying a business</u> from a designated
-entity?</summary>
+<summary>What are the obligations when buying a business from a designated entity?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The acquiror, together with the designated entity will need to seek approval
 from the Minister prior to the acquisition, as a going concern, of (any
