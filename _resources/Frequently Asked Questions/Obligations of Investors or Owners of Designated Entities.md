@@ -99,7 +99,7 @@ entity.</p>
 <details class="isomer-details">
 <summary>What are the obligations when buying a business from a designated entity?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The acquiror, together with the designated entity will need to seek approval
+<p>The acquiror, together with the designated entity, will need to seek approval
 from the Minister prior to the acquisition, as a going concern, of (any
 part of) the business or undertaking of the designated entity.&nbsp;</p>
 <p>
