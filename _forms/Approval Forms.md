@@ -4,7 +4,7 @@ permalink: /forms/approval-forms/
 variant: tiptap
 description: ""
 ---
-<h3>Criteria to seek approvals</h3>
+<h4><strong>Approval Forms</strong></h4>
 <p>Potential buyers and sellers are to seek Minister's approval under the
 following circumstances, given that they can influence and direct actions
 of designated entities.</p>
