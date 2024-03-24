@@ -58,7 +58,7 @@ sections:
           linktext: Learn more.
           url: /resources/guidance-documents
         - title: Frequently Asked Questions
-          description: For Designated Entities, Investors and Owners.
+          description: For Designated Entities, Investors, and Controllers.
           linktext: Learn more
           url: /faqs/
         - title: Other Legislation
