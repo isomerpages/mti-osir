@@ -96,7 +96,8 @@ or "Z" controller of the designated entity</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Designated</p>
+<p>Designated entities are to seek approval before appointing key officers
+in the designated entity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form 1</p>
