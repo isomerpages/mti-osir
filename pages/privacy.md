@@ -51,7 +51,7 @@ you to consult the privacy notices of those sites.</p>
 <p></p>
 </li>
 <li>
-<p>Please contact&nbsp;contact@osir.gov.sg&nbsp;if you:</p>
+<p>Please contact&nbsp;<a href="mailto:contact@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact@osir.gov.sg</a>&nbsp;if you:</p>
 <p>(a) Have any enquires or feedback on our data protection policies and
 procedures,</p>
 <p>(b) Need more information on or access to data which you have provided
