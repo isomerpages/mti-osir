@@ -20,7 +20,7 @@ of a designated entity.</p>
 <p>While the above are default thresholds set out in the Act, the Minister
 has the flexibility to vary such thresholds for specific entities as the
 situation warrants, and if so, these will be prescribed in subsidiary legislation.</p>
-<p>Please refer to the step-by-step process below on acquiring equity interest
+<p>Kindly refer to the step-by-step process below on acquiring equity interest
 or voting power in a designated entity.</p>
 <p>Parties may seek clarification from OSIR at <a href="mailto:contact@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>contact@osir.gov.sg</u></a> before
 the commencement of any formal application.</p>
