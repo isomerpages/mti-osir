@@ -37,8 +37,7 @@ the Minister may consider factors such as:</p>
 </ul>
 <p>Minster may also consider any other relevant matter and will convey these
 requirements to the designated entity in writing.</p>
-<p></p>
-<p>Please refer to the step-by-step process below on appointing key officers
+<p>Kindly refer to the step-by-step process below on appointing key officers
 in a designated entity.</p>
 <p>&lt;Insert CJM&gt;</p>
 <p></p>
