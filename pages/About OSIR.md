@@ -8,12 +8,11 @@ description: Description of Office of Significant Investments Review (OSIR)
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTI_OSIR_Logo_Full_Colour__CMYK_.jpg">
 </div>
 <h4><strong>About OSIR</strong></h4>
-<p><strong>&lt;To align with the blurb about OSIR/SIRA on MTI website&gt;</strong> The
-Office of Significant Investments Review (OSIR), situated within the Ministry
-of Trade and Industry (MTI), is responsible for the administration of the
-Significant Investments Review Act (SIRA). The Office serves as a dedicated
-one-stop touchpoint for stakeholders for guidance and clarifications on
-SIRA.</p>
+<p>The Office of Significant Investments Review (OSIR), situated within the
+Ministry of Trade and Industry (MTI), is responsible for the administration
+of the Significant Investments Review Act (SIRA). SIRA complements existing
+sectoral legislation and manages significant investments into critical
+entities, to safeguard Singapore's national security interests.</p>
 <hr>
 <h4><strong>About MTI</strong></h4>
 <p><strong>Our Vision&nbsp;</strong>
