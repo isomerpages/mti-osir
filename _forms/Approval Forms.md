@@ -4,74 +4,105 @@ permalink: /forms/approval-forms/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Approval Forms</strong></h4>
-<p>Potential buyers and sellers are to seek Minister's approval under the
-following circumstances, given that they can influence and direct actions
-of designated entities.</p>
-<h4>For Buyers:</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>Prior to becoming 12%, 25% or 50% controller</p>
-</li>
-<li>
-<p>Prior to becoming an indirect controller</p>
-</li>
-<li>
-<p>Prior to acquiring as a going concern (any part of) the business or undertaking</p>
+<h4><strong>Potential &amp; Existing Investors or Acquirors</strong></h4>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Description</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Forms</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Potential buyers are to seek approval prior to becoming a Level "B" controller
+of the designated entity</p>
+</td>
+<td rowspan="4" colspan="1">
+<p>Form 11</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Potential buyers are to seek approval prior to becoming a Level "C" controller
+of the designated entity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Potential buyers are to seek approval prior to becoming a Level "D" controller
+of the designated entity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Potential buyers are to seek approval prior to becoming an indirect controller
+of the designated entity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Potential buyers are to seek approval prior to acquiring, as a going concern,
+any part of the business or undertaking of the designated entity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form 3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
-<p>Click <a href="/files/Approvals/11__Application_to_Minister_by_Controller_v2__ddd_.pdf" rel="noopener noreferrer nofollow" target="_blank">here </a>for
-Form 11 - Application to Minister by Controller
-<br>Click <a href="/files/Approvals/3__Application_for_Approval_of_Business_Acquisition_v2__jh_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-Form 3 - Application for Approval of Business Acquisition
-<br><em>Forms are to be updated</em>
-</p>
-</li>
-</ul>
-<h4>For Sellers:</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>Prior to ceasing to be 50% or 75% controller
-<br>Click <a href="/files/Approvals/2__Application_for_Approval_of_Business_Sale_by_Designated_Entity_v2__jh_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-Form 2 - Application for Approval of Cessation of Control
-<br><em>Form is to be updated</em>
-</p>
-</li>
-</ul>
-<h4>For Designated Entities prior to Appointment of Key Officers:</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>Key officers refer to:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>In the case of corporations: Chief Executive Officer, Directors. Chairperson
-of the Board of Directors</p>
-</li>
-<li>
-<p>In the case of limited liability partnerships: Manager, Partner</p>
-</li>
-<li>
-<p>In the case of partnerships, Partner.</p>
-</li>
-</ul>
-</li>
-<li>
-<p>Key oficers of Designated Entities may be removed under the following
-circumstances:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>If they have been appointed without the necessary prior approval; or</p>
-</li>
-<li>
-<p>If any condition of the approval is breached; or</p>
-</li>
-<li>
-<p>If necessary, in the interest of national security.</p>
-</li>
-</ul>
-</li>
-</ul>
-<p>Click <a href="/files/1__Application_for_Appointment_of_Key_Officers_v2__ddd___jh__wl_.pdf" rel="noopener noreferrer nofollow" target="_blank">here </a>for
-Form 1 - Application for Approval of Key officer
-<br><em>Form is to be updated</em>
-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Existing Investors</strong></h4>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Description</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Forms</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Existing investors are to seek approval before ceasing to be a Level "Y"
+or "Z" controller of the designated entity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form 2</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>For Designated Entities prior to appointing of Key Officers</strong></h4>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Description</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Forms</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Designated</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form 1</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p></p>
