@@ -4,7 +4,6 @@ permalink: /overview-of-sira/ownership-and-control-obligations/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Overview of Ownership and Control Obligations</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="400" alt="" src="/images/ownership_and_control_obligations.jpg">
 </div>
