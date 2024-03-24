@@ -77,7 +77,7 @@ The Website.</p>
 <p>Materials, including source code, pages, documents and online graphics,
 audio and video in The Website are protected by law. The intellectual property
 rights in the materials is owned by or licensed to us. All rights reserved.
-(Government of Singapore © 2006).</p>
+(Government of Singapore © 2024).</p>
 <p></p>
 <p>Apart from any fair dealings for the purposes of private study, research,
 criticism or review, as permitted in law, no part of The Website may be
