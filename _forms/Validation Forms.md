@@ -4,9 +4,6 @@ permalink: /forms/validation-forms/
 variant: tiptap
 description: ""
 ---
-<h3>Application for Validation</h3>
-<ul data-tight="true" class="tight">
-<li>
 <p>Transactions that occur without the necessary prior approvals will be
 rendered void. However, void transactions can be retrospectively validated
 in some cases:</p>
@@ -19,16 +16,42 @@ in some cases:</p>
 security.</p>
 </li>
 </ul>
-<p>Click <a href="/files/Approvals/7__Application_for_Validation_of_Business_Acquisition_v2__ddd_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-Form 7 - Application for Validation of Business Acquisition
-<br>Click <a href="/files/8__Application_for_Validation_of_Controller_v2__ddd__wl_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-Form 8 - Application for Validation of Controller
-<br>Click <a href="/files/Approvals/9__Application_for_Validation_of_Cessation_of_Control_v2__ddd_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-Form 9 - Application for Validation of Cessation of Control</p>
-<p><em>Forms are to be updated</em>
-</p>
-</li>
-</ul>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Description</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Forms</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Application for Validation of Business Acquisition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form 7</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Application for Validation of Controller</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form 8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Application for Validation of Cessation of Control</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form 9</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>
 <br>
 </p>
