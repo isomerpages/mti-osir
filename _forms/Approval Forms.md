@@ -75,7 +75,7 @@ or "Z" controller of the designated entity</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Designated entities - Appointment of key officers</strong></h4>
+<h4><strong>Designated Entities - Appointment of key officers</strong></h4>
 <table>
 <tbody>
 <tr>
