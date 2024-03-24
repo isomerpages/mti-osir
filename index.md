@@ -55,7 +55,7 @@ sections:
       cards:
         - title: Guidance Documents
           description: ""
-          linktext: Learn more.
+          linktext: Learn more
           url: /resources/guidance-documents
         - title: Frequently Asked Questions
           description: For designated entities, existing and potential investors.
