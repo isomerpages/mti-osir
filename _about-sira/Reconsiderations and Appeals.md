@@ -20,7 +20,7 @@ reconsideration application made, until it is suspended, varied, or cancelled
 (as the case may be).</p>
 <h4><strong>Appeals</strong></h4>
 <p>Parties may wish to further appeal against the Minister's reconsideration
-decision to an independent Reviewing Tribunal <strong><u>within 30 calendar days</u></strong> of
+decision to an independent Reviewing Tribunal within 30 calendar days of
 reconsideration decision.</p>
 <p>The Minister's reconsideration decision remains in effect until it is
 reversed on appeal. A Reviewing Tribunal's decision is final.</p>
