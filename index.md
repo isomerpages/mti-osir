@@ -64,7 +64,7 @@ sections:
         - title: Frequently Asked Questions
           description: For designated entities, existing and potential investors.
           linktext: Learn more
-          url: /faqs/
+          url: /resources/faqs
         - title: Other Legislation
           description: Sectoral and other legislation with similar provisions found in SIRA.
           linktext: Learn more
