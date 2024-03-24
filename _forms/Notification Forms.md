@@ -4,24 +4,36 @@ permalink: /forms/notification-forms/
 variant: tiptap
 description: ""
 ---
-<h3>Criteria to submit notifications</h3>
-<ol data-tight="true" class="tight">
-<li>
+<h4><strong>Notification Forms</strong></h4>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Description</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Forms</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Potential buyers are to notify within 7 calendar days after becoming a
-5% controller.</p>
-<p>Click <a href="/files/Notifications/10__Notice_to_Minister_by_Level_A_Controller_v2__ddd___wl_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-Form 10 - Notice to Minister by Level "A" Controller</p>
-<p></p>
-</li>
-<li>
+Level "A" controller</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form 10</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Designated entities have to notify Minister within 7 days after becoming
 aware of a change in ownership or control.</p>
-<p></p>
-<p>Click <a href="/files/Notifications/6__Notice_to_Minister_by_Designated_Entity_for_OC_changes_v1__jh_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-Form 6 - Notice to Minister by Designated Entity for Ownership and Control
-Changes</p>
-<p></p>
-</li>
-</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form 6</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
