@@ -17,14 +17,14 @@ locations:
 contacts:
   - content:
       - phone: ""
-      - email: contact@osir.gov.sg
-      - other: ""
-    title: General Enquiries & Feedback
-  - content:
-      - phone: ""
       - email: submissions@osir.gov.sg
       - other: Please submit forms and requests relating to SIRA to this email.
     title: Submissions
+  - content:
+      - phone: ""
+      - email: contact@osir.gov.sg
+      - other: ""
+    title: General Enquiries & Feedback
   - content:
       - phone: ""
       - email: confidential@osir.gov.sg
