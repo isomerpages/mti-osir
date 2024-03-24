@@ -11,8 +11,7 @@ third_nav_title: Frequently Asked Questions
 relating to designated entities?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Notification or approval obligations are imposed on:</p>
-<p>
-<br><u>Prospective controllers of designated entities</u>
+<p><u>Prospective controllers of designated entities</u>
 </p>
 <ul>
 <li>
