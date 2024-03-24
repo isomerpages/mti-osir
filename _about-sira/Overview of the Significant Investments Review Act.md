@@ -28,5 +28,8 @@ the following via Singapore Statutes Online:</p>
 <p><a href="https://sso.agc.gov.sg//Act/POFMA2019" rel="noopener noreferrer nofollow" target="_blank">SIRA Regulations</a>
 </p>
 </li>
+<li>
+<p>SIRA Reviewing Tribunal Rules</p>
+</li>
 </ol>
 <p></p>
