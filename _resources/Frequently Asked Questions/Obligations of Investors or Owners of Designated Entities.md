@@ -160,9 +160,9 @@ or an ultimate parent company to notify or seek approval apply regardless
 of whether the actions were the result of the intermediate holding company,
 the ultimate parent company or any other party.&nbsp;</p>
 <p></p>
-<p>Please refer to &lt;OSIR website - ownership &amp; control obligations
-subpage&gt; for the prescribed thresholds. The thresholds are default thresholds
-and may differ for specific entities.</p>
+<p>Please refer to <a href="/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener noreferrer nofollow" target="_blank">Overview of Ownership &amp; Control Obligations under SIRA</a> for
+the prescribed ownership or control thresholds. The thresholds are default
+thresholds and may differ for specific entities.</p>
 </div>
 </details>
 <details class="isomer-details">
