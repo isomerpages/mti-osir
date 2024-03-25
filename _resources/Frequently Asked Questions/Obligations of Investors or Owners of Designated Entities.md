@@ -52,8 +52,8 @@ a going concern.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>What are the prescribed thresholds for notification or approval for acquisition
-of equity interest or voting power in a designated entity?</summary>
+<summary>What are the prescribed thresholds for notification or approval for the
+acquisition of equity interest or voting power in a designated entity?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Parties will need to notify or seek approval if they are involved in transactions
 that meet the prescribed thresholds for the designated entities.</p>
