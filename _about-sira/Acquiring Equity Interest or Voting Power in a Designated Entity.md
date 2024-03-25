@@ -10,7 +10,7 @@ description: ""
 <p>Parties will need to notify or seek approval if they are involved in transactions
 that meet the prescribed thresholds for the designated entities.</p>
 <p>The default obligations are:</p>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>Notifying the Minister within 7 days after becoming a 5% controller of
 a designated entity; and</p>
