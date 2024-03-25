@@ -46,8 +46,8 @@ cancellation of its designation may be possible.</p>
 <p>Unless considered to be not practicable or desirable to do so, before
 the Minister designates any entity, notice will be given to the entity
 of the Minister’s intent to designate it and the entity will be given at
-least 14 days after the date of the notice to make representations on the
-proposed designation.</p>
+least 14 calendar days after the date of the notice to make representations
+on the proposed designation.</p>
 <p></p>
 <p>Once a designation is made, as far as practicable, the Minister will notify
 the designated entity and any other parties who, in the Minister’s opinion,
@@ -88,9 +88,10 @@ is cancelled.</p>
 <summary>Can an entity apply for reconsideration or appeal against a designation,
 and will the entity remain designated pending the outcome of these processes?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Parties can seek reconsideration from the Minister within 14 days after
-his decision on designation; after which, they may appeal to a Reviewing
-Tribunal within 30 days after the reconsideration outcome.&nbsp;</p>
+<p>Parties can seek reconsideration from the Minister within 14 calendar
+days after his decision on designation; after which, they may appeal to
+a Reviewing Tribunal within 30 calendar days after the reconsideration
+outcome.&nbsp;</p>
 <p></p>
 <p>The Minister’s decision to designate the entity remains in effect, and
 must be complied with until it is cancelled or substituted on reconsideration.
