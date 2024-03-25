@@ -4,9 +4,6 @@ permalink: /about-osir/
 variant: tiptap
 description: Description of Office of Significant Investments Review (OSIR)
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTI_OSIR_Logo_Full_Colour__CMYK_.jpg">
-</div>
 <h4><strong>About OSIR</strong></h4>
 <p>The Office of Significant Investments Review (OSIR), situated within the
 Ministry of Trade and Industry (MTI), is responsible for the administration
