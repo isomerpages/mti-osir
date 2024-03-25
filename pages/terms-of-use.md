@@ -34,8 +34,9 @@ operation of The Website.</p>
 not involved in giving professional advice here. The Website may not cover
 all information available on a particular issue. Before relying on The
 Website, you should do your own checks or obtain professional advice relevant
-to your particular circumstances.</p>
-<p>We will not be liable for any loss or damage (i) that you may incur on
+to your particular circumstances.
+<br>
+<br>We will not be liable for any loss or damage (i) that you may incur on
 account of using, visiting or relying on any statements, opinion, representation
 or information in The Website, (ii) resulting from any delay in operation
 or transmission, communications failure, Internet access difficulties or
