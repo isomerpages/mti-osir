@@ -37,7 +37,7 @@ order or the appointment of any (interim) judicial manager; or</p>
 by the Minister, if any.</p>
 </li>
 </ul>
-<p>Please refer to <a href="/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener noreferrer nofollow" target="_blank">ownership &amp; control obligations</a> for
+<p>Please refer to <a href="/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener noreferrer nofollow" target="_blank">Ownership &amp; Control obligations</a> for
 more details on the obligations of a designated entity.&nbsp;
 <br>
 </p>
@@ -54,8 +54,8 @@ at <a href="/forms/approval-forms/" rel="noopener noreferrer nofollow" target="_
 <div data-type="detailsContent" class="isomer-details-content">
 <p>For specified key officer roles, designated entities will need to seek
 approval prior to the appointment of any new person to those roles. Please
-refer to &lt;Appointment of Key Officers in a DE CJM&gt; for a step-by-step
-process flow.</p>
+refer to <a href="/about-sira/appointment-of-key-officers/" rel="noopener noreferrer nofollow" target="_blank">Appointment of Key Officers in a Designated Entity</a> for
+a step-by-step process flow.</p>
 <p></p>
 <p>The Minister may require the removal of an appointed key personnel of
 a designated entity if this was done without the necessary approval, or
