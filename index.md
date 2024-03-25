@@ -28,11 +28,11 @@ sections:
         - title: List of Designated Entities
           description: ""
           linktext: Learn more
-          url: ""
+          url: /designation/designated-entities
         - title: Designation Process
           description: ""
           linktext: Learn more
-          url: ""
+          url: /designation/designation-process
   - textcards:
       title: Forms
       id: textcards
