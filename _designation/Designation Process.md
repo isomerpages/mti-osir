@@ -18,7 +18,7 @@ to make representations relating to their potential designation.</p>
 <li>
 <p>If the eventual decision is to proceed with designation, the entity will
 be issued a Designation Order and their designation status will be notified
-in the Government Gazette &lt;link&gt; and <a href="/designation/designated-entities" rel="noopener noreferrer nofollow" target="_blank">here</a>. The Designation Order
+in the Government Gazette and <a href="/designation/designated-entities" rel="noopener noreferrer nofollow" target="_blank">here</a>. The Designation Order
 may contain information specific to each designated entity.</p>
 </li>
 </ul>
