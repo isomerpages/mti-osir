@@ -6,16 +6,16 @@ description: ""
 ---
 <p><em>(Forms will be made available when entities are formally designated)</em>
 </p>
-<p>Transactions that occur without the necessary prior approvals will be
-rendered void. However, void transactions can be retrospectively validated
-in some cases:</p>
+<p>Transactions that occur without the necessary approvals will be void.
+However, void transactions can be retrospectively validated in some cases:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Upon review of applications made by materially affected parties; and</p>
+<p>Upon review of applications submitted by materially affected parties;
+or</p>
 </li>
 <li>
-<p>Minister can do so on his own initiative if it is in the interest of national
-security.</p>
+<p>The Minister can do so on his own initiative if it is in the interest
+of national security.</p>
 </li>
 </ul>
 <table>
