@@ -71,7 +71,7 @@ is cancelled.
 <br>
 </p>
 <p>Any cancellation of designation will be notified in the Gazette. OSIR
-also maintains and publishes an updated list of designated entities <a href="/designation/designated-entities" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+also maintains and publishes an updated <a href="/designation/designated-entities" rel="noopener noreferrer nofollow" target="_blank">list of designated entities</a>.</p>
 </div>
 </details>
 <details class="isomer-details">
