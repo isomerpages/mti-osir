@@ -75,7 +75,7 @@ of the business or undertaking of the designated entity</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Application to Minister before ceasing to be a Level "Y" or "Z" controller*
-of the designated entity<em><sub>*</sub></em>
+of the designated entity<em><sub>*</sub></em> 
 <br><em><sub>The default control threshold for a Level "Y" and "Z" controller is 50% and 75% respectively.</sub></em>
 </p>
 </td>
