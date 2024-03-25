@@ -254,7 +254,7 @@ under the SIRA, but covered by other domestic sectoral legislation may
 need to notify or seek approval from the relevant regulator in accordance
 with the relevant domestic sectoral legislation.</p>
 <p></p>
-<p>Please refer to &lt;OSIR website - Sectoral Legislation subpage&gt; to
+<p>Please refer to <a href="/resources/other-legislation/sectoral-legislation/" rel="noopener noreferrer nofollow" target="_blank">Sectoral Legislation with O&amp;C provisions</a> to
 see examples of other domestic sectoral legislation in Singapore and their
 respective regulators.</p>
 </div>
