@@ -6,12 +6,10 @@ description: ""
 third_nav_title: Other Legislation
 ---
 <p>Parties involved in transactions pertaining to an entity that is not designated
-under SIRA, but covered by other domestic sectoral legislation, may need
-to notify or seek approval from the relevant regulator in accordance with
-the relevant domestic sectoral legislation. Click <a href="/resources/other-legislation/sectoral-legislation" rel="noopener noreferrer nofollow" target="_blank">here</a> to see
-examples of domestic sectoral legislation in Singapore and their respective
-regulators.</p>
+under SIRA, but is covered by other domestic sectoral legislation, may
+need to notify or seek approval from the relevant regulator in accordance
+with the relevant domestic sectoral legislation. Parties may refer to examples
+of <a href="/resources/other-legislation/sectoral-legislation" rel="noopener noreferrer nofollow" target="_blank">domestic sectoral legislation</a> and
+their respective regulators.</p>
 <p>There also exist other laws dealing with egregious acts against national
-security, including the Insolvency, Restructuring and Dissolution Act.
-Click <a href="/resources/other-legislation/irda" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-find out more.</p>
+security, including the <a href="/resources/other-legislation/irda" rel="noopener noreferrer nofollow" target="_blank">Insolvency, Restructuring and Dissolution Act</a>.</p>
