@@ -15,8 +15,7 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 <summary>Which entities have been designated?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>All designation of entities will be notified in the &lt;Gazette link&gt;.
-OSIR also maintains and publishes a list of designated entities at &lt;DE
-subpage&gt;.</p>
+OSIR also maintains and publishes a list of designated entities <a href="/designation/designated-entities" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -60,8 +59,7 @@ his decisions; after which, they may appeal to a Reviewing Tribunal within
 30 days after the reconsideration outcome.
 <br>
 </p>
-<p>Please refer to &lt; Designation of entity CJM&gt; for a step-by-step
-process flow.</p>
+<p>Please refer here for a step-by-step process flow.</p>
 </div>
 </details>
 <details class="isomer-details">
