@@ -59,7 +59,8 @@ his decisions; after which, they may appeal to a Reviewing Tribunal within
 30 days after the reconsideration outcome.
 <br>
 </p>
-<p>Please refer here for a step-by-step process flow.</p>
+<p>Please refer <a href="/designation/designation-process/" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+a step-by-step process flow.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -70,8 +71,7 @@ is cancelled.
 <br>
 </p>
 <p>Any cancellation of designation will be notified in the Gazette. OSIR
-also maintains and publishes an updated list of designated entities at
-&lt;OSIR website – Designated Entities subpage&gt;.</p>
+also maintains and publishes an updated list of designated entities <a href="/designation/designated-entities" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </div>
 </details>
 <details class="isomer-details">
