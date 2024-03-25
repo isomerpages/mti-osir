@@ -74,13 +74,12 @@ of a designated entity.</p>
 has the flexibility to vary such thresholds for specific entities as the
 situation warrants, and if so, these will be prescribed in subsidiary legislation.</p>
 <p></p>
-<p>Parties may wish to refer here for a step-by-step process flow for acquiring
-equity interest or voting power in a designated entity.</p>
+<p>Parties may wish to refer to <a href="/about-sira/acquiring-equity-interest-or-voting-power/" rel="noopener noreferrer nofollow" target="_blank">Acquiring Equity Interest or Voting Power in a Designated Entity</a> for
+a step-by-step process flow.</p>
 <p>
 <br>Transactions involving the acquisition, as a going concern, of (any part
 of) the business or undertaking of a designated entity, will also require
-prior approval. Parties may wish to refer to <a href="/about-sira/acquiring-equity-interest-or-voting-power/" rel="noopener noreferrer nofollow" target="_blank">Acquiring Equity Interest or Voting Power in a Designated Entity</a> for
-a step-by-step process flow.</p>
+prior approval.</p>
 </div>
 </details>
 <details class="isomer-details">
