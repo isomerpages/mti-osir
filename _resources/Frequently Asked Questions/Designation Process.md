@@ -44,8 +44,8 @@ the Minister designates any entity, notice will be given to the entity
 of the Minister’s intent to designate it and the entity will be given at
 least 14 days after the date of the notice to make representations on the
 proposed designation.</p>
-<p>
-<br>Once a designation is made, as far as practicable, the Minister will notify
+<p></p>
+<p>Once a designation is made, as far as practicable, the Minister will notify
 the designated entity and any other parties who, in the Minister’s opinion,
 ought to have notice of the designation. Any designation, or cancellation
 of designation, will be notified in the Gazette.</p>
