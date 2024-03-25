@@ -20,7 +20,7 @@ sections:
           url: /about-osir/
         - title: About the Significant Investments Review Act (SIRA)
           description: ""
-          url: /overview-of-sira/sira/
+          url: /about-sira/overview-of-sira/
   - textcards:
       title: Designation
       id: textcards
