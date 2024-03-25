@@ -54,9 +54,9 @@ the designated entity and any other parties who, in the Minister’s opinion,
 ought to have notice of the designation. Any designation, or cancellation
 of designation, will be notified in the Gazette.</p>
 <p></p>
-<p>Parties can seek reconsideration from the Minister within 14 days after
-his decisions; after which, they may appeal to a Reviewing Tribunal within
-30 days after the reconsideration outcome.
+<p>Parties can seek reconsideration from the Minister within 14 calendar
+days after his decisions; after which, they may appeal to a Reviewing Tribunal
+within 30 calendar days after the reconsideration outcome.
 <br>
 </p>
 <p>Parties may wish to refer to <a href="/designation/designation-process/" rel="noopener noreferrer nofollow" target="_blank">Designation Process </a>for a
