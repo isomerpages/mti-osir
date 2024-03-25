@@ -112,22 +112,23 @@ should more time or documents be required. Applicants can contact OSIR
 regarding the status or next steps of their application.</p>
 <p>Business or investors may contact <a href="mailto:contact@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>contact@osir.gov.sg</u></a> on any
 clarifications prior to the commencement of any formal application.</p>
-<p>Please may refer to the pages below for the step-by-step process flows
-for:</p>
+<p>Please refer to the pages below for the step-by-step process flows for:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>&lt;Acquiring equity interest or voting power in a Designated Entity CJM&gt;</p>
+<p><a href="/about-sira/acquiring-equity-interest-or-voting-power/" rel="noopener noreferrer nofollow" target="_blank">Acquiring Equity Interest or Voting Power in a Designated Entity</a>
+</p>
 </li>
 <li>
-<p>&lt;Disposal of equity interest or voting power in a designated entity
-CJM&gt;</p>
+<p><a href="/about-sira/disposing-equity-interest-or-voting-power/" rel="noopener noreferrer nofollow" target="_blank">Disposal of Equity Interest or Voting Power in a Designated Entity</a>
+</p>
 </li>
 <li>
-<p>&lt;Acquisition, as a going concern, of any part of the business or undertaking
-of a designated entity CJM&gt;</p>
+<p><a href="/about-sira/acquiring-business-or-undertaking/" rel="noopener noreferrer nofollow" target="_blank">Acquisition of the Business or Undertaking of a Designated Entity</a>
+</p>
 </li>
 <li>
-<p>&lt;Appointment of key officers in a designated entity CJM&gt;</p>
+<p><a href="/about-sira/appointment-of-key-officers/" rel="noopener noreferrer nofollow" target="_blank">Appointment of Key Officers in a Designated Entity</a>
+</p>
 </li>
 </ul>
 </div>
