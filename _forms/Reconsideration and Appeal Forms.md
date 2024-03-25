@@ -32,7 +32,8 @@ calendar days after the reconsideration outcome</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Appeal forms may be found at &lt;MTI website&gt; and should be emailed
-to <a href="mailto:secretary@siratribunal.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>secretary@siratribunal.gov.sg</u></a>.</p>
+to <a href="mailto:secretary@siratribunal.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>secretary@siratribunal.gov.sg</u></a>
+</p>
 </td>
 </tr>
 </tbody>
