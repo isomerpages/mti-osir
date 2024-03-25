@@ -220,9 +220,9 @@ over the designated entity or otherwise, must comply with the obligations
 under the Significant Investments Review Act if they meet the prescribed
 thresholds.&nbsp;</p>
 <p>
-<br>Please refer to &lt;OSIR website - ownership &amp; control obligations
-subpage&gt; for the prescribed thresholds. The thresholds are default thresholds
-and may differ for specific entities.</p>
+<br>Please refer to <a href="/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener noreferrer nofollow" target="_blank">Overview of Ownership &amp; Control Obligations under SIRA</a> for
+the prescribed thresholds. The thresholds are default thresholds and may
+differ for specific entities.</p>
 </div>
 </details>
 <details class="isomer-details">
