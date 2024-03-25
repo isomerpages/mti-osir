@@ -79,8 +79,8 @@ equity interest or voting power in a designated entity.</p>
 <p>
 <br>Transactions involving the acquisition, as a going concern, of (any part
 of) the business or undertaking of a designated entity, will also require
-prior approval. Parties may wish to refer here &lt;CJM link&gt; for a step-by-step
-process flow.</p>
+prior approval. Parties may wish to refer to <a href="/about-sira/acquiring-equity-interest-or-voting-power/" rel="noopener noreferrer nofollow" target="_blank">Acquiring Equity Interest or Voting Power in a Designated Entity</a> for
+a step-by-step process flow.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -95,9 +95,8 @@ in them ceasing to be a 50% or 75% controller.&nbsp;&nbsp;</p>
 has the flexibility to vary such thresholds for specific entities as the
 situation warrants, and if so, these will be prescribed in subsidiary legislation.</p>
 <p>
-<br>Parties may wish to refer here &lt;CJM link&gt; for a step-by-step process
-flow on the disposal of equity interest or voting power in a designated
-entity.</p>
+<br>Parties may wish to refer to <a href="/about-sira/disposing-equity-interest-or-voting-power/" rel="noopener noreferrer nofollow" target="_blank">Disposal of Equity Interest or Voting Power in a Designated Entity</a> for
+a step-by-step process flow.</p>
 </div>
 </details>
 <details class="isomer-details">
