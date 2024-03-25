@@ -37,7 +37,9 @@ the Minister may consider factors such as:</p>
 these requirements to the designated entity in writing.</p>
 <p>Please refer to the step-by-step process below on appointing key officers
 in a designated entity.</p>
-<p>&lt;Insert CJM&gt;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OSIR___Chart_and_Infographic_Compiled_Revised_6_page_0006.jpg">
+</div>
 <p></p>
 <h4><strong>Removal of key officers in a designated entity</strong></h4>
 <p>If a key officer of a designated entity was appointed without the necessary
