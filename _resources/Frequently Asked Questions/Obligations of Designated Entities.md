@@ -37,7 +37,7 @@ order or the appointment of any (interim) judicial manager; or</p>
 by the Minister, if any.</p>
 </li>
 </ul>
-<p>Please refer to the <a href="/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener noreferrer nofollow" target="_blank">ownership &amp; control obligations</a> for
+<p>Please refer to <a href="/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener noreferrer nofollow" target="_blank">ownership &amp; control obligations</a> for
 more details on the obligations of a designated entity.&nbsp;
 <br>
 </p>
