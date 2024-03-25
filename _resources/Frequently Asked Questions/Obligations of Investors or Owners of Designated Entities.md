@@ -161,8 +161,8 @@ of whether the actions were the result of the intermediate holding company,
 the ultimate parent company or any other party.&nbsp;</p>
 <p></p>
 <p>Please refer to <a href="/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener noreferrer nofollow" target="_blank">Overview of Ownership &amp; Control Obligations under SIRA</a> for
-the prescribed ownership or control thresholds. The thresholds are default
-thresholds and may differ for specific entities.</p>
+the prescribed thresholds. The thresholds are default thresholds and may
+differ for specific entities.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -179,8 +179,8 @@ designated entity which causes it to cross a prescribed threshold as a
 result, prior approval would be required.</p>
 <p>
 <br>Please refer to <a href="/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener noreferrer nofollow" target="_blank">Overview of Ownership &amp; Control Obligations under SIRA</a> for
-the prescribed ownership or control thresholds. The thresholds are default
-thresholds and may differ for specific entities.</p>
+the prescribed thresholds. The thresholds are default thresholds and may
+differ for specific entities.</p>
 <p>
 <br>Parent entities may seek clarification from OSIR at <a href="mailto:contact@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>contact@osir.gov.sg</u></a> before
 the commencement of any formal application.</p>
