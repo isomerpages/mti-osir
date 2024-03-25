@@ -23,7 +23,7 @@ description: ""
 Level "A" controller</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(To be updated)</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -32,7 +32,7 @@ Level "A" controller</p>
 aware of a change in ownership or control.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(To be updated)</p>
+<p>-</p>
 </td>
 </tr>
 </tbody>
