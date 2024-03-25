@@ -241,9 +241,9 @@ tied to it.&nbsp;</p>
 <br>Hence, a party entering into any such arrangement will need to notify
 or seek approval if the equity interest meets the prescribed thresholds.</p>
 <p>
-<br>Please refer to &lt;OSIR website - ownership &amp; control obligations
-subpage&gt; for the prescribed thresholds. The thresholds are default thresholds
-and may differ for specific entities.</p>
+<br>Please refer to <a href="/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener noreferrer nofollow" target="_blank">Overview of Ownership &amp; Control Obligations under SIRA</a> for
+the prescribed thresholds. The thresholds are default thresholds and may
+differ for specific entities.</p>
 </div>
 </details>
 <details class="isomer-details">
