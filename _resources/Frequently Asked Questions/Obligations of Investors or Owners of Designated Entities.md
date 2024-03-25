@@ -178,8 +178,8 @@ the sale.&nbsp;</p>
 designated entity which causes it to cross a prescribed threshold as a
 result, prior approval would be required.</p>
 <p>
-<br>Please refer to &lt;Ownership &amp; control obligations CJM&gt; for the
-prescribed ownership or control thresholds. The thresholds are default
+<br>Please refer to <a href="/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener noreferrer nofollow" target="_blank">Overview of Ownership &amp; Control Obligations under SIRA</a> for
+the prescribed ownership or control thresholds. The thresholds are default
 thresholds and may differ for specific entities.</p>
 <p>
 <br>Parent entities may seek clarification from OSIR at <a href="mailto:contact@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>contact@osir.gov.sg</u></a> before
