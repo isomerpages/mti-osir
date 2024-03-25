@@ -19,8 +19,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Potential buyers are to seek approval prior to becoming a Level "B" controller
-of the designated entity</p>
+<p>Application to Minister before becoming a Level "B" controller of the
+designated entity</p>
 </td>
 <td rowspan="4" colspan="1">
 <p>-</p>
@@ -28,26 +28,26 @@ of the designated entity</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Potential buyers are to seek approval prior to becoming a Level "C" controller
-of the designated entity</p>
+<p>Application to Minister before becoming a Level "C" controller of the
+designated entity</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Potential buyers are to seek approval prior to becoming a Level "D" controller
-of the designated entity</p>
+<p>Application to Minister before becoming a Level "D" controller of the
+designated entity</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Potential buyers are to seek approval prior to becoming an indirect controller
-of the designated entity</p>
+<p>Application to Minister before becoming an indirect controller of the
+designated entity</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Potential buyers are to seek approval prior to acquiring, as a going concern,
-any part of the business or undertaking of the designated entity</p>
+<p>Application to Minister before acquiring, as a going concern, any part
+of the business or undertaking of the designated entity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
@@ -68,8 +68,8 @@ any part of the business or undertaking of the designated entity</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Existing investors are to seek approval before ceasing to be a Level "Y"
-or "Z" controller of the designated entity</p>
+<p>Application to Minister before ceasing to be a Level "Y" or "Z" controller
+of the designated entity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
@@ -90,8 +90,8 @@ or "Z" controller of the designated entity</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Designated entities are to seek approval before appointing key officers
-in the designated entity</p>
+<p>Application to Minister before appointing key officers in the designated
+entity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
