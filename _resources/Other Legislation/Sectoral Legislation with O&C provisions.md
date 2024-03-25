@@ -55,7 +55,7 @@ The Financial Holding Companies Act 2013 regulates financial holding companies.
 <td>
 <p><strong>Finance Companies Act 1967</strong></p>
 Finance Companies Act 1967 is an Act to license and control finance companies.
-<p>Approval will be required for substantital shareholders and controllers of designated financial companies that are regulated under the Act.</p>
+<p>Approval will be required for substantial shareholders and controllers of designated financial companies that are regulated under the Act.</p>
 </td>
 <td>
 <p>Agency in charge: Monetary Authority of Singapore (MAS)</p>
@@ -167,7 +167,7 @@ The Credit Bureau Act 2016 provides for the regulation of certain credit bureaus
 The Healthcare Services Act was enacted in 2020 to replace the Private Hospital and Medical Clinics Act (PHMCA) in a move towards a services-based and premises-neutral approach to the regulation of Singapore's healthcare system. The main objectives are to better safeguard patient safety and welfare, and provide greater regulatory clarity for licensees, while enabling the development of new and innovative healthcare services in the changing healthcare environment. The details of the Act and the list of licensable healthcare services is published in the Government Gazette at <a href="https://www.egazette.gov.sg/">www.egazette.gov.sg</a>.
 <p>Key ownership and control provisions include controls for both the licensee and key office holders.</p>
 <p>1. Licensees must apply for a licence to provide a licensable healthcare service, including the modes of service deliveries intended and.or any specified services, and pay for the licensing fee. A set of licence conditions may be separately imposed, in addition to the general, advertising and service-specific regulations they have to comply with. Any modifications of the licence or cessation of the services must be notified to MOH within prescribed time. MOH may take regulatory actions against the licensees for contravening any requirements imposed under the Act.</p>
-<p>2. Licensee must notify MOH on the appointment and.or subsequent changes to the roles of Key Office Holders, Principal Officers and Clinical Governance Officers (where appropriate). Such appointed personnel may be removed if they have been deemed unsuitabe to act in that capacity in relation to the licensee or have not complied with any requirements imposed under the Act.</p>
+<p>2. Licensee must notify MOH on the appointment and or subsequent changes to the roles of Key Office Holders, Principal Officers and Clinical Governance Officers (where appropriate). Such appointed personnel may be removed if they have been deemed unsuitabe to act in that capacity in relation to the licensee or have not complied with any requirements imposed under the Act.</p>
 </td>
 <td>Agency in charge: Ministry of Health (MOH)
 <p>Email address: <a href="mailto:HCSA_Enquiries@moh.gov.sg">HCSA_Enquiries@moh.gov.sg</a>&nbsp;</p>
@@ -254,7 +254,7 @@ The Healthcare Services Act was enacted in 2020 to replace the Private Hospital 
 <td>
 <p><strong>Broadcasting Act</strong></p>
 <p>The Broadcasting Act ("BA") regulates dealing in, operation of and ownership in broadcasting services and broadcasting apparatus. It also regulatres online communication services accessible by Singapore end-users.</p>
-<p>Specified changes in ownership and control of broadcasting companeis that hold a relevant licence are subject to Minister's approval, such as when person(s) seek to be a substantial shareholder, 12% controller, or an indirect controller of a broadcasting company that holds a relevant licence.</p>
+<p>Specified changes in ownership and control of broadcasting companies that hold a relevant licence are subject to Minister's approval, such as when person(s) seek to be a substantial shareholder, 12% controller, or an indirect controller of a broadcasting company that holds a relevant licence.</p>
 <p>Broadcasting companies that hold a relevant licence are required to seek prior approval from IMDA for the appointment of key appointment holders.</p>
 </td>
 <td>
@@ -288,7 +288,7 @@ The Healthcare Services Act was enacted in 2020 to replace the Private Hospital 
 <td>1</td>
 <td>
 <p><strong>Public Utilities Act</strong></p>
-<p>The Public Utilities Act sets out the key functions, duties, and powers of the Public Utilities Board ("PUB"). PUB, as the national water agency, manages Singapore's water supply, water catchment, and used water in an integrated way. Part 4A of the Act imposes legislative controls on designated parties (entities, business trusts, or trusts) that are critical to water security. The designated parties are published in the Government Gazette. You can search for the "Public Utilities Act - Designated Entities" and "Public Utilities Act -Designated Trusts" Gazettes for the lsit of designated parties under the Public Utilities Act at <a href="http://www.egazette.com.sg">www.egazette.com.sg</a>.</p>
+<p>The Public Utilities Act sets out the key functions, duties, and powers of the Public Utilities Board ("PUB"). PUB, as the national water agency, manages Singapore's water supply, water catchment, and used water in an integrated way. Part 4A of the Act imposes legislative controls on designated parties (entities, business trusts, or trusts) that are critical to water security. The designated parties are published in the Government Gazette. You can search for the "Public Utilities Act - Designated Entities" and "Public Utilities Act - Designated Trusts" Gazettes for the list of designated parties under the Public Utilities Act at <a href="http://www.egazette.com.sg">www.egazette.com.sg</a>.</p>
 <p>Notification or approval obligations for specified changes in ownership and control of designated parties (entities, business trusts or trusts) and the acquisition as a going concern (parts of) the designated party's business or undertaking, will be imposed on buyers of the designated parties.</p>
 </td>
 <td>
