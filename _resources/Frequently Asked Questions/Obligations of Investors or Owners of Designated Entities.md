@@ -74,8 +74,8 @@ of a designated entity.</p>
 has the flexibility to vary such thresholds for specific entities as the
 situation warrants, and if so, these will be prescribed in subsidiary legislation.</p>
 <p></p>
-<p>Parties may wish to refer here &lt;CJM link&gt; for a step-by-step process
-flow for acquiring equity interest or voting power in a designated entity.</p>
+<p>Parties may wish to refer here for a step-by-step process flow for acquiring
+equity interest or voting power in a designated entity.</p>
 <p>
 <br>Transactions involving the acquisition, as a going concern, of (any part
 of) the business or undertaking of a designated entity, will also require
