@@ -68,7 +68,7 @@ sections:
         - title: Other Legislation
           description: Sectoral and other legislation with similar provisions found in SIRA.
           linktext: Learn more
-          url: /resources/other-legislations/sector-legislation/
+          url: /resources/other-legislation/
   - infobar:
       title: Contact us
       id: infobar
