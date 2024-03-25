@@ -19,8 +19,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Application to Minister before becoming a Level "B" controller of the
-designated entity</p>
+<p>Application to Minister before becoming a Level "B" controller* of the
+designated entity
+<br><em><sub>*The default control threshold for a Level "B" controller is 12%.</sub></em>
+</p>
 </td>
 <td rowspan="4" colspan="1">
 <p>-</p>
@@ -28,14 +30,18 @@ designated entity</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Application to Minister before becoming a Level "C" controller of the
-designated entity</p>
+<p>Application to Minister before becoming a Level "C" controller* of the
+designated entity
+<br><em><sub>*The default control threshold for a Level "C" controller is 25%.</sub></em>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Application to Minister before becoming a Level "D" controller of the
-designated entity</p>
+<p>Application to Minister before becoming a Level "D" controller* of the
+designated entity
+<br><em><sub>*The default control threshold for a Level "D" controller is 50%.</sub></em>
+</p>
 </td>
 </tr>
 <tr>
@@ -68,8 +74,10 @@ of the business or undertaking of the designated entity</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Application to Minister before ceasing to be a Level "Y" or "Z" controller
-of the designated entity</p>
+<p>Application to Minister before ceasing to be a Level "Y" or "Z" controller*
+of the designated entity<em><sub>*</sub></em>
+<br><em><sub>The default control threshold for a Level "Y" and "Z" controller is 50% and 75% respectively.</sub></em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
