@@ -5,18 +5,11 @@ variant: tiptap
 description: Description of the Significant Investments Review Act
 ---
 <h4><strong>What is the Significant Investments Review Act?</strong></h4>
-<p><strong>&lt;Is this aligned with 2R/RUS, and also the blurb for the link from MTI website?&gt;</strong> As
-an open economy, Singapore can be vulnerable to actors that may seek to
-undermine our national security interests through ownership and control
-of critical business entities. It is therefore important to have adequate
-and effective investment management measures to safeguard our national
-security, and to ensure our economy remains resilient.&nbsp;</p>
 <p>The Significant Investments Review Act (SIRA) complements existing sectoral
-legislation and manages threats posed by significant investments into critical
-entities, to safeguard Singapore's national security interests. This will
-provide businesses and investors with continued confidence in Singapore
-as a stable, trusted, and well-connected global business and investment
-hub.</p>
+legislation and manages significant investments into critical entities,
+to safeguard Singapore's national security interests. This will provide
+businesses and investors with continued confidence in Singapore as a stable,
+trusted, and well-connected global business and investment hub.</p>
 <p><strong>&lt;To update links and SIRA Regs&gt;</strong> Click to access
 the following via Singapore Statutes Online:</p>
 <ol data-tight="true" class="tight">
