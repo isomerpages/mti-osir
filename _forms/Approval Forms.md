@@ -4,6 +4,7 @@ permalink: /forms/approval-forms/
 variant: tiptap
 description: ""
 ---
+<h4><em>(Forms will be made available when entities are formally designated)</em></h4>
 <h4><strong>Potential &amp; Existing Investors or Acquirors</strong></h4>
 <table>
 <tbody>
