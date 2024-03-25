@@ -28,9 +28,8 @@ security interests.</p>
 there any fees?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Parties may seek reconsideration from the Minister within 14 calendar
-days after receiving the decision. They may use the relevant form available
-at &lt;OSIR website - application for reconsideration&gt; and email the
-completed form to <a href="mailto:submissions@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>submissions@osir.gov.sg</u></a>.</p>
+days after receiving the decision. They may use the <a href="/forms/reconsideration-and-appeal-form" rel="noopener noreferrer nofollow" target="_blank">Reconsideration Application form</a> and
+email the completed form to <a href="mailto:submissions@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>submissions@osir.gov.sg</u></a>.</p>
 <p></p>
 <p>There are no fees payable when submitting a reconsideration application.</p>
 <p></p>
@@ -38,8 +37,8 @@ completed form to <a href="mailto:submissions@osir.gov.sg" rel="noopener norefer
 it is cancelled or substituted on reconsideration. No further reconsideration
 can be made after Minister makes a decision on the reconsideration application.</p>
 <p></p>
-<p>Parties may refer here &lt;Application for reconsideration and appeal
-CJM&gt; for a step-by-step process on reconsiderations from the Minister.</p>
+<p>Please refer to the Reconsideration process for a step-by-step process
+flow.</p>
 </div>
 </details>
 <details class="isomer-details">
