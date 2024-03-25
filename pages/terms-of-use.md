@@ -96,7 +96,7 @@ of any person who accesses or uses The Website.</p>
 <li>
 <p><u>Fees</u>
 </p>
-<p>[There are currently no fees for using any part of The Website.] We reserve
+<p>There are currently no fees for using any part of The Website. We reserve
 the right to introduce new fees from time to time. We are not responsible
 for any fees charged by any other Internet site (not provided by us).</p>
 <p></p>
