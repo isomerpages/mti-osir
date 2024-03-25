@@ -93,7 +93,7 @@ his decision on designation; after which, they may appeal to a Reviewing
 Tribunal within 30 days after the reconsideration outcome.&nbsp;</p>
 <p></p>
 <p>The Minister’s decision to designate the entity remains in effect, and
-must be complied with, until it is cancelled or substituted on reconsideration.
+must be complied with until it is cancelled or substituted on reconsideration.
 The Minister’s reconsideration decision remains in effect until and unless
 it is reversed on appeal.</p>
 </div>
