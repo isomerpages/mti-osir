@@ -39,6 +39,7 @@ the Minister may consider factors such as:</p>
 </ul>
 <p>The Minister may also consider any other relevant matters and will convey
 these requirements to the designated entity in writing.</p>
+<hr>
 <h4><strong>Removal of key officers in a designated entity</strong></h4>
 <p>If a key officer of a designated entity was appointed without the necessary
 approval, or if any condition of approval has been breached, the appointed
