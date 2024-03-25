@@ -4,7 +4,6 @@ permalink: /about-sira/reconsiderations-and-appeals/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OSIR___Chart_and_Infographic_Compiled_Revised_6_page_0007.jpg">
 </div>
