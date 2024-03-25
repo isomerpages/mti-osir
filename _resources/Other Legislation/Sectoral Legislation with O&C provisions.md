@@ -80,8 +80,8 @@ The Securities and Futures Act 2001 regulates activities and institutions in the
 <td>5</td>
 <td>
 <p><strong>Insurance Act 1966</strong></p>
-The Insurance Act 1966 regulates insurance business in Singaore, insurers, insurance intermediaries and related institutions.
-<p>Approval will be required for substantital shareholders and controllers of licensed insurers incoproated in Singapore and for controllers of registered insurance brokers. Approval will also be required for any agreement or arragenement to act together with any person with respoect to theoir interests in voting shares in a licsned insurer incorporated in Singapore.</p>
+The Insurance Act 1966 regulates insurance businesses in Singapore, insurers, insurance intermediaries and related institutions.
+<p>Approval will be required for substantial shareholders and controllers of licensed insurers incorporated in Singapore and for controllers of registered insurance brokers. Approval will also be required for any agreement or arrangement to act together with any person with respect to their interests in voting shares in a licensed insurer incorporated in Singapore.</p>
 </td>
 <td>
 <p>Agency in charge: Monetary Authority of Singapore (MAS)</p>
