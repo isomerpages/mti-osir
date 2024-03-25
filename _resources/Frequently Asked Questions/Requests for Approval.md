@@ -24,11 +24,11 @@ clarifications prior to the commencement of any formal application.&nbsp;</p>
 for:</p>
 <ul>
 <li>
-<p><a href="/about-sira/acquiring-equity-interest-or-voting-power" rel="noopener noreferrer nofollow" target="_blank">Acquiring equity interest or voting power in a designated entity</a>
+<p><a href="/about-sira/acquiring-equity-interest-or-voting-power" rel="noopener noreferrer nofollow" target="_blank">Acquiring Equity Interest or Voting Power in a Designated Entity</a>
 </p>
 </li>
 <li>
-<p><a href="/about-sira/disposing-equity-interest-or-voting-power" rel="noopener noreferrer nofollow" target="_blank">Disposal of equity interest or voting power in a designated entity</a>
+<p><a href="/about-sira/disposing-equity-interest-or-voting-power" rel="noopener noreferrer nofollow" target="_blank">Disposal of Equity Interest or Voting Power in a Designated Entity</a>
 </p>
 </li>
 <li>
@@ -36,7 +36,7 @@ for:</p>
 </p>
 </li>
 <li>
-<p><a href="/about-sira/appointment-of-key-officers" rel="noopener noreferrer nofollow" target="_blank">Appointing key officers in a designated entity</a>
+<p><a href="/about-sira/appointment-of-key-officers" rel="noopener noreferrer nofollow" target="_blank">Appointing Key Officers in a Designated Entity</a>
 </p>
 </li>
 </ul>
