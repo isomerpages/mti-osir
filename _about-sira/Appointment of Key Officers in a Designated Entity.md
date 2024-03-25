@@ -4,6 +4,10 @@ permalink: /about-sira/appointment-of-key-officers/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OSIR___Chart_and_Infographic_Compiled_Revised_6_page_0006.jpg">
+</div>
 <h4><strong>Appointment of Key Officers in a Designated Entity</strong></h4>
 <p>A designated entity must obtain approval from the Minister prior to appointing
 key officers. Key officers refer to:</p>
@@ -35,12 +39,6 @@ the Minister may consider factors such as:</p>
 </ul>
 <p>The Minister may also consider any other relevant matters and will convey
 these requirements to the designated entity in writing.</p>
-<p>Please refer to the step-by-step process below on appointing key officers
-in a designated entity.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OSIR___Chart_and_Infographic_Compiled_Revised_6_page_0006.jpg">
-</div>
-<p></p>
 <h4><strong>Removal of key officers in a designated entity</strong></h4>
 <p>If a key officer of a designated entity was appointed without the necessary
 approval, or if any condition of approval has been breached, the appointed
