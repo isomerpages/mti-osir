@@ -4,5 +4,7 @@ permalink: /resources/guidance-documents/
 variant: tiptap
 description: ""
 ---
-<h3>Here is a list of guidance documents in relation to the regulatory requirements of SIRA.</h3>
+<p>Guidance documents on the regulatory requirements of SIRA will be accessible
+on this page, when available.</p>
 <p></p>
+<p>You may also wish to refer &lt;here&gt; for Frequently Asked Questions.</p>
