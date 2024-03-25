@@ -14,4 +14,8 @@ situation warrants, and if so, these will be prescribed in subsidiary legislatio
 or voting power in a designated entity.</p>
 <p>Parties may seek clarification from OSIR at <a href="mailto:contact@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>contact@osir.gov.sg</u></a> before
 the commencement of any formal application.</p>
-<p>&lt;Insert CJM here&gt;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OSIR___Chart_and_Infographic_Compiled_Revised_6_page_0004.jpg">
+</div>
+<p></p>
