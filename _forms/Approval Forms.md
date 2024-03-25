@@ -4,7 +4,8 @@ permalink: /forms/approval-forms/
 variant: tiptap
 description: ""
 ---
-<h4><em>(Forms will be made available when entities are formally designated)</em></h4>
+<p><em>(Forms will be made available when entities are formally designated)</em>
+</p>
 <h4><strong>Potential &amp; Existing Investors or Acquirors</strong></h4>
 <table>
 <tbody>
@@ -22,7 +23,7 @@ description: ""
 of the designated entity</p>
 </td>
 <td rowspan="4" colspan="1">
-<p>Form 11</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -49,7 +50,7 @@ of the designated entity</p>
 any part of the business or undertaking of the designated entity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Form 3</p>
+<p>-</p>
 </td>
 </tr>
 </tbody>
@@ -71,12 +72,12 @@ any part of the business or undertaking of the designated entity</p>
 or "Z" controller of the designated entity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Form 2</p>
+<p>-</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4><strong>Designated Entities - Appointment of key officers</strong></h4>
+<h4><strong>Designated Entities - Appointment of Key Officers</strong></h4>
 <table>
 <tbody>
 <tr>
@@ -93,7 +94,7 @@ or "Z" controller of the designated entity</p>
 in the designated entity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Form 1</p>
+<p>-</p>
 </td>
 </tr>
 </tbody>
