@@ -5,7 +5,7 @@ variant: tiptap
 description: List of Designated Entities
 ---
 <h4><strong>List of entities designated under SIRA</strong></h4>
-<p>The designated entities are also published in the <strong><u>Government Gazette (link)</u></strong>.</p>
+<p>The designated entities are also published in the <strong><u>Government Gazette</u></strong>.</p>
 <table>
 <tbody>
 <tr>
