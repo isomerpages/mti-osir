@@ -24,18 +24,20 @@ clarifications prior to the commencement of any formal application.&nbsp;</p>
 for:</p>
 <ul>
 <li>
-<p>&lt;Acquiring equity interest or voting power in a Designated Entity CJM&gt;</p>
+<p><a href="/about-sira/acquiring-equity-interest-or-voting-power" rel="noopener noreferrer nofollow" target="_blank">Acquiring equity interest or voting power in a designated entity</a>
+</p>
 </li>
 <li>
-<p>&lt;Disposal of equity interest or voting power in a designated entity
-CJM&gt;</p>
+<p><a href="/about-sira/disposing-equity-interest-or-voting-power" rel="noopener noreferrer nofollow" target="_blank">Disposal of equity interest or voting power in a designated entity</a>
+</p>
 </li>
 <li>
-<p>&lt;Acquisition, as a going concern, of any part of a business or undertaking
-of a designated entity CJM&gt;</p>
+<p><a href="/about-sira/acquiring-business-or-undertaking" rel="noopener noreferrer nofollow" target="_blank">Acquiring, as a going concern, (any part of) the designated entity’s business or undertaking</a>
+</p>
 </li>
 <li>
-<p>&lt;Appointment of key officers in a designated entity CJM&gt;</p>
+<p><a href="/about-sira/appointment-of-key-officers" rel="noopener noreferrer nofollow" target="_blank">Appointing key officers in a designated entity</a>
+</p>
 </li>
 </ul>
 </div>
