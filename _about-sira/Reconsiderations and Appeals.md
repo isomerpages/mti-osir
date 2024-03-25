@@ -21,6 +21,6 @@ reconsideration decision.</p>
 <p>The Minister's reconsideration decision remains in effect until it is
 reversed on appeal. A Reviewing Tribunal's decision is final.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Reconsideration.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OSIR___Chart_and_Infographic_Compiled_Revised_6_page_0007.jpg">
 </div>
 <p></p>
