@@ -4,6 +4,7 @@ permalink: /forms/
 variant: tiptap
 description: All downloadable forms
 ---
+<h4><em>(Forms will be made available when entities are formally designated)</em></h4>
 <h4><strong>Before Submission</strong></h4>
 <p>Before submitting the form to OSIR for processing:</p>
 <ul data-tight="true" class="tight">
