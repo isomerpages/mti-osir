@@ -205,9 +205,9 @@ not participating in a share buyback.</p>
 </li>
 </ul>
 <p></p>
-<p>Please refer to &lt;OSIR website - ownership &amp; control obligations
-subpage&gt; for the prescribed thresholds. The thresholds are default thresholds
-and may differ for specific entities.</p>
+<p>Please refer to <a href="/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener noreferrer nofollow" target="_blank">Overview of Ownership &amp; Control Obligations under SIRA</a> for
+the prescribed thresholds. The thresholds are default thresholds and may
+differ for specific entities.</p>
 </div>
 </details>
 <details class="isomer-details">
