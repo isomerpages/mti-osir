@@ -13,24 +13,24 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 legal counsel or consult professionals who have experience with these obligations
 for advice.</p>
 <p>If you have further clarifications, feel free to contact us at <a href="mailto:contact@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact@osir.gov.sg</a>.</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/resources/faqs/designation-process/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Designation Process</div><div class="isomer-card-link">Click here.</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/resources/faqs/designation-process/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Designation Process</div><div class="isomer-card-link">Click here</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/resources/faqs/obligations-of-designated-entities/" class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Obligations of designated entities</div>
-<div class="isomer-card-link">Click here.</div>
+<div class="isomer-card-title">Obligations of Designated Entities</div>
+<div class="isomer-card-link">Click here</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/resources/faqs/obligations-of-investors-and-acquirors/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Obligations of investors and acquirors</div><div class="isomer-card-link">Click here.</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/resources/faqs/reconsideration-and-appeals/" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="/resources/faqs/obligations-of-investors-or-owners/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Obligations of Investors or Owners of Designated Entities</div><div class="isomer-card-link">Click here</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/resources/faqs/reconsiderations-and-appeals/" class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Reconsideration and Appeals</div>
-<div class="isomer-card-link">Click here.</div>
+<div class="isomer-card-title">Reconsiderations and Appeals</div>
+<div class="isomer-card-link">Click here</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/resources/faqs/powers-where-entity-acted-against-national-security-interests/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Powers where entity has acted against national security interests</div><div class="isomer-card-link">Click here.</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/resources/faqs/powers-where-entity-acted-against-national-security-interests/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Powers where Entity has Acted against National Security interests</div><div class="isomer-card-link">Click here</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/resources/faqs/osir/" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">The Office of Significant Investments Review</div>
 <div class="isomer-card-link">Click here.</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="/resources/faqs/requests-for-approval/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Requests for Approval</div><div class="isomer-card-link">Click here</div></div></a>
 </div>
 <p></p>
