@@ -4,7 +4,6 @@ permalink: /forms/
 variant: tiptap
 description: All downloadable forms
 ---
-<p>(Forms will be made available once entities are formally designated)</p>
 <h4><strong>Before Submission</strong></h4>
 <p>Before submitting the form to OSIR for processing:</p>
 <ul data-tight="true" class="tight">
@@ -30,4 +29,4 @@ your understanding that some applications may take longer to process.&nbsp;</p>
 <p>If approved, OSIR will provide more information on the following steps.</p>
 <p>If you dissatisfied with the outcome of the application, you may submit
 a reconsideration application within 14 calendar days. More information
-on Reconsiderations and Appeals can be found on <a href="/overview-of-sira/sira/reconsideration-and-appeal/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+on Reconsiderations and Appeals can be found <a href="/overview-of-sira/sira/reconsideration-and-appeal/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
