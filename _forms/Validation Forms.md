@@ -30,7 +30,7 @@ security.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Application for Validation of Business Acquisition</p>
+<p>Application to Minister for Validation of Business Acquisition</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
@@ -38,7 +38,7 @@ security.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Application for Validation of Controller</p>
+<p>Application to Minister for Validation of Controller</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
@@ -46,7 +46,7 @@ security.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Application for Validation of Cessation of Control</p>
+<p>Application to Minister for Validation of Cessation of Control</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
