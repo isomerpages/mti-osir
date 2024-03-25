@@ -8,7 +8,7 @@ variant: tiptap
 <li>
 <p><u>Agreement - Terms</u>
 </p>
-<p>All access of any area of&nbsp;www.mnd.gov.sg&nbsp;(“The Website”) is
+<p>All access of any area of&nbsp;www.osir.gov.sg&nbsp;(“The Website”) is
 governed by the terms and conditions below ("Terms"). If you do not accept
 any of these Terms, exit immediately. Continue only if you accept these
 Terms.</p>
