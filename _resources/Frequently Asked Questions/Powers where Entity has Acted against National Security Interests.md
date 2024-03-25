@@ -29,11 +29,11 @@ action by the entity against our national security interests.&nbsp;</p>
 </ul>
 <p></p>
 <p>Currently, there are already existing laws to deal with egregious acts
-against national security. For example, under the Insolvency, Restructuring
-and Dissolution Act, the Court may order the winding up of a company if
-it is being used against Singapore’s national security.&nbsp; However,
-winding up an entity could affect the continued provisioning of its functions,
-and may not be the desired outcome.</p>
+against national security. For example, under the <a href="/resources/other-legislation/irda" rel="noopener noreferrer nofollow" target="_blank">Insolvency, Restructuring and Dissolution Act</a>,
+the Court may order the winding up of a company if it is being used against
+Singapore’s national security.&nbsp; However, winding up an entity could
+affect the continued provisioning of its functions, and may not be the
+desired outcome.</p>
 <p></p>
 <p>The powers under the Significant Investments Review Act provide an alternative
 approach to winding up the company.&nbsp;</p>
