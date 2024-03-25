@@ -44,9 +44,8 @@ more details on the obligations of a designated entity.&nbsp;
 <p>Parties may seek clarification from OSIR at <a href="mailto:contact@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>contact@osir.gov.sg</u></a> before
 the commencement of any formal application.</p>
 <p>
-<br>To submit a notification or approval, please use the relevant form available
-at <a href="/forms/approval-forms/" rel="noopener noreferrer nofollow" target="_blank">notification forms</a> or
-<a href="/forms/approval-forms" rel="noopener noreferrer nofollow" target="_blank">approval forms</a>and email the completed form to <a href="mailto:contact@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>submissions@osir.gov.sg</u></a>.</p>
+<br>To submit a notification or approval, please download the relevant <a href="/forms/approval-forms/" rel="noopener noreferrer nofollow" target="_blank">Notification Form</a> or
+<a href="/forms/approval-forms" rel="noopener noreferrer nofollow" target="_blank">Approval Form</a>and email the completed form to <a href="mailto:contact@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>submissions@osir.gov.sg</u></a>.</p>
 </div>
 </details>
 <details class="isomer-details">
