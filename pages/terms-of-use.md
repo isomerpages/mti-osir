@@ -10,10 +10,9 @@ variant: tiptap
 </p>
 </li>
 </ol>
-<p>All access of any area of&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">www.osir.gov.sg</a>&nbsp;(“The
-Website”) is governed by the terms and conditions below ("Terms"). If you
-do not accept any of these Terms, exit immediately. Continue only if you
-accept these Terms.</p>
+<p>All access of any area of&nbsp;<a href="www.osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.osir.gov.sg</a>&nbsp;(“The Website”) is governed
+by the terms and conditions below ("Terms"). If you do not accept any of
+these Terms, exit immediately. Continue only if you accept these Terms.</p>
 <p>In these Terms, the words "we", "our" and "us" refers to the Government
 of Singapore.</p>
 <ol start="2" data-tight="true" class="tight">
