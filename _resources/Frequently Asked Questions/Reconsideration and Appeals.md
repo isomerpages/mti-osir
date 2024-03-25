@@ -37,7 +37,7 @@ email the completed form to <a href="mailto:submissions@osir.gov.sg" rel="noopen
 it is cancelled or substituted on reconsideration. No further reconsideration
 can be made after Minister makes a decision on the reconsideration application.</p>
 <p></p>
-<p>Please refer to <a href="/about-sira/reconsiderations-and-appeals" rel="noopener noreferrer nofollow" target="_blank">Reconsideration Process</a> for
+<p>Parties may wish to refer to <a href="/about-sira/reconsiderations-and-appeals" rel="noopener noreferrer nofollow" target="_blank">Reconsideration Process</a> for
 a step-by-step process flow.</p>
 </div>
 </details>
@@ -58,8 +58,8 @@ and email the completed form to <a href="mailto:secretary@siratribunal.gov.sg" r
 <p>The Minister's reconsideration decision remains in effect until it is
 reversed on appeal. A Reviewing Tribunal's decision is final.</p>
 <p></p>
-<p>Please refer to <a href="/about-sira/reconsiderations-and-appeals" rel="noopener noreferrer nofollow" target="_blank">Appeal Process</a> for
-a step-by-step process flow.</p>
+<p>Parties may wish to refer to <a href="/about-sira/reconsiderations-and-appeals" rel="noopener noreferrer nofollow" target="_blank">Appeal Process</a> for a
+step-by-step process flow.</p>
 <p></p>
 </div>
 </details>
