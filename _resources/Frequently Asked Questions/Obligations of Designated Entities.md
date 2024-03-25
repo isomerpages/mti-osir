@@ -37,16 +37,16 @@ order or the appointment of any (interim) judicial manager; or</p>
 by the Minister, if any.</p>
 </li>
 </ul>
-<p>Please refer to &lt;Ownership &amp; control obligations CJM&gt; for more
-details on the obligations of a designated entity.&nbsp;
+<p>Please refer to the <a href="/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener noreferrer nofollow" target="_blank">ownership &amp; control obligations</a> for
+more details on the obligations of a designated entity.&nbsp;
 <br>
 </p>
 <p>Parties may seek clarification from OSIR at <a href="mailto:contact@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>contact@osir.gov.sg</u></a> before
 the commencement of any formal application.</p>
 <p>
 <br>To submit a notification or approval, please use the relevant form available
-at &lt;OSIR website – Notification Forms&gt; or &lt;OSIR website – Approval
-Forms&gt; and email the completed form to <a href="mailto:contact@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>submissions@osir.gov.sg</u></a>.</p>
+at <a href="/forms/approval-forms/" rel="noopener noreferrer nofollow" target="_blank">notification forms</a> or
+<a href="/forms/approval-forms" rel="noopener noreferrer nofollow" target="_blank">approval forms</a>and email the completed form to <a href="mailto:contact@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>submissions@osir.gov.sg</u></a>.</p>
 </div>
 </details>
 <details class="isomer-details">
