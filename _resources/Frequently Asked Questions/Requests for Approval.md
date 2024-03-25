@@ -32,7 +32,7 @@ for:</p>
 </p>
 </li>
 <li>
-<p><a href="/about-sira/acquiring-business-or-undertaking" rel="noopener noreferrer nofollow" target="_blank">Acquiring, as a going concern, (any part of) the designated entity’s business or undertaking</a>
+<p><a href="/about-sira/acquiring-business-or-undertaking" rel="noopener noreferrer nofollow" target="_blank">Acquisition of the Business or Undertaking of a Designated Entity</a>
 </p>
 </li>
 <li>
