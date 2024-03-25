@@ -418,7 +418,6 @@ The Healthcare Services Act was enacted in 2020 to replace the Prviate Hospital 
 <p>Agency in charge: Land Transport Authority (LTA)</p>
 <p>Email address: <a href="mailto:feedback@lta.gov.sg">feedback@lta.gov.sg</a>&nbsp;&nbsp;&nbsp;</p>
 <p>Website: <a href="http://www.lta.gov.sg">www.lta.gov.sg</a></p>
-<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
