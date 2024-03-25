@@ -54,7 +54,7 @@ has occurred, while giving investors certainty as to when transactions
 would no longer be subject to such powers.</p>
 <p></p>
 <p>This does not prevent actions which may be brought under separate legislation,
-such as the Insolvency, Restructuring &amp; Dissolution Act.</p>
+such as the <a href="/resources/other-legislation/irda/" rel="noopener noreferrer nofollow" target="_blank">Insolvency, Restructuring &amp; Dissolution Act</a>.</p>
 </div>
 </details>
 </div>
