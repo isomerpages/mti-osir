@@ -59,8 +59,8 @@ his decisions; after which, they may appeal to a Reviewing Tribunal within
 30 days after the reconsideration outcome.
 <br>
 </p>
-<p>Please refer <a href="/designation/designation-process/" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-a step-by-step process flow.</p>
+<p>Please refer to the <a href="/designation/designation-process/" rel="noopener noreferrer nofollow" target="_blank">designation process </a>for a
+step-by-step process flow.</p>
 </div>
 </details>
 <details class="isomer-details">
