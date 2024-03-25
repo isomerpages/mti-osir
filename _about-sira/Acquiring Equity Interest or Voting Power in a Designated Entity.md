@@ -12,12 +12,12 @@ that meet the prescribed thresholds for the designated entities.</p>
 <p>The default obligations are:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Notifying the Minister within 7 days after becoming a 5% controller of
-a designated entity; and</p>
+<p>Notifying the Minister within 7 calendar days of becoming a 5% controller
+in a designated entity; and</p>
 </li>
 <li>
-<p>Seeking the Minister’s approval before becoming a 12%, 25%, or 50% controller
-of a designated entity.</p>
+<p>Seeking the Minister’s approval prior to becoming a 12%, 25%, or 50% controller
+in a designated entity.</p>
 </li>
 </ul>
 <p>While the above are default thresholds set out in the Act, the Minister
