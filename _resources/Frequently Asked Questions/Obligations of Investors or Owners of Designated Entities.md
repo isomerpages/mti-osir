@@ -105,8 +105,8 @@ a step-by-step process flow.</p>
 from the Minister prior to the acquisition, as a going concern, of (any
 part of) the business or undertaking of the designated entity.&nbsp;</p>
 <p>
-<br>Parties may wish to refer here &lt;link to CJM&gt; for a step-by-step
-process flow.</p>
+<br>Parties may wish to refer to <a href="/about-sira/acquiring-business-or-undertaking/" rel="noopener noreferrer nofollow" target="_blank">Acquisition of the Business or undertaking of a Designated Entity</a> for
+a step-by-step process flow.</p>
 </div>
 </details>
 <details class="isomer-details">
