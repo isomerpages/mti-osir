@@ -4,6 +4,10 @@ permalink: /designation/designation-process/
 variant: tiptap
 description: Designation Process
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OSIR___Chart_and_Infographic_Compiled_Revised_6_page_0001.jpg">
+</div>
 <h4><strong>Designation Process</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -15,16 +19,8 @@ to make representations relating to their potential designation.</p>
 <li>
 <p>If the eventual decision is to proceed with designation, the entity will
 be issued a Designation Order and their designation status will be notified
-in the Government Gazette <strong><u>here</u></strong>. The Designation
-Order may contain information specific to each designated entity.</p>
-<p></p>
-</li>
-<li>
-<p>The current list of designated entities can be found <strong><u>here</u></strong> and
-in the Government Gazette.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OSIR___Chart_and_Infographic_Compiled_Revised_6_page_0001.jpg">
-</div>
+in the Government Gazette &lt;link&gt; and <a href="/designation/designated-entities" rel="noopener noreferrer nofollow" target="_blank">here</a>. The Designation Order
+may contain information specific to each designated entity.</p>
 </li>
 </ul>
 <hr>
@@ -52,7 +48,7 @@ cancellation of its designation may be possible.</p>
 <li>
 <p>Any designation, or cancellation of designation, will be published in
 the Government Gazette. OSIR will also maintain and publish an updated
-list of designated entities.</p>
+list of designated entities <a href="/designation/designated-entities" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </li>
 </ul>
 <p></p>
