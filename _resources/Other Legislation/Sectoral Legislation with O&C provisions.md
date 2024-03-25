@@ -242,8 +242,16 @@ The Healthcare Services Act was enacted in 2020 to replace the Prviate Hospital 
 <p><strong>Info-communications Media Development Authority Act</strong></p>
 <p>The Info-communications Media Development Authority Act ("IMDAA") establishes and empowers IMDA to promote, develop and regulate the information, communications and media industry in Singapore. The IMDAA also provides IMDA the powers to issue directions and codes of practices in connection with competition and consumer protection matters in the media industry.</p>
 <p>The IMDAA requires "regulated persons"* to obtain IMDA's approval to merge, consolidate with, or be taken over by another regulated person or any other person carrying on any business connected ot the provision of media services in Singapore.</p>
-<p><em>*This refers to newspaper companies or the proprietor of a newspaper as defined in the Newspaper and Printing Presses Act, or broadcasting licensee as defined in the Broadcasting Act.</em></p>
-<p>&nbsp;</p>
+<p><em>*This refers to newspaper companies or the proprietor of a newspaper as defined in the Newspaper and Printing Presses Act, or broadcasting licensee as defined in the Broadcasting Act.</em></p></td>
+<td><p>Agency in charge: Ministry of Communications and Information (MCI) / Infocomm Media Development Authority (IMDA)</p>
+<p>Email address: ilo@imda.gov.sg</p>
+<p>Website: <a href="http://www.mci.gov.sg/">www.mci.gov.sg</a>&nbsp;/ <a href="http://www.imda.gov.sg">www.imda.gov.sg</a>&nbsp;</p>
+<p>For queries relating to the IMDAA, email <a href="mailto:ilo@imda.gov.sg">ilo@imda.gov.sg</a>&nbsp;</p>
+</td>
+</tr>	
+<tr>
+<td>5</td>
+<td>
 <p><strong>Broadcasting Act</strong></p>
 <p>The Broadcasting Act ("BA") regulates dealing in, operation of and ownership in broadcasting services and broadcasting apparatus. It also regulatres online communication services accessible by Singapore end-users.</p>
 <p>Specified changes in ownership and control of broadcasting companeis that hold a relevant licence are subject to Minister's approval, such as when person(s) seek to be a substantial shareholder, 12% controller, or an indirect controller of a broadcasting company that holds a relevant licence.</p>
@@ -253,7 +261,6 @@ The Healthcare Services Act was enacted in 2020 to replace the Prviate Hospital 
 <p>Agency in charge: Ministry of Communications and Information (MCI) / Infocomm Media Development Authority (IMDA)</p>
 <p>Email address: ilo@imda.gov.sg</p>
 <p>Website: <a href="http://www.mci.gov.sg/">www.mci.gov.sg</a>&nbsp;/ <a href="http://www.imda.gov.sg">www.imda.gov.sg</a>&nbsp;</p>
-<p>For queries relating to the IMDAA, email <a href="mailto:ilo@imda.gov.sg">ilo@imda.gov.sg</a>&nbsp;</p>
 <p>For approval obligations for specified changes in ownership and control of broadcasting companies that hold a relevant licence under the BA, email: <a href="mailto:MCI_Connects@mci.gov.sg">MCI_Connects@mci.gov.sg</a>&nbsp;</p>
 <p>For queries on the appointment of key officers under the BA, email: <a href="mailto:info@imda.gov.sg">info@imda.gov.sg</a>&nbsp;</p>
 </td>
