@@ -49,8 +49,8 @@ for:</p>
 applicable, are met:</p>
 <ul>
 <li>
-<p>The prospective acquirors, or controllers and their associates, are &lt;fit
-and proper&gt; persons;</p>
+<p>The prospective acquirors, or controllers and their associates, are
+<a href="/resources/guidance-documents" rel="noopener noreferrer nofollow" target="_blank">fit and proper</a>persons;</p>
 </li>
 <li>
 <p>The designated entity would be able to continue providing its critical
