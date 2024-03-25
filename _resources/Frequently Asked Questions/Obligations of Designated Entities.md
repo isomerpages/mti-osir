@@ -83,7 +83,7 @@ of the Board of Directors;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>What is the criteria for a key officer to be approved?</summary>
+<summary>What are the criteria for a key officer to be approved?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>In assessing whether the appointment of a key officer should be approved,
 the Minister may consider factors such as:</p>
