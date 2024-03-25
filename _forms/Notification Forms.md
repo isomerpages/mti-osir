@@ -19,8 +19,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Notice to Minister by Level "A" controller
-<br><em><sub>*The default control threshold for a Level "A" controller is 5%.</sub></em>
+<p>Notice to Minister by Level "A" controller*
+<br> <em><sub>*The default control threshold for a Level "A" controller is 5%.</sub></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
