@@ -101,6 +101,10 @@ the Minister may consider factors such as:</p>
 </ul>
 <p>Minster may also consider any other relevant matter and will convey these
 requirements to the designated entity in writing.</p>
+<p></p>
+<p>Parties can seek reconsideration from the Minister within 14 calendar
+days after his decisions; after which, they may appeal to a Reviewing Tribunal
+within 30 calendar days after the reconsideration outcome.</p>
 </div>
 </details>
 <details class="isomer-details">
