@@ -111,11 +111,11 @@ Any claim relating to use of The Website shall be heard by Singapore Courts.</p>
 <li>
 <p><u>Variation</u>
 </p>
-</li>
-</ol>
 <p>We may revise these Terms at any time by updating this page. You should
 visit this page from time to time and review the current Terms because
 they are binding on you. We may modify or discontinue any information or
 features that form part of The Website at any time, with or without notice
 to you, and without liability.</p>
+</li>
+</ol>
 <p></p>
