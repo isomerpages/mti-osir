@@ -4,7 +4,8 @@ permalink: /forms/notification-forms/
 variant: tiptap
 description: ""
 ---
-<p>(Forms will be made available once entities are formally designated)</p>
+<p><em>(Forms will be made available once entities are formally designated)</em>
+</p>
 <h4><strong>Notification Forms</strong></h4>
 <table>
 <tbody>
