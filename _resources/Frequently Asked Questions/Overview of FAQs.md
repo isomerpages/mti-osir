@@ -20,17 +20,17 @@ for advice.</p>
 <div class="isomer-card-link">Click here</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/resources/faqs/obligations-of-investors-or-owners/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Obligations of Investors or Owners of Designated Entities</div><div class="isomer-card-link">Click here</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/resources/faqs/reconsiderations-and-appeals/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/resources/faqs/requests-for-approval/" class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Reconsiderations and Appeals</div>
+<div class="isomer-card-title">Requests for Approval</div>
 <div class="isomer-card-link">Click here</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/resources/faqs/powers-where-entity-acted-against-national-security-interests/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Powers where Entity has Acted against National Security interests</div><div class="isomer-card-link">Click here</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/resources/faqs/osir/" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="/resources/faqs/reconsiderations-and-appeals/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Reconsiderations and Appeals</div><div class="isomer-card-link">Click here</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/resources/faqs/powers-where-entity-acted-against-national-security-interests/" class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">The Office of Significant Investments Review</div>
-<div class="isomer-card-link">Click here.</div>
+<div class="isomer-card-title">Powers where Entity has Acted against National Security interests</div>
+<div class="isomer-card-link">Click here</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/resources/faqs/requests-for-approval/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Requests for Approval</div><div class="isomer-card-link">Click here</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/resources/faqs/osir/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">The Office of Significant Investments Review</div><div class="isomer-card-link">Click here.</div></div></a>
 </div>
 <p></p>
