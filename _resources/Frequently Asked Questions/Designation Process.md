@@ -14,8 +14,8 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 <details class="isomer-details">
 <summary>Which entities have been designated?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>All designation of entities will be notified in the &lt;Gazette link&gt;.
-OSIR also maintains and publishes an updated <a href="/designation/designated-entities" rel="noopener noreferrer nofollow" target="_blank">list of designated entities</a>.</p>
+<p>All designation of entities will be notified in the Gazette. OSIR also
+maintains and publishes an updated <a href="/designation/designated-entities" rel="noopener noreferrer nofollow" target="_blank">list of designated entities</a>.</p>
 </div>
 </details>
 <details class="isomer-details">
