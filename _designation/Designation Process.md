@@ -22,11 +22,11 @@ Order may contain information specific to each designated entity.</p>
 <li>
 <p>The current list of designated entities can be found <strong><u>here</u></strong> and
 in the Government Gazette.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OSIR___Chart_and_Infographic_Compiled_Revised_6_page_0001.jpg">
+</div>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Designation_of_Entity.jpg">
-</div>
 <hr>
 <h4><strong>Designation Criteria</strong></h4>
 <p>Designation is not a process treated lightly and is only done when deemed
