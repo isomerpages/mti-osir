@@ -11,7 +11,7 @@ to safeguard Singapore's national security interests. This will provide
 businesses and investors with continued confidence in Singapore as a stable,
 trusted, and well-connected global business and investment hub.</p>
 <p>Click to access the following via Singapore Statutes Online:</p>
-<p>(To be updated upon the commencement of SIRA</p>
+<p>&lt;To updated upon the commencement of SIRA&gt;</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>SIRA</p>
