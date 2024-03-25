@@ -19,8 +19,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Potential buyers are to notify within 7 calendar days after becoming a
-Level "A" controller</p>
+<p>Notice to Minister by Level "A" controller</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
@@ -28,8 +27,8 @@ Level "A" controller</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Designated entities have to notify Minister within 7 days after becoming
-aware of a change in ownership or control.</p>
+<p>Notice to Minister by designated entities within 7 days after becoming
+aware of a change in ownership or control</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
