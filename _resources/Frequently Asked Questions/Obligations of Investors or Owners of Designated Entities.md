@@ -134,7 +134,7 @@ the entity; and&nbsp;</p>
 </li>
 </ul>
 <p>
-<br>Please refer to <a href="/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener noreferrer nofollow" target="_blank">Overview of Ownership &amp; Control Obligations under SIRA</a> for
+<br>Parties may refer to <a href="/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener noreferrer nofollow" target="_blank">Overview of Ownership &amp; Control Obligations under SIRA</a> for
 the prescribed ownership or control thresholds. The thresholds are default
 thresholds and may differ for specific entities.</p>
 <p>
@@ -160,7 +160,7 @@ or an ultimate parent company to notify or seek approval apply regardless
 of whether the actions were the result of the intermediate holding company,
 the ultimate parent company or any other party.&nbsp;</p>
 <p></p>
-<p>Please refer to <a href="/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener noreferrer nofollow" target="_blank">Overview of Ownership &amp; Control Obligations under SIRA</a> for
+<p>Parties may refer to <a href="/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener noreferrer nofollow" target="_blank">Overview of Ownership &amp; Control Obligations under SIRA</a> for
 the prescribed thresholds. The thresholds are default thresholds and may
 differ for specific entities.</p>
 </div>
@@ -178,7 +178,7 @@ the sale.&nbsp;</p>
 designated entity which causes it to cross a prescribed threshold as a
 result, prior approval would be required.</p>
 <p>
-<br>Please refer to <a href="/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener noreferrer nofollow" target="_blank">Overview of Ownership &amp; Control Obligations under SIRA</a> for
+<br>Parties may refer to <a href="/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener noreferrer nofollow" target="_blank">Overview of Ownership &amp; Control Obligations under SIRA</a> for
 the prescribed thresholds. The thresholds are default thresholds and may
 differ for specific entities.</p>
 <p>
@@ -205,7 +205,7 @@ not participating in a share buyback.</p>
 </li>
 </ul>
 <p></p>
-<p>Please refer to <a href="/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener noreferrer nofollow" target="_blank">Overview of Ownership &amp; Control Obligations under SIRA</a> for
+<p>Parties may refer to <a href="/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener noreferrer nofollow" target="_blank">Overview of Ownership &amp; Control Obligations under SIRA</a> for
 the prescribed thresholds. The thresholds are default thresholds and may
 differ for specific entities.</p>
 </div>
@@ -220,7 +220,7 @@ over the designated entity or otherwise, must comply with the obligations
 under the Significant Investments Review Act if they meet the prescribed
 thresholds.&nbsp;</p>
 <p>
-<br>Please refer to <a href="/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener noreferrer nofollow" target="_blank">Overview of Ownership &amp; Control Obligations under SIRA</a> for
+<br>Parties may refer to <a href="/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener noreferrer nofollow" target="_blank">Overview of Ownership &amp; Control Obligations under SIRA</a> for
 the prescribed thresholds. The thresholds are default thresholds and may
 differ for specific entities.</p>
 </div>
@@ -241,7 +241,7 @@ tied to it.&nbsp;</p>
 <br>Hence, a party entering into any such arrangement will need to notify
 or seek approval if the equity interest meets the prescribed thresholds.</p>
 <p>
-<br>Please refer to <a href="/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener noreferrer nofollow" target="_blank">Overview of Ownership &amp; Control Obligations under SIRA</a> for
+<br>Parties may refer to <a href="/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener noreferrer nofollow" target="_blank">Overview of Ownership &amp; Control Obligations under SIRA</a> for
 the prescribed thresholds. The thresholds are default thresholds and may
 differ for specific entities.</p>
 </div>
