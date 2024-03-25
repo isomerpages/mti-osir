@@ -53,9 +53,6 @@ equipment secure.</p>
 <p>This includes clearing your Internet browser cookies and cache before
 and after using any services on The Website.</p>
 <p></p>
-<p>You should keep your passwords confidential. Please note that we will
-never ask you for your SingPass or any other login password.</p>
-<p></p>
 </li>
 <li>
 <p><u>Hyperlinks</u>
