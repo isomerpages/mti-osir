@@ -18,8 +18,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Reconsideration from the Minister may be sought within 14 calendar days
-after receiving the decision</p>
+<p>Application to Minister for a reconsideration decision within 14 calendar
+days after receiving the initial appealable decision</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
@@ -27,8 +27,8 @@ after receiving the decision</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Appeals may be submitted to an independent Reviewing Tribunal within 30
-calendar days after the reconsideration outcome</p>
+<p>Application to an independent Reviewing Tribunal within 30 calendar days
+after the reconsideration decision</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Appeal forms may be found at &lt;MTI website&gt; and should be emailed
