@@ -40,19 +40,19 @@ sections:
         - title: Notification Forms
           description: ""
           linktext: Learn more
-          url: /notifications
+          url: /forms/notification-forms
         - title: Approval Forms
           description: ""
           linktext: Learn more
-          url: /approvals
+          url: /forms/approval-forms
         - title: Validation Forms
           description: ""
           linktext: Learn more
-          url: /validation-forms/
+          url: /forms/validation-forms/
         - title: Reconsideration Forms
           description: ""
           linktext: Learn more
-          url: /reconsideration-forms/
+          url: /forms/reconsideration-and-appeal-forms/
   - textcards:
       title: Resources
       id: textcards
