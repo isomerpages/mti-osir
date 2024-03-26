@@ -12,16 +12,9 @@ sectoral legislation and manages significant investments into critical
 entities, to safeguard Singapore's national security interests.</p>
 <hr>
 <h4><strong>About MTI</strong></h4>
-<p><strong>Our Vision&nbsp;</strong>
-</p>
-<p>Our vision is for Singapore to be a leading global city with a dynamic
-economy, world-class and innovative enterprises, a conducive environment
-for entrepreneurs and enterprises to tap its diverse opportunities and
-good jobs for all Singaporeans.</p>
-<p><strong>Our Mission</strong>
-</p>
-<p>To promote economic growth and create good jobs, to enable Singaporeans
-to improve their lives. Together with our statutory boards, we will ensure
-that Singapore’s economy continues to be competitive, is able to attract
-investments, and nurture a deeper base of global Singapore enterprises.</p>
+<p>The Singapore Ministry of Trade and Industry’s mission is to promote economic
+growth and create good jobs for Singaporeans. Together with its statutory
+boards, it ensures that Singapore’s economy remains competitive, is able
+to attract investments, and nurtures a deeper base of global Singapore
+enterprises. For more information go to <a href="http://www.mti.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.mti.gov.sg</a>.</p>
 <p></p>
