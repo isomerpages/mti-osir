@@ -49,7 +49,7 @@ sections:
           description: ""
           linktext: Learn more
           url: /forms/validation-forms/
-        - title: Reconsiderations and Appeals Forms
+        - title: Reconsideration and Appeal Forms
           description: ""
           linktext: Learn more
           url: /forms/reconsideration-and-appeal-forms/
