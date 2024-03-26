@@ -16,5 +16,5 @@ entities, to safeguard Singapore's national security interests.</p>
 growth and create good jobs for Singaporeans. Together with its statutory
 boards, it ensures that Singapore’s economy remains competitive, is able
 to attract investments, and nurtures a deeper base of global Singapore
-enterprises. For more information go to <a href="http://www.mti.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.mti.gov.sg</a>.</p>
+enterprises. For more information, go to <a href="http://www.mti.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.mti.gov.sg</a>.</p>
 <p></p>
