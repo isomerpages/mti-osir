@@ -20,7 +20,7 @@ can be made after Minister makes a decision on the reconsideration application.<
 <hr>
 <h4><strong>Appeals</strong></h4>
 <p>Should parties wish to further appeal against the Minister's reconsideration
-decision to an independent Reviewing Tribunal, appeals must be submitted
-within 30 calendar days of reconsideration decision.</p>
+decision, appeals to an independent Reviewing Tribunal must be submitted
+within 30 calendar days of a reconsideration decision.</p>
 <p>The Minister's reconsideration decision remains in effect until it is
 reversed on appeal. A Reviewing Tribunal's decision is final.</p>
