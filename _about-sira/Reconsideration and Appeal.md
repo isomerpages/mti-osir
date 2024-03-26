@@ -19,7 +19,7 @@ it is cancelled or substituted on reconsideration. No further reconsideration
 can be made after Minister makes a decision on the reconsideration application.</p>
 <hr>
 <h4><strong>Appeals</strong></h4>
-<p>Should parties wish go further appeal against the Minister's reconsideration
+<p>Should parties wish to further appeal against the Minister's reconsideration
 decision to an independent Reviewing Tribunal, appeals must be submitted
 within 30 calendar days of reconsideration decision.</p>
 <p>The Minister's reconsideration decision remains in effect until it is
