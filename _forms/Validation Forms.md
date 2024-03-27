@@ -6,18 +6,12 @@ description: ""
 ---
 <p><em>(Forms will be made available once entities are formally designated)</em>
 </p>
-<p>Transactions that occur without the necessary approvals will be void.
-However, void transactions can be retrospectively validated in some cases:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Upon review of applications submitted by materially affected parties;
-or</p>
-</li>
-<li>
-<p>The Minister can do so on his own initiative if it is in the interest
-of national security.</p>
-</li>
-</ul>
+<p>Transactions that are completed without the necessary prior approvals
+from Minister will be void. Materially affected parties may apply to the
+Minister to validate the transaction and the Minister may do so by issuing
+a validation notice. The Minister may also proactively issue such a notice
+if the Minister is satisfied that it is in the interest of Singapore's
+national security to do so.</p>
 <table>
 <tbody>
 <tr>
