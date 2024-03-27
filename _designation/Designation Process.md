@@ -5,7 +5,7 @@ variant: tiptap
 description: Designation Process
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OSIR___Chart_and_Infographic_Compiled_Revised_6_page_0001.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="SIRA - Designation of Entity Infographic" src="/images/sira_designation_of_entity_infographic.jpg">
 </div>
 <h4><strong>Designation Process</strong></h4>
 <ul data-tight="true" class="tight">
