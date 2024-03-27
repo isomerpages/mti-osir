@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OSIR___Chart_and_Infographic_Compiled_Revised_6_page_0006.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="SIRA - Appointment of Key Officers Infographic" src="/images/sira_appointment_of_key_officers_infographic.jpg">
 </div>
 <h4><strong>Appointment of Key Officers in a Designated Entity</strong></h4>
 <p>A designated entity must obtain approval from the Minister prior to appointing
