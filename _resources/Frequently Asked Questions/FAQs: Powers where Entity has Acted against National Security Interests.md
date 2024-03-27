@@ -11,11 +11,11 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Does the Act apply to entities that are not designated? If so, when do
-the powers under the Act apply?</summary>
+<summary>Does the Significant Investments Review Act apply to entities that are
+not designated? If so, when do the powers under this Act apply?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The Act applies to entities that are not designated, but only when the
-following two criteria are met:</p>
+<p>The Significant Investments Review Act(SIRA) applies to entities that
+are not designated, but only when the following two criteria are met:</p>
 <ul>
 <li>
 <p>The entity has acted against Singapore’s national security interests;
@@ -35,8 +35,8 @@ Singapore’s national security.&nbsp; However, winding up an entity could
 affect the continued provisioning of its functions, and may not be the
 desired outcome.</p>
 <p></p>
-<p>The powers under the Significant Investments Review Act provide an alternative
-approach to winding up the company.&nbsp;</p>
+<p>The powers under SIRA provide an alternative approach to winding up the
+company.&nbsp;</p>
 <p></p>
 <p>Following the review of the transaction, a range of directions may be
 issued, such as directing the transacting party to transfer or dispose
