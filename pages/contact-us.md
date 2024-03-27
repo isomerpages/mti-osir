@@ -18,7 +18,8 @@ contacts:
   - content:
       - phone: ""
       - email: submissions@osir.gov.sg
-      - other: Please submit forms and requests relating to SIRA to this email.
+      - other: "Please submit all application forms relating to SIRA to this email so
+          that the forms would be processed in a timely manner. "
     title: Submissions
   - content:
       - phone: ""
@@ -32,5 +33,5 @@ contacts:
           please submit them to this email. Your identity will be kept
           anonymous.
     title: Raise Your Concerns
-feedback: /contact-us/
+feedback: ""
 ---
