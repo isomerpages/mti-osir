@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OSIR___Chart_and_Infographic_Compiled_Revised_6_page_0003.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="SIRA - Acquiring Equity Interest or Voting Power Infographic" src="/images/sira_acquiring_equity_interest_or_voting_power_infographic.jpg">
 </div>
 <p>Parties will need to notify or seek approval if they are involved in transactions
 that meet the prescribed thresholds for the designated entities.</p>
