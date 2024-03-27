@@ -161,17 +161,14 @@ differ for specific entities.</p>
 apply to parent entities. For example, if a parent entity seeks to sell
 off some of its shares in the designated entity and would fall below a
 prescribed threshold as a result, prior approval would be required for
-the sale.&nbsp;</p>
-<p>
-<br>Similarly, if a parent entity seeks to increase its shareholding in a
+the sale.</p>
+<p>Similarly, if a parent entity seeks to increase its shareholding in a
 designated entity which causes it to cross a prescribed threshold as a
 result, prior approval would be required.</p>
-<p>
-<br>Parties may refer to <a href="/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener noreferrer nofollow" target="_blank">Overview of Ownership &amp; Control Obligations under SIRA</a> for
+<p>Parties may refer to <a href="/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener noreferrer nofollow" target="_blank">Overview of Ownership &amp; Control Obligations under SIRA</a> for
 the prescribed thresholds. The thresholds are default thresholds and may
 differ for specific entities.</p>
-<p>
-<br>Parent entities may seek clarification from OSIR at <a href="mailto:contact@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>contact@osir.gov.sg</u></a> before
+<p>Parent entities may seek clarification from OSIR at <a href="mailto:contact@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>contact@osir.gov.sg</u></a> before
 the commencement of any formal application.</p>
 </div>
 </details>
