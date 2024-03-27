@@ -16,7 +16,7 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 <p>Key obligations of designated entities include the following:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><u>Notifying the Minister </u></strong>within seven calendar days
+<p><strong><u>Notifying the Minister </u></strong>within 7 calendar days
 after becoming aware of any relevant change in ownership or control;</p>
 </li>
 <li>
