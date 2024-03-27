@@ -90,18 +90,17 @@ the Minister may consider factors such as:</p>
 <li>
 <p>Financial soundness;</p>
 </li>
-</ul>
-<ul>
 <li>
 <p>Honesty, integrity and reputation;</p>
 </li>
 <li>
-<p>Potential impact on national security interests.</p>
+<p>Potential impact on national security interests.
+<br>
+</p>
 </li>
 </ul>
 <p>Minster may also consider any other relevant matter and will convey these
 requirements to the designated entity in writing.</p>
-<p></p>
 <p>Parties can seek reconsideration from the Minister within 14 calendar
 days after his decisions; after which, they may appeal to a Reviewing Tribunal
 within 30 calendar days after the reconsideration outcome.</p>
