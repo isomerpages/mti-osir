@@ -12,7 +12,7 @@ notification: ""
 sections:
   - hero:
       title: Office of Significant Investments Review
-      background: /images/shutterstock_1297087753_resized.jpg
+      background: /images/homepage.jpg
       key_highlights:
         - title: About The Office Of Significant Investments Review (OSIR)
           description: ""
