@@ -224,7 +224,7 @@ The Healthcare Services Act was enacted in 2020 to replace the Private Hospital 
 <td>3</td>
 <td>
 <p><strong>Postal Services Act</strong></p>
-<p>The Postal Services Act ("PSA") is the legislative framework that governs the regulations of Singapore's postal sector and the nationwide public parcel locker network. Under the PSA, the Infocomm Media Development Authority ("IMDA") has the powers to, amongst others:</p>
+<p>The Postal Services Act ("PSA") is the legislative framework that governs the regulation of Singapore's postal sector and the nationwide public parcel locker network. Under the PSA, the Infocomm Media Development Authority ("IMDA") has the powers to, amongst others:</p>
 <p>1. Grant or modify licences, and issue directions, codes of practice and standards of performance to regulate postal services and systems and the conduct of postal licensees; and</p>
 <p>2. Appoint an operator, and issue directions and codes of practice for or in connection with the installation, operation and maintenance of the public parcel locker network.</p>
 <p>Designated Postal Licensees (DPLs) are required to notify IMDA of specified changes in ownership or control of DPLs. Further, IMDA's approval must be given for any person to acquire specified levels of ownership or control in DPLs. DPLs are also required to seek IMDA's approval for the appointment of key appointment holders, including the DPL's directors and chief executive officer. IMDA may direct the DPL to rmeove such key appointment holders if they are appointed without IMDA's approval.</p>
