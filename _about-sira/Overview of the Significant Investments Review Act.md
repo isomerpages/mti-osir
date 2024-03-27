@@ -11,16 +11,18 @@ to safeguard Singapore's national security interests. This will provide
 businesses and investors with continued confidence in Singapore as a stable,
 trusted, and well-connected global business and investment hub.</p>
 <p>Click to access the following via Singapore Statutes Online:</p>
-<p>&lt;To updated upon the commencement of SIRA&gt;</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>SIRA</p>
+<p><a href="https://storage.egazette.gov.sg/getFiles?ct=as&amp;yr=2024&amp;filename=24acts04.pdf" rel="noopener noreferrer nofollow" target="_blank">SIRA</a>
+</p>
 </li>
 <li>
-<p>SIRA Regulations</p>
+<p><a href="https://storage.egazette.gov.sg/getFiles?ct=sls&amp;yr=2024&amp;filename=24sls229.pdf" rel="noopener noreferrer nofollow" target="_blank">Significant Investments Review Regulations 2024</a>
+</p>
 </li>
 <li>
-<p>SIRA Reviewing Tribunal Rules</p>
+<p><a href="https://storage.egazette.gov.sg/getFiles?ct=sls&amp;yr=2024&amp;filename=24sls230.pdf" rel="noopener noreferrer nofollow" target="_blank">Significant Investments Review (Reviewing Tribunal) Rules 2024</a>
+</p>
 </li>
 </ol>
 <p></p>
