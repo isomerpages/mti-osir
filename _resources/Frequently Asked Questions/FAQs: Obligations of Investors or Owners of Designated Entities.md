@@ -84,14 +84,12 @@ sale of equity interest or voting power in a designated entity?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Parties will need to seek approval from the Minister prior to disposing
 equity interest or voting power in a designated entity which will result
-in them ceasing to be a 50% or 75% controller.&nbsp;&nbsp;</p>
-<p>
-<br>While the above are default thresholds set out in the Significant Investments
+in them ceasing to be a 50% or 75% controller.</p>
+<p>While the above are default thresholds set out in the Significant Investments
 Review Act, the Minister has the flexibility to vary such thresholds for
 specific entities as the situation warrants, and if so, these will be prescribed
 in subsidiary legislation.</p>
-<p>
-<br>Parties may wish to refer to <a href="/about-sira/disposing-equity-interest-or-voting-power/" rel="noopener noreferrer nofollow" target="_blank">Disposal of Equity Interest or Voting Power in a Designated Entity</a> for
+<p>Parties may wish to refer to <a href="/about-sira/disposing-equity-interest-or-voting-power/" rel="noopener noreferrer nofollow" target="_blank">Disposal of Equity Interest or Voting Power in a Designated Entity</a> for
 a step-by-step process flow.</p>
 </div>
 </details>
