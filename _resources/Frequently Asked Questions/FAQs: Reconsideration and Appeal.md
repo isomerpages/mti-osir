@@ -58,8 +58,8 @@ and email the completed form to <a href="mailto:secretary@siratribunal.gov.sg" r
 <p>The Minister's reconsideration decision remains in effect until it is
 reversed on appeal. The Reviewing Tribunal's decision is final.</p>
 <p></p>
-<p>Parties may wish to refer to <a href="/about-sira/reconsiderations-and-appeals" rel="noopener noreferrer nofollow" target="_blank">Appeal Process</a> for a
-step-by-step process flow.</p>
+<p>Parties may wish to refer to <a href="/about-sira/reconsideration-and-appeal" rel="noopener noreferrer nofollow" target="_blank">Appeal Process</a> for a step-by-step
+process flow.</p>
 <p></p>
 </div>
 </details>
