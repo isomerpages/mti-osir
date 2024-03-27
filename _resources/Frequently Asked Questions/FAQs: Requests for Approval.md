@@ -93,13 +93,11 @@ within 30 calendar days after the reconsideration outcome.</p>
 transaction?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Transactions that are completed without the necessary prior approvals
-from Minister will be void.&nbsp;</p>
-<p>
-<br>Materially affected parties may apply to the Minister to validate the
+from Minister will be void.</p>
+<p>Materially affected parties may apply to the Minister to validate the
 transaction and the Minister may do so by issuing a validation notice.
 The Minister may also proactively issue such a notice if he is satisfied
 that it is in the interest of Singapore’s national security to do so.</p>
-<p></p>
 <p>Non-compliant parties may be subject to penalties under the Significant
 Investments Review Act.</p>
 </div>
