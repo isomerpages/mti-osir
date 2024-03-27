@@ -33,5 +33,5 @@ description: List of Designated Entities
 </tbody>
 </table>
 <p></p>
-<p><em>Note: Formerly designated entities will also be listed on this page when available.</em>
+<p><em>Note: Any formerly designated entities will also be listed on this page.</em>
 </p>
