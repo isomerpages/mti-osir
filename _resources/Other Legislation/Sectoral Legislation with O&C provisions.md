@@ -210,7 +210,7 @@ The Healthcare Services Act was enacted in 2020 to replace the Private Hospital 
 <td>2</td>
 <td>
 <p><strong>Telecommunications Act</strong></p>
-<p>The Telecommunications Act ("TA") is the legislative framework that governs the regulation of Singapore's telecommunication sector. The TA provides the Infocomm Media Development Authority ("IMDA") the powers to grant licences, and issue directions, codes and practices and standards of performances to regulate telecommunication systems and services, and the conduct of telecommuncation licensees, amongst others.</p>
+<p>The Telecommunications Act ("TA") is the legislative framework that governs the regulation of Singapore's telecommunication sector. The TA provides the Infocomm Media Development Authority of Singapore ("IMDA") the powers to grant licenses, and issue directions, codes of practices and standards of performances to regulate telecommunication systems and services, and the conduct of telecommunication licensees, amongst others.</p>
 <p>Designated Telecomunication Licensees (DTLs) are required to notify IMDA of specified changes in ownership and control of DTLs. Further, IMDA's approval must be given for any person to acquire specified levels of ownership or control in DTLs. DTLs are also required to seek IMDA's approval for the appointment of key appointment holders, including the DTLs directors and chief executive officer. IMDA may direct the DTL to remove such key appointment holders if they are appointed without IMDA's approval or if conditions of approval are breached.</p>
 <p>The list of DTLs is published in the Government Gazette. You can search the Government Gazette at <a href="http://www.egazette.com.sg">www.egazette.com.sg</a>.&nbsp;</p>
 </td>
