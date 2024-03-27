@@ -18,8 +18,9 @@ to make representations relating to their potential designation.</p>
 <li>
 <p>If the eventual decision is to proceed with designation, the entity will
 be issued a Designation Order and their designation status will be notified
-in the Government Gazette and <a href="/designation/designated-entities" rel="noopener noreferrer nofollow" target="_blank">here</a>. The Designation Order
-may contain information specific to each designated entity.</p>
+in the Government Gazette and updated in the <a href="/designation/designated-entities" rel="noopener noreferrer nofollow" target="_blank">list of designated entities</a>.
+The Designation Order may contain information specific to each designated
+entity.</p>
 </li>
 </ul>
 <hr>
@@ -47,7 +48,7 @@ cancellation of its designation may be possible.</p>
 <li>
 <p>Any designation, or cancellation of designation, will be published in
 the Government Gazette. OSIR will also maintain and publish an updated
-list of designated entities <a href="/designation/designated-entities" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<a href="/designation/designated-entities" rel="noopener noreferrer nofollow" target="_blank">list of designated entities</a>.</p>
 </li>
 </ul>
 <p></p>
