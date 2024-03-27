@@ -40,15 +40,9 @@ national security interests; and</p>
 </li>
 </ul>
 <h4><strong>Cancellation of Designation</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
 <p>Should a designated entity cease to meet the criteria for designation,
 the cancellation of its designation may be possible.</p>
-</li>
-<li>
 <p>Any designation, or cancellation of designation, will be published in
 the Government Gazette. OSIR will also maintain and publish an updated
 <a href="/designation/designated-entities" rel="noopener noreferrer nofollow" target="_blank">list of designated entities</a>.</p>
-</li>
-</ul>
 <p></p>
