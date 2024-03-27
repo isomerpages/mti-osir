@@ -54,7 +54,7 @@ The Financial Holding Companies Act 2013 regulates financial holding companies.
 <td>3</td>
 <td>
 <p><strong>Finance Companies Act 1967</strong></p>
-Finance Companies Act 1967 is an Act to license and control finance companies.
+The Finance Companies Act 1967 is an Act to license and control finance companies.
 <p>Approval will be required for substantial shareholders and controllers of designated financial companies that are regulated under the Act.</p>
 </td>
 <td>
