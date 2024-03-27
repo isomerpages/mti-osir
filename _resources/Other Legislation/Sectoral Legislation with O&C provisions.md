@@ -55,7 +55,7 @@ The Financial Holding Companies Act 2013 regulates financial holding companies.
 <td>
 <p><strong>Finance Companies Act 1967</strong></p>
 The Finance Companies Act 1967 is an Act to license and control finance companies.
-<p>Approval will be required for substantial shareholders and controllers of designated financial companies that are regulated under the Act.</p>
+<p>Approval will be required for substantial shareholders and controllers of finance companies incorporated in Singapore.</p>
 </td>
 <td>
 <p>Agency in charge: Monetary Authority of Singapore (MAS)</p>
