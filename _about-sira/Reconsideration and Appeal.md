@@ -23,4 +23,4 @@ can be made after Minister makes a decision on the reconsideration application.<
 decision, appeals to an independent Reviewing Tribunal must be submitted
 within 30 calendar days of a reconsideration decision.</p>
 <p>The Minister's reconsideration decision remains in effect until it is
-reversed on appeal. A Reviewing Tribunal's decision is final.</p>
+reversed on appeal. The Reviewing Tribunal's decision is final.</p>
