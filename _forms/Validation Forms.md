@@ -4,7 +4,7 @@ permalink: /forms/validation-forms/
 variant: tiptap
 description: ""
 ---
-<p><em>(Forms will be made available when entities are formally designated)</em>
+<p><em>(Forms will be made available once entities are formally designated)</em>
 </p>
 <p>Transactions that occur without the necessary approvals will be void.
 However, void transactions can be retrospectively validated in some cases:</p>
