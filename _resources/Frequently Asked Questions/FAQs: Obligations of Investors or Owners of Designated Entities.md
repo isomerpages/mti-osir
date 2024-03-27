@@ -177,9 +177,8 @@ the commencement of any formal application.</p>
 entity changes as a result of actions by third parties?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>A party’s obligations arise whether the change in shareholdings or control
-is the result of its own actions or the actions of any other party.&nbsp;&nbsp;</p>
-<p>
-<br>Examples:</p>
+is the result of its own actions or the actions of any other party.</p>
+<p>Examples:</p>
 <ul>
 <li>
 <p>Where a party’s interest meets a prescribed threshold as the result of
