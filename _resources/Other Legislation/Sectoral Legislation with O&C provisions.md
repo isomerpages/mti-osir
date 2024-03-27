@@ -253,7 +253,7 @@ The Healthcare Services Act was enacted in 2020 to replace the Private Hospital 
 <td>5</td>
 <td>
 <p><strong>Broadcasting Act</strong></p>
-<p>The Broadcasting Act ("BA") regulates dealing in, operation of and ownership in broadcasting services and broadcasting apparatus. It also regulatres online communication services accessible by Singapore end-users.</p>
+<p>The Broadcasting Act ("BA") regulates dealing in, operation of and ownership in broadcasting services and broadcasting apparatus. It also regulates online communication services accessible by Singapore end-users.</p>
 <p>Specified changes in ownership and control of broadcasting companies that hold a relevant licence are subject to Minister's approval, such as when person(s) seek to be a substantial shareholder, 12% controller, or an indirect controller of a broadcasting company that holds a relevant licence.</p>
 <p>Broadcasting companies that hold a relevant licence are required to seek prior approval from IMDA for the appointment of key appointment holders.</p>
 </td>
