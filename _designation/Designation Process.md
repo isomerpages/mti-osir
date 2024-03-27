@@ -39,7 +39,7 @@ national security interests; and</p>
 <hr>
 </li>
 </ul>
-<h4><strong>Cancellation of Designation</strong><br></h4>
+<h4><strong>Cancellation of Designation</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Should a designated entity cease to meet the criteria for designation,
