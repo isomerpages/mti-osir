@@ -8,8 +8,7 @@ description: The Office of Significant Investments Review (OSIR), situated
   into critical entities, to safeguard Singapore's national security interests.
 image: /images/logo_1.jpg
 permalink: /
-notification: "*This webpage is undergoing development. Apologies for the
-  inconvenience caused.*"
+notification: ""
 sections:
   - hero:
       title: Office of Significant Investments Review
