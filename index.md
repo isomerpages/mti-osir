@@ -61,7 +61,7 @@ sections:
           linktext: Learn more
           url: /resources/guidance-documents
         - title: Frequently Asked Questions
-          description: For designated entities, existing and potential investors.
+          description: For designated entities, investors or owners of designated entities.
           linktext: Learn more
           url: /resources/faqs/designation-process
         - title: Other Legislation
