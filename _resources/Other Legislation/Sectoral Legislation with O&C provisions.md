@@ -411,8 +411,8 @@ The Healthcare Services Act was enacted in 2020 to replace the Private Hospital 
 <td>4</td>
 <td>
 <p><strong>Bus Services Industry Act</strong></p>
-<p>The Bus Service Industry (BSI) Act 2015 provides for the regulation and provision of public bus services, and the operation of bus intechanges and bus depots.</p>
-<p>A bus licensee must not appoint, reappoint, remove key officers without the approval of LTA. Such officers may be removed or reinstated if they have been appointed or removed (as the case may be) without approval. There may be other ownership and control provisions in the licence conditions for LTA licensees. Please contact LTA for more information.</p>
+<p>The Bus Service Industry (BSI) Act 2015 provides for the regulation and provision of public bus services, and the operation of bus interchanges and bus depots.</p>
+<p>A bus licensee must not appoint, reappoint, remove key officers without the approval of LTA. Such officers may be removed or reinstated if they have been appointed or removed (as the case may be) without approval. There may be other ownership and control provisions in the license conditions for LTA licensees. Please contact LTA for more information.</p>
 </td>
 <td>
 <p>Agency in charge: Land Transport Authority (LTA)</p>
