@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OSIR___Chart_and_Infographic_Compiled_Revised_6_page_0005.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="SIRA - Acquisition of Business or Undertaking Infographic" src="/images/sira_acquisition_of_business_or_undertaking_infographic.jpg">
 </div>
 <p>Potential acquirors, together with the designated entity, will need to
 seek approval from the Minister prior to acquiring, as a going concern,
