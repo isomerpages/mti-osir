@@ -81,7 +81,7 @@ adequate time to conduct thorough assessments and properly review the case
 before them.&nbsp;</p>
 <p></p>
 <p>Nonetheless, we will endeavour to process all applications for reconsideration
-and appeals expeditiously.&nbsp;</p>
+and appeal expeditiously.&nbsp;</p>
 </div>
 </details>
 </div>
