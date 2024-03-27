@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OSIR___Chart_and_Infographic_Compiled_Revised_6_page_0004.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="SIRA - Disposing Equity Interest or Voting Power Infographic" src="/images/sira_disposing_equity_interest_or_voting_power_infographic.jpg">
 </div>
 <p>Parties will need to seek approval from the Minister prior to disposing
 equity interest or voting power in a designated entity which will result
