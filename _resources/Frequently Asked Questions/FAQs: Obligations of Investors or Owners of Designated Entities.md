@@ -203,9 +203,8 @@ designated entity?</summary>
 <p>Any party investing in a designated entity, whether they seek control
 over the designated entity or otherwise, must comply with the obligations
 under the Significant Investments Review Act if they meet the prescribed
-thresholds.&nbsp;</p>
-<p>
-<br>Parties may refer to <a href="/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener noreferrer nofollow" target="_blank">Overview of Ownership &amp; Control Obligations under SIRA</a> for
+thresholds.</p>
+<p>Parties may refer to <a href="/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener noreferrer nofollow" target="_blank">Overview of Ownership &amp; Control Obligations under SIRA</a> for
 the prescribed thresholds. The thresholds are default thresholds and may
 differ for specific entities.</p>
 </div>
