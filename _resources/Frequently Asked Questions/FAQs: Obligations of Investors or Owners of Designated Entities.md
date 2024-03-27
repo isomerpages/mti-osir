@@ -53,8 +53,7 @@ a going concern.</p>
 acquisition of equity interest or voting power in a designated entity?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Parties will need to notify or seek approval if they are involved in transactions
-that meet the prescribed thresholds for the designated entities.</p>
-<p>
+that meet the prescribed thresholds for the designated entities.
 <br>The default obligations are:</p>
 <ul>
 <li>
@@ -74,8 +73,7 @@ in subsidiary legislation.</p>
 <p></p>
 <p>Parties may wish to refer to <a href="/about-sira/acquiring-equity-interest-or-voting-power/" rel="noopener noreferrer nofollow" target="_blank">Acquiring Equity Interest or Voting Power in a Designated Entity</a> for
 a step-by-step process flow.</p>
-<p>
-<br>Transactions involving the acquisition, as a going concern, of (any part
+<p>Transactions involving the acquisition, as a going concern, of (any part
 of) the business or undertaking of a designated entity, will also require
 prior approval.</p>
 </div>
