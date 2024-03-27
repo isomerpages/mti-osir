@@ -14,7 +14,7 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 <summary>Does the Significant Investments Review Act apply to entities that are
 not designated? If so, when do the powers under this Act apply?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The Significant Investments Review Act(SIRA) applies to entities that
+<p>The Significant Investments Review Act (SIRA) applies to entities that
 are not designated, but only when the following two criteria are met:</p>
 <ul>
 <li>
