@@ -197,7 +197,7 @@ The Healthcare Services Act was enacted in 2020 to replace the Private Hospital 
 <td>1</td>
 <td>
 <p><strong>Newspaper and Printing Presses Act</strong></p>
-<p>The Newspaper and Printing Presses Act regulates printing presses and newspaper companies in Singapore and newspaper that are printed published, sold, or distributed in Singapore. Those publishing a newspaper at a frequency of one week or less are required to form a newspaper company, and such entities are subject to controls (including rules on shareholding limits).</p>
+<p>The Newspaper and Printing Presses Act regulates printing presses and newspaper companies in Singapore, and newspaper that are printed published, sold, or distributed in Singapore. Those publishing a newspaper at a frequency of one week or less are required to form a newspaper company, and such entities are subject to controls (including rules on shareholding limits).</p>
 <p>All directors in the newspaper company must be Singapore citizens and 1% or more of issued and paid-up capital by the company must be Management Shares (MS). MS are only issued/transferred to Singapore citizens or corporations subject to Minister's approval, and accord greater voting rights to MS holders only in resolutions relating to the appointment or dismissal of a director or any member of the staff of a newspaper company.</p>
 <p>Minister's approval must be given for any person to become a substantial shareholder, 12% controller or an indirect controller of a newspaper company. Minister may also direct or restrict the transfer or disposal of the shares held by the person in question if there is non-compliance with the relevant requirements and approvals pertaining to the control of the newspaper company.</p>
 </td>
