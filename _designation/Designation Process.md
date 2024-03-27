@@ -43,7 +43,7 @@ national security interests; and</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Should a designated entity cease to meet the criteria for designation,
-cancellation of its designation may be possible.</p>
+the cancellation of its designation may be possible.</p>
 </li>
 <li>
 <p>Any designation, or cancellation of designation, will be published in
