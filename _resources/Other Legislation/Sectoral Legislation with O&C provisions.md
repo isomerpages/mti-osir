@@ -370,7 +370,7 @@ The Healthcare Services Act was enacted in 2020 to replace the Private Hospital 
 <td>
 <p><strong>Maritime and Port Authority of Singapore Act</strong></p>
 <p>The Maritime and Port Authority of Singapore (MPA) Act provides for the functions, duties and powers of MPA, including the licensing and regulation of marine and port facilities and services.&nbsp;</p>
-<p>There are notification or approval obligations for specified changes in ownership and control of designated entities. There may be other ownership and control provisions in the licence conditions for MPA licensees. Please contact MPA for more information.&nbsp;</p>
+<p>There are notification or approval obligations for specified changes in ownership and control of designated entities. There may be other ownership and control provisions in the license conditions for MPA licensees. Please contact MPA for more information.&nbsp;</p>
 </td>
 <td>
 <p>Agency in charge: Maritime and Port Authority of Singapore (MPA)</p>
@@ -384,7 +384,7 @@ The Healthcare Services Act was enacted in 2020 to replace the Private Hospital 
 <td>
 <p><strong>Civil Aviation Authority of Singapore Act</strong></p>
 <p>The Civil Aviation Authority of Singapore (CAAS) Act provides for the functions, duties, and powers of CAAS, including the licensing of airport operators, and the regulation of airport development and operations.</p>
-<p>The are approval obligations for specified changes in ownership and control of the airport licensee, and for the acquisition as a going concern of the business of an airport licensee (or any part thereof) conducted pursuant to its licence for an airport. The airport licensee must also not appoint key officers without the prior approval of CAAS. Such officers may be removed if they have been appointed without approval. Please contact CAAS for more information.</p>
+<p>There are approval obligations for specified changes in ownership and control of the airport licensee, and for the acquisition as a going concern of the business of an airport licensee (or any part thereof) conducted pursuant to its licence for an airport. The airport licensee must also not appoint key officers without the prior approval of CAAS. Such officers may be removed if they have been appointed without approval. Please contact CAAS for more information.</p>
 </td>
 <td>
 <p>Agency in charge: Civil Aviation Authority of Singapore (CAAS)</p>
