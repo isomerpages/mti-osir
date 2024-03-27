@@ -45,7 +45,7 @@ more details on the obligations of a designated entity.&nbsp;
 the commencement of any formal application.
 <br>
 <br>To submit a notification or approval, please download the relevant <a href="/forms/notification-forms/" rel="noopener noreferrer nofollow" target="_blank">Notification Form</a> or
-<a href="/forms/approval-forms" rel="noopener noreferrer nofollow" target="_blank">Approval Forms</a>and email the completed form to <a href="mailto:contact@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>submissions@osir.gov.sg</u></a>.</p>
+<a href="/forms/approval-forms" rel="noopener noreferrer nofollow" target="_blank">Approval Form</a>and email the completed form to <a href="mailto:contact@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>submissions@osir.gov.sg</u></a>.</p>
 </div>
 </details>
 <details class="isomer-details">
