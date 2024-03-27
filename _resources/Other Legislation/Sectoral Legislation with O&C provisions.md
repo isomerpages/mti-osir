@@ -241,8 +241,8 @@ The Healthcare Services Act was enacted in 2020 to replace the Private Hospital 
 <td>
 <p><strong>Info-communications Media Development Authority Act</strong></p>
 <p>The Info-communications Media Development Authority Act ("IMDAA") establishes and empowers IMDA to promote, develop and regulate the information, communications and media industry in Singapore. The IMDAA also provides IMDA the powers to issue directions and codes of practices in connection with competition and consumer protection matters in the media industry.</p>
-<p>The IMDAA requires "regulated persons"* to obtain IMDA's approval to merge, consolidate with, or be taken over by another regulated person or any other person carrying on any business connected ot the provision of media services in Singapore.</p>
-<p><em>*This refers to newspaper companies or the proprietor of a newspaper as defined in the Newspaper and Printing Presses Act, or broadcasting licensee as defined in the Broadcasting Act.</em></p></td>
+<p>The IMDAA requires "regulated persons"* to obtain IMDA's approval to merge, consolidate with, or be taken over by another regulated person or any other person carrying on any business connected to the provision of media services in Singapore.</p>
+<p><em><small>*This refers to newspaper companies or the proprietor of a newspaper as defined in the Newspaper and Printing Presses Act, or broadcasting licensee as defined in the Broadcasting Act.</small></em></p></td>
 <td><p>Agency in charge: Ministry of Communications and Information (MCI) / Infocomm Media Development Authority (IMDA)</p>
 <p>Email address: ilo@imda.gov.sg</p>
 <p>Website: <a href="http://www.mci.gov.sg/">www.mci.gov.sg</a>&nbsp;/ <a href="http://www.imda.gov.sg">www.imda.gov.sg</a>&nbsp;</p>
