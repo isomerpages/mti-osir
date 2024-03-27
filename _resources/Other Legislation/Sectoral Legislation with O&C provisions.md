@@ -336,7 +336,7 @@ The Healthcare Services Act was enacted in 2020 to replace the Private Hospital 
 <td>1</td>
 <td>
 <p><strong>Police Force Act 2004</strong></p>
-<p>The&nbsp;Police Force Act governs the organisation, discipline and related matters of the Singapore Police Force and Auxillary Police Fores (APFs). The Act also regulates the employers of APFs. The Act also regulates the employers of APFs [see Government Gazette of APFs at <strong>(insert link).</strong>&nbsp;</p>
+<p>The&nbsp;Police Force Act governs the organisation, discipline and related matters of the Singapore Police Force and Auxillary Police Fores (APFs). The Act also regulates the employers of APFs [see Government Gazette of APFs <a href="https://storage.egazette.gov.sg/getFiles?ct=gg-Acts&amp;yr=2023&amp;filename=23gg2359.pdf">here</a>].&nbsp;</p>
 <p>Prior approval or notification for specified changes in ownership and control, and acquisition as a going concern the business or undertaking of an employer of an APF are imposed on buyers, sellers and the employer. The employer of an APF is also required to seek prior approval for the appointment of any person as its chief executive officer, chairman and directors. Such persons may be removed if they have been appointed without approval or if condtions of approvals are breached.</p>
 </td>
 <td>
