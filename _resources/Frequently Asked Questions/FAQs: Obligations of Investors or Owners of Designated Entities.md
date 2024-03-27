@@ -216,16 +216,13 @@ which is exercisable only in the future (e.g. convertible loan, or options)?</su
 <p>Under the Significant Investments Review Act, a party will be deemed to
 have equity interest as long as it has the right to acquire the equity
 interest or voting power.</p>
-<p>
-<br>This may arise under an option, convertible loan or other arrangement
+<p>This may arise under an option, convertible loan or other arrangement
 where the equity interest is transferred to (or to the order of) the party,
 regardless of when the right is exercisable and whether there are conditions
-tied to it.&nbsp;</p>
-<p>
-<br>Hence, a party entering into any such arrangement will need to notify
+tied to it.</p>
+<p>Hence, a party entering into any such arrangement will need to notify
 or seek approval if the equity interest meets the prescribed thresholds.</p>
-<p>
-<br>Parties may refer to <a href="/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener noreferrer nofollow" target="_blank">Overview of Ownership &amp; Control Obligations under SIRA</a> for
+<p>Parties may refer to <a href="/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener noreferrer nofollow" target="_blank">Overview of Ownership &amp; Control Obligations under SIRA</a> for
 the prescribed thresholds. The thresholds are default thresholds and may
 differ for specific entities.</p>
 </div>
