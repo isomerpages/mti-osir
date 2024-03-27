@@ -4,7 +4,7 @@ permalink: /forms/reconsideration-and-appeal-forms/
 variant: tiptap
 description: ""
 ---
-<p><em>(Forms will be made available when entities are formally designated)</em>
+<p><em>(Forms will be made available once entities are formally designated)</em>
 </p>
 <table>
 <tbody>
