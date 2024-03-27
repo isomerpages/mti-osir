@@ -59,10 +59,8 @@ function following the proposed transaction; and</p>
 interests.</p>
 </li>
 </ul>
-<p>
-<br>Mitigation measures may also be imposed as part of approval of a transaction.&nbsp;</p>
-<p>
-<br>Parties may wish to contact <a href="mailto:contact@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>contact@osir.gov.sg</u></a> to discuss
+<p>Mitigation measures may also be imposed as part of approval of a transaction.</p>
+<p>Parties may wish to contact <a href="mailto:contact@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>contact@osir.gov.sg</u></a> to discuss
 appropriate mitigation measures, which would depend on the facts and circumstances
 of each case.</p>
 </div>
