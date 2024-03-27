@@ -26,8 +26,7 @@ thresholds; or</p>
 <p>Become an indirect controller.</p>
 </li>
 </ul>
-<p>
-<br><u>Existing controllers of designated entities&nbsp;</u>
+<p><u>Existing controllers of designated entities&nbsp;</u>
 </p>
 <ul>
 <li>
@@ -35,10 +34,8 @@ thresholds; or</p>
 thresholds.</p>
 </li>
 </ul>
-<p>
-<br><u>Acquirors of (any part of) the business or undertaking of the designated entity, as a going concern</u>.&nbsp;&nbsp;</p>
-<p>
-<br><u>Designated entities</u>
+<p><u>Acquirors of (any part of) the business or undertaking of the designated entity, as a going concern</u>.</p>
+<p><u>Designated entities</u>
 </p>
 <ul>
 <li>
