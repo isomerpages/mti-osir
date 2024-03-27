@@ -119,7 +119,7 @@ The Financial Advisers Act 2001 regulates financial advisers and their represent
 <td>8</td>
 <td>
 <p><strong>Payment Services Act 2019</strong></p>
-Payment Services Act 2019 provides for the licensing and regulation of payment service providers and the oversight of payment systems.
+The Payment Services Act 2019 provides for the licensing and regulation of payment service providers and the oversight of payment systems.
 <p>Approval will be required for controllers of licensees and operators of designated payment systems. Approval will also be required for any agreement or arrangement to act together with any person with respect to their interests in voting shares in an operator of a designated payment system.</p>
 </td>
 <td>
