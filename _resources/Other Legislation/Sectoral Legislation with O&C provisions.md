@@ -261,7 +261,7 @@ The Healthcare Services Act was enacted in 2020 to replace the Private Hospital 
 <p>Agency in charge: Ministry of Communications and Information (MCI) / Infocomm Media Development Authority (IMDA)</p>
 <p>Email address: <a href="mailto:ilo@imda.gov.sg">ilo@imda.gov.sg</a>&nbsp;</p>
 <p>Website: <a href="http://www.mci.gov.sg/">www.mci.gov.sg</a>&nbsp;/ <a href="http://www.imda.gov.sg">www.imda.gov.sg</a>&nbsp;</p>
-<p>For approval obligations for specified changes in ownership and control of broadcasting companies that hold a relevant licence under the BA, email: <a href="mailto:MCI_Connects@mci.gov.sg">MCI_Connects@mci.gov.sg</a>&nbsp;</p>
+<p>For approval obligations for specified changes in ownership and control of broadcasting companies that hold a relevant license under the BA, email: <a href="mailto:MCI_Connects@mci.gov.sg">MCI_Connects@mci.gov.sg</a>&nbsp;</p>
 <p>For queries on the appointment of key officers under the BA, email: <a href="mailto:info@imda.gov.sg">info@imda.gov.sg</a>&nbsp;</p>
 </td>
 </tr>
