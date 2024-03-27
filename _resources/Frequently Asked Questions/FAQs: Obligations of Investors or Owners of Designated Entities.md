@@ -250,9 +250,9 @@ differ for specific entities.</p>
 <summary>What other regulations may affect transactions?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Parties involved in transactions pertaining to an entity that is not designated
-under the SIRA, but covered by other domestic sectoral legislation may
-need to notify or seek approval from the relevant regulator in accordance
-with the relevant domestic sectoral legislation.</p>
+under the Significant Investments Review Act, but covered by other domestic
+sectoral legislation may need to notify or seek approval from the relevant
+regulator in accordance with the relevant domestic sectoral legislation.</p>
 <p></p>
 <p>Please refer to <a href="/resources/other-legislation/sectoral-legislation/" rel="noopener noreferrer nofollow" target="_blank">Sectoral Legislation with O&amp;C provisions</a> to
 see examples of other domestic sectoral legislation in Singapore and their
