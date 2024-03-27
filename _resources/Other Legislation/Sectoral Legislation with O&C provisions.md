@@ -295,7 +295,7 @@ The Healthcare Services Act was enacted in 2020 to replace the Private Hospital 
 <p>Agency in charge: Public Utilities Board (PUB)</p>
 <p>Email address: <a href="mailto:pub_one@pub.gov.sg">pub_one@pub.gov.sg</a></p>
 <p>Website: <a href="http://www.pub.gov.sg">www.pub.gov.sg</a></p>
-<p>Link to legislation: <a href="https://sso.agc.gov.sg/act/pua2001">sso.agc.gov.sg/act/pua2001</a></p><a href="https://sso.agc.gov.sg/act/pua2001">
+<p>Link to legislation: <a href="https://sso.agc.gov.sg/act/pua2001">Public Utilities Act 2001</a></p><a href="https://sso.agc.gov.sg/act/pua2001">
 <p>&nbsp;</p>
 </a></td>
 </tr>
