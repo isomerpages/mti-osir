@@ -98,9 +98,8 @@ a step-by-step process flow.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The acquiror, together with the designated entity, will need to seek approval
 from the Minister prior to the acquisition, as a going concern, of (any
-part of) the business or undertaking of the designated entity.&nbsp;</p>
-<p>
-<br>Parties may wish to refer to <a href="/about-sira/acquiring-business-or-undertaking/" rel="noopener noreferrer nofollow" target="_blank">Acquisition of the Business or undertaking of a Designated Entity</a> for
+part of) the business or undertaking of the designated entity.</p>
+<p>Parties may wish to refer to <a href="/about-sira/acquiring-business-or-undertaking/" rel="noopener noreferrer nofollow" target="_blank">Acquisition of the Business or undertaking of a Designated Entity</a> for
 a step-by-step process flow.</p>
 </div>
 </details>
@@ -125,15 +124,13 @@ designated?</summary>
 the entity; and&nbsp;</p>
 </li>
 <li>
-<p>If the transaction meets the prescribed ownership and control thresholds.&nbsp;</p>
+<p>If the transaction meets the prescribed ownership and control thresholds.</p>
 </li>
 </ul>
-<p>
-<br>Parties may refer to <a href="/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener noreferrer nofollow" target="_blank">Overview of Ownership &amp; Control Obligations under SIRA</a> for
+<p>Parties may refer to <a href="/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener noreferrer nofollow" target="_blank">Overview of Ownership &amp; Control Obligations under SIRA</a> for
 the prescribed ownership or control thresholds. The thresholds are default
 thresholds and may differ for specific entities.</p>
-<p>
-<br>If any clarification is required, parties may contact OSIR at <a href="mailto:contact@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>contact@osir.gov.sg</u></a>
+<p>If any clarification is required, parties may contact OSIR at <a href="mailto:contact@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>contact@osir.gov.sg</u></a>
 </p>
 </div>
 </details>
