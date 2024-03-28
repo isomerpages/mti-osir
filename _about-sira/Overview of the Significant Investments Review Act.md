@@ -13,7 +13,7 @@ trusted, and well-connected global business and investment hub.</p>
 <p>Click to access the following via Singapore Statutes Online:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="https://storage.egazette.gov.sg/getFiles?ct=as&amp;yr=2024&amp;filename=24acts04.pdf" rel="noopener noreferrer nofollow" target="_blank">SIRA</a>
+<p><a href="https://sso.agc.gov.sg/Act/SIRA2024" rel="noopener noreferrer nofollow" target="_blank">SIRA</a>
 </p>
 </li>
 <li>
