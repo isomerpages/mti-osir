@@ -20,7 +20,7 @@ contacts:
       - email: submissions@osir.gov.sg
       - other: Please submit all application forms relating to SIRA to this email. If
           the forms are not sent to this email, we are unable to process the
-          forms in a timely manner.
+          forms.
     title: Submissions
   - content:
       - phone: ""
