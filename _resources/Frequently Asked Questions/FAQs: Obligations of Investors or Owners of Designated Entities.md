@@ -34,7 +34,14 @@ thresholds; or</p>
 thresholds.</p>
 </li>
 </ul>
-<p><u>Acquirors of (any part of) the business or undertaking of the designated entity, as a going concern</u>.</p>
+<p><u>Acquirors of (any part of) the business or undertaking of the designated entity, as a going concern</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>If they acquire, as a going concern, any part of the business or undertaking
+of the designated entity.</p>
+</li>
+</ul>
 <p><u>Designated entities</u>
 </p>
 <ul>
