@@ -19,8 +19,7 @@ unless otherwise indicated.</p>
 <h4><strong>Submission of forms</strong></h4>
 <p>To facilitate efficient processing of your application, please submit
 all application forms online at the OSIR website via <a href="mailto:submissions@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank">submissions@osir.gov.sg</a>.
-If the forms are not sent to this email, we are unable to process the forms
-in a timely manner.</p>
+If the forms are not sent to this email, we are unable to process the forms.</p>
 <hr>
 <h4><strong>Outcome of Application</strong></h4>
 <p>OSIR will process your application upon receiving all required documents.
