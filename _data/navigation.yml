@@ -1,15 +1,37 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/osir_logo.jpg
 links:
+  - title: About OSIR
+    url: /about-osir
+  - title: About SIRA
+    collection: about-sira
+  - title: Designation
+    url: /designation/designated-entities
+    sublinks:
+      - title: Designated Entities
+        url: /designation/designated-entities/
+      - title: Designation Process
+        url: /designation/designation-process
+  - title: Forms
+    url: /forms
+    sublinks:
+      - title: Overview of Forms
+        url: /forms/
+      - title: Notification Forms
+        url: /forms/notification-forms
+      - title: Approval Forms
+        url: /forms/approval-forms
+      - title: Validation Forms
+        url: /forms/validation-forms
+      - title: Reconsideration & Appeal Forms
+        url: /forms/reconsideration-and-appeal-forms
+  - title: Resources
+    url: /resources/guidance-documents
+    sublinks:
+      - title: Guidance Documents
+        url: /resources/guidance-documents
+      - title: Frequently Asked Questions
+        url: /resources/faqs/designation-process
+      - title: Other Legislation
+        url: /resources/other-legislation/
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder

@@ -1,40 +1,49 @@
-title: Title
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: /images/favicon-isomer.ico
-
-# Site colors
+title: Office of Significant Investments Review
+url: https://www.osir.gov.sg
+favicon: /images/osir_logo_only.jpg
 colors:
-  primary-color: '#6031b6'
-  secondary-color: '#4372d6'
+  primary-color: "#e68541"
+  secondary-color: "#766a62"
   media-colors:
     - title: media-color-one
-      color: '#49759a'
+      color: "#ffffff"
     - title: media-color-two
-      color: '#744d9f'
+      color: "#fbd030"
     - title: media-color-three
-      color: '#00838f'
+      color: "#fcb62c"
     - title: media-color-four
-      color: '#00838f'
+      color: "#ea9e52"
     - title: media-color-five
-      color: '#00838f'
-
-description: An Isomer site of the Singapore Government
-
-##################################################################################################################
-# Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
-##################################################################################################################
+      color: "#ffffff"
+description: The Office of Significant Investments Review (OSIR), situated
+  within the Ministry of Trade and Industry (MTI), is responsible for the
+  administration of the Significant Investments Review Act (SIRA). SIRA
+  complements existing sectoral legislation and manages significant investments
+  into critical entities, to safeguard Singapore's national security interests.
 permalink: none
 baseurl: ""
-exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
-include: [_redirects]
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
 defaults:
   - scope:
       path: ""
     values:
-      layout: "page"
-# Custom CSS file path
-custom_css_path: "/misc/custom.css"
-custom_print_css_path: "/assets/css/print.css"
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
@@ -46,3 +55,8 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging-lite.d1f3dspk57jh62.amplifyapp.com
 prod: https://master.d1o5tpl6mbztbg.amplifyapp.com
+facebook-pixel: ""
+shareicon: /images/logo_1.jpg
+is_government: true
+google_analytics_ga4: ""
+linkedin-insights: ""

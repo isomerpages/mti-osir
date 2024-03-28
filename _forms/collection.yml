@@ -1,0 +1,9 @@
+collections:
+  forms:
+    output: true
+    order:
+      - Overview of Forms.md
+      - Notification Forms.md
+      - Approval Forms.md
+      - Validation Forms.md
+      - Reconsideration and Appeal Forms.md
