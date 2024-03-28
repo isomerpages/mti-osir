@@ -85,7 +85,7 @@ following forms:</p>
 determined on a case-by-case basis.</p>
 <p>Parties can seek reconsideration from the Minister within 14 calendar
 days after his decisions; after which, they may appeal to a Reviewing Tribunal
-within 30 calendar days after the reconsideration outcome.</p>
+within 30 calendar days after the reconsideration decision.</p>
 </div>
 </details>
 <details class="isomer-details">
