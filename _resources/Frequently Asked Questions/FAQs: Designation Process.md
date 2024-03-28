@@ -70,7 +70,7 @@ step-by-step process flow.</p>
 is cancelled.
 <br>
 </p>
-<p>Any cancellation of designation will be notified in the <a href="https://www.egazette.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Government Gazette </a>.
+<p>Any cancellation of designation will be notified in the <a href="https://www.egazette.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Government Gazette</a>.
 OSIR also maintains and publishes an updated <a href="/designation/designated-entities" rel="noopener noreferrer nofollow" target="_blank">list of designated entities</a>.</p>
 </div>
 </details>
@@ -91,12 +91,12 @@ and will the entity remain designated pending the outcome of these processes?</s
 <p>Parties can seek reconsideration from the Minister within 14 calendar
 days after his decision on designation; after which, they may appeal to
 a Reviewing Tribunal within 30 calendar days after the reconsideration
-outcome.&nbsp;</p>
+decision.</p>
 <p></p>
 <p>The Minister’s decision to designate the entity remains in effect, and
 must be complied with until it is cancelled or substituted on reconsideration.
-The Minister’s reconsideration decision remains in effect until and unless
-it is reversed on appeal.</p>
+The Minister’s reconsideration decision remains in effect until it is reversed
+on appeal.</p>
 </div>
 </details>
 </div>
