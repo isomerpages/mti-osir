@@ -44,6 +44,6 @@ national security interests; and</p>
 <p>Should a designated entity cease to meet the criteria for designation,
 the cancellation of its designation may be possible.</p>
 <p>Any designation, or cancellation of designation, will be published in
-the Government Gazette. OSIR will also maintain and publish an updated
-<a href="/designation/designated-entities" rel="noopener noreferrer nofollow" target="_blank">list of designated entities</a>.</p>
+the <a href="https://www.egazette.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Government Gazette</a>.
+OSIR will also maintain and publish an updated <a href="/designation/designated-entities" rel="noopener noreferrer nofollow" target="_blank">list of designated entities</a>.</p>
 <p></p>
