@@ -112,7 +112,7 @@ within 30 calendar days after the reconsideration decision.</p>
 <p>OSIR will process all applications promptly. Applicants would be notified
 should more time or documents be required. Applicants can contact OSIR
 regarding the status or next steps of their application.</p>
-<p>Business or investors may contact <a href="mailto:contact@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>contact@osir.gov.sg</u></a> on any
+<p>Parties may wish to contact <a href="mailto:contact@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>contact@osir.gov.sg</u></a> on any
 clarifications prior to the commencement of any formal application.</p>
 <p>Please refer to the pages below for the step-by-step process flows for:</p>
 <ul data-tight="true" class="tight">
