@@ -17,7 +17,7 @@ trusted, and well-connected global business and investment hub.</p>
 </p>
 </li>
 <li>
-<p><a href="https://storage.egazette.gov.sg/getFiles?ct=sls&amp;yr=2024&amp;filename=24sls229.pdf" rel="noopener noreferrer nofollow" target="_blank">Significant Investments Review Regulations 2024</a>
+<p><a href="https://sso.agc.gov.sg/SL/SIRA2024-S229-2024?DocDate=20240327" rel="noopener noreferrer nofollow" target="_blank">Significant Investments Review Regulations 2024</a>
 </p>
 </li>
 <li>
