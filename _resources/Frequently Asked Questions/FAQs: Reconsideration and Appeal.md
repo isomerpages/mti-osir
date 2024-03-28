@@ -47,13 +47,13 @@ a step-by-step process flow.</p>
 <p>Parties aggrieved by either an initial appealable decision affirmed on
 reconsideration, or a substitute appealable decision made on reconsideration
 may appeal to an independent Reviewing Tribunal within 30 calendar days
-after the reconsideration outcome.</p>
+after the reconsideration decision.</p>
 <p></p>
 <p>Parties will be required to pay the prescribed appeal fee of $200 as part
 of the application.</p>
 <p></p>
-<p>Appellants may use the relevant form available at &lt;MTI website&gt;
-and email the completed form to <a href="mailto:secretary@siratribunal.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>secretary@siratribunal.gov.sg</u></a>.</p>
+<p>Appellants may use the relevant form available on MTI website and email
+the completed form to <a href="mailto:secretary@siratribunal.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>secretary@siratribunal.gov.sg</u></a>.</p>
 <p></p>
 <p>The Minister's reconsideration decision remains in effect until it is
 reversed on appeal. The Reviewing Tribunal's decision is final.</p>
