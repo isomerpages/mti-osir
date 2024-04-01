@@ -52,8 +52,8 @@ after the reconsideration decision.</p>
 <p>Parties will be required to pay the prescribed appeal fee of $200 as part
 of the application.</p>
 <p></p>
-<p>Appellants may use the relevant form available on MTI website and email
-the completed form to <a href="mailto:secretary@siratribunal.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>secretary@siratribunal.gov.sg</u></a>.</p>
+<p>Appellants may use the relevant form available on <a href="https://www.mti.gov.sg/SIRA/Significant-Investments-Review-Act" rel="noopener noreferrer nofollow" target="_blank">MTI website</a> and
+email the completed form to <a href="mailto:secretary@siratribunal.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>secretary@siratribunal.gov.sg</u></a>.</p>
 <p></p>
 <p>The Minister's reconsideration decision remains in effect until it is
 reversed on appeal. The Reviewing Tribunal's decision is final.</p>
