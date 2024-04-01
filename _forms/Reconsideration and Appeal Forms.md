@@ -31,8 +31,8 @@ days after receiving the initial appealable decision</p>
 after the reconsideration decision</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Appeal forms may be found at &lt;MTI website&gt; and should be emailed
-to <a href="mailto:secretary@siratribunal.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>secretary@siratribunal.gov.sg</u></a>
+<p>Appeal forms may be found on <a href="https://www.mti.gov.sg/SIRA/Significant-Investments-Review-Act" rel="noopener noreferrer nofollow" target="_blank">MTI website</a> and
+should be emailed to <a href="mailto:secretary@siratribunal.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>secretary@siratribunal.gov.sg</u></a>
 </p>
 </td>
 </tr>
