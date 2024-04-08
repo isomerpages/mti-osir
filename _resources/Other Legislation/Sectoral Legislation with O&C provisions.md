@@ -285,21 +285,6 @@ The Healthcare Services Act was enacted in 2020 to replace the Private Hospital 
 </td>
 </tr>
 <tr>
-<td>1</td>
-<td>
-<p><strong>Public Utilities Act</strong></p>
-<p>The Public Utilities Act sets out the key functions, duties, and powers of the Public Utilities Board ("PUB"). PUB, as the national water agency, manages Singapore's water supply, water catchment, and used water in an integrated way. Part 4A of the Act imposes legislative controls on designated parties (entities, business trusts, or trusts) that are critical to water security. The designated parties are published in the Government Gazette. You can search for the "Public Utilities Act - Designated Entities" and "Public Utilities Act - Designated Trusts" Gazettes for the list of designated parties under the Public Utilities Act at <a href="http://www.egazette.com.sg">www.egazette.com.sg</a>.</p>
-<p>Notification or approval obligations for specified changes in ownership and control of designated parties (entities, business trusts or trusts) and the acquisition as a going concern (parts of) the designated party's business or undertaking, will be imposed on buyers of the designated parties.</p>
-</td>
-<td>
-<p>Agency in charge: Public Utilities Board (PUB)</p>
-<p>Email address: <a href="mailto:pub_one@pub.gov.sg">pub_one@pub.gov.sg</a></p>
-<p>Website: <a href="http://www.pub.gov.sg">www.pub.gov.sg</a></p>
-<p>Link to legislation: <a href="https://sso.agc.gov.sg/act/pua2001">Public Utilities Act 2001</a></p><a href="https://sso.agc.gov.sg/act/pua2001">
-<p>&nbsp;</p>
-</a></td>
-</tr>
-<tr>
 <td>2</td>
 <td>
 <p><strong>Electricity Act 2001 and Gas Act 2001</strong></p>
@@ -312,6 +297,21 @@ The Healthcare Services Act was enacted in 2020 to replace the Private Hospital 
 <p>Website: <a href="http://www.ema.gov.sg">www.ema.gov.sg</a></p>
 <p>&nbsp;</p>
 </td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+<p><strong>Public Utilities Act</strong></p>
+<p>The Public Utilities Act sets out the key functions, duties, and powers of the Public Utilities Board ("PUB"). PUB, as the national water agency, manages Singapore's water supply, water catchment, and used water in an integrated way. Part 4A of the Act imposes legislative controls on designated parties (entities, business trusts, or trusts) that are critical to water security. The designated parties are published in the Government Gazette. You can search for the "Public Utilities Act - Designated Entities" and "Public Utilities Act - Designated Trusts" Gazettes for the list of designated parties under the Public Utilities Act at <a href="http://www.egazette.com.sg">www.egazette.com.sg</a>.</p>
+<p>Notification or approval obligations for specified changes in ownership and control of designated parties (entities, business trusts or trusts) and the acquisition as a going concern (parts of) the designated party's business or undertaking, will be imposed on buyers of the designated parties.</p>
+</td>
+<td>
+<p>Agency in charge: Public Utilities Board (PUB)</p>
+<p>Email address: <a href="mailto:pub_one@pub.gov.sg">pub_one@pub.gov.sg</a></p>
+<p>Website: <a href="http://www.pub.gov.sg">www.pub.gov.sg</a></p>
+<p>Link to legislation: <a href="https://sso.agc.gov.sg/act/pua2001">Public Utilities Act 2001</a></p><a href="https://sso.agc.gov.sg/act/pua2001">
+<p>&nbsp;</p>
+</a></td>
 </tr>
 </tbody>
 </table>
