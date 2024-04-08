@@ -38,6 +38,8 @@ the Minister may consider factors such as:</p>
 </ul>
 <p>The Minister may also consider any other relevant matters and will convey
 these requirements to the designated entity in writing.</p>
+<p>Parties may seek clarification from OSIR at <a href="mailto:contact@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>contact@osir.gov.sg</u></a> before
+the commencement of any formal application.</p>
 <p>Parties are to submit the relevant <a href="https://www.osir.gov.sg/forms/approval-forms/" rel="noopener noreferrer nofollow" target="_blank">approval forms</a> via
 email to <a href="mailto:submissions@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank">submissions@osir.gov.sg</a>.</p>
 <hr>
