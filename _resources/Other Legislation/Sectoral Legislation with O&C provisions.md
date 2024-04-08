@@ -53,9 +53,9 @@ The Credit Bureau Act 2016 provides for the regulation of certain credit bureaus
 <tr>
 <td>3</td>
 <td>
-<p><strong>Financial Advisers Act 2001</strong></p>
-The Financial Advisers Act 2001 regulates financial advisers and their representatives and supervisors.
-<p>Approval will be required for controllers of licensed financial advisers.</p>
+<p><strong>Finance Companies Act 1967</strong></p>
+The Finance Companies Act 1967 is an Act to license and control finance companies.
+<p>Approval will be required for substantial shareholders and controllers of finance companies incorporated in Singapore.</p>
 </td>
 <td>
 <p>Agency in charge: Monetary Authority of Singapore (MAS)</p>
@@ -66,9 +66,9 @@ The Financial Advisers Act 2001 regulates financial advisers and their represent
 <tr>
 <td>4</td>
 <td>
-<p><strong>Finance Companies Act 1967</strong></p>
-The Finance Companies Act 1967 is an Act to license and control finance companies.
-<p>Approval will be required for substantial shareholders and controllers of finance companies incorporated in Singapore.</p>
+<p><strong>Financial Advisers Act 2001</strong></p>
+The Financial Advisers Act 2001 regulates financial advisers and their representatives and supervisors.
+<p>Approval will be required for controllers of licensed financial advisers.</p>
 </td>
 <td>
 <p>Agency in charge: Monetary Authority of Singapore (MAS)</p>
