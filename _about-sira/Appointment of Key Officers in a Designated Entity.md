@@ -38,6 +38,8 @@ the Minister may consider factors such as:</p>
 </ul>
 <p>The Minister may also consider any other relevant matters and will convey
 these requirements to the designated entity in writing.</p>
+<p>Parties are to submit the relevant <a href="https://www.osir.gov.sg/forms/notification-forms/" rel="noopener noreferrer nofollow" target="_blank">notification forms</a> and
+<a href="https://www.osir.gov.sg/forms/approval-forms/" rel="noopener noreferrer nofollow" target="_blank">approval forms</a>via email to <a href="mailto:submissions@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank">submissions@osir.gov.sg</a>.</p>
 <hr>
 <h4><strong>Removal of Key Officers in a Designated Entity</strong></h4>
 <p>If a key officer of a designated entity was appointed without the necessary
