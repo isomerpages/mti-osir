@@ -24,7 +24,7 @@ can be made after Minister makes a decision on the reconsideration application.<
 <p>Should parties wish to further appeal against the Minister's reconsideration
 decision, appeals to an independent Reviewing Tribunal must be submitted
 within 30 calendar days of a reconsideration decision.</p>
-<p>Parties may find the appeal form on <a href="https://www.mti.gov.sg/SIRA/Significant-Investments-Review-Act" rel="noopener noreferrer nofollow" target="_blank">MTI's website</a> and
+<p>Parties may find the appeal form on <a href="https://www.mti.gov.sg/SIRA/Significant-Investments-Review-Act" rel="noopener noreferrer nofollow" target="_blank">MTI website</a> and
 submit the form via email to <a href="mailto:secretary@siratribunal.gov.sg" rel="noopener noreferrer nofollow" target="_blank">secretary@siratribunal.gov.sg</a>.</p>
 <p>The Minister's reconsideration decision remains in effect until it is
 reversed on appeal. The Reviewing Tribunal's decision is final.</p>
