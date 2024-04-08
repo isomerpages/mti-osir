@@ -285,7 +285,7 @@ The Healthcare Services Act was enacted in 2020 to replace the Private Hospital 
 </td>
 </tr>
 <tr>
-<td>2</td>
+<td>1</td>
 <td>
 <p><strong>Electricity Act 2001 and Gas Act 2001</strong></p>
 <p>The Electricity Act and Gas Act (collectively "Acts") creates a competitive market framework for the electricity industry and gas industry, respectively. The Acts also make provision for the safety, technical and economic regulation of (i) the generation, transmission, supply and use of electricity, (ii) the transportation and retail of gas, and (iii) other matters connected therewith.</p>
