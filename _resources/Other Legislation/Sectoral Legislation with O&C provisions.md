@@ -40,9 +40,9 @@ The Banking Act 1970 provides for the licensing and regulation of the businesses
 <tr>
 <td>2</td>
 <td>
-<p><strong>Financial Holding Companies Act 2013</strong></p>
-The Financial Holding Companies Act 2013 regulates financial holding companies.
-<p>Approval will be required for substantial shareholders and controllers of designated financial companies that are regulated under the Act.</p>
+<p><strong>Credit Bureau Act 2016</strong></p>
+The Credit Bureau Act 2016 provides for the regulation of certain credit bureaus, the credit reporting business, and certain members of these credit bureaus to whom the credit bureaus provide customer information, and for matters connected with any of these.
+<p>Approval will be required for substantial shareholders and controllers of licensed credit bureaus. Approval will also be required for any agreement or arrangement to act together with any person with respect to their interests in voting shares in a licensed credit bureau.</p>
 </td>
 <td>
 <p>Agency in charge: Monetary Authority of Singapore (MAS)</p>
