@@ -53,6 +53,19 @@ The Credit Bureau Act 2016 provides for the regulation of certain credit bureaus
 <tr>
 <td>3</td>
 <td>
+<p><strong>Financial Advisers Act 2001</strong></p>
+The Financial Advisers Act 2001 regulates financial advisers and their representatives and supervisors.
+<p>Approval will be required for controllers of licensed financial advisers.</p>
+</td>
+<td>
+<p>Agency in charge: Monetary Authority of Singapore (MAS)</p>
+<p>Email address: <a href="mailto:webmaster@mas.gov.sg">webmaster@mas.gov.sg</a>&nbsp;</p>
+<p>Website: <a href="http://www.mas.gov.sg">www.mas.gov.sg</a>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
 <p><strong>Finance Companies Act 1967</strong></p>
 The Finance Companies Act 1967 is an Act to license and control finance companies.
 <p>Approval will be required for substantial shareholders and controllers of finance companies incorporated in Singapore.</p>
@@ -64,20 +77,20 @@ The Finance Companies Act 1967 is an Act to license and control finance companie
 </td>
 </tr>
 <tr>
-<td>4</td>
+<td>5</td>
 <td>
-<p><strong>Securities and Futures Act 2001</strong></p>
-The Securities and Futures Act 2001 regulates activities and institutions in the securities and derivatives industry, financial benchmarks and clearing facilities.
-<p>&nbsp;Approval will be required for substantial shareholders and controllers of certain financial institutions that are approved, recognised or licensed under the Act.</p>
+<p><strong>Financial Holding Companies Act 2013</strong></p>
+The Financial Holding Companies Act 2013 regulates financial holding companies.
+<p>Approval will be required for substantial shareholders and controllers of designated financial companies that are regulated under the Act.</p>
 </td>
 <td>
 <p>Agency in charge: Monetary Authority of Singapore (MAS)</p>
 <p>Email address: <a href="mailto:webmaster@mas.gov.sg">webmaster@mas.gov.sg</a>&nbsp;</p>
-<p>Website: <a href="http://www.mas.gov.sg">www.mas.gov.sg</a>&nbsp;</p>
+<p>Website: <a href="http://www.mas.gov.sg">www.mas.gov.sg</a></p>
 </td>
-</tr>
+</tr>	
 <tr>
-<td>5</td>
+<td>6</td>
 <td>
 <p><strong>Insurance Act 1966</strong></p>
 The Insurance Act 1966 regulates insurance businesses in Singapore, insurers, insurance intermediaries and related institutions.
@@ -90,33 +103,7 @@ The Insurance Act 1966 regulates insurance businesses in Singapore, insurers, in
 </td>
 </tr>
 <tr>
-<td>6</td>
-<td>
-<p><strong>Trust Companies Act 2005</strong></p>
-The Trust Companies Act 2005 provides for the licensing and regulation of trust companies.
-<p>Approval will be required for controllers of a licensed trust company incorporated in Singapore and notification for controllers of a licensed trust company incorporated outside Singapore.</p>
-</td>
-<td>
-<p>Agency in charge: Monetary Authority of Singapore (MAS)</p>
-<p>Email address: <a href="mailto:webmaster@mas.gov.sg">webmaster@mas.gov.sg</a>&nbsp;</p>
-<p>Website: <a href="http://www.mas.gov.sg">www.mas.gov.sg</a>&nbsp;</p>
-</td>
-</tr>
-<tr>
 <td>7</td>
-<td>
-<p><strong>Financial Advisers Act 2001</strong></p>
-The Financial Advisers Act 2001 regulates financial advisers and their representatives and supervisors.
-<p>Approval will be required for controllers of licensed financial advisers.</p>
-</td>
-<td>
-<p>Agency in charge: Monetary Authority of Singapore (MAS)</p>
-<p>Email address: <a href="mailto:webmaster@mas.gov.sg">webmaster@mas.gov.sg</a>&nbsp;</p>
-<p>Website: <a href="http://www.mas.gov.sg">www.mas.gov.sg</a>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td>8</td>
 <td>
 <p><strong>Payment Services Act 2019</strong></p>
 The Payment Services Act 2019 provides for the licensing and regulation of payment service providers and the oversight of payment systems.
@@ -129,11 +116,24 @@ The Payment Services Act 2019 provides for the licensing and regulation of payme
 </td>
 </tr>
 <tr>
+<td>8</td>
+<td>
+<p><strong>Securities and Futures Act 2001</strong></p>
+The Securities and Futures Act 2001 regulates activities and institutions in the securities and derivatives industry, financial benchmarks and clearing facilities.
+<p>&nbsp;Approval will be required for substantial shareholders and controllers of certain financial institutions that are approved, recognised or licensed under the Act.</p>
+</td>
+<td>
+<p>Agency in charge: Monetary Authority of Singapore (MAS)</p>
+<p>Email address: <a href="mailto:webmaster@mas.gov.sg">webmaster@mas.gov.sg</a>&nbsp;</p>
+<p>Website: <a href="http://www.mas.gov.sg">www.mas.gov.sg</a>&nbsp;</p>
+</td>
+</tr>
+<tr>
 <td>9</td>
 <td>
-<p><strong>Credit Bureau Act 2016</strong></p>
-The Credit Bureau Act 2016 provides for the regulation of certain credit bureaus, the credit reporting business, and certain members of these credit bureaus to whom the credit bureaus provide customer information, and for matters connected with any of these.
-<p>Approval will be required for substantial shareholders and controllers of licensed credit bureaus. Approval will also be required for any agreement or arrangement to act together with any person with respect to their interests in voting shares in a licensed credit bureau.</p>
+<p><strong>Trust Companies Act 2005</strong></p>
+The Trust Companies Act 2005 provides for the licensing and regulation of trust companies.
+<p>Approval will be required for controllers of a licensed trust company incorporated in Singapore and notification for controllers of a licensed trust company incorporated outside Singapore.</p>
 </td>
 <td>
 <p>Agency in charge: Monetary Authority of Singapore (MAS)</p>
