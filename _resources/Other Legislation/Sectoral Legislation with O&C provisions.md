@@ -368,15 +368,14 @@ The Healthcare Services Act was enacted in 2020 to replace the Private Hospital 
 <tr>
 <td>1</td>
 <td>
-<p><strong>Maritime and Port Authority of Singapore Act</strong></p>
-<p>The Maritime and Port Authority of Singapore (MPA) Act provides for the functions, duties and powers of MPA, including the licensing and regulation of marine and port facilities and services.&nbsp;</p>
-<p>There are notification or approval obligations for specified changes in ownership and control of designated entities. There may be other ownership and control provisions in the license conditions for MPA licensees. Please contact MPA for more information.&nbsp;</p>
+<p><strong>Bus Services Industry Act</strong></p>
+<p>The Bus Service Industry (BSI) Act 2015 provides for the regulation and provision of public bus services, and the operation of bus interchanges and bus depots.</p>
+<p>A bus licensee must not appoint, reappoint, remove key officers without the approval of LTA. Such officers may be removed or reinstated if they have been appointed or removed (as the case may be) without approval. There may be other ownership and control provisions in the license conditions for LTA licensees. Please contact LTA for more information.</p>
 </td>
 <td>
-<p>Agency in charge: Maritime and Port Authority of Singapore (MPA)</p>
-<p>Email address: <a href="mailto:qsm@mpa.gov.sg">qsm@mpa.gov.sg</a>&nbsp;&nbsp;</p>
-<p>Website: <a href="http://www.mpa.gov.sg">www.mpa.gov.sg</a>&nbsp;</p>
-<p>&nbsp;</p>
+<p>Agency in charge: Land Transport Authority (LTA)</p>
+<p>Email address: <a href="mailto:feedback@lta.gov.sg">feedback@lta.gov.sg</a>&nbsp;&nbsp;&nbsp;</p>
+<p>Website: <a href="http://www.lta.gov.sg">www.lta.gov.sg</a></p>
 </td>
 </tr>
 <tr>
@@ -396,6 +395,20 @@ The Healthcare Services Act was enacted in 2020 to replace the Private Hospital 
 <tr>
 <td>3</td>
 <td>
+<p><strong>Maritime and Port Authority of Singapore Act</strong></p>
+<p>The Maritime and Port Authority of Singapore (MPA) Act provides for the functions, duties and powers of MPA, including the licensing and regulation of marine and port facilities and services.&nbsp;</p>
+<p>There are notification or approval obligations for specified changes in ownership and control of designated entities. There may be other ownership and control provisions in the license conditions for MPA licensees. Please contact MPA for more information.&nbsp;</p>
+</td>
+<td>
+<p>Agency in charge: Maritime and Port Authority of Singapore (MPA)</p>
+<p>Email address: <a href="mailto:qsm@mpa.gov.sg">qsm@mpa.gov.sg</a>&nbsp;&nbsp;</p>
+<p>Website: <a href="http://www.mpa.gov.sg">www.mpa.gov.sg</a>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
 <p><strong>Rapid Transit System Act</strong></p>
 <p>The Rapid Transit Systems (RTS) Act 1995 provides for the planning, construction, operation and maintenance of rapid transit systems.</p>
 <p>A rail licensee must not appoint, reappoint or remove key officers without the approval of LTA. Such officers may be removed or reinstated if they have been appointed or removed (as the case may be) without approval. There may be other ownership and control provisions in the license conditions for LTA licensees. Please contact LTA for more information.</p>
@@ -405,19 +418,6 @@ The Healthcare Services Act was enacted in 2020 to replace the Private Hospital 
 <p>Email address: <a href="mailto:feedback@lta.gov.sg">feedback@lta.gov.sg</a>&nbsp;&nbsp;&nbsp;</p>
 <p>Website: <a href="http://www.lta.gov.sg">www.lta.gov.sg</a></p>
 <p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td>4</td>
-<td>
-<p><strong>Bus Services Industry Act</strong></p>
-<p>The Bus Service Industry (BSI) Act 2015 provides for the regulation and provision of public bus services, and the operation of bus interchanges and bus depots.</p>
-<p>A bus licensee must not appoint, reappoint, remove key officers without the approval of LTA. Such officers may be removed or reinstated if they have been appointed or removed (as the case may be) without approval. There may be other ownership and control provisions in the license conditions for LTA licensees. Please contact LTA for more information.</p>
-</td>
-<td>
-<p>Agency in charge: Land Transport Authority (LTA)</p>
-<p>Email address: <a href="mailto:feedback@lta.gov.sg">feedback@lta.gov.sg</a>&nbsp;&nbsp;&nbsp;</p>
-<p>Website: <a href="http://www.lta.gov.sg">www.lta.gov.sg</a></p>
 </td>
 </tr>
 </tbody>
