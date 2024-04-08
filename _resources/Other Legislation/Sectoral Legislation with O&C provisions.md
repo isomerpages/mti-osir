@@ -196,6 +196,35 @@ The Healthcare Services Act was enacted in 2020 to replace the Private Hospital 
 <tr>
 <td>1</td>
 <td>
+<p><strong>Broadcasting Act</strong></p>
+<p>The Broadcasting Act ("BA") regulates dealing in, operation of and ownership in broadcasting services and broadcasting apparatus. It also regulates online communication services accessible by Singapore end-users.</p>
+<p>Specified changes in ownership and control of broadcasting companies that hold a relevant license are subject to Minister's approval, such as when person(s) seek to be a substantial shareholder, 12% controller, or an indirect controller of a broadcasting company that holds a relevant license.</p>
+<p>Broadcasting companies that hold a relevant license are required to seek prior approval from IMDA for the appointment of key appointment holders.</p>
+</td>
+<td>
+<p>Agency in charge: Ministry of Communications and Information (MCI) / Infocomm Media Development Authority (IMDA)</p>
+<p>Email address: <a href="mailto:ilo@imda.gov.sg">ilo@imda.gov.sg</a>&nbsp;</p>
+<p>Website: <a href="http://www.mci.gov.sg/">www.mci.gov.sg</a>&nbsp;/ <a href="http://www.imda.gov.sg">www.imda.gov.sg</a>&nbsp;</p>
+<p>For approval obligations for specified changes in ownership and control of broadcasting companies that hold a relevant license under the BA, email: <a href="mailto:MCI_Connects@mci.gov.sg">MCI_Connects@mci.gov.sg</a>&nbsp;</p>
+<p>For queries on the appointment of key officers under the BA, email: <a href="mailto:info@imda.gov.sg">info@imda.gov.sg</a>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+<p><strong>Info-communications Media Development Authority Act</strong></p>
+<p>The Info-communications Media Development Authority Act ("IMDAA") establishes and empowers IMDA to promote, develop and regulate the information, communications and media industry in Singapore. The IMDAA also provides IMDA the powers to issue directions and codes of practices in connection with competition and consumer protection matters in the media industry.</p>
+<p>The IMDAA requires "regulated persons"* to obtain IMDA's approval to merge, consolidate with, or be taken over by another regulated person or any other person carrying on any business connected to the provision of media services in Singapore.</p>
+<p><em><small>*This refers to newspaper companies or the proprietor of a newspaper as defined in the Newspaper and Printing Presses Act, or broadcasting licensee as defined in the Broadcasting Act.</small></em></p></td>
+<td><p>Agency in charge: Ministry of Communications and Information (MCI) / Infocomm Media Development Authority (IMDA)</p>
+<p>Email address: <a href="mailto:ilo@imda.gov.sg">ilo@imda.gov.sg</a>&nbsp;</p>
+<p>Website: <a href="http://www.mci.gov.sg/">www.mci.gov.sg</a>&nbsp;/ <a href="http://www.imda.gov.sg">www.imda.gov.sg</a>&nbsp;</p>
+<p>For queries relating to the IMDAA, email <a href="mailto:ilo@imda.gov.sg">ilo@imda.gov.sg</a>&nbsp;</p>
+</td>
+</tr>	
+<tr>
+<td>3</td>
+<td>
 <p><strong>Newspaper and Printing Presses Act</strong></p>
 <p>The Newspaper and Printing Presses Act regulates printing presses and newspaper companies in Singapore, and newspapers that are printed, published, sold, or distributed in Singapore. Those publishing a newspaper at a frequency of one week or less are required to form a newspaper company, and such entities are subject to controls (including rules on shareholding limits).</p>
 <p>All directors in the newspaper company must be Singapore citizens and 1% or more of issued and paid-up capital by the company must be Management Shares (MS). MS are only issued/transferred to Singapore citizens or corporations subject to Minister's approval, and accord greater voting rights to MS holders only in resolutions relating to the appointment or dismissal of a director or any member of the staff of a newspaper company.</p>
@@ -207,21 +236,7 @@ The Healthcare Services Act was enacted in 2020 to replace the Private Hospital 
 </td>
 </tr>
 <tr>
-<td>2</td>
-<td>
-<p><strong>Telecommunications Act</strong></p>
-<p>The Telecommunications Act ("TA") is the legislative framework that governs the regulation of Singapore's telecommunication sector. The TA provides the Infocomm Media Development Authority of Singapore ("IMDA") the powers to grant licenses, and issue directions, codes of practices and standards of performances to regulate telecommunication systems and services, and the conduct of telecommunication licensees, amongst others.</p>
-<p>Designated Telecommunication Licensees (DTLs) are required to notify IMDA of specified changes in ownership and control of DTLs. Further, IMDA's approval must be given for any person to acquire specified levels of ownership or control in DTLs. DTLs are also required to seek IMDA's approval for the appointment of key appointment holders, including the DTL's directors and chief executive officer. IMDA may direct the DTL to remove such key appointment holders if they are appointed without IMDA's approval or if conditions of approval are breached.</p>
-<p>The list of DTLs is published in the Government Gazette. You can search the Government Gazette at <a href="http://www.egazette.com.sg">www.egazette.com.sg</a>.&nbsp;</p>
-</td>
-<td>
-<p>Agency in charge: Ministry of Communications and Information (MCI) / Infocomm Media Development Authority (IMDA)</p>
-<p>Email address: <a href="mailto:ilo@imda.gov.sg">ilo@imda.gov.sg</a>&nbsp;</p>
-<p>Website: <a href="http://www.imda.gov.sg">www.imda.gov.sg</a>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td>3</td>
+<td>4</td>
 <td>
 <p><strong>Postal Services Act</strong></p>
 <p>The Postal Services Act ("PSA") is the legislative framework that governs the regulation of Singapore's postal sector and the nationwide public parcel locker network. Under the PSA, the Infocomm Media Development Authority ("IMDA") has the powers to, amongst others:</p>
@@ -237,32 +252,17 @@ The Healthcare Services Act was enacted in 2020 to replace the Private Hospital 
 </td>
 </tr>
 <tr>
-<td>4</td>
-<td>
-<p><strong>Info-communications Media Development Authority Act</strong></p>
-<p>The Info-communications Media Development Authority Act ("IMDAA") establishes and empowers IMDA to promote, develop and regulate the information, communications and media industry in Singapore. The IMDAA also provides IMDA the powers to issue directions and codes of practices in connection with competition and consumer protection matters in the media industry.</p>
-<p>The IMDAA requires "regulated persons"* to obtain IMDA's approval to merge, consolidate with, or be taken over by another regulated person or any other person carrying on any business connected to the provision of media services in Singapore.</p>
-<p><em><small>*This refers to newspaper companies or the proprietor of a newspaper as defined in the Newspaper and Printing Presses Act, or broadcasting licensee as defined in the Broadcasting Act.</small></em></p></td>
-<td><p>Agency in charge: Ministry of Communications and Information (MCI) / Infocomm Media Development Authority (IMDA)</p>
-<p>Email address: <a href="mailto:ilo@imda.gov.sg">ilo@imda.gov.sg</a>&nbsp;</p>
-<p>Website: <a href="http://www.mci.gov.sg/">www.mci.gov.sg</a>&nbsp;/ <a href="http://www.imda.gov.sg">www.imda.gov.sg</a>&nbsp;</p>
-<p>For queries relating to the IMDAA, email <a href="mailto:ilo@imda.gov.sg">ilo@imda.gov.sg</a>&nbsp;</p>
-</td>
-</tr>	
-<tr>
 <td>5</td>
 <td>
-<p><strong>Broadcasting Act</strong></p>
-<p>The Broadcasting Act ("BA") regulates dealing in, operation of and ownership in broadcasting services and broadcasting apparatus. It also regulates online communication services accessible by Singapore end-users.</p>
-<p>Specified changes in ownership and control of broadcasting companies that hold a relevant license are subject to Minister's approval, such as when person(s) seek to be a substantial shareholder, 12% controller, or an indirect controller of a broadcasting company that holds a relevant license.</p>
-<p>Broadcasting companies that hold a relevant license are required to seek prior approval from IMDA for the appointment of key appointment holders.</p>
+<p><strong>Telecommunications Act</strong></p>
+<p>The Telecommunications Act ("TA") is the legislative framework that governs the regulation of Singapore's telecommunication sector. The TA provides the Infocomm Media Development Authority of Singapore ("IMDA") the powers to grant licenses, and issue directions, codes of practices and standards of performances to regulate telecommunication systems and services, and the conduct of telecommunication licensees, amongst others.</p>
+<p>Designated Telecommunication Licensees (DTLs) are required to notify IMDA of specified changes in ownership and control of DTLs. Further, IMDA's approval must be given for any person to acquire specified levels of ownership or control in DTLs. DTLs are also required to seek IMDA's approval for the appointment of key appointment holders, including the DTL's directors and chief executive officer. IMDA may direct the DTL to remove such key appointment holders if they are appointed without IMDA's approval or if conditions of approval are breached.</p>
+<p>The list of DTLs is published in the Government Gazette. You can search the Government Gazette at <a href="http://www.egazette.com.sg">www.egazette.com.sg</a>.&nbsp;</p>
 </td>
 <td>
 <p>Agency in charge: Ministry of Communications and Information (MCI) / Infocomm Media Development Authority (IMDA)</p>
 <p>Email address: <a href="mailto:ilo@imda.gov.sg">ilo@imda.gov.sg</a>&nbsp;</p>
-<p>Website: <a href="http://www.mci.gov.sg/">www.mci.gov.sg</a>&nbsp;/ <a href="http://www.imda.gov.sg">www.imda.gov.sg</a>&nbsp;</p>
-<p>For approval obligations for specified changes in ownership and control of broadcasting companies that hold a relevant license under the BA, email: <a href="mailto:MCI_Connects@mci.gov.sg">MCI_Connects@mci.gov.sg</a>&nbsp;</p>
-<p>For queries on the appointment of key officers under the BA, email: <a href="mailto:info@imda.gov.sg">info@imda.gov.sg</a>&nbsp;</p>
+<p>Website: <a href="http://www.imda.gov.sg">www.imda.gov.sg</a>&nbsp;</p>
 </td>
 </tr>
 </tbody>
