@@ -40,8 +40,8 @@ the Minister may consider factors such as:</p>
 these requirements to the designated entity in writing.</p>
 <p>Parties may seek clarification from OSIR at <a href="mailto:contact@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>contact@osir.gov.sg</u></a> before
 the commencement of any formal application.</p>
-<p>Parties are to submit the relevant <a href="https://www.osir.gov.sg/forms/approval-forms/" rel="noopener noreferrer nofollow" target="_blank">approval forms</a> via
-email to <a href="mailto:submissions@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank">submissions@osir.gov.sg</a>.</p>
+<p>Parties are to submit the relevant <a href="https://www.osir.gov.sg/forms/notification-forms/" rel="noopener noreferrer nofollow" target="_blank">notification forms</a> and
+<a href="https://www.osir.gov.sg/forms/approval-forms/" rel="noopener noreferrer nofollow" target="_blank">approval forms</a>via email to <a href="mailto:submissions@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank">submissions@osir.gov.sg</a>.</p>
 <hr>
 <h4><strong>Removal of Key Officers in a Designated Entity</strong></h4>
 <p>If a key officer of a designated entity was appointed without the necessary
