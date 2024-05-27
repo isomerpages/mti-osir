@@ -6,7 +6,12 @@ description: List of Designated Entities
 ---
 <h4><strong>List of entities designated under SIRA</strong></h4>
 <p>The designated entities are also published in the <a href="https://www.egazette.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Government Gazette</a>.</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -27,7 +32,26 @@ description: List of Designated Entities
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Designation</p>
+<p></p>
+<p>Exemptions</p>
+<p></p>
+<p>Thresholds</p>
+<p></p>
+<p>Relevant Ministers</p>
+<p></p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
