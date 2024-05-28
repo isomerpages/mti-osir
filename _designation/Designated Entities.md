@@ -6,9 +6,8 @@ description: List of Designated Entities
 ---
 <h4><strong>List of entities designated under SIRA</strong></h4>
 <p>The designated entities are also published in the <a href="https://www.egazette.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Government Gazette</a>.</p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -18,27 +17,18 @@ description: List of Designated Entities
 <p>Designated Entity</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Date of Designation</p>
-</th>
-<th rowspan="1" colspan="1">
 <p>Details</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Designation</p>
+<p>Date of Designation:</p>
 <p></p>
-<p>Exemptions</p>
 <p></p>
-<p>Thresholds</p>
-<p></p>
-<p>Relevant Ministers</p>
+<p>Entity-specific designation:</p>
 <p></p>
 <p></p>
 </td>
@@ -48,9 +38,108 @@ description: List of Designated Entities
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Date of Designation:</p>
+<p></p>
+<p></p>
+<p>Entity-specific designation:</p>
+<p></p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Date of Designation:</p>
+<p></p>
+<p></p>
+<p>Entity-specific designation:</p>
+<p></p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Date of Designation:</p>
+<p></p>
+<p></p>
+<p>Entity-specific designation:</p>
+<p></p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Date of Designation:</p>
+<p></p>
+<p></p>
+<p>Entity-specific designation:</p>
+<p></p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Date of Designation:</p>
+<p></p>
+<p></p>
+<p>Entity-specific designation:</p>
+<p></p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Date of Designation:</p>
+<p></p>
+<p></p>
+<p>Entity-specific designation:</p>
+<p></p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Date of Designation:</p>
+<p></p>
+<p></p>
+<p>Entity-specific designation:</p>
+<p></p>
+<p></p>
+<p>Information on exemptions:</p>
+<p></p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Date of Designation:</p>
+<p></p>
+<p></p>
+<p>Entity-specific designation:</p>
+<p></p>
+<p></p>
+<p>Information on exemptions:</p>
+<p></p>
 <p></p>
 </td>
 </tr>
