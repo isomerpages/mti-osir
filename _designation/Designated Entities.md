@@ -29,7 +29,8 @@ description: List of Designated Entities
 <p></p>
 <p></p>
 <p>Information on Designation:</p>
-<p>&lt;URL&gt;</p>
+<p><a href="https://storage.egazette.gov.sg/getFiles?ct=gg-Ads&amp;yr=2015&amp;filename=15adv5062.pdf" rel="noopener noreferrer nofollow" target="_blank">&lt;URL&gt;</a>
+</p>
 <p></p>
 <p></p>
 </td>
