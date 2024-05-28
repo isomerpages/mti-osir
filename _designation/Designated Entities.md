@@ -29,6 +29,7 @@ description: List of Designated Entities
 <p></p>
 <p></p>
 <p>Information on Designation:</p>
+<p>&lt;URL&gt;</p>
 <p></p>
 <p></p>
 </td>
