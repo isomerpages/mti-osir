@@ -5,7 +5,7 @@ variant: tiptap
 description: List of Designated Entities
 ---
 <h4><strong>List of entities designated under SIRA</strong></h4>
-<p>The designated entities are also published in the <a href="https://www.egazette.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Government Gazette</a>.</p>
+<p>The designated entities are also published in the <a href="https://www.egazette.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Government Gazette</a>.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
