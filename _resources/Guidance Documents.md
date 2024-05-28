@@ -13,10 +13,8 @@ to the extent that there is any conflict between Guidelines and the relevant
 legislation, the latter shall prevail.</p>
 <hr>
 <h4><strong>Guidelines on Fit and Proper Criteria</strong></h4>
-<p>Without affecting any other matter that the Minister may consider relevant,
-these Guidelines set out the criteria applicable to the Key Personnel,
-in determining whether to grant his or her approval under section 27(4)
-SIRA.</p>
+<p>These are the Guidelines on Fit and Proper Criteria mentioned in section
+54 SIRA.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
