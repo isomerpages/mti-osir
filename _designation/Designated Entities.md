@@ -22,7 +22,7 @@ description: List of Designated Entities
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Logistics Pte. Ltd.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Date of Designation:</p>
@@ -36,7 +36,7 @@ description: List of Designated Entities
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>xxx</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Date of Designation:</p>
@@ -49,7 +49,7 @@ description: List of Designated Entities
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>yyy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Date of Designation:</p>
@@ -62,7 +62,7 @@ description: List of Designated Entities
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>zzz</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Date of Designation:</p>
@@ -75,7 +75,7 @@ description: List of Designated Entities
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>aaa</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Date of Designation:</p>
@@ -88,7 +88,7 @@ description: List of Designated Entities
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>bbb</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Date of Designation:</p>
@@ -101,7 +101,7 @@ description: List of Designated Entities
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ccc</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Date of Designation:</p>
@@ -114,7 +114,7 @@ description: List of Designated Entities
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ddd</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Date of Designation:</p>
@@ -130,7 +130,7 @@ description: List of Designated Entities
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Clam Pte. Ltd.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Date of Designation:</p>
