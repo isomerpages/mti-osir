@@ -28,7 +28,7 @@ description: List of Designated Entities
 <p>Date of Designation:</p>
 <p></p>
 <p></p>
-<p>Entity-specific designation:</p>
+<p>Information on Designation:</p>
 <p></p>
 <p></p>
 </td>
@@ -41,7 +41,7 @@ description: List of Designated Entities
 <p>Date of Designation:</p>
 <p></p>
 <p></p>
-<p>Entity-specific designation:</p>
+<p>Information on Designation:</p>
 <p></p>
 <p></p>
 </td>
@@ -54,7 +54,7 @@ description: List of Designated Entities
 <p>Date of Designation:</p>
 <p></p>
 <p></p>
-<p>Entity-specific designation:</p>
+<p>Information on Designation:</p>
 <p></p>
 <p></p>
 </td>
@@ -67,7 +67,7 @@ description: List of Designated Entities
 <p>Date of Designation:</p>
 <p></p>
 <p></p>
-<p>Entity-specific designation:</p>
+<p>Information on Designation:</p>
 <p></p>
 <p></p>
 </td>
@@ -80,7 +80,7 @@ description: List of Designated Entities
 <p>Date of Designation:</p>
 <p></p>
 <p></p>
-<p>Entity-specific designation:</p>
+<p>Information on Designation:</p>
 <p></p>
 <p></p>
 </td>
@@ -93,7 +93,7 @@ description: List of Designated Entities
 <p>Date of Designation:</p>
 <p></p>
 <p></p>
-<p>Entity-specific designation:</p>
+<p>Information on Designation:</p>
 <p></p>
 <p></p>
 </td>
@@ -106,7 +106,7 @@ description: List of Designated Entities
 <p>Date of Designation:</p>
 <p></p>
 <p></p>
-<p>Entity-specific designation:</p>
+<p>Information on Designation:</p>
 <p></p>
 <p></p>
 </td>
@@ -119,10 +119,10 @@ description: List of Designated Entities
 <p>Date of Designation:</p>
 <p></p>
 <p></p>
-<p>Entity-specific designation:</p>
+<p>Information on Designation:</p>
 <p></p>
 <p></p>
-<p>Information on exemptions:</p>
+<p>Information on Exemptions:</p>
 <p></p>
 <p></p>
 </td>
@@ -135,10 +135,10 @@ description: List of Designated Entities
 <p>Date of Designation:</p>
 <p></p>
 <p></p>
-<p>Entity-specific designation:</p>
+<p>Information on Designation:</p>
 <p></p>
 <p></p>
-<p>Information on exemptions:</p>
+<p>Information on Exemptions:</p>
 <p></p>
 <p></p>
 </td>
