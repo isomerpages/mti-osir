@@ -7,7 +7,11 @@ description: ""
 <p><em>(Forms will be made available once entities are formally designated)</em>
 </p>
 <h4><strong>Notification Forms</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -24,7 +28,8 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="/files/Notice_to_Minister_by_Level_A_Controller.pdf" rel="noopener noreferrer nofollow" target="_blank">file</a>
+</p>
 </td>
 </tr>
 <tr>
