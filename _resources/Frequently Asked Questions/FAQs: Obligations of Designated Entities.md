@@ -53,7 +53,7 @@ the commencement of any formal application.
 <div data-type="detailsContent" class="isomer-details-content">
 <p>For specified key personnel roles, designated entities will need to seek
 approval prior to the appointment of any new person to those roles. Please
-refer to <a href="/about-sira/appointment-of-key-officers/" rel="noopener noreferrer nofollow" target="_blank">Appointment of Key Personnel in a Designated Entity</a> for
+refer to <a href="/about-sira/appointment-of-key-personnel/" rel="noopener noreferrer nofollow" target="_blank">Appointment of Key Personnel in a Designated Entity</a> for
 a step-by-step process flow.</p>
 <p></p>
 <p>The Minister may require the removal of an appointed key personnel of
@@ -128,7 +128,7 @@ clarifications prior to the commencement of any formal application.</p>
 </p>
 </li>
 <li>
-<p><a href="/about-sira/appointment-of-key-officers/" rel="noopener noreferrer nofollow" target="_blank">Appointment of Key Personnel in a Designated Entity</a>
+<p><a href="/about-sira/appointment-of-key-personnel/" rel="noopener noreferrer nofollow" target="_blank">Appointment of Key Personnel in a Designated Entity</a>
 </p>
 </li>
 </ul>
