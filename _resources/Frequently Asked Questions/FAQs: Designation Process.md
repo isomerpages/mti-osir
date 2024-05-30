@@ -14,7 +14,7 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 <details class="isomer-details">
 <summary>Which entities have been designated?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>All designation of entities will be notified in the <a href="https://www.egazette.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Government Gazette</a>.
+<p>All designation of entities will be notified in the <a href="https://www.egazette.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Government Gazette</a>.
 OSIR also maintains and publishes an updated <a href="/designation/designated-entities" rel="noopener noreferrer nofollow" target="_blank">list of designated entities</a>.</p>
 </div>
 </details>
@@ -53,7 +53,7 @@ representations on the proposed designation.</p>
 <p>Once a designation is made, as far as practicable, the Minister will notify
 the designated entity and any other parties who, in the Minister’s opinion,
 ought to have notice of the designation. Any designation, or cancellation
-of designation, will be notified in the <a href="https://www.egazette.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Government Gazette</a>.</p>
+of designation, will be notified in the <a href="https://www.egazette.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Government Gazette</a>.</p>
 <p></p>
 <p>Parties can seek reconsideration from the Minister within 14 calendar
 days after his decisions; after which, they may appeal to a Reviewing Tribunal
@@ -71,7 +71,7 @@ step-by-step process flow.</p>
 is cancelled.
 <br>
 </p>
-<p>Any cancellation of designation will be notified in the <a href="https://www.egazette.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Government Gazette</a>.
+<p>Any cancellation of designation will be notified in the <a href="https://www.egazette.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Government Gazette</a>.
 OSIR also maintains and publishes an updated <a href="/designation/designated-entities" rel="noopener noreferrer nofollow" target="_blank">list of designated entities</a>.</p>
 </div>
 </details>
