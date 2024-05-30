@@ -4,7 +4,6 @@ permalink: /about-sira/reconsideration-and-appeal/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SIRA_Reconsideration_and_Appeal.jpg">
 </div>
