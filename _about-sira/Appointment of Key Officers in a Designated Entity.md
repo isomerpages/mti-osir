@@ -5,11 +5,11 @@ variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SIRA - Appointment of Key Officers Infographic" src="/images/sira_appointment_of_key_officers_infographic.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SIRA_Appointment_of_Key_Personnel.jpg">
 </div>
-<h4><strong>Appointment of Key Officers in a Designated Entity</strong></h4>
+<h4><strong>Appointment of Key Personnel in a Designated Entity</strong></h4>
 <p>A designated entity must obtain approval from the Minister prior to appointing
-key officers. Key officers refer to:</p>
+key personnel. Key personnel refer to:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>A chief executive officer, director, or chairperson of the board of directors
