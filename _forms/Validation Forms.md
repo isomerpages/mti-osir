@@ -4,8 +4,6 @@ permalink: /forms/validation-forms/
 variant: tiptap
 description: ""
 ---
-<p><em>(Forms will be made available once entities are formally designated)</em>
-</p>
 <p>Transactions that are completed without the necessary prior approvals
 from Minister will be void. Materially affected parties may apply to the
 Minister to validate the transaction and the Minister may do so by issuing
