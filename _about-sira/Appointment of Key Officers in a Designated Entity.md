@@ -23,7 +23,7 @@ partnership; and</p>
 <p>A partner of a designated entity that is a partnership.</p>
 </li>
 </ul>
-<p>In assessing whether the appointment of a key officer should be approved,
+<p>In assessing whether the appointment of a key personnel should be approved,
 the Minister may consider factors such as:</p>
 <ul>
 <li>
@@ -43,9 +43,9 @@ the commencement of any formal application.</p>
 <p>Parties are to submit the relevant <a href="https://www.osir.gov.sg/forms/notification-forms/" rel="noopener noreferrer nofollow" target="_blank">notification forms</a> and
 <a href="https://www.osir.gov.sg/forms/approval-forms/" rel="noopener noreferrer nofollow" target="_blank">approval forms</a>via email to <a href="mailto:submissions@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank">submissions@osir.gov.sg</a>.</p>
 <hr>
-<h4><strong>Removal of Key Officers in a Designated Entity</strong></h4>
-<p>If a key officer of a designated entity was appointed without the necessary
+<h4><strong>Removal of Key Personnel in a Designated Entity</strong></h4>
+<p>If a key personnel of a designated entity was appointed without the necessary
 approval, or if any condition of approval has been breached, the appointed
-key officer can be removed. The Minister may also remove any key officer
+key personnel can be removed. The Minister may also remove any key personnel
 if deemed necessary in the interest of national security.</p>
 <p></p>
