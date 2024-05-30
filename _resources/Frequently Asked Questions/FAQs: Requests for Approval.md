@@ -47,8 +47,8 @@ for:</p>
 the following:</p>
 <ul>
 <li>
-<p>Whether the relevant person is <a href="/resources/guidance-documents" rel="noopener noreferrer nofollow" target="_blank">fit and proper</a> where the criteria
-includes but are not limited to honesty, integrity and reputation and financial
+<p>Whether the relevant person is fit and proper where the criteria include
+but are not limited to honesty, integrity and reputation and financial
 soundness;</p>
 </li>
 <li>
