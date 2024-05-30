@@ -64,9 +64,9 @@ national security.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>What is the definition of a key officer?</summary>
+<summary>What is the definition of key personnel?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Key officers include:</p>
+<p>Key personnel include:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>[For corporations] Chief Executive Officers, Directors and Chairpersons
@@ -82,25 +82,24 @@ of the Board of Directors;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>What are the criteria for a key officer to be approved?</summary>
+<summary>What are the guidelines on the criteria for appointing key personnel?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>In assessing whether the appointment of a key officer should be approved,
-the Minister may consider factors such as:</p>
+<p>In consideration for the appointment of key personnel, the Minister may
+consider the following factors that include, but are not limited to the
+following:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Financial soundness;</p>
+<p>Honesty, integrity and reputation; and</p>
 </li>
 <li>
-<p>Honesty, integrity and reputation;</p>
-</li>
-<li>
-<p>Potential impact on national security interests.
+<p>Financial soundness.
 <br>
 </p>
 </li>
 </ul>
-<p>Minster may also consider any other relevant matter and will convey these
-requirements to the designated entity in writing.</p>
+<p>Please refer to the Guidelines on Criteria for Key Personnel for more
+information.</p>
+<p></p>
 <p>Parties can seek reconsideration from the Minister within 14 calendar
 days after his decisions; after which, they may appeal to a Reviewing Tribunal
 within 30 calendar days after the reconsideration decision.</p>
@@ -129,7 +128,7 @@ clarifications prior to the commencement of any formal application.</p>
 </p>
 </li>
 <li>
-<p><a href="/about-sira/appointment-of-key-officers/" rel="noopener noreferrer nofollow" target="_blank">Appointment of Key Officers in a Designated Entity</a>
+<p><a href="/about-sira/appointment-of-key-officers/" rel="noopener noreferrer nofollow" target="_blank">Appointment of Key Personnel in a Designated Entity</a>
 </p>
 </li>
 </ul>
