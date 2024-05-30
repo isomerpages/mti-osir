@@ -90,12 +90,13 @@ of the designated entity
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="/files/Application_for_Approval_of_Cessation_of_Control_by_Controller.pdf" rel="noopener noreferrer nofollow" target="_blank">Application for Approval of Cessation of Control by Controller</a>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4><strong>Designated Entities - Appointment of Key Officers</strong></h4>
+<h4><strong>Designated Entities - Appointment of Key Personnel</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -112,11 +113,12 @@ of the designated entity
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Application to Minister before appointing key officers in the designated
+<p>Application to Minister before appointing key personnel in the designated
 entity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="/files/Application_for_Approval_of_Key_Personnel.pdf" rel="noopener noreferrer nofollow" target="_blank">Application for Approval of Key Personnel</a>
+</p>
 </td>
 </tr>
 </tbody>
