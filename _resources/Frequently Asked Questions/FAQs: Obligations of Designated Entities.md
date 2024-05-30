@@ -21,7 +21,7 @@ after becoming aware of any relevant change in ownership or control;</p>
 </li>
 <li>
 <p><strong><u>Seeking the Minister’s approval</u></strong> prior to the appointment
-of specific key officers;</p>
+of specific key personnel;</p>
 </li>
 <li>
 <p><strong><u>Seeking the Minister’s approval, (together with the acquiror)</u> </strong>prior
