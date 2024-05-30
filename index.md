@@ -57,7 +57,8 @@ sections:
       id: textcards
       cards:
         - title: Guidance Documents
-          description: ""
+          description: Guidelines for Fit and Proper Criteria, and for Criteria of Key
+            Personnel
           linktext: Learn more
           url: /resources/guidance-documents
         - title: Frequently Asked Questions
