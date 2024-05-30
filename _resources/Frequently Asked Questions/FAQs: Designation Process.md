@@ -80,9 +80,8 @@ OSIR also maintains and publishes an updated <a href="/designation/designated-en
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Entities cannot be retrospectively designated.&nbsp;</p>
 <p></p>
-<p>Relevant provisions on designation will only apply to a designated entity
-from the point of designation and until such time that the designation
-is cancelled.</p>
+<p>Obligations arising out of designation will only apply from the point
+of designation until such time when the designation is cancelled.</p>
 </div>
 </details>
 <details class="isomer-details">
