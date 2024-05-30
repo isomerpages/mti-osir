@@ -67,8 +67,8 @@ step-by-step process flow.</p>
 <details class="isomer-details">
 <summary>How long will a designated entity be designated for?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Once designated, an entity will remain designated until its designation
-is cancelled.
+<p>There is no duration tagged to designation. The entity will be designated
+for so long as it is in the interest of Singapore's national security.
 <br>
 </p>
 <p>Any cancellation of designation will be notified in the <a href="https://www.egazette.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Government Gazette</a>.
@@ -76,7 +76,7 @@ OSIR also maintains and publishes an updated <a href="/designation/designated-en
 </div>
 </details>
 <details class="isomer-details">
-<summary>Can an entity be retrospectively designated?</summary>
+<summary>If designated, can the entity have its designation backdated?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Entities cannot be retrospectively designated.&nbsp;</p>
 <p></p>
