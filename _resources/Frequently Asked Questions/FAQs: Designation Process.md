@@ -46,9 +46,9 @@ cancellation of its designation may be possible.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Unless considered to be not practicable or desirable to do so, before
 the Minister designates any entity, notice will be given to the entity
-of the Minister’s intent to designate it and the entity will be given at
-least 14 calendar days after the date of the notice to make representations
-on the proposed designation.</p>
+of the Minister’s intent to designate it and the entity will generally
+be given at least 14 calendar days after the date of the notice to make
+representations on the proposed designation.</p>
 <p></p>
 <p>Once a designation is made, as far as practicable, the Minister will notify
 the designated entity and any other parties who, in the Minister’s opinion,
