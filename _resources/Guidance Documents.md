@@ -12,25 +12,6 @@ to time pursuant to SIRA and its subsidiary legislation. To avoid doubt,
 to the extent that there is any conflict between Guidelines and the relevant
 legislation, the latter shall prevail.</p>
 <hr>
-<h4><strong>Guidelines on Fit and Proper Criteria</strong></h4>
-<p>These are the Guidelines on Fit and Proper Criteria mentioned in section
-54 SIRA.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Guidelines on Fit and Proper Criteria</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-</tbody>
-</table>
 <h4><strong>Guidelines on Criteria for Key Personnel</strong></h4>
 <p>Without affecting any other matter that the Minister may consider relevant,
 these Guidelines set out the criteria applicable to the Key Personnel,
@@ -52,4 +33,24 @@ SIRA.</p>
 </tr>
 </tbody>
 </table>
+<h4><strong>Guidelines on Fit and Proper Criteria</strong></h4>
+<p>These are the Guidelines on Fit and Proper Criteria mentioned in section
+54 SIRA.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Guidelines on Fit and Proper Criteria</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
+<h4></h4>
 <p></p>
