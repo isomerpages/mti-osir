@@ -18,7 +18,7 @@ to make representations relating to their potential designation.</p>
 <li>
 <p>If the eventual decision is to proceed with designation, the entity will
 be issued a Designation Order and their designation status will be notified
-in the <a href="https://www.egazette.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Government Gazette</a> and
+in the <a href="https://www.egazette.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Government Gazette</a> and
 updated in the <a href="/designation/designated-entities" rel="noopener noreferrer nofollow" target="_blank">list of designated entities</a>.
 The Designation Order may contain information specific to each designated
 entity.</p>
@@ -44,6 +44,6 @@ national security interests; and</p>
 <p>Should a designated entity cease to meet the criteria for designation,
 the cancellation of its designation may be possible.</p>
 <p>Any designation, or cancellation of designation, will be published in
-the <a href="https://www.egazette.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Government Gazette</a>.
+the <a href="https://www.egazette.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Government Gazette</a>.
 OSIR will also maintain and publish an updated <a href="/designation/designated-entities" rel="noopener noreferrer nofollow" target="_blank">list of designated entities</a>.</p>
 <p></p>
