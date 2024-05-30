@@ -28,7 +28,8 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Notice_to_Minister_by_Level_A_Controller.pdf" rel="noopener noreferrer nofollow" target="_blank">Notice to Minister by Level A Controller</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -37,7 +38,8 @@ description: ""
 becoming aware of a change in ownership or control</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Notice_to_Minister_by_Designated_Entity_for_OC_changes.pdf" rel="noopener noreferrer nofollow" target="_blank">Notice to Minister by Designated Entity for O&amp;C change</a>
+</p>
 </td>
 </tr>
 </tbody>
