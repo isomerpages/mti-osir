@@ -4,8 +4,9 @@ permalink: /about-sira/reconsideration-and-appeal/
 variant: tiptap
 description: ""
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SIRA - Reconsideration and Appeal Infographic" src="/images/sira_reconsideration_and_appeal_infographic.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SIRA_Reconsideration_and_Appeal.jpg">
 </div>
 <p>SIRA is designed to be business-friendly and sets out clear processes
 for parties that wish to seek reconsideration from Minister for his decisions,
