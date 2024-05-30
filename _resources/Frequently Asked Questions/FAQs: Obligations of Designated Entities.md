@@ -97,8 +97,8 @@ following:</p>
 </p>
 </li>
 </ul>
-<p>Please refer to the Guidelines on Criteria for Key Personnel for more
-information.</p>
+<p>Please refer to the <a href="/resources/guidance-documents/" rel="noopener noreferrer nofollow" target="_blank">Guidelines on Criteria for Key Personnel </a>for
+more information.</p>
 <p></p>
 <p>Parties can seek reconsideration from the Minister within 14 calendar
 days after his decisions; after which, they may appeal to a Reviewing Tribunal
