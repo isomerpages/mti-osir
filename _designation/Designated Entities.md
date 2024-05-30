@@ -22,124 +22,13 @@ description: List of Designated Entities
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Logistics Pte. Ltd.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Date of Designation:</p>
 <p></p>
-<p></p>
-<p>Information on Designation: <a href="https://storage.egazette.gov.sg/getFiles?ct=sls&amp;yr=2010&amp;filename=10sls666.pdf" rel="noopener noreferrer nofollow" target="_blank">https://storage.egazette.gov.sg/getFiles?ct=sls&amp;yr=2010&amp;filename=10sls666.pdf</a>
-</p>
-<p></p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>xxx</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Date of Designation:</p>
 <p></p>
 <p></p>
 <p>Information on Designation:</p>
-<p></p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>yyy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Date of Designation:</p>
-<p></p>
-<p></p>
-<p>Information on Designation:</p>
-<p></p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>zzz</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Date of Designation:</p>
-<p></p>
-<p></p>
-<p>Information on Designation:</p>
-<p></p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>aaa</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Date of Designation:</p>
-<p></p>
-<p></p>
-<p>Information on Designation:</p>
-<p></p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>bbb</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Date of Designation:</p>
-<p></p>
-<p></p>
-<p>Information on Designation:</p>
-<p></p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ccc</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Date of Designation:</p>
-<p></p>
-<p></p>
-<p>Information on Designation:</p>
-<p></p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ddd</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Date of Designation:</p>
-<p></p>
-<p></p>
-<p>Information on Designation:</p>
-<p></p>
-<p></p>
-<p>Information on Exemptions:</p>
-<p></p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Clam Pte. Ltd.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Date of Designation:</p>
-<p></p>
-<p></p>
-<p>Information on Designation:</p>
-<p></p>
-<p></p>
-<p>Information on Exemptions:</p>
 <p></p>
 <p></p>
 </td>
