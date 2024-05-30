@@ -28,7 +28,8 @@ SIRA.</p>
 <p>Guidelines on Criteria for Key Personnel</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Guidelines_on_Criteria_for_Key_Personnel.pdf" rel="noopener noreferrer nofollow" target="_blank">Guidelines on Criteria for Key Personnel</a>
+</p>
 </th>
 </tr>
 </tbody>
@@ -47,7 +48,8 @@ SIRA.</p>
 <p>Guidelines on Fit and Proper Criteria</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Guidelines_on_Fit_and_Proper_Criteria.pdf" rel="noopener noreferrer nofollow" target="_blank">Guidelines on Fit and Proper Criteria</a>
+</p>
 </th>
 </tr>
 </tbody>
