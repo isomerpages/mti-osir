@@ -49,9 +49,9 @@ the commencement of any formal application.
 </div>
 </details>
 <details class="isomer-details">
-<summary>What are the obligations of a designated entity when appointing key officers?</summary>
+<summary>What are the obligations of a designated entity when appointing key personnel?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>For specified key officer roles, designated entities will need to seek
+<p>For specified key personnel roles, designated entities will need to seek
 approval prior to the appointment of any new person to those roles. Please
 refer to <a href="/about-sira/appointment-of-key-officers/" rel="noopener noreferrer nofollow" target="_blank">Appointment of Key Officers in a Designated Entity</a> for
 a step-by-step process flow.</p>
