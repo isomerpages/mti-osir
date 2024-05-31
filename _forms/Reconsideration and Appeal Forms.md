@@ -22,9 +22,12 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>Application to Minister for a reconsideration decision within 14 calendar
 days after receiving the initial appealable decision</p>
+<p></p>
+<p><em><sub>(As of 29 May 2024)</sub></em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Reconsideration_by_Minister_of_Appealable_Decision.pdf" rel="noopener noreferrer nofollow" target="_blank">Reconsideration by Minister of Appealable Decision</a>
+<p><a href="/files/Reconsideration_by_Minister_of_Appealable_Decision_29_May_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Reconsideration by Minister of Appealable Decision</a>
 </p>
 </td>
 </tr>
