@@ -27,13 +27,13 @@ entity.</p>
 <hr>
 <h4><strong>Designation Criteria</strong></h4>
 <p>Designation is not a process treated lightly and will only be done, if
-necessary, in the interests of Singapore’s national security.&nbsp;</p>
+necessary, in the interest of Singapore’s national security.&nbsp;</p>
 <p>Various factors will be taken into consideration in deciding which entities
 should be considered for designation. These include:</p>
 <ul>
 <li>
 <p>Whether the entity provides a critical function in relation to Singapore’s
-national security interests; such as the delivery of essential goods or
+national security interests, such as the delivery of essential goods or
 services to Singapore; and</p>
 </li>
 <li>

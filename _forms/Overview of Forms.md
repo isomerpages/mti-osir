@@ -26,7 +26,6 @@ All other modes of submission will not be accepted.</p>
 <h4><strong>Outcome of Application</strong></h4>
 <p>OSIR will process your application upon receiving all required documents.
 We seek your understanding that some applications may take longer to process.&nbsp;</p>
-<p>If approved, OSIR will provide more information on the next steps.</p>
 <p>If you are dissatisfied with the outcome of the application, you may submit
 a reconsideration application within 14 calendar days. Parties may refer
 to <a href="/about-sira/reconsideration-and-appeal" rel="noopener noreferrer nofollow" target="_blank">Reconsideration and Appeal </a>for
