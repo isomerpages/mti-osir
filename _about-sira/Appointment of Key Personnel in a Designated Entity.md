@@ -23,7 +23,7 @@ partnership; and</p>
 <p>A partner of a designated entity that is a partnership.</p>
 </li>
 </ul>
-<p>In consideration for the appointment of key personnel, the minister may
+<p>In consideration for the appointment of key personnel, the Minister may
 consider the following factors that include, but are not limited to the
 following:</p>
 <ul>
