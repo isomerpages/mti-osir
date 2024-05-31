@@ -109,7 +109,7 @@ within 30 calendar days after the reconsideration decision.</p>
 <details class="isomer-details">
 <summary>How long will it take to know the outcome of a request for approval?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>OSIR will process all applications promptly. Applicants would be notified
+<p>OSIR will process all applications promptly. Applicants will be notified
 should more time or documents be required. Applicants can contact OSIR
 regarding the status or next steps of their application.</p>
 <p>Parties may wish to contact <a href="mailto:contact@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>contact@osir.gov.sg</u></a> on any
