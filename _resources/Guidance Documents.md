@@ -25,7 +25,7 @@ SIRA.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Guidelines on Criteria for Key Personnel <br>(As of 29 May 2024)</strong>
+<p><strong>Guidelines on Criteria for Key Personnel <br><sub>(As of 29 May 2024)</sub></strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
@@ -47,7 +47,8 @@ SIRA.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p>Guidelines on Criteria for Key Personnel
-<br>(As of 29 May 2024)</p>
+<br><sub>(As of 29 May 2024)</sub>
+</p>
 </th>
 <th rowspan="1" colspan="1">
 <p><a href="/files/Guidelines_on_Fit_and_Proper_Criteria.pdf" rel="noopener noreferrer nofollow" target="_blank">Guidelines on Fit and Proper Criteria</a>
