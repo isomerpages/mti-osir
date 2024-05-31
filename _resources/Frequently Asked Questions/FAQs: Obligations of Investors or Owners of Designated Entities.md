@@ -60,7 +60,8 @@ a going concern.</p>
 acquisition of equity interest or voting power in a designated entity?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Parties will need to notify or seek approval if they are involved in transactions
-that meet the prescribed thresholds for the designated entities.
+that meet the prescribed thresholds for the designated entities.</p>
+<p>
 <br>The default obligations are:</p>
 <ul>
 <li>
