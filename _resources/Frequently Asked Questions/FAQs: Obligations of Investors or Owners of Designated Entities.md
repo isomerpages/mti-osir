@@ -15,7 +15,7 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 relating to designated entities?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Notification or approval obligations are imposed on:</p>
-<p><u>Prospective controllers of designated entities</u>
+<p><strong><u>Prospective controllers of designated entities</u></strong>
 </p>
 <ul>
 <li>
@@ -26,7 +26,7 @@ thresholds; or</p>
 <p>Become an indirect controller.</p>
 </li>
 </ul>
-<p><u>Existing controllers of designated entities&nbsp;</u>
+<p><strong><u>Existing controllers of designated entities&nbsp;</u></strong>
 </p>
 <ul>
 <li>
@@ -34,7 +34,7 @@ thresholds; or</p>
 thresholds.</p>
 </li>
 </ul>
-<p><u>Acquirors of (any part of) the business or undertaking of the designated entity, as a going concern</u>
+<p><strong><u>Acquirors of (any part of) the business or undertaking of the designated entity, as a going concern</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -42,7 +42,7 @@ thresholds.</p>
 of the designated entity.</p>
 </li>
 </ul>
-<p><u>Designated entities</u>
+<p><strong><u>Designated entities</u></strong>
 </p>
 <ul>
 <li>

@@ -52,8 +52,8 @@ the commencement of any formal application.
 <summary>What are the obligations of a designated entity when appointing key personnel?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>For specified key personnel roles, designated entities will need to seek
-approval prior to the appointment of any new person to those roles. Please
-refer to <a href="/about-sira/appointment-of-key-personnel/" rel="noopener noreferrer nofollow" target="_blank">Appointment of Key Personnel in a Designated Entity</a> for
+approval prior to the appointment of any new personnel to those roles.
+Please refer to <a href="/about-sira/appointment-of-key-personnel/" rel="noopener noreferrer nofollow" target="_blank">Appointment of Key Personnel in a Designated Entity</a> for
 a step-by-step process flow.</p>
 <p></p>
 <p>The Minister may require the removal of an appointed key personnel of
@@ -69,7 +69,7 @@ national security.</p>
 <p>Key personnel include:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>[For corporations] Chief Executive Officers, Directors and Chairpersons
+<p>[For corporations] Chief Executive Officers, Directors, and Chairpersons
 of the Board of Directors;</p>
 </li>
 <li>
@@ -109,7 +109,7 @@ within 30 calendar days after the reconsideration decision.</p>
 <details class="isomer-details">
 <summary>How long will it take to know the outcome of a request for approval?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>OSIR will process all applications promptly. Applicants would be notified
+<p>OSIR will process all applications promptly. Applicants will be notified
 should more time or documents be required. Applicants can contact OSIR
 regarding the status or next steps of their application.</p>
 <p>Parties may wish to contact <a href="mailto:contact@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>contact@osir.gov.sg</u></a> on any
