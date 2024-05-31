@@ -109,7 +109,7 @@ of the designated entity
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Application_for_Approval_of_Cessation_of_Control_by_Controller.pdf" rel="noopener noreferrer nofollow" target="_blank">Application for Approval of Cessation of Control by Controller</a>
+<p><a href="/files/Application_for_Approval_of_Cessation_of_Control_by_Controller_29_May_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Application for Approval of Cessation of Control by Controller</a>
 </p>
 </td>
 </tr>
