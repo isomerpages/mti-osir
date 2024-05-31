@@ -33,7 +33,7 @@ should be considered for designation. These include:</p>
 <ul>
 <li>
 <p>Whether the entity provides a critical function in relation to Singapore’s
-national security interests; such as the delivery of essential goods or
+national security interests, such as the delivery of essential goods or
 services to Singapore; and</p>
 </li>
 <li>
