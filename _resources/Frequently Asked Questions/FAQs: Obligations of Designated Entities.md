@@ -85,14 +85,15 @@ of the Board of Directors;</p>
 <summary>What are the guidelines on the criteria for appointing key personnel?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>In consideration for the appointment of key personnel, the Minister may
-consider the following factors that include, but are not limited to the
-following:</p>
+consider the following:</p>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Honesty, integrity and reputation; and</p>
+<p>An assessment of the key personnel on criteria relating, but not limited
+to honesty, integrity, reputation and financial soundness; and</p>
 </li>
 <li>
-<p>Financial soundness.
+<p>Potential impact on national security interests.
 <br>
 </p>
 </li>
