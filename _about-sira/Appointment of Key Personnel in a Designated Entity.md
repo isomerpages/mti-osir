@@ -23,21 +23,19 @@ partnership; and</p>
 <p>A partner of a designated entity that is a partnership.</p>
 </li>
 </ul>
-<p>In assessing whether the appointment of a key personnel should be approved,
-the Minister may consider factors such as:</p>
+<p>In consideration for the appointment of key personnel, the Minister may
+consider the following factors that include, but are not limited to the
+following:</p>
 <ul>
 <li>
-<p>Financial soundness;</p>
+<p>Honesty, integrity and reputation; and</p>
 </li>
 <li>
-<p>Honesty, integrity and reputation;</p>
-</li>
-<li>
-<p>Potential impact on national security interests.</p>
+<p>Financial soundness.</p>
 </li>
 </ul>
-<p>The Minister may also consider any other relevant matters and will convey
-these requirements to the designated entity in writing.</p>
+<p>Please refer to the <a href="/resources/guidance-documents/" rel="noopener noreferrer nofollow" target="_blank">Guidelines on Criteria for Key Personnel</a> for
+more information.</p>
 <p>Parties may seek clarification from OSIR at <a href="mailto:contact@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>contact@osir.gov.sg</u></a> before
 the commencement of any formal application.</p>
 <p>Parties are to submit the relevant <a href="https://www.osir.gov.sg/forms/notification-forms/" rel="noopener noreferrer nofollow" target="_blank">notification forms</a> and
