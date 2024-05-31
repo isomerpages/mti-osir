@@ -4,6 +4,9 @@ permalink: /designation/designation-process/
 variant: tiptap
 description: Designation Process
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SIRA_Designation_of_Entity.jpg">
+</div>
 <h4><strong>Designation Process</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
