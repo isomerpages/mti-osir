@@ -94,9 +94,8 @@ a Reviewing Tribunal within 30 calendar days after the reconsideration
 decision.</p>
 <p></p>
 <p>The Minister’s decision to designate the entity remains in effect, and
-must be complied with until it is cancelled or substituted on reconsideration.
-The Minister’s reconsideration decision remains in effect until it is reversed
-on appeal.</p>
+must be complied with until it is cancelled on reconsideration. The Minister’s
+reconsideration decision remains in effect until it is reversed on appeal.</p>
 </div>
 </details>
 </div>
