@@ -1,6 +1,6 @@
 ---
-title: "FAQs: Powers where Entity has Acted against National Security Interests"
-permalink: /resources/faqs/powers-where-entity-acted-against-national-security-interests/
+title: "FAQs: Powers where Any Entity has Acted against National Security Interests"
+permalink: /resources/faqs/powers-where-any-entity-acted-against-national-security-interests/
 variant: tiptap
 description: ""
 third_nav_title: Frequently Asked Questions

@@ -1,6 +1,6 @@
 ---
 title: Powers where Any Entity has Acted against National Security Interests
-permalink: /about-sira/powers-where-entity-has-acted-against-national-security-interests/
+permalink: /about-sira/powers-where-any-entity-has-acted-against-national-security-interests/
 variant: tiptap
 description: ""
 ---
