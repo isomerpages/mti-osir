@@ -36,8 +36,8 @@ to honesty, integrity, reputation and financial soundness; and</p>
 </ul>
 <p>Please refer to the <a href="/resources/guidance-documents/" rel="noopener noreferrer nofollow" target="_blank">Guidelines on Criteria for Key Personnel</a> for
 more information.</p>
-<p>Parties may seek clarification from OSIR at <a href="mailto:contact@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>contact@osir.gov.sg</u></a> for any
-formal application.</p>
+<p>Parties may seek clarification from OSIR at <a href="mailto:contact@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>contact@osir.gov.sg</u></a> before
+the commencement of any formal application.</p>
 <p>Parties are to submit the relevant <a href="https://www.osir.gov.sg/forms/notification-forms/" rel="noopener noreferrer nofollow" target="_blank">notification forms</a> and
 <a href="https://www.osir.gov.sg/forms/approval-forms/" rel="noopener noreferrer nofollow" target="_blank">approval forms</a>
 <br>via email to <a href="mailto:submissions@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank">submissions@osir.gov.sg</a>.</p>
