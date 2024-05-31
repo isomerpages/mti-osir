@@ -17,10 +17,10 @@ to make representations relating to their potential designation.</p>
 </li>
 <li>
 <p>If the eventual decision is to proceed with designation, the entity will
-be issued a Designation Order and their designation status will be notified
-in the <a href="https://www.egazette.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Government Gazette</a> and
+be issued a Notice of Designation and their designation status will be
+notified in the <a href="https://www.egazette.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Government Gazette</a> and
 updated in the <a href="/designation/designated-entities" rel="noopener noreferrer nofollow" target="_blank">list of designated entities</a>.
-The Designation Order may contain information specific to each designated
+The Notice of Designation may contain information specific to each designated
 entity.</p>
 </li>
 </ul>
