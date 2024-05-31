@@ -147,7 +147,7 @@ thresholds and may differ for specific entities.</p>
 company of a designated entity?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Whether an intermediate holding company or an ultimate parent company
-will be subject to the ownership and control obligations in the Bill is
+will be subject to the ownership and control obligations in the Act is
 fact-specific, depending on the extent and nature of control they have
 in the designated entity.</p>
 <p>For example, where an intermediate holding company or an ultimate parent
