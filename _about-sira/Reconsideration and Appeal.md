@@ -12,8 +12,8 @@ for parties that wish to seek reconsideration from Minister for his decisions,
 and to make further appeals to an independent Reviewing Tribunal.</p>
 <h4><strong>Reconsideration requests</strong></h4>
 <p>Parties may submit a reconsideration application against decisions, remedial
-directions or orders issued by the Minister for Trade &amp; Industry or
-the Relevant Minister.</p>
+directions or orders to the Minister for Trade &amp; Industry or the Relevant
+Minister.</p>
 <p>Parties are to submit the <a href="https://www.osir.gov.sg/forms/reconsideration-and-appeal-forms/" rel="noopener noreferrer nofollow" target="_blank">reconsideration form</a> via
 email to <a href="mailto:submissions@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank">submissions@osir.gov.sg</a>.</p>
 <p>The Minister's decision must be complied with and remains in effect until
