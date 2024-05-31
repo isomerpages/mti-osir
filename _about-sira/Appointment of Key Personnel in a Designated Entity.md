@@ -24,14 +24,14 @@ partnership; and</p>
 </li>
 </ul>
 <p>In consideration for the appointment of key personnel, the Minister may
-consider the following factors that include, but are not limited to the
-following:</p>
+consider the following:</p>
 <ul>
 <li>
-<p>Honesty, integrity and reputation; and</p>
+<p>An assessment of the key personnel on criteria relating but not limited
+to honesty, integrity, reputation and financial soundness; and</p>
 </li>
 <li>
-<p>Financial soundness.</p>
+<p>Potential impact on national security interests.</p>
 </li>
 </ul>
 <p>Please refer to the <a href="/resources/guidance-documents/" rel="noopener noreferrer nofollow" target="_blank">Guidelines on Criteria for Key Personnel</a> for
