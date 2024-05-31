@@ -1,5 +1,5 @@
 ---
-title: Powers where Entity has Acted against National Security Interests
+title: Powers where Any Entity has Acted against National Security Interests
 permalink: /about-sira/powers-where-entity-has-acted-against-national-security-interests/
 variant: tiptap
 description: ""
