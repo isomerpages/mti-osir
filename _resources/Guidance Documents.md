@@ -25,11 +25,11 @@ SIRA.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Guidelines on Criteria for Key Personnel
-<br>(As of 29 May 2024)</p>
+<p><strong>Guidelines on Criteria for Key Personnel <br>(As of 29 May 2024)</strong>
+</p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="/files/Guidelines_on_Criteria_for_Key_Personnel.pdf" rel="noopener noreferrer nofollow" target="_blank">Guidelines on Criteria for Key Personnel</a>
+<p><strong><a href="/files/Guidelines_on_Criteria_for_Key_Personnel.pdf" rel="noopener noreferrer nofollow" target="_blank">Guidelines on Criteria for Key Personnel</a></strong>
 </p>
 </th>
 </tr>
