@@ -69,7 +69,7 @@ national security.</p>
 <p>Key personnel include:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>[For corporations] Chief Executive Officers, Directors and Chairpersons
+<p>[For corporations] Chief Executive Officers, Directors, and Chairpersons
 of the Board of Directors;</p>
 </li>
 <li>
