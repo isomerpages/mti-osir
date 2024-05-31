@@ -120,7 +120,7 @@ The Payment Services Act 2019 provides for the licensing and regulation of payme
 <td>
 <p><strong>Securities and Futures Act 2001</strong></p>
 The Securities and Futures Act 2001 regulates activities and institutions in the securities and derivatives industry, financial benchmarks and clearing facilities.
-<p>&nbsp;Approval will be required for substantial shareholders and controllers of certain financial institutions that are approved, recognised or licensed under the Act.</p>
+<p>Approval will be required for substantial shareholders and controllers of certain financial institutions that are approved, recognised or licensed under the Act.</p>
 </td>
 <td>
 <p>Agency in charge: Monetary Authority of Singapore (MAS)</p>
