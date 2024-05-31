@@ -48,7 +48,7 @@ the following:</p>
 <ul>
 <li>
 <p>Whether the relevant person is fit and proper where the criteria include
-but are not limited to honesty, integrity, reputation and financial soundness;</p>
+but are not limited to honesty, integrity, reputation, and financial soundness;</p>
 </li>
 <li>
 <p>Whether the designated entity would be able to continue providing its
