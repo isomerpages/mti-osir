@@ -4,9 +4,6 @@ permalink: /designation/designation-process/
 variant: tiptap
 description: Designation Process
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SIRA_Designation_of_Entity.jpg">
-</div>
 <h4><strong>Designation Process</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -17,8 +14,8 @@ to make representations relating to their potential designation.</p>
 </li>
 <li>
 <p>If the eventual decision is to proceed with designation, the entity will
-be issued a Designation Order and their designation status will be notified
-in the <a href="https://www.egazette.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Government Gazette</a> and
+be issued a Notice of Designation and their designation status will be
+notified in the <a href="https://www.egazette.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Government Gazette</a> and
 updated in the <a href="/designation/designated-entities" rel="noopener noreferrer nofollow" target="_blank">list of designated entities</a>.
 The Designation Order may contain information specific to each designated
 entity.</p>
