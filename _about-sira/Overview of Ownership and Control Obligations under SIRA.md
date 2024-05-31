@@ -5,6 +5,6 @@ variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ownership and Control Obligations under SIRA" src="/images/sira_ownership_and_control_obligations_infographic.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SIRA_Ownership_and_Control_Obligations.jpg">
 </div>
 <p></p>

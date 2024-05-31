@@ -4,15 +4,17 @@ permalink: /forms/validation-forms/
 variant: tiptap
 description: ""
 ---
-<p><em>(Forms will be made available once entities are formally designated)</em>
-</p>
 <p>Transactions that are completed without the necessary prior approvals
 from Minister will be void. Materially affected parties may apply to the
 Minister to validate the transaction and the Minister may do so by issuing
 a validation notice. The Minister may also proactively issue such a notice
 if the Minister is satisfied that it is in the interest of Singapore's
 national security to do so.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -27,7 +29,8 @@ national security to do so.</p>
 <p>Application to Minister for Validation of Business Acquisition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="/files/Application_for_Validation_of_Business_Acquisition.pdf" rel="noopener noreferrer nofollow" target="_blank">Application to Minister for Validation of Business Acquisition</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -35,7 +38,8 @@ national security to do so.</p>
 <p>Application to Minister for Validation of Controller</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="/files/Application_for_Validation_of_Controller.pdf" rel="noopener noreferrer nofollow" target="_blank">Application to Minister for Validation of Controller</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -43,7 +47,8 @@ national security to do so.</p>
 <p>Application to Minister for Validation of Cessation of Control</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="/files/Application_for_Validation_of_Cessation_of_Control.pdf" rel="noopener noreferrer nofollow" target="_blank">Application to Minister for Validation of Cessation of Control</a>
+</p>
 </td>
 </tr>
 </tbody>

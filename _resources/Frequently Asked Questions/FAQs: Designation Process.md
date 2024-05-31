@@ -14,22 +14,23 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 <details class="isomer-details">
 <summary>Which entities have been designated?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>All designation of entities will be notified in the <a href="https://www.egazette.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Government Gazette</a>.
+<p>All designation of entities will be notified in the <a href="https://www.egazette.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Government Gazette</a>.
 OSIR also maintains and publishes an updated <a href="/designation/designated-entities" rel="noopener noreferrer nofollow" target="_blank">list of designated entities</a>.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>What are the considerations in designating an entity?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Designation is not a process treated lightly and is only done when deemed
-necessary in the interests of Singapore’s national security.&nbsp;</p>
+<p>Designation is not a process treated lightly and will only be done, if
+necessary, in the interest of Singapore’s national security.&nbsp;</p>
 <p></p>
 <p>Various factors will be taken into consideration in deciding which entities
 should be considered for designation. These include:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Whether the entity provides a critical function in relation to Singapore’s
-national security interests; and</p>
+national security interests, such as the delivery of essential goods or
+services to Singapore; and</p>
 </li>
 <li>
 <p>Whether the entity is adequately covered by sectoral legislation.</p>
@@ -45,14 +46,14 @@ cancellation of its designation may be possible.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Unless considered to be not practicable or desirable to do so, before
 the Minister designates any entity, notice will be given to the entity
-of the Minister’s intent to designate it and the entity will be given at
-least 14 calendar days after the date of the notice to make representations
-on the proposed designation.</p>
+of the Minister’s intent to designate it and the entity will generally
+be given at least 14 calendar days after the date of the notice to make
+representations on the proposed designation.</p>
 <p></p>
 <p>Once a designation is made, as far as practicable, the Minister will notify
 the designated entity and any other parties who, in the Minister’s opinion,
 ought to have notice of the designation. Any designation, or cancellation
-of designation, will be notified in the <a href="https://www.egazette.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Government Gazette</a>.</p>
+of designation, will be notified in the <a href="https://www.egazette.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Government Gazette</a>.</p>
 <p></p>
 <p>Parties can seek reconsideration from the Minister within 14 calendar
 days after his decisions; after which, they may appeal to a Reviewing Tribunal
@@ -66,22 +67,21 @@ step-by-step process flow.</p>
 <details class="isomer-details">
 <summary>How long will a designated entity be designated for?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Once designated, an entity will remain designated until its designation
-is cancelled.
+<p>There is no duration tagged to designation. The entity will be designated
+for so long as it is in the interest of Singapore's national security.
 <br>
 </p>
-<p>Any cancellation of designation will be notified in the <a href="https://www.egazette.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Government Gazette</a>.
+<p>Any cancellation of designation will be notified in the <a href="https://www.egazette.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Government Gazette</a>.
 OSIR also maintains and publishes an updated <a href="/designation/designated-entities" rel="noopener noreferrer nofollow" target="_blank">list of designated entities</a>.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Can an entity be retrospectively designated?</summary>
+<summary>If designated, can the entity have its designation backdated?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Entities cannot be retrospectively designated.&nbsp;</p>
 <p></p>
-<p>Relevant provisions on designation will only apply to a designated entity
-from the point of designation and until such time that the designation
-is cancelled.</p>
+<p>Obligations arising out of designation will only apply from the point
+of designation until such time when the designation is cancelled.</p>
 </div>
 </details>
 <details class="isomer-details">

@@ -4,9 +4,11 @@ permalink: /forms/reconsideration-and-appeal-forms/
 variant: tiptap
 description: ""
 ---
-<p><em>(Forms will be made available once entities are formally designated)</em>
-</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -22,7 +24,8 @@ description: ""
 days after receiving the initial appealable decision</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="/files/Reconsideration_by_Minister_of_Appealable_Decision.pdf" rel="noopener noreferrer nofollow" target="_blank">Reconsideration by Minister of Appealable Decision</a>
+</p>
 </td>
 </tr>
 <tr>

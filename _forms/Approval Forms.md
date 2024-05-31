@@ -4,10 +4,12 @@ permalink: /forms/approval-forms/
 variant: tiptap
 description: ""
 ---
-<p><em>(Forms will be made available once entities are formally designated)</em>
-</p>
 <h4><strong>Potential &amp; Existing Investors or Acquirors</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -25,7 +27,8 @@ designated entity
 </p>
 </td>
 <td rowspan="4" colspan="1">
-<p>-</p>
+<p><a href="/files/Application_for_Approval_of_Controller.pdf" rel="noopener noreferrer nofollow" target="_blank">Application for Approval of Controller</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -56,13 +59,18 @@ designated entity</p>
 of the business or undertaking of the designated entity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="/files/Application_for_Approval_of_Business_Sale_by_Designated_Entity.pdf" rel="noopener noreferrer nofollow" target="_blank">Application for Approval of Business or Undertaking of Designated Entity</a>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h4><strong>Existing Investors</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -80,13 +88,18 @@ of the designated entity
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="/files/Application_for_Approval_of_Cessation_of_Control_by_Controller.pdf" rel="noopener noreferrer nofollow" target="_blank">Application for Approval of Cessation of Control by Controller</a>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4><strong>Designated Entities - Appointment of Key Officers</strong></h4>
-<table>
+<h4><strong>Designated Entities - Appointment of Key Personnel</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -98,11 +111,12 @@ of the designated entity
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Application to Minister before appointing key officers in the designated
+<p>Application to Minister before appointing key personnel in the designated
 entity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="/files/Application_for_Approval_of_Key_Personnel.pdf" rel="noopener noreferrer nofollow" target="_blank">Application for Approval of Key Personnel</a>
+</p>
 </td>
 </tr>
 </tbody>

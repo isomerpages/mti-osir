@@ -243,7 +243,7 @@ The Healthcare Services Act was enacted in 2020 to replace the Private Hospital 
 <p>1. Grant or modify licenses, and issue directions, codes of practice and standards of performance to regulate postal services and systems and the conduct of postal licensees; and</p>
 <p>2. Appoint an operator, and issue directions and codes of practice for or in connection with the installation, operation and maintenance of the public parcel locker network.</p>
 <p>Designated Postal Licensees (DPLs) are required to notify IMDA of specified changes in ownership or control of DPLs. Further, IMDA's approval must be given for any person to acquire specified levels of ownership or control in DPLs. DPLs are also required to seek IMDA's approval for the appointment of key appointment holders, including the DPL's directors and chief executive officer. IMDA may direct the DPL to remove such key appointment holders if they are appointed without IMDA's approval.</p>
-<p>The list of Designated Postal Licensees is published in the Government Gazette You can search the Government Gazette at <a href="http://www.egazette.com.sg">www.egazette.com.sg</a>.</p>
+<p>The list of Designated Postal Licensees is published in the Government Gazette You can search the Government Gazette at <a href="http://www.egazette.gov.sg">www.egazette.gov.sg</a>.</p>
 </td>
 <td>
 <p>Agency in charge: Infocomm Media Development Authority (IMDA)</p>
@@ -257,7 +257,7 @@ The Healthcare Services Act was enacted in 2020 to replace the Private Hospital 
 <p><strong>Telecommunications Act</strong></p>
 <p>The Telecommunications Act ("TA") is the legislative framework that governs the regulation of Singapore's telecommunication sector. The TA provides the Infocomm Media Development Authority of Singapore ("IMDA") the powers to grant licenses, and issue directions, codes of practices and standards of performances to regulate telecommunication systems and services, and the conduct of telecommunication licensees, amongst others.</p>
 <p>Designated Telecommunication Licensees (DTLs) are required to notify IMDA of specified changes in ownership and control of DTLs. Further, IMDA's approval must be given for any person to acquire specified levels of ownership or control in DTLs. DTLs are also required to seek IMDA's approval for the appointment of key appointment holders, including the DTL's directors and chief executive officer. IMDA may direct the DTL to remove such key appointment holders if they are appointed without IMDA's approval or if conditions of approval are breached.</p>
-<p>The list of DTLs is published in the Government Gazette. You can search the Government Gazette at <a href="http://www.egazette.com.sg">www.egazette.com.sg</a>.&nbsp;</p>
+<p>The list of DTLs is published in the Government Gazette. You can search the Government Gazette at <a href="http://www.egazette.gov.sg">www.egazette.gov.sg</a>.&nbsp;</p>
 </td>
 <td>
 <p>Agency in charge: Ministry of Communications and Information (MCI) / Infocomm Media Development Authority (IMDA)</p>
@@ -302,7 +302,7 @@ The Healthcare Services Act was enacted in 2020 to replace the Private Hospital 
 <td>2</td>
 <td>
 <p><strong>Public Utilities Act</strong></p>
-<p>The Public Utilities Act sets out the key functions, duties, and powers of the Public Utilities Board ("PUB"). PUB, as the national water agency, manages Singapore's water supply, water catchment, and used water in an integrated way. Part 4A of the Act imposes legislative controls on designated parties (entities, business trusts, or trusts) that are critical to water security. The designated parties are published in the Government Gazette. You can search for the "Public Utilities Act - Designated Entities" and "Public Utilities Act - Designated Trusts" Gazettes for the list of designated parties under the Public Utilities Act at <a href="http://www.egazette.com.sg">www.egazette.com.sg</a>.</p>
+<p>The Public Utilities Act sets out the key functions, duties, and powers of the Public Utilities Board ("PUB"). PUB, as the national water agency, manages Singapore's water supply, water catchment, and used water in an integrated way. Part 4A of the Act imposes legislative controls on designated parties (entities, business trusts, or trusts) that are critical to water security. The designated parties are published in the Government Gazette. You can search for the "Public Utilities Act - Designated Entities" and "Public Utilities Act - Designated Trusts" Gazettes for the list of designated parties under the Public Utilities Act at <a href="http://www.egazette.gov.sg">www.egazette.gov.sg</a>.</p>
 <p>Notification or approval obligations for specified changes in ownership and control of designated parties (entities, business trusts or trusts) and the acquisition as a going concern (parts of) the designated party's business or undertaking, will be imposed on buyers of the designated parties.</p>
 </td>
 <td>

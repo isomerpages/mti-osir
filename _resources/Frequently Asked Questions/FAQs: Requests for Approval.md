@@ -34,7 +34,7 @@ for:</p>
 </p>
 </li>
 <li>
-<p><a href="/about-sira/appointment-of-key-officers" rel="noopener noreferrer nofollow" target="_blank">Appointing Key Officers in a Designated Entity</a>
+<p><a href="/about-sira/appointment-of-key-officers" rel="noopener noreferrer nofollow" target="_blank">Appointing Key Personnel in a Designated Entity</a>
 </p>
 </li>
 </ul>
@@ -43,23 +43,29 @@ for:</p>
 <details class="isomer-details">
 <summary>What are some of the considerations for approval of transactions?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Applications may be approved if <u>all</u> the following conditions, as
-applicable, are met:</p>
+<p>In consideration for the approval of a transaction, the Minister may consider
+the following:</p>
 <ul>
 <li>
-<p>The prospective acquirors, or controllers and their associates, are
-<a href="/resources/guidance-documents" rel="noopener noreferrer nofollow" target="_blank">fit and proper</a>persons;</p>
+<p>Whether the relevant person is fit and proper where the criteria include
+but are not limited to honesty, integrity and reputation and financial
+soundness;</p>
 </li>
 <li>
-<p>The designated entity would be able to continue providing its critical
-function following the proposed transaction; and</p>
+<p>Whether the designated entity would be able to continue providing its
+critical function following the proposed transaction; and</p>
 </li>
 <li>
-<p>Approving the transaction is not against Singapore’s national security
+<p>Whether the transaction is aligned with Singapore’s national security
 interests.</p>
 </li>
 </ul>
+<p></p>
+<p>Please refer to the <a href="/resources/guidance-documents/" rel="noopener noreferrer nofollow" target="_blank">Guidelines on Fit and Proper Criteria</a> for
+more information.</p>
+<p></p>
 <p>Mitigation measures may also be imposed as part of approval of a transaction.</p>
+<p></p>
 <p>Parties may wish to contact <a href="mailto:contact@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>contact@osir.gov.sg</u></a> to discuss
 appropriate mitigation measures, which would depend on the facts and circumstances
 of each case.</p>
