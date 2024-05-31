@@ -52,8 +52,8 @@ the commencement of any formal application.
 <summary>What are the obligations of a designated entity when appointing key personnel?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>For specified key personnel roles, designated entities will need to seek
-approval prior to the appointment of any new person to those roles. Please
-refer to <a href="/about-sira/appointment-of-key-personnel/" rel="noopener noreferrer nofollow" target="_blank">Appointment of Key Personnel in a Designated Entity</a> for
+approval prior to the appointment of any new personnel to those roles.
+Please refer to <a href="/about-sira/appointment-of-key-personnel/" rel="noopener noreferrer nofollow" target="_blank">Appointment of Key Personnel in a Designated Entity</a> for
 a step-by-step process flow.</p>
 <p></p>
 <p>The Minister may require the removal of an appointed key personnel of
