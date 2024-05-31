@@ -90,7 +90,7 @@ consider the following:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>An assessment of the key personnel on criteria relating, but not limited
-to honesty, integrity, reputation, financial soundness; and</p>
+to honesty, integrity, reputation and financial soundness; and</p>
 </li>
 <li>
 <p>Potential impact on national security interests.
