@@ -34,7 +34,7 @@ for:</p>
 </p>
 </li>
 <li>
-<p><a href="/about-sira/appointment-of-key-officers" rel="noopener noreferrer nofollow" target="_blank">Appointing Key Personnel in a Designated Entity</a>
+<p><a href="/about-sira/appointment-of-key-personnel" rel="noopener noreferrer nofollow" target="_blank">Appointing Key Personnel in a Designated Entity</a>
 </p>
 </li>
 </ul>
