@@ -30,7 +30,7 @@ thresholds; or</p>
 </p>
 <ul>
 <li>
-<p>If they dispose of equity interest of voting power below the prescribed
+<p>If they dispose of equity interest or voting power below the prescribed
 thresholds.</p>
 </li>
 </ul>
