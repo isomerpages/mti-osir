@@ -135,11 +135,30 @@ of the designated entity
 <p>Application to Minister before appointing key personnel in the designated
 entity</p>
 <p></p>
+<p>*For Shell Singapore Pte. Ltd., ExxonMobil Asia Pacific Pte. Ltd., and
+Singapore Refining Company Private Limited only.</p>
+<p></p>
 <p><em><sub>(As of 29 May 2024)</sub></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Application_for_Approval_of_Key_Personnel_29_May_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Application for Approval of Key Personnel</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Application to Minister before appointing key personnel in the designated
+entity</p>
+<p></p>
+<p><em>*For ST Logistics Pte. Ltd., Sembcorp Specialised Construction Pte. Ltd., ST Engineering Marine Ltd., ST Engineering Defence Aviation Services Pte. Ltd., ST Engineering Digital Systems Pte. Ltd., and ST Engineering Land Systems Ltd. only</em>
+</p>
+<p></p>
+<p><em><sub>(As of 12 June 2024)</sub></em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/G50_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">Application for Approval of Key Personnel</a>
 </p>
 </td>
 </tr>
