@@ -70,7 +70,7 @@ designated entity</p>
 <p>Application to Minister before acquiring, as a going concern, any part
 of the business or undertaking of the designated entity</p>
 <p></p>
-<p><em><sub>(As of 9 July 2024)</sub></em>
+<p><em><sub>(As of 12 July 2024)</sub></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
