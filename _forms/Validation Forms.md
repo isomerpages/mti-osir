@@ -32,8 +32,7 @@ national security to do so.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Application_for_Validation_of_Business_Acquisition_29_May_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Application to Minister for Validation of Bus</a>
-<a href="/files/Application_for_Validation_of_Business_Acquisition_9_July_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">file</a><a href="/files/Application_for_Validation_of_Business_Acquisition_29_May_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">iness Acquisition</a>
+<p><a href="/files/Application_for_Validation_of_Business_Acquisition_9_July_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Application to Minister for Validation of Business Acquisition</a>
 </p>
 </td>
 </tr>
