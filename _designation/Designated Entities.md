@@ -27,7 +27,7 @@ description: List of Designated Entities
 </td>
 <td rowspan="1" colspan="1">
 <p>Date of Designation: 31 May 2024
-<br><a href="https://storage.egazette.gov.sg/getFiles?ct=gg-Acts&amp;yr=2024&amp;filename=24gg1778.pdf" rel="noopener noreferrer nofollow" target="_blank">Information on Designation</a>
+<br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/1731.pdf" rel="noopener noreferrer nofollow" target="_blank">Information on Designation</a>
 </p>
 </td>
 </tr>
@@ -38,7 +38,7 @@ description: List of Designated Entities
 </td>
 <td rowspan="1" colspan="1">
 <p>Date of Designation: 31 May 2024
-<br><a href="https://storage.egazette.gov.sg/getFiles?ct=gg-Acts&amp;yr=2024&amp;filename=24gg1778.pdf" rel="noopener noreferrer nofollow" target="_blank">Information on Designation</a>
+<br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/1731.pdf" rel="noopener noreferrer nofollow" target="_blank">Information on Designation</a>
 </p>
 </td>
 </tr>
@@ -49,7 +49,7 @@ description: List of Designated Entities
 </td>
 <td rowspan="1" colspan="1">
 <p>Date of Designation: 31 May 2024
-<br><a href="https://storage.egazette.gov.sg/getFiles?ct=gg-Acts&amp;yr=2024&amp;filename=24gg1778.pdf" rel="noopener noreferrer nofollow" target="_blank">Information on Designation</a>
+<br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/1731.pdf" rel="noopener noreferrer nofollow" target="_blank">Information on Designation</a>
 </p>
 </td>
 </tr>
@@ -60,7 +60,7 @@ description: List of Designated Entities
 </td>
 <td rowspan="1" colspan="1">
 <p>Date of Designation: 31 May 2024
-<br><a href="https://storage.egazette.gov.sg/getFiles?ct=gg-Acts&amp;yr=2024&amp;filename=24gg1778.pdf" rel="noopener noreferrer nofollow" target="_blank">Information on Designation</a>
+<br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/1731.pdf" rel="noopener noreferrer nofollow" target="_blank">Information on Designation</a>
 </p>
 </td>
 </tr>
@@ -71,7 +71,7 @@ description: List of Designated Entities
 </td>
 <td rowspan="1" colspan="1">
 <p>Date of Designation: 31 May 2024
-<br><a href="https://storage.egazette.gov.sg/getFiles?ct=gg-Acts&amp;yr=2024&amp;filename=24gg1778.pdf" rel="noopener noreferrer nofollow" target="_blank">Information on Designation</a>
+<br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/1731.pdf" rel="noopener noreferrer nofollow" target="_blank">Information on Designation</a>
 </p>
 </td>
 </tr>
@@ -82,7 +82,7 @@ description: List of Designated Entities
 </td>
 <td rowspan="1" colspan="1">
 <p>Date of Designation: 31 May 2024
-<br><a href="https://storage.egazette.gov.sg/getFiles?ct=gg-Acts&amp;yr=2024&amp;filename=24gg1778.pdf" rel="noopener noreferrer nofollow" target="_blank">Information on Designation</a>
+<br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/1731.pdf" rel="noopener noreferrer nofollow" target="_blank">Information on Designation</a>
 </p>
 </td>
 </tr>
@@ -93,8 +93,8 @@ description: List of Designated Entities
 </td>
 <td rowspan="1" colspan="1">
 <p>Date of Designation: 31 May 2024
-<br><a href="https://storage.egazette.gov.sg/getFiles?ct=gg-Acts&amp;yr=2024&amp;filename=24gg1778.pdf" rel="noopener noreferrer nofollow" target="_blank">Information on Designation</a>
-<br><a href="https://storage.egazette.gov.sg/getFiles?ct=sls&amp;yr=2024&amp;filename=24sls468.pdf" rel="noopener noreferrer nofollow" target="_blank">Information on Exemption</a>
+<br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/1731.pdf" rel="noopener noreferrer nofollow" target="_blank">Information on Designation</a>
+<br><a href="https://assets.egazette.gov.sg/2024/Legislative%20Supplements/Subsidiary%20Legislation%20Supplement/468.pdf" rel="noopener noreferrer nofollow" target="_blank">Information on Exemption</a>
 </p>
 </td>
 </tr>
@@ -105,8 +105,8 @@ description: List of Designated Entities
 </td>
 <td rowspan="1" colspan="1">
 <p>Date of Designation: 31 May 2024
-<br><a href="https://storage.egazette.gov.sg/getFiles?ct=gg-Acts&amp;yr=2024&amp;filename=24gg1778.pdf" rel="noopener noreferrer nofollow" target="_blank">Information on Designation</a>
-<br><a href="https://storage.egazette.gov.sg/getFiles?ct=sls&amp;yr=2024&amp;filename=24sls469.pdf" rel="noopener noreferrer nofollow" target="_blank">Information on Exemption</a>
+<br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/1731.pdf" rel="noopener noreferrer nofollow" target="_blank">Information on Designation</a>
+<br><a href="https://assets.egazette.gov.sg/2024/Legislative%20Supplements/Subsidiary%20Legislation%20Supplement/469.pdf" rel="noopener noreferrer nofollow" target="_blank">Information on Exemption</a>
 </p>
 </td>
 </tr>
@@ -117,7 +117,7 @@ description: List of Designated Entities
 </td>
 <td rowspan="1" colspan="1">
 <p>Date of Designation: 31 May 2024
-<br><a href="https://storage.egazette.gov.sg/getFiles?ct=gg-Acts&amp;yr=2024&amp;filename=24gg1778.pdf" rel="noopener noreferrer nofollow" target="_blank">Information on Designation</a>
+<br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/1731.pdf" rel="noopener noreferrer nofollow" target="_blank">Information on Designation</a>
 </p>
 </td>
 </tr>
