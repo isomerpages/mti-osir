@@ -2,6 +2,7 @@ collections:
   forms:
     output: true
     order:
+      - Online Approval Form.md
       - Overview of Forms.md
       - Notification Forms.md
       - Approval Forms.md
