@@ -171,7 +171,7 @@ The Healthcare Services Act was enacted in 2020 to replace the Private Hospital 
 </td>
 <td>Agency in charge: Ministry of Health (MOH)
 <p>Email address: <a href="mailto:HCSA_Enquiries@moh.gov.sg">HCSA_Enquiries@moh.gov.sg</a>&nbsp;</p>
-<p>Website: <a href="http://www.HCSA.sg">www.HCSA.sg</a>&nbsp;</p>
+<p>Website: <a href="http://www.HCSA.sg">www.HCSA.gov.sg</a>&nbsp;</p>
 </td>
 </tr>
 </tbody>
