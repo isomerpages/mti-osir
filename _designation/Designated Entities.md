@@ -123,8 +123,8 @@ description: List of Designated Entities
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Aster Chemicals and Energy Pte. Ltd.</p>
-<p>(Unique Entity Number: 202349112H)</p>
+<p>Aster Chemicals and Energy Pte. Ltd.
+<br>(Unique Entity Number: 202349112H)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Date of Designation: 21 November 2024</p>
