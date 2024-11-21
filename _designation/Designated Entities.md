@@ -128,6 +128,8 @@ description: List of Designated Entities
 </td>
 <td rowspan="1" colspan="1">
 <p>Date of Designation: 21 November 2024</p>
+<p><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/3795.pdf" rel="noopener nofollow" target="_blank">Information on Designation</a>
+</p>
 </td>
 </tr>
 </tbody>
