@@ -135,6 +135,10 @@ description: List of Designated Entities
 </tbody>
 </table>
 <h4><strong>Designated entities under the constitutional responsibility of Minister for Defence</strong></h4>
+<p>As of 26 Feb 2025, pursuant to section 6 SIRA, the Prime Minister of Singapore
+has transferred the functions and powers of Minister for Trade and Industry
+to the Minister for Defence. Refer to (link to Government Gazette) for
+more details.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -207,6 +211,10 @@ description: List of Designated Entities
 </tbody>
 </table>
 <h4><strong>Designated entities under the constitutional responsibility of Minister for Home Affairs</strong></h4>
+<p>As of 26 Feb 2025, pursuant to section 6 SIRA, the Prime Minister of Singapore
+has transferred the functions and powers of Minister for Trade and Industry
+to the Minister for Home Affairs. Refer to (link to Government Gazette)
+for more details.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -214,17 +222,11 @@ description: List of Designated Entities
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="2">
-<p>Designated entities under the constitutional responsibility of Minister
-for Home Affairs</p>
-</td>
-</tr>
-<tr>
 <th rowspan="1" colspan="1">
 <p>Designated Entity</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Details</p>
 </th>
 </tr>
 <tr>
