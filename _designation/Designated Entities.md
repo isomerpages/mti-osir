@@ -127,7 +127,7 @@ one-stop touchpoint for stakeholders.</p>
 </tr>
 </tbody></table></div></li></ul>
 
-<p><strong>Ministry of Defence (MINDEF)</strong>
+<p><strong>Ministry of Defence (MINDEF) - Subsidiary Legislation and Designated Entities </strong>
 <br>MINDEF Subsidiary Legislation under SIRA:</p>
 <ul data-tight="true" class="tight">
 <li>
