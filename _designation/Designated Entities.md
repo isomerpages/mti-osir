@@ -537,27 +537,27 @@ one-stop touchpoint for stakeholders.</p>
 <tbody>
 <tr>
 <td>
-<p><strong> Date of Designation </strong></p>
+<p>Date of Designation</p>
 </td>
 <td>
 <p>31 May 2024 <br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/1731.pdf">Information on Designation</a>&nbsp; </p>
 </td>
 </tr>
 <tr>
-<td><strong> Date of Transfer</strong></td>
+<td> Date of Transfer</td>
 <td>
 <p>26 February 2025 <br><a href="_">Information on Transfer</a>&nbsp; </p>
 </td>
 </tr>
 <tr>
-<td><strong> Minister-in-Charge</strong></td>
+<td> Minister-in-Charge</td>
 <td>
 <p>Minister for Defence </p>
 </td></tr><tr>
 
 </tr></tbody>
 <tbody><tr>
-<td><strong> Subsidiary Legislation </strong></td>
+<td> Subsidiary Legislation </td>
 <td>
 <p><a href="_"> MINDEF Subsidiary Legislation under SIRA </a>&nbsp; </p>
 </td></tr></tbody></table></div>
