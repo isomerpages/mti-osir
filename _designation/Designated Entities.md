@@ -125,7 +125,7 @@ one-stop touchpoint for stakeholders.</p>
 <p>Minister for Trade and Industry </p>
 </td>
 </tr>
-</tbody></table></div></li></ul><strong>
+</tbody></table></div></li></ul>
 
 <p><strong>Ministry of Defence (MINDEF) - Subsidiary Legislation and Designated Entities </strong>
 <br>MINDEF Subsidiary Legislation under SIRA:</p>
@@ -314,4 +314,4 @@ one-stop touchpoint for stakeholders.</p>
 
 <p><em>Note: Any formerly designated entities will also be listed on this page.</em>
 </p>
-<p></p></strong>
+<p></p>
