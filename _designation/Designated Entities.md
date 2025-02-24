@@ -23,8 +23,8 @@ one-stop touchpoint for stakeholders.</p>
 <tbody>
 <tr>
 <td>
-<a href="https://sso.agc.gov.sg/SL/SIRA2024-S229-2024?DocDate=20240327" rel="noopener noreferrer nofollow" target="_blank"><u>Significant Investments Review Regulations 2024</u></a><br>
-<a href="https://sso.agc.gov.sg/SL/SIRA2024-S230-2024?DocDate=20240327" rel="noopener noreferrer nofollow" target="_blank"><u>Significant Investments Review (Reviewing Tribunal) Rules 2024</u></a>
+<a href="https://sso.agc.gov.sg/SL/SIRA2024-S229-2024?DocDate=20240327">Significant Investments Review Regulations 2024</a>
+<a href="https://sso.agc.gov.sg/SL/SIRA2024-S230-2024?DocDate=20240327">Significant Investments Review (Reviewing Tribunal) Rules 2024</a>
 </td>
 </tr>
 </tbody></table></div>
