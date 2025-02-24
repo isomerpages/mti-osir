@@ -8,4 +8,14 @@ third_nav_title: Frequently Asked Questions
 <p>The FAQs are intended to provide guidance to parties on the policy provisions
 and the administration of SIRA. They do not constitute as legal advice.</p>
 <p>If you have further clarifications, feel free to contact us at <a href="mailto:contact@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact@osir.gov.sg</a>.</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>XXXX</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>
+<br>
+</p>
+</div>
+</details>
+</div>
 <p></p>
