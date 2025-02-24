@@ -12,7 +12,9 @@ description: List of Designated Entities
 one-stop touchpoint for stakeholders.</p>
 
 <p><strong>Ministry of Trade and Industry (MTI) - Subsidiary Legislation and Designated Entities 
-</strong></p><ul class="jekyllcodex_accordion"><strong>  
+</strong></p>
+
+<ul class="jekyllcodex_accordion"><strong>  
  
 <li><input type="checkbox" id="accordion1">  
 <label for="accordion1"> MTI Subsidiary Legislation </label>
