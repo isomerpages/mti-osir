@@ -312,20 +312,23 @@ one-stop touchpoint for stakeholders.</p>
 </tr>
 </tbody></table></div></li></ul>
 
++++++++++++++++++++++++++++++++++++++++++++
 <p><strong>Ministry for Home Affairs (MHA) - Subsidiary Legislation and Designated Entities </strong>
 </p>
 
 <ul class="jekyllcodex_accordion">  
-<li><input type="checkbox" id="accordion11">  
+<li>
+<input type="checkbox" id="accordion11">  
 <label for="accordion11"> MHA Subsidiary Legislation </label>
 <div> 
 <ul data-tight="true" class="tight">
 <p> <a href="_">To be updated </a>&nbsp; 
-</p></ul> </div></li>
+</p></ul> </div></li></ul>
 	
+<ul class="jekyllcodex_accordion">  
 <li><input type="checkbox" id="accordion12">  
 <label for="accordion12"> MHA Designated Entities </label>
-<div><p></p></div>
+<div><p></p>
 	
 <ul class="jekyllcodex_accordion">  
 <li><input type="checkbox" id="nested-accordion1">  
@@ -351,7 +354,7 @@ one-stop touchpoint for stakeholders.</p>
 <p>Minister for Home Affairs </p>
 </td>
 </tr>
-</tbody></table></div></li></ul></li></ul>
+</tbody></table></div></li></ul></div></li></ul>
 
 
 <p><em>Note: Any formerly designated entities will also be listed on this page.</em>
