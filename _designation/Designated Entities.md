@@ -14,7 +14,7 @@ one-stop touchpoint for stakeholders.</p>
 <p><strong>Ministry of Trade and Industry (MTI) - Subsidiary Legislation and Designated Entities 
 </strong></p>
 
-<ul class="jekyllcodex_accordion"><strong>  
+<ul class="jekyllcodex_accordion">
  
 <li><input type="checkbox" id="accordion1">  
 <label for="accordion1"> MTI Subsidiary Legislation </label>
@@ -125,9 +125,9 @@ one-stop touchpoint for stakeholders.</p>
 <p>Minister for Trade and Industry </p>
 </td>
 </tr>
-</tbody></table></div></li></strong></ul><strong>
+</tbody></table></div></li></ul><strong>
 
-<p><strong>Ministry for Defence (MINDEF) </strong>
+<p><strong>Ministry of Defence (MINDEF) - Subsidiary Legislation and Designated Entities </strong>
 <br>MINDEF Subsidiary Legislation under SIRA:</p>
 <ul data-tight="true" class="tight">
 <li>
