@@ -31,21 +31,31 @@ one-stop touchpoint for stakeholders.</p>
 </li>
 </ul>
 
-<ul class="jekyllcodex\_accordion">  
+<ul class="jekyllcodex_accordion">  
   
-<li><input type="checkbox" id="accordion1">  
-<label for="accordion1">Insert Accordion Title here</label><div>  
-<p>Insert content here</p>  
-</div></li>  
-  
-<li><input type="checkbox" id="accordion2">  
-<label for="accordion2">Insert Accordion Title here</label><div>  
-<p>Insert content here</p>  
-</div></li>  
-  
-<li><input type="checkbox" id="accordion3">  
-<label for="accordion3">Insert Accordion Title here</label><div>  
-<p>Insert content here</p>  
-</div></li>  
-  
-</ul>
+<input type="checkbox" id="accordion1">  
+<label for="accordion1"> ExxonMobil Asia Pacific Pte. Ltd. (Unique Entity Number: 196800312N) </label>
+<div>  
+<table style="width: 90%;">
+<tbody>
+<tr>
+<td>
+<p><strong> Date of Designation </strong></p>
+</td>
+<td>
+<p>31 May 2024 <br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/1731.pdf">Information on Designation</a>&nbsp; </p>
+</td>
+</tr>
+<tr>
+<td><strong> Date of Exemption</strong></td>
+<td>
+<p>31 May 2024 <br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/1731.pdf">Information on Designation</a>&nbsp; </p>
+</td>
+</tr>
+<tr>
+<td><strong> Minister-in-Charge</strong></td>
+<td>
+<p>Minister for Trade and Industry </p>
+</td>
+</tr>
+</tbody></table></div></ul>
