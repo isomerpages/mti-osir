@@ -292,7 +292,7 @@ one-stop touchpoint for stakeholders.</p>
 </div>
 </details>
 </div>
-<p>Ministry of Trade and Industry (MTI)
+<p><strong>Ministry of Trade and Industry (MTI) </strong>
 <br>MTI Subsidiary Legislation under SIRA:</p>
 <ul data-tight="true" class="tight">
 <li>
