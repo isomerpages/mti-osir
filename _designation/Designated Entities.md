@@ -33,7 +33,7 @@ one-stop touchpoint for stakeholders.</p>
 
 <ul class="jekyllcodex_accordion">  
   
-<input type="checkbox" id="accordion1">  
+<li><input type="checkbox" id="accordion1">  
 <label for="accordion1"> ExxonMobil Asia Pacific Pte. Ltd. (Unique Entity Number: 196800312N) </label>
 <div>  
 <table style="width: 90%;">
@@ -59,8 +59,9 @@ one-stop touchpoint for stakeholders.</p>
 </td>
 </tr>
 </tbody></table></div>
+</li>
 
-<input type="checkbox" id="accordion2">  
+<li><input type="checkbox" id="accordion2">  
 <label for="accordion2"> Shell Singapore Pte. Ltd. (Unique Entity Number: 196000089G) </label>
 <div>  
 <table style="width: 90%;">
@@ -85,9 +86,9 @@ one-stop touchpoint for stakeholders.</p>
 <p>Minister for Trade and Industry </p>
 </td>
 </tr>
-</tbody></table></div>
+</tbody></table></div></li>
 	
-<input type="checkbox" id="accordion3">  
+<li><input type="checkbox" id="accordion3">  
 <label for="accordion3"> Singapore Refining Company Private Limited (Unique Entity Number: 197900084K) </label>
 <div>  
 <table style="width: 90%;">
@@ -108,7 +109,7 @@ one-stop touchpoint for stakeholders.</p>
 </tr>
 </tbody></table></div>
 
-<input type="checkbox" id="accordion4">  
+</li><li><input type="checkbox" id="accordion4">  
 <label for="accordion4"> Aster Chemicals and Energy Pte. Ltd. (Unique Entity Number: 202349112H)</label>
 <div>  
 <table style="width: 90%;">
@@ -127,7 +128,7 @@ one-stop touchpoint for stakeholders.</p>
 <p>Minister for Trade and Industry </p>
 </td>
 </tr>
-</tbody></table></div></ul>
+</tbody></table></div></li></ul>
 
 <p><strong>Ministry for Defence (MINDEF) </strong>
 <br>MINDEF Subsidiary Legislation under SIRA:</p>
