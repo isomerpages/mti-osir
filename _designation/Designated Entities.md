@@ -326,15 +326,12 @@ one-stop touchpoint for stakeholders.</p>
 <label for="accordion12"> MHA Designated Entities </label>
 <div><p>
 
-<input type="checkbox" id="accordion13">  
+</p></div></li><li><input type="checkbox" id="accordion13">  
 <label for="accordion13"> ST Logistics Pte. Ltd. (Unique Entity Number: 200412267E)  </label>
-</p></div></li><table style="width: 90%;">
-<tbody>
-<tr>
-
-</tr></tbody></table><table style="width: 90%;">	
+<p></p>
+<table style="width: 90%;">
 <tbody><tr><td>
-<p><strong> Date of Designation </strong></p>
+<strong> Date of Designation </strong>
 </td>
 <td>
 <p>31 May 2024 <br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/1731.pdf">Information on Designation</a>&nbsp; </p>
@@ -352,7 +349,7 @@ one-stop touchpoint for stakeholders.</p>
 <p>Minister for Home Affairs </p>
 </td>
 </tr>
-</tbody></table></ul>
+</tbody></table></li></ul>
 
 
 
