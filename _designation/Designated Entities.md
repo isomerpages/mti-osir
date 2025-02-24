@@ -324,11 +324,11 @@ one-stop touchpoint for stakeholders.</p>
 	
 <li><input type="checkbox" id="accordion12">  
 <label for="accordion12"> MHA Designated Entities </label>
-<div> 
+<div><p>
 
-</div></li><li><input type="checkbox" id="accordion13">  
+<input type="checkbox" id="accordion13">  
 <label for="accordion13"> ST Logistics Pte. Ltd. (Unique Entity Number: 200412267E)  </label>
-</li><table style="width: 90%;">
+</p></div></li><table style="width: 90%;">
 <tbody>
 <tr>
 
