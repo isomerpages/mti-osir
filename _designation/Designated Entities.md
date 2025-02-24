@@ -73,7 +73,7 @@ one-stop touchpoint for stakeholders.</p>
 <details class="isomer-details">
 <summary>ST Engineering Marine Ltd. (Unique Entity Number: 196800180M)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="Width: 100px">
+<table style="Width: 50px">
 <colgroup>
 <col>
 <col>
@@ -115,7 +115,7 @@ one-stop touchpoint for stakeholders.</p>
 <details class="isomer-details">
 <summary>ST Engineering Land Systems Ltd. (Unique Entity Number: 197100263N)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="Width: 100px">
+<table style="Width: 50px">
 <colgroup>
 <col>
 <col>
@@ -158,7 +158,7 @@ one-stop touchpoint for stakeholders.</p>
 <summary>ST Engineering Defence Aviation Services Pte. Ltd. (Unique Entity Number:
 197501559C)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="Width: 100px">
+<table style="Width: 50px">
 <colgroup>
 <col>
 <col>
@@ -200,7 +200,7 @@ one-stop touchpoint for stakeholders.</p>
 <details class="isomer-details">
 <summary>ST Engineering Digital Systems Pte. Ltd. (Unique Entity Number: 202029257C)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="Width: 100px">
+<table style="Width: 50px">
 <colgroup>
 <col>
 <col>
