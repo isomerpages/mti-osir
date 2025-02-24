@@ -107,9 +107,9 @@ one-stop touchpoint for stakeholders.</p>
 <p>Minister for Trade and Industry </p>
 </td>
 </tr>
-</tbody></table></div>
-
-</li><li><input type="checkbox" id="accordion4">  
+</tbody></table></div></li>
+	
+<li><input type="checkbox" id="accordion4">  
 <label for="accordion4"> Aster Chemicals and Energy Pte. Ltd. (Unique Entity Number: 202349112H)</label>
 <div>  
 <table style="width: 90%;">
@@ -141,7 +141,7 @@ one-stop touchpoint for stakeholders.</p>
 
 <ul class="jekyllcodex_accordion">  
   
-<input type="checkbox" id="accordion5">  
+<li><input type="checkbox" id="accordion5">  
 <label for="accordion5">Sembcorp Specialised Construction Pte. Ltd. (Unique Entity Number: 201908421C)</label>
 <div>  
 <table style="width: 90%;">
@@ -166,9 +166,9 @@ one-stop touchpoint for stakeholders.</p>
 <p>Minister for Defence </p>
 </td>
 </tr>
-</tbody></table></div>
+</tbody></table></div></li>
 
-<input type="checkbox" id="accordion6">  
+<li><input type="checkbox" id="accordion6">  
 <label for="accordion6"> ST Engineering Marine Ltd. (Unique Entity Number: 196800180M) </label>
 <div>  
 <table style="width: 90%;">
@@ -193,9 +193,9 @@ one-stop touchpoint for stakeholders.</p>
 <p>Minister for Defence</p>
 </td>
 </tr>
-</tbody></table></div>
+</tbody></table></div></li>
 	
-<input type="checkbox" id="accordion7">  
+<li><input type="checkbox" id="accordion7">  
 <label for="accordion7"> ST Engineering Land Systems Ltd. (Unique Entity Number: 197100263N) </label>
 <div>  
 <table style="width: 90%;">
@@ -220,9 +220,9 @@ one-stop touchpoint for stakeholders.</p>
 <p>Minister for Defence</p>
 </td>
 </tr>
-</tbody></table></div>
+</tbody></table></div></li>
 
-<input type="checkbox" id="accordion8">  
+<li><input type="checkbox" id="accordion8">  
 <label for="accordion8"> ST Engineering Defence Aviation Services Pte. Ltd. (Unique Entity Number:
 197501559C) </label>
 <div>  
@@ -248,9 +248,9 @@ one-stop touchpoint for stakeholders.</p>
 <p>Minister for Defence</p>
 </td>
 </tr>
-</tbody></table></div>
+	</tbody></table></div></li>
 	
-<input type="checkbox" id="accordion9">  
+<li><input type="checkbox" id="accordion9">  
 <label for="accordion9"> ST Engineering Digital Systems Pte. Ltd. (Unique Entity Number: 202029257C) </label>
 <div>  
 <table style="width: 90%;">
@@ -275,7 +275,7 @@ one-stop touchpoint for stakeholders.</p>
 <p>Minister for Defence</p>
 </td>
 </tr>
-</tbody></table></div></ul>
+</tbody></table></div></li></ul>
 
 <p><strong>Ministry for Home Affairs (MHA) </strong>
 <br>MHA Subsidiary Legislation under SIRA:</p>
@@ -288,7 +288,7 @@ one-stop touchpoint for stakeholders.</p>
 
 <ul class="jekyllcodex_accordion">  
   
-<input type="checkbox" id="accordion10">  
+<li><input type="checkbox" id="accordion10">  
 <label for="accordion10">ST Logistics Pte. Ltd. (Unique Entity Number: 200412267E)</label>
 <div>  
 <table style="width: 90%;">
@@ -313,7 +313,7 @@ one-stop touchpoint for stakeholders.</p>
 <p>Minister for Home Affairs </p>
 </td>
 </tr>
-</tbody></table></div></ul>
+</tbody></table></div></li></ul>
 
 <p><em>Note: Any formerly designated entities will also be listed on this page.</em>
 </p>
