@@ -16,6 +16,7 @@ to be transferred to a relevant Minister. For more details on the transfer
 of functions and powers, you may refer to (FAQ link).</p>
 <p>The Office of Significant Investments Review will remain as a dedicated
 one-stop touchpoint for stakeholders.</p>
+<p>The list of designated entities may be found below.</p>
 <p><strong>Ministry of Defence (MINDEF)</strong>
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
