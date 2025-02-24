@@ -18,6 +18,175 @@ of functions and powers, you may refer to (FAQ link).</p>
 <p>The Office of Significant Investments Review will remain as a dedicated
 one-stop touchpoint for stakeholders.</p>
 
+<p><strong>Ministry of Trade and Industry (MTI) </strong>
+<br>MTI Subsidiary Legislation under SIRA:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://sso.agc.gov.sg/SL/SIRA2024-S229-2024?DocDate=20240327" rel="noopener noreferrer nofollow" target="_blank"><u>Significant Investments Review Regulations 2024</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://sso.agc.gov.sg/SL/SIRA2024-S230-2024?DocDate=20240327" rel="noopener noreferrer nofollow" target="_blank"><u>Significant Investments Review (Reviewing Tribunal) Rules 2024</u></a>
+</p>
+</li>
+</ul>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>ExxonMobil Asia Pacific Pte. Ltd. (Unique Entity Number: 196800312N)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="Width: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Date of Designation</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31 May 2024
+<br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/1731.pdf" rel="noopener nofollow" target="_blank">Information on Designation</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Date of Exemption</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31 May 2024
+<br><a href="https://assets.egazette.gov.sg/2024/Legislative%20Supplements/Subsidiary%20Legislation%20Supplement/468.pdf" rel="noopener noreferrer nofollow" target="_blank">Information on Exemption</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Minister-in-charge</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Minister for Trade and Industry</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Shell Singapore Pte. Ltd. (Unique Entity Number: 196000089G)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="Width: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Date of Designation</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31 May 2024
+<br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/1731.pdf" rel="noopener nofollow" target="_blank">Information on Designation</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Date of Exemption</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31 May 2024
+<br><a href="https://assets.egazette.gov.sg/2024/Legislative%20Supplements/Subsidiary%20Legislation%20Supplement/468.pdf" rel="noopener noreferrer nofollow" target="_blank">Information on Exemption</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Minister-in-charge</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Minister for Trade and Industry</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Singapore Refining Company Private Limited (Unique Entity Number: 197900084K)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="Width: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Date of Designation</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31 May 2024
+<br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/1731.pdf" rel="noopener nofollow" target="_blank">Information on Designation</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Minister-in-charge</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Minister for Trade and Industry</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Aster Chemicals and Energy Pte. Ltd. (Unique Entity Number: 202349112H)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="Width: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Date of Designation</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>21 November 2024
+<br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/1731.pdf" rel="noopener nofollow" target="_blank">Information on Designation</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Minister-in-charge</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Minister for Trade and Industry</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+</div>
+
 <p><strong>Ministry of Defence (MINDEF)</strong>
 <br>MINDEF Subsidiary Legislation under SIRA:</p>
 <ul data-tight="true" class="tight">
@@ -240,6 +409,7 @@ one-stop touchpoint for stakeholders.</p>
 </div>
 </details>
 </div>
+
 <p><strong>Ministry of Home Affairs (MHA)</strong>
 <br>MHA Subsidiary Legislation under SIRA:</p>
 <ul data-tight="true" class="tight">
@@ -292,174 +462,7 @@ one-stop touchpoint for stakeholders.</p>
 </div>
 </details>
 </div>
-<p><strong>Ministry of Trade and Industry (MTI) </strong>
-<br>MTI Subsidiary Legislation under SIRA:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://sso.agc.gov.sg/SL/SIRA2024-S229-2024?DocDate=20240327" rel="noopener noreferrer nofollow" target="_blank"><u>Significant Investments Review Regulations 2024</u></a>
-</p>
-</li>
-<li>
-<p><a href="https://sso.agc.gov.sg/SL/SIRA2024-S230-2024?DocDate=20240327" rel="noopener noreferrer nofollow" target="_blank"><u>Significant Investments Review (Reviewing Tribunal) Rules 2024</u></a>
-</p>
-</li>
-</ul>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>ExxonMobil Asia Pacific Pte. Ltd. (Unique Entity Number: 196800312N)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<table style="Width: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Date of Designation</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>31 May 2024
-<br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/1731.pdf" rel="noopener nofollow" target="_blank">Information on Designation</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Date of Exemption</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>31 May 2024
-<br><a href="https://assets.egazette.gov.sg/2024/Legislative%20Supplements/Subsidiary%20Legislation%20Supplement/468.pdf" rel="noopener noreferrer nofollow" target="_blank">Information on Exemption</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Minister-in-charge</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Minister for Trade and Industry</p>
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Shell Singapore Pte. Ltd. (Unique Entity Number: 196000089G)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<table style="Width: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Date of Designation</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>31 May 2024
-<br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/1731.pdf" rel="noopener nofollow" target="_blank">Information on Designation</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Date of Exemption</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>31 May 2024
-<br><a href="https://assets.egazette.gov.sg/2024/Legislative%20Supplements/Subsidiary%20Legislation%20Supplement/468.pdf" rel="noopener noreferrer nofollow" target="_blank">Information on Exemption</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Minister-in-charge</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Minister for Trade and Industry</p>
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Singapore Refining Company Private Limited (Unique Entity Number: 197900084K)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<table style="Width: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Date of Designation</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>31 May 2024
-<br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/1731.pdf" rel="noopener nofollow" target="_blank">Information on Designation</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Minister-in-charge</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Minister for Trade and Industry</p>
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Aster Chemicals and Energy Pte. Ltd. (Unique Entity Number: 202349112H)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<table style="Width: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Date of Designation</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>21 November 2024
-<br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/1731.pdf" rel="noopener nofollow" target="_blank">Information on Designation</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Minister-in-charge</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Minister for Trade and Industry</p>
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-</details>
-</div>
+
 <p><em>Note: Any formerly designated entities will also be listed on this page.</em>
 </p>
 <p></p>
