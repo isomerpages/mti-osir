@@ -128,3 +128,110 @@ one-stop touchpoint for stakeholders.</p>
 </td>
 </tr>
 </tbody></table></div></ul>
+
+<p><strong>Ministry for Defence (MINDEF) </strong>
+<br>MINDEF Subsidiary Legislation under SIRA:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p> <a href="_">To be updated </a>&nbsp; 
+</p>
+</li>
+</ul>
+
+<ul class="jekyllcodex_accordion">  
+  
+<input type="checkbox" id="accordion1">  
+<label for="accordion1">Sembcorp Specialised Construction Pte. Ltd. (Unique Entity Number: 201908421C)</label>
+<div>  
+<table style="width: 90%;">
+<tbody>
+<tr>
+<td>
+<p><strong> Date of Designation </strong></p>
+</td>
+<td>
+<p>31 May 2024 <br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/1731.pdf">Information on Designation</a>&nbsp; </p>
+</td>
+</tr>
+<tr>
+<td><strong> Date of Transfer</strong></td>
+<td>
+<p>26 February 2024 <br><a href="_">Information on Transfer</a>&nbsp; </p>
+</td>
+</tr>
+<tr>
+<td><strong> Minister-in-Charge</strong></td>
+<td>
+<p>Minister for Defence </p>
+</td>
+</tr>
+</tbody></table></div>
+
+<input type="checkbox" id="accordion2">  
+<label for="accordion2"> Shell Singapore Pte. Ltd. (Unique Entity Number: 196000089G) </label>
+<div>  
+<table style="width: 90%;">
+<tbody>
+<tr>
+<td>
+<p><strong> Date of Designation </strong></p>
+</td>
+<td>
+<p>31 May 2024 <br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/1731.pdf">Information on Designation</a>&nbsp; </p>
+</td>
+</tr>
+<tr>
+<td><strong> Date of Exemption</strong></td>
+<td>
+<p>31 May 2024 <br><a href="https://assets.egazette.gov.sg/2024/Legislative%20Supplements/Subsidiary%20Legislation%20Supplement/468.pdf">Information on Designation</a>&nbsp; </p>
+</td>
+</tr>
+<tr>
+<td><strong> Minister-in-Charge</strong></td>
+<td>
+<p>Minister for Trade and Industry </p>
+</td>
+</tr>
+</tbody></table></div>
+	
+<input type="checkbox" id="accordion3">  
+<label for="accordion3"> Singapore Refining Company Private Limited (Unique Entity Number: 197900084K) </label>
+<div>  
+<table style="width: 90%;">
+<tbody>
+<tr>
+<td>
+<p><strong> Date of Designation </strong></p>
+</td>
+<td>
+<p>31 May 2024 <br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/1731.pdf">Information on Designation</a>&nbsp; </p>
+</td>
+</tr>
+<tr>
+<td><strong> Minister-in-Charge</strong></td>
+<td>
+<p>Minister for Trade and Industry </p>
+</td>
+</tr>
+</tbody></table></div>
+
+<input type="checkbox" id="accordion4">  
+<label for="accordion4"> Aster Chemicals and Energy Pte. Ltd. (Unique Entity Number: 202349112H)</label>
+<div>  
+<table style="width: 90%;">
+<tbody>
+<tr>
+<td>
+<p><strong> Date of Designation </strong></p>
+</td>
+<td>
+<p>21 November 2024 <br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/3795.pdf">Information on Designation</a>&nbsp; </p>
+</td>
+</tr>
+<tr>
+<td><strong> Minister-in-Charge</strong></td>
+<td>
+<p>Minister for Trade and Industry </p>
+</td>
+</tr>
+</tbody></table></div></ul>
