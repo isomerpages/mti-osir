@@ -30,14 +30,40 @@ one-stop touchpoint for stakeholders.</p>
 <summary>Sembcorp Specialised Construction Pte. Ltd. (Unique Entity Number: 201908421C)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>Date of Designation: 31 May 2024
-<br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/1731.pdf" rel="noopener noreferrer nofollow" target="_blank">Information on Designation</a>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Date of Designation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31 May 2024</p>
+<p><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/1731.pdf" rel="noopener nofollow" target="_blank">Information on Designation</a>
 </p>
-<p></p>
-<p>Date of Transfer: 26 Feb 2025</p>
-<p></p>
-<p></p>
-<p>Minister-in-charge: Minister for Defence</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Date of Transfer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26 Feb 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Minister-in-charge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Minister for Defence</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 <details class="isomer-details">
@@ -49,7 +75,6 @@ one-stop touchpoint for stakeholders.</p>
 </p>
 <p></p>
 <p>Date of Transfer: 26 Feb 2025</p>
-<p></p>
 <p></p>
 <p>Minister-in-charge: Minister for Defence</p>
 </div>
