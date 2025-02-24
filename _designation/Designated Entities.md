@@ -13,6 +13,8 @@ and powers of Minister for Trade and Industry under Part 3 and section
 38 SIRA be transferred to the Minister for Defence. You may refer to (link
 to Government Gazette) for more information.</p>
 <p>For more details on the transfer of powers, refer to (FAQ link).</p>
+<p>The Office of Significant Investments Review will remain as a dedicated
+one-stop touchpoint for stakeholders.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
