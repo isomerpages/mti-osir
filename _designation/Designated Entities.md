@@ -326,7 +326,7 @@ one-stop touchpoint for stakeholders.</p>
 <li><input type="checkbox" id="accordion11">  
 <label for="accordion11"> ST Logistics Pte. Ltd. (Unique Entity Number: 200412267E) </label>
 <div>  
-<table style="width: 110%;">
+<table style="width: 90%;">
 <tbody>
 <tr>
 <td>
@@ -357,7 +357,7 @@ one-stop touchpoint for stakeholders.</p>
 <li><input type="checkbox" id="accordion12">  
 <label for="accordion12"> ExxonMobil Asia Pacific Pte. Ltd. (Unique Entity Number: 196800312N) </label>
 <div>  
-<table style="width: 110%;">
+<table style="width: 90%;">
 <tbody>
 <tr>
 <td>
@@ -388,7 +388,7 @@ one-stop touchpoint for stakeholders.</p>
 <li><input type="checkbox" id="accordion13">  
 <label for="accordion13"> Shell Singapore Pte. Ltd. (Unique Entity Number: 196000089G) </label>
 <div>  
-<table style="width: 100%;">
+<table style="width: 90%;">
 <tbody>
 <tr>
 <td>
@@ -419,7 +419,7 @@ one-stop touchpoint for stakeholders.</p>
 <li><input type="checkbox" id="accordion4">  
 <label for="accordion4"> Singapore Refining Company Private Limited (Unique Entity Number: 197900084K) </label>
 <div>  
-<table style="width: 100%;">
+<table style="width: 90%;">
 <tbody>
 <tr>
 <td>
@@ -460,8 +460,12 @@ one-stop touchpoint for stakeholders.</p>
 <p>Minister for Trade and Industry </p>
 </td>
 </tr>
-</tbody></table></div></li></ul>
+<tr>
+<td><strong> Subsidiary Legislation </strong></td>
+<td>
+<p><a href="_"> MTI Subsidiary Legislation under SIRA </a>&nbsp; </p>
+</td></tr></tbody></table></div></li>
 
 <p><em>Note: Any formerly designated entities will also be listed on this page.</em>
 </p>
-<p></p>
+<p></p></ul>
