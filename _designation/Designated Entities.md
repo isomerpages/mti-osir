@@ -85,4 +85,25 @@ one-stop touchpoint for stakeholders.</p>
 <p>Minister for Trade and Industry </p>
 </td>
 </tr>
+</tbody></table></div>
+	
+<input type="checkbox" id="accordion3">  
+<label for="accordion3"> Singapore Refining Company Private Limited (Unique Entity Number: 197900084K) </label>
+<div>  
+<table style="width: 90%;">
+<tbody>
+<tr>
+<td>
+<p><strong> Date of Designation </strong></p>
+</td>
+<td>
+<p>31 May 2024 <br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/1731.pdf">Information on Designation</a>&nbsp; </p>
+</td>
+</tr>
+<tr>
+<td><strong> Minister-in-Charge</strong></td>
+<td>
+<p>Minister for Trade and Industry </p>
+</td>
+</tr>
 </tbody></table></div></ul>
