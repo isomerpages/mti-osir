@@ -27,6 +27,31 @@ one-stop touchpoint for stakeholders.</p>
 </li>
 </ul>
 
+<ul class="jekyllcodex_accordion">
+<li><input type="checkbox" id="accordion1"> <label for="accordion1"> Sembcorp Specialised Construction Pte. Ltd. (Unique Entity Number: 201908421C) </label>
+<div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<p><strong> Date of Designation </strong></p>
+</td>
+<td>
+<p>31 May 2024 </p>
+</td>
+<td>
+<p><strong>Point of Contact for more information</strong></p>
+</td>
+</tr>
+<tr>
+<td>1</td>
+<td>
+
+
+
+
+
+++++++++++++++++++
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Sembcorp Specialised Construction Pte. Ltd. (Unique Entity Number: 201908421C)</summary>
@@ -462,4 +487,4 @@ one-stop touchpoint for stakeholders.</p>
 </div>
 <p><em>Note: Any formerly designated entities will also be listed on this page.</em>
 </p>
-<p></p>
+<p></p></td></tr></tbody></table></div></li></ul>
