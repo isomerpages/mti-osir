@@ -25,4 +25,16 @@ trusted, and well-connected global business and investment hub.</p>
 </p>
 </li>
 </ol>
+<p>Subsidiary legislation under SIRA for the Ministry of Defence:</p>
+<ol start="4" data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ol>
+<p>Subsidiary legislation under SIRA for the Ministry of Home Affairs:</p>
+<ol start="5" data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ol>
 <p></p>
