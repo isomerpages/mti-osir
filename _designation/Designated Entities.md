@@ -11,6 +11,10 @@ description: List of Designated Entities
 <p>The Office of Significant Investments Review will remain as a dedicated
 one-stop touchpoint for stakeholders.</p>
 
+++++++++++++++++++++++++++++++++++++++
+
+# **Option 1**
+
 <p><strong>Ministry of Trade and Industry (MTI) - Subsidiary Legislation and Designated Entities 
 </strong></p>
 
@@ -127,6 +131,8 @@ one-stop touchpoint for stakeholders.</p>
 </tr>
 </tbody></table></div></li></ul>
 
++++++++++++++++++++++++++++++++++++++++++++
+# **Option 2**
 <p><strong>Ministry of Defence (MINDEF) - Subsidiary Legislation and Designated Entities </strong>
 <br>MINDEF Subsidiary Legislation under SIRA:</p>
 <ul data-tight="true" class="tight">
@@ -311,32 +317,20 @@ one-stop touchpoint for stakeholders.</p>
 </td>
 </tr>
 </tbody></table></div></li></ul>
++++++++++++++++++++++++++++++++++++++++++
 
-+++++++++++++++++++++++++++++++++++++++++++
-<p><strong>Ministry for Home Affairs (MHA) - Subsidiary Legislation and Designated Entities </strong>
-</p>
+# **Option 3**
 
-<ul class="jekyllcodex_accordion">  
-<li>
-<input type="checkbox" id="accordion11">  
-<label for="accordion11"> MHA Subsidiary Legislation </label>
-<div> 
-<ul data-tight="true" class="tight">
-<p> <a href="_">To be updated </a>&nbsp; 
-</p></ul> </div></li></ul>
-	
-<ul class="jekyllcodex_accordion">  
-<li><input type="checkbox" id="accordion12">  
-<label for="accordion12"> MHA Designated Entities </label>
-<div><p></p>
-	
-<ul class="jekyllcodex_accordion">  
-<input type="checkbox" id="nested-accordion1">  
-<label for="nested-accordion1"> ST Logistics Pte. Ltd. (Unique Entity Number: 200412267E) </label>
-<div>
-<table style="width: 90%;">
-<tbody><tr><td>
-<strong> Date of Designation </strong>
+<ul class="jekyllcodex_accordion">
+ 
+<li><input type="checkbox" id="accordion11">  
+<label for="accordion11"> ST Logistics Pte. Ltd. (Unique Entity Number: 200412267E) </label>
+<div>  
+<table style="width: 110%;">
+<tbody>
+<tr>
+<td>
+<p><strong> Date of Designation </strong></p>
 </td>
 <td>
 <p>31 May 2024 <br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/1731.pdf">Information on Designation</a>&nbsp; </p>
@@ -354,8 +348,111 @@ one-stop touchpoint for stakeholders.</p>
 <p>Minister for Home Affairs </p>
 </td>
 </tr>
-</tbody></table></div></ul></div></li></ul>
+<tr>
+<td><strong> Subsidiary Legislation </strong></td>
+<td>
+<p><a href="_"> MHA Subsidiary Legislation under SIRA</a>&nbsp; </p>
+</td></tr></tbody></table></div></li>
+	
+<li><input type="checkbox" id="accordion12">  
+<label for="accordion12"> ExxonMobil Asia Pacific Pte. Ltd. (Unique Entity Number: 196800312N) </label>
+<div>  
+<table style="width: 110%;">
+<tbody>
+<tr>
+<td>
+<p><strong> Date of Designation </strong></p>
+</td>
+<td>
+<p>31 May 2024 <br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/1731.pdf">Information on Designation</a>&nbsp; </p>
+</td>
+</tr>
+<tr>
+<td><strong> Date of Exemption</strong></td>
+<td>
+<p>31 May 2024 <br><a href="https://assets.egazette.gov.sg/2024/Legislative%20Supplements/Subsidiary%20Legislation%20Supplement/468.pdf">Information on Exemption</a>&nbsp; </p>
+</td>
+</tr>
+<tr>
+<td><strong> Minister-in-Charge</strong></td>
+<td>
+<p>Minister for Trade and Industry </p>
+</td>
+</tr>
+<tr>
+<td><strong> Subsidiary Legislation </strong></td>
+<td>
+<p><a href="_"> MTI Subsidiary Legislation under SIRA </a>&nbsp; </p>
+</td></tr></tbody></table></div></li>
 
+<li><input type="checkbox" id="accordion13">  
+<label for="accordion13"> Shell Singapore Pte. Ltd. (Unique Entity Number: 196000089G) </label>
+<div>  
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<p><strong> Date of Designation </strong></p>
+</td>
+<td>
+<p>31 May 2024 <br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/1731.pdf">Information on Designation</a>&nbsp; </p>
+</td>
+</tr>
+<tr>
+<td><strong> Date of Exemption</strong></td>
+<td>
+<p>31 May 2024 <br><a href="https://assets.egazette.gov.sg/2024/Legislative%20Supplements/Subsidiary%20Legislation%20Supplement/468.pdf">Information on Exemption</a>&nbsp; </p>
+</td>
+</tr>
+<tr>
+<td><strong> Minister-in-Charge</strong></td>
+<td>
+<p>Minister for Trade and Industry </p>
+</td>
+</tr>
+</tbody></table></div></li>
+	
+<li><input type="checkbox" id="accordion4">  
+<label for="accordion4"> Singapore Refining Company Private Limited (Unique Entity Number: 197900084K) </label>
+<div>  
+<table style="width: 90%;">
+<tbody>
+<tr>
+<td>
+<p><strong> Date of Designation </strong></p>
+</td>
+<td>
+<p>31 May 2024 <br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/1731.pdf">Information on Designation</a>&nbsp; </p>
+</td>
+</tr>
+<tr>
+<td><strong> Minister-in-Charge</strong></td>
+<td>
+<p>Minister for Trade and Industry </p>
+</td>
+</tr>
+</tbody></table></div></li>
+	
+<li><input type="checkbox" id="accordion5">  
+<label for="accordion5"> Aster Chemicals and Energy Pte. Ltd. (Unique Entity Number: 202349112H)</label>
+<div>  
+<table style="width: 90%;">
+<tbody>
+<tr>
+<td>
+<p><strong> Date of Designation </strong></p>
+</td>
+<td>
+<p>21 November 2024 <br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/3795.pdf">Information on Designation</a>&nbsp; </p>
+</td>
+</tr>
+<tr>
+<td><strong> Minister-in-Charge</strong></td>
+<td>
+<p>Minister for Trade and Industry </p>
+</td>
+</tr>
+</tbody></table></div></li></ul>
 
 <p><em>Note: Any formerly designated entities will also be listed on this page.</em>
 </p>
