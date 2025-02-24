@@ -18,21 +18,23 @@ of functions and powers, you may refer to (FAQ link).</p>
 <p>The Office of Significant Investments Review will remain as a dedicated
 one-stop touchpoint for stakeholders.</p>
 
-<p><strong>Ministry of Trade and Industry (MTI) </strong>
-<br>MTI Subsidiary Legislation under SIRA:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://sso.agc.gov.sg/SL/SIRA2024-S229-2024?DocDate=20240327" rel="noopener noreferrer nofollow" target="_blank"><u>Significant Investments Review Regulations 2024</u></a>
-</p>
+<p><strong>Ministry of Trade and Industry (MTI) - Subsidiary Legislation and Designated Entities 
+</strong></p><ul class="jekyllcodex_accordion"><strong>  
+ 
+<li><input type="checkbox" id="accordion0">  
+<label for="accordion0"> MTI Subsidiary Legislation </label>
+<div>  
+<table style="width: 90%;">
+<tbody>
+<tr>
+<td>
+<a href="https://sso.agc.gov.sg/SL/SIRA2024-S229-2024?DocDate=20240327" rel="noopener noreferrer nofollow" target="_blank"><u>Significant Investments Review Regulations 2024</u></a><br>
+<a href="https://sso.agc.gov.sg/SL/SIRA2024-S230-2024?DocDate=20240327" rel="noopener noreferrer nofollow" target="_blank"><u>Significant Investments Review (Reviewing Tribunal) Rules 2024</u></a>
+</td>
+</tr>
+</tbody></table></div>
 </li>
-<li>
-<p><a href="https://sso.agc.gov.sg/SL/SIRA2024-S230-2024?DocDate=20240327" rel="noopener noreferrer nofollow" target="_blank"><u>Significant Investments Review (Reviewing Tribunal) Rules 2024</u></a>
-</p>
-</li>
-</ul>
-
-<ul class="jekyllcodex_accordion">  
-  
+	
 <li><input type="checkbox" id="accordion1">  
 <label for="accordion1"> ExxonMobil Asia Pacific Pte. Ltd. (Unique Entity Number: 196800312N) </label>
 <div>  
@@ -128,7 +130,7 @@ one-stop touchpoint for stakeholders.</p>
 <p>Minister for Trade and Industry </p>
 </td>
 </tr>
-</tbody></table></div></li></ul>
+</tbody></table></div></li></strong></ul><strong>
 
 <p><strong>Ministry for Defence (MINDEF) </strong>
 <br>MINDEF Subsidiary Legislation under SIRA:</p>
@@ -317,4 +319,4 @@ one-stop touchpoint for stakeholders.</p>
 
 <p><em>Note: Any formerly designated entities will also be listed on this page.</em>
 </p>
-<p></p>
+<p></p></strong>
