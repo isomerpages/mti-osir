@@ -135,10 +135,11 @@ description: List of Designated Entities
 </tbody>
 </table>
 <h4><strong>Designated entities under the constitutional responsibility of Minister for Defence</strong></h4>
-<p>As of 26 Feb 2025, pursuant to section 6 SIRA, the Prime Minister of Singapore
-has transferred the functions and powers of Minister for Trade and Industry
-to the Minister for Defence. Refer to (link to Government Gazette) for
-more details.</p>
+<p>As of 26 Feb 2025, in exercise of the powers conferred by section 6(2)
+of SIRA, the Prime Minister of Singapore has directed that all of the functions
+and powers of Minister for Trade and Industry under Part 3 and section
+38 SIRA be transferred to the Minister for Defence. You may refer to (link
+to Government Gazette) for more information.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -211,10 +212,11 @@ more details.</p>
 </tbody>
 </table>
 <h4><strong>Designated entities under the constitutional responsibility of Minister for Home Affairs</strong></h4>
-<p>As of 26 Feb 2025, pursuant to section 6 SIRA, the Prime Minister of Singapore
-has transferred the functions and powers of Minister for Trade and Industry
-to the Minister for Home Affairs. Refer to (link to Government Gazette)
-for more details.</p>
+<p>As of 26 Feb 2025, in exercise of the powers conferred by section 6(2)
+of SIRA, the Prime Minister of Singapore has directed that all of the functions
+and powers of Minister for Trade and Industry under Part 3 and section
+38 SIRA be transferred to the Minister for Home Affairs. You may refer
+to (link to Government Gazette) for more information.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
