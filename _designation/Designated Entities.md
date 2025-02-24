@@ -252,7 +252,7 @@ one-stop touchpoint for stakeholders.</p>
 <details class="isomer-details">
 <summary>ST Logistics Pte. Ltd. (Unique Entity Number: 200412267E)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="Width: 100px">
+<table style="Width: 50px">
 <colgroup>
 <col>
 <col>
