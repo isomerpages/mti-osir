@@ -5,11 +5,11 @@ variant: markdown
 description: List of Designated Entities
 ---
 <p>Pursuant to section 17 of the Significant Investments Review Act (SIRA),
-the Minister for Trade and Industry may choose to designate entities in
+the Minister for Trade and Industry may designate entities in
 the interest of Singapore's national security. The list of designated entities
-are also published in the <a href="https://www.egazette.gov.sg/" rel="noopener nofollow" target="_blank">Government Gazette</a>.</p>
+is published in the <a href="https://www.egazette.gov.sg/" rel="noopener nofollow" target="_blank">Government Gazette</a>.</p>
 
-<p>For specified designated entities, pursuant to section 6 of SIRA, the
+<p>Pursuant to section 6 of SIRA, the
 Prime Minister of Singapore may direct all of the functions and powers
 of the Minister for Trade and Industry under Part 3 and section 38 of SIRA
 to be transferred to a relevant Minister. For more details on the transfer
