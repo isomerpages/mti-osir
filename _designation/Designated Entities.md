@@ -8,7 +8,6 @@ description: List of Designated Entities
 the Minister for Trade and Industry may choose to designate entities in
 the interest of Singapore's national security. The list of designated entities
 may be found below. They are also published in the <a href="https://www.egazette.gov.sg/" rel="noopener nofollow" target="_blank">Government Gazette</a>.</p>
-<h4><strong>Transfer of Powers</strong></h4>
 <p>For specified designated entities, pursuant to section 6 of SIRA, the
 Prime Minister of Singapore may direct all of the functions and powers
 of the Minister for Trade and Industry under Part 3 and section 38 of SIRA
