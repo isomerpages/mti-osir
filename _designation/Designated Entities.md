@@ -4,8 +4,55 @@ permalink: /designation/designated-entities/
 variant: tiptap
 description: List of Designated Entities
 ---
-<h4><strong>List of entities designated under SIRA</strong></h4>
-<p>The designated entities are also published in the <a href="https://www.egazette.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Government Gazette</a>.</p>
+<p></p>
+<p></p>
+<p>Pursuant to section 6 of the Significant Investments Review Act (SIRA),
+the Prime Minister of Singapore may direct all of the functions and powers
+of the Minister for Trade and Industry under Part 3 and section 38 SIRA
+be transferred to a relevant Minister. For more details on the transfer
+of powers, refer to (FAQ link).</p>
+<p>The Office of Significant Investments Review will remain as a dedicated
+one-stop touchpoint for stakeholders.</p>
+<h4><strong>Ministry of Defence (MINDEF)</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>MINDEF Subsidiary Legislation</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Sembcorp Specialised Construction Pte. Ltd. (Unique Entity Number: 201908421C)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>ST Engineering Marine Ltd. (Unique Entity Number: 196800180M)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>ST Engineering Land Systems Ltd. (Unique Entity Number: 197100263N)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>ST Engineering Defence Aviation Services Pte. Ltd. (Unique Entity Number:
+197501559C)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>ST Engineering Digital Systems Pte. Ltd. (Unique Entity Number: 202029257C)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
 <h4><strong>Designated entities under the constitutional responsibility of Minister for Defence</strong></h4>
 <p>As of 26 Feb 2025, in exercise of the powers conferred by section 6(2)
 of SIRA, the Prime Minister of Singapore has directed that all of the functions
