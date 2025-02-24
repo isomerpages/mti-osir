@@ -294,7 +294,16 @@ one-stop touchpoint for stakeholders.</p>
 <details class="isomer-details">
 <summary>MTI Subsidiary Legislation</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="https://sso.agc.gov.sg/SL/SIRA2024-S229-2024?DocDate=20240327" rel="noopener noreferrer nofollow" target="_blank"><u>Significant Investments Review Regulations 2024</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://sso.agc.gov.sg/SL/SIRA2024-S230-2024?DocDate=20240327" rel="noopener noreferrer nofollow" target="_blank"><u>Significant Investments Review (Reviewing Tribunal) Rules 2024</u></a>
+</p>
+</li>
+</ol>
 </div>
 </details>
 <details class="isomer-details">
