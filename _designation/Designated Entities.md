@@ -276,8 +276,8 @@ one-stop touchpoint for stakeholders.</p>
 </tr>
 </tbody></table></div></ul>
 
-<p><strong>Ministry for Defence (MINDEF) </strong>
-<br>MINDEF Subsidiary Legislation under SIRA:</p>
+<p><strong>Ministry for Home Affairs (MHA) </strong>
+<br>MHA Subsidiary Legislation under SIRA:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p> <a href="_">To be updated </a>&nbsp; 
