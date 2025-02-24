@@ -19,10 +19,8 @@ one-stop touchpoint for stakeholders.</p>
 <br>MINDEF Subsidiary Legislation under SIRA:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>xxx</p>
-</li>
-<li>
-<p>xxx</p>
+<p><em>To be updated</em>
+</p>
 </li>
 </ul>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
@@ -242,10 +240,8 @@ one-stop touchpoint for stakeholders.</p>
 <br>MHA Subsidiary Legislation under SIRA:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>xxx</p>
-</li>
-<li>
-<p>xxx</p>
+<p><em>To be updated</em>
+</p>
 </li>
 </ul>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
