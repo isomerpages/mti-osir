@@ -8,13 +8,16 @@ description: List of Designated Entities
 the Minister for Trade and Industry may choose to designate entities in
 the interest of Singapore's national security. The list of designated entities
 may be found below. They are also published in the <a href="https://www.egazette.gov.sg/" rel="noopener nofollow" target="_blank">Government Gazette</a>.</p>
+
 <p>For specified designated entities, pursuant to section 6 of SIRA, the
 Prime Minister of Singapore may direct all of the functions and powers
 of the Minister for Trade and Industry under Part 3 and section 38 of SIRA
 to be transferred to a relevant Minister. For more details on the transfer
 of functions and powers, you may refer to (FAQ link).</p>
+
 <p>The Office of Significant Investments Review will remain as a dedicated
 one-stop touchpoint for stakeholders.</p>
+
 <p><strong>Ministry of Defence (MINDEF)</strong>
 <br>MINDEF Subsidiary Legislation under SIRA:</p>
 <ul data-tight="true" class="tight">
@@ -23,6 +26,7 @@ one-stop touchpoint for stakeholders.</p>
 </p>
 </li>
 </ul>
+
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Sembcorp Specialised Construction Pte. Ltd. (Unique Entity Number: 201908421C)</summary>
