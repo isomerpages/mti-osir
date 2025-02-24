@@ -135,7 +135,7 @@ of the designated entity
 <p>Application to Minister before appointing key personnel in the designated
 entity</p>
 <p></p>
-<p><em>*For Shell Singapore Pte. Ltd., ExxonMobil Asia Pacific Pte. Ltd., and Singapore Refining Company Private Limited only.</em>
+<p><em>*For Shell Singapore Pte. Ltd., ExxonMobil Asia Pacific Pte. Ltd., Aster Chemicals and Energy Pte. Ltd., and Singapore Refining Company Private Limited only.</em>
 </p>
 <p></p>
 <p><em><sub>(As of 29 May 2024)</sub></em>
