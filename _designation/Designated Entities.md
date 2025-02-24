@@ -53,7 +53,7 @@ one-stop touchpoint for stakeholders.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>26 Feb 2025</p>
+<p>26 February 2025</p>
 </td>
 </tr>
 <tr>
@@ -95,7 +95,7 @@ one-stop touchpoint for stakeholders.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>26 Feb 2025</p>
+<p>26 February 2025</p>
 </td>
 </tr>
 <tr>
@@ -137,7 +137,7 @@ one-stop touchpoint for stakeholders.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>26 Feb 2025</p>
+<p>26 February 2025</p>
 </td>
 </tr>
 <tr>
@@ -180,7 +180,7 @@ one-stop touchpoint for stakeholders.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>26 Feb 2025</p>
+<p>26 February 2025</p>
 </td>
 </tr>
 <tr>
@@ -222,7 +222,7 @@ one-stop touchpoint for stakeholders.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>26 Feb 2025</p>
+<p>26 February 2025</p>
 </td>
 </tr>
 <tr>
@@ -274,7 +274,7 @@ one-stop touchpoint for stakeholders.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>26 Feb 2025</p>
+<p>26 February 2025</p>
 </td>
 </tr>
 <tr>
@@ -302,50 +302,155 @@ one-stop touchpoint for stakeholders.</p>
 <details class="isomer-details">
 <summary>ExxonMobil Asia Pacific Pte. Ltd. (Unique Entity Number: 196800312N)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p>Date of Designation: 31 May 2024
-<br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/1731.pdf" rel="noopener noreferrer nofollow" target="_blank">Information on Designation</a>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Date of Designation</strong>
 </p>
-<p></p>
-<p>Date of Exemption: 31 May 2024
+</td>
+<td rowspan="1" colspan="1">
+<p>31 May 2024
+<br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/1731.pdf" rel="noopener nofollow" target="_blank">Information on Designation</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Date of Exemption</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31 May 2024
 <br><a href="https://assets.egazette.gov.sg/2024/Legislative%20Supplements/Subsidiary%20Legislation%20Supplement/468.pdf" rel="noopener noreferrer nofollow" target="_blank">Information on Exemption</a>
 </p>
-<p></p>
-<p>Minister-in-charge: Minister for Trade and Industry</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Minister-in-charge</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Minister for Trade and Industry</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Shell Singapore Pte. Ltd. (Unique Entity Number: 196000089G)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p>Date of Designation: 31 May 2024
-<br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/1731.pdf" rel="noopener noreferrer nofollow" target="_blank">Information on Designation</a>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Date of Designation</strong>
 </p>
-<p></p>
-<p>Date of Exemption: 31 May 2024</p>
-<p><a href="https://assets.egazette.gov.sg/2024/Legislative%20Supplements/Subsidiary%20Legislation%20Supplement/469.pdf" rel="noopener noreferrer nofollow" target="_blank">Information on Exemption</a>
-<br>
-<br>Minister-in-charge: Minister for Trade and Industry</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31 May 2024
+<br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/1731.pdf" rel="noopener nofollow" target="_blank">Information on Designation</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Date of Exemption</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31 May 2024
+<br><a href="https://assets.egazette.gov.sg/2024/Legislative%20Supplements/Subsidiary%20Legislation%20Supplement/468.pdf" rel="noopener noreferrer nofollow" target="_blank">Information on Exemption</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Minister-in-charge</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Minister for Trade and Industry</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Singapore Refining Company Private Limited (Unique Entity Number: 197900084K)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p>Date of Designation: 31 May 2024
-<br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/1731.pdf" rel="noopener noreferrer nofollow" target="_blank">Information on Designation</a>
-<br>
-<br>Minister-in-charge: Minister for Trade and Industry</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Date of Designation</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31 May 2024
+<br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/1731.pdf" rel="noopener nofollow" target="_blank">Information on Designation</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Minister-in-charge</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Minister for Trade and Industry</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Aster Chemicals and Energy Pte. Ltd. (Unique Entity Number: 202349112H)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p>Date of Designation: 21 November 2024
-<br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/3795.pdf" rel="noopener nofollow" target="_blank">Information on Designation</a>
-<br>
-<br>Minister-in-charge: Minister for Trade and Industry</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Date of Designation</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>21 November 2024
+<br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/1731.pdf" rel="noopener nofollow" target="_blank">Information on Designation</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Minister-in-charge</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Minister for Trade and Industry</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 </div>
