@@ -464,8 +464,104 @@ one-stop touchpoint for stakeholders.</p>
 <td><strong> Subsidiary Legislation </strong></td>
 <td>
 <p><a href="_"> MTI Subsidiary Legislation under SIRA </a>&nbsp; </p>
-</td></tr></tbody></table></div></li>
+</td></tr></tbody></table></div>
+
+</li><li><input type="checkbox" id="accordion17">  
+<label for="accordion17">Sembcorp Specialised Construction Pte. Ltd. (Unique Entity Number: 201908421C)</label>
+<div>  
+<table style="width: 95%;">
+<tbody>
+<tr>
+<td>
+<p><strong> Date of Designation </strong></p>
+</td>
+<td>
+<p>31 May 2024 <br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/1731.pdf">Information on Designation</a>&nbsp; </p>
+</td>
+</tr>
+<tr>
+<td><strong> Date of Transfer</strong></td>
+<td>
+<p>26 February 2025 <br><a href="_">Information on Transfer</a>&nbsp; </p>
+</td>
+</tr>
+<tr>
+<td><strong> Minister-in-Charge</strong></td>
+<td>
+<p>Minister for Defence </p>
+</td></tr><tr>
+
+</tr></tbody>
+<tbody><tr>
+<td><strong> Subsidiary Legislation </strong></td>
+<td>
+<p><a href="_"> MINDEF Subsidiary Legislation under SIRA </a>&nbsp; </p>
+</td></tr></tbody></table></div>
+
+</li><li><input type="checkbox" id="accordion18">  
+<label for="accordion18">ST Engineering Marine Ltd. (Unique Entity Number: 196800180M)</label>
+<div>  
+<table style="width: 95%;">
+<tbody>
+<tr>
+<td>
+<p><strong> Date of Designation </strong></p>
+</td>
+<td>
+<p>31 May 2024 <br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/1731.pdf">Information on Designation</a>&nbsp; </p>
+</td>
+</tr>
+<tr>
+<td><strong> Date of Transfer</strong></td>
+<td>
+<p>26 February 2025 <br><a href="_">Information on Transfer</a>&nbsp; </p>
+</td>
+</tr>
+<tr>
+<td><strong> Minister-in-Charge</strong></td>
+<td>
+<p>Minister for Defence </p>
+</td></tr><tr>
+
+</tr></tbody>
+<tbody><tr>
+<td><strong> Subsidiary Legislation </strong></td>
+<td>
+<p><a href="_"> MINDEF Subsidiary Legislation under SIRA </a>&nbsp; </p>
+</td></tr></tbody></table></div>
+
+</li><li><input type="checkbox" id="accordion19">  
+<label for="accordion19">ST Engineering Land Systems Ltd. (Unique Entity Number: 197100263N)</label>
+<div>  
+<table style="width: 95%;">
+<tbody>
+<tr>
+<td>
+<p><strong> Date of Designation </strong></p>
+</td>
+<td>
+<p>31 May 2024 <br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/1731.pdf">Information on Designation</a>&nbsp; </p>
+</td>
+</tr>
+<tr>
+<td><strong> Date of Transfer</strong></td>
+<td>
+<p>26 February 2025 <br><a href="_">Information on Transfer</a>&nbsp; </p>
+</td>
+</tr>
+<tr>
+<td><strong> Minister-in-Charge</strong></td>
+<td>
+<p>Minister for Defence </p>
+</td></tr><tr>
+
+</tr></tbody>
+<tbody><tr>
+<td><strong> Subsidiary Legislation </strong></td>
+<td>
+<p><a href="_"> MINDEF Subsidiary Legislation under SIRA </a>&nbsp; </p>
+</td></tr></tbody></table></div>
 
 <p><em>Note: Any formerly designated entities will also be listed on this page.</em>
 </p>
-<p></p></ul>
+<p></p></li></ul>
