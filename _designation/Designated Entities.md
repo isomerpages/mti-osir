@@ -140,8 +140,8 @@ one-stop touchpoint for stakeholders.</p>
 
 <ul class="jekyllcodex_accordion">  
   
-<input type="checkbox" id="accordion1">  
-<label for="accordion1">Sembcorp Specialised Construction Pte. Ltd. (Unique Entity Number: 201908421C)</label>
+<input type="checkbox" id="accordion5">  
+<label for="accordion5">Sembcorp Specialised Construction Pte. Ltd. (Unique Entity Number: 201908421C)</label>
 <div>  
 <table style="width: 90%;">
 <tbody>
@@ -167,8 +167,8 @@ one-stop touchpoint for stakeholders.</p>
 </tr>
 </tbody></table></div>
 
-<input type="checkbox" id="accordion2">  
-<label for="accordion2"> Shell Singapore Pte. Ltd. (Unique Entity Number: 196000089G) </label>
+<input type="checkbox" id="accordion6">  
+<label for="accordion6"> Shell Singapore Pte. Ltd. (Unique Entity Number: 196000089G) </label>
 <div>  
 <table style="width: 90%;">
 <tbody>
@@ -194,8 +194,8 @@ one-stop touchpoint for stakeholders.</p>
 </tr>
 </tbody></table></div>
 	
-<input type="checkbox" id="accordion3">  
-<label for="accordion3"> Singapore Refining Company Private Limited (Unique Entity Number: 197900084K) </label>
+<input type="checkbox" id="accordion7">  
+<label for="accordion7"> Singapore Refining Company Private Limited (Unique Entity Number: 197900084K) </label>
 <div>  
 <table style="width: 90%;">
 <tbody>
@@ -215,8 +215,8 @@ one-stop touchpoint for stakeholders.</p>
 </tr>
 </tbody></table></div>
 
-<input type="checkbox" id="accordion4">  
-<label for="accordion4"> Aster Chemicals and Energy Pte. Ltd. (Unique Entity Number: 202349112H)</label>
+<input type="checkbox" id="accordion8">  
+<label for="accordion8"> Aster Chemicals and Energy Pte. Ltd. (Unique Entity Number: 202349112H)</label>
 <div>  
 <table style="width: 90%;">
 <tbody>
