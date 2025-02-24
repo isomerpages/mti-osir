@@ -163,9 +163,11 @@ one-stop touchpoint for stakeholders.</p>
 <br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/1731.pdf" rel="noopener noreferrer nofollow" target="_blank">Information on Designation</a>
 </p>
 <p></p>
-<p>Date of Exemption: 31 May 2024</p>
-<p><a href="https://assets.egazette.gov.sg/2024/Legislative%20Supplements/Subsidiary%20Legislation%20Supplement/468.pdf" rel="noopener noreferrer nofollow" target="_blank">Information on Exemption</a>
+<p>Date of Exemption: 31 May 2024
+<br><a href="https://assets.egazette.gov.sg/2024/Legislative%20Supplements/Subsidiary%20Legislation%20Supplement/468.pdf" rel="noopener noreferrer nofollow" target="_blank">Information on Exemption</a>
 </p>
+<p></p>
+<p>Minister-in-charge: Minister for Trade and Industry</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -178,7 +180,8 @@ one-stop touchpoint for stakeholders.</p>
 <p></p>
 <p>Date of Exemption: 31 May 2024</p>
 <p><a href="https://assets.egazette.gov.sg/2024/Legislative%20Supplements/Subsidiary%20Legislation%20Supplement/469.pdf" rel="noopener noreferrer nofollow" target="_blank">Information on Exemption</a>
-</p>
+<br>
+<br>Minister-in-charge: Minister for Trade and Industry</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -187,7 +190,8 @@ one-stop touchpoint for stakeholders.</p>
 <p></p>
 <p>Date of Designation: 31 May 2024
 <br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/1731.pdf" rel="noopener noreferrer nofollow" target="_blank">Information on Designation</a>
-</p>
+<br>
+<br>Minister-in-charge: Minister for Trade and Industry</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -196,7 +200,8 @@ one-stop touchpoint for stakeholders.</p>
 <p></p>
 <p>Date of Designation: 21 November 2024
 <br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/3795.pdf" rel="noopener nofollow" target="_blank">Information on Designation</a>
-</p>
+<br>
+<br>Minister-in-charge: Minister for Trade and Industry</p>
 </div>
 </details>
 </div>
