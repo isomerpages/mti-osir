@@ -410,12 +410,16 @@ one-stop touchpoint for stakeholders.</p>
 <p>Minister for Trade and Industry </p>
 </td>
 </tr>
-</tbody></table></div></li>
+<tr>
+<td><strong> Subsidiary Legislation </strong></td>
+<td>
+<p><a href="_"> MTI Subsidiary Legislation under SIRA </a>&nbsp; </p>
+</td></tr></tbody></table></div></li>
 	
 <li><input type="checkbox" id="accordion4">  
 <label for="accordion4"> Singapore Refining Company Private Limited (Unique Entity Number: 197900084K) </label>
 <div>  
-<table style="width: 90%;">
+<table style="width: 100%;">
 <tbody>
 <tr>
 <td>
@@ -431,7 +435,11 @@ one-stop touchpoint for stakeholders.</p>
 <p>Minister for Trade and Industry </p>
 </td>
 </tr>
-</tbody></table></div></li>
+<tr>
+<td><strong> Subsidiary Legislation </strong></td>
+<td>
+<p><a href="_"> MTI Subsidiary Legislation under SIRA </a>&nbsp; </p>
+</td></tr></tbody></table></div></li>
 	
 <li><input type="checkbox" id="accordion5">  
 <label for="accordion5"> Aster Chemicals and Energy Pte. Ltd. (Unique Entity Number: 202349112H)</label>
