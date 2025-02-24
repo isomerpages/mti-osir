@@ -315,20 +315,20 @@ one-stop touchpoint for stakeholders.</p>
 <p><strong>Ministry for Home Affairs (MHA) - Subsidiary Legislation and Designated Entities </strong>
 </p><ul class="jekyllcodex_accordion">  
   
-<li><input type="checkbox" id="accordion10">  
-<label for="accordion10"> MHA Subsidiary Legislation </label>
+<li><input type="checkbox" id="accordion11">  
+<label for="accordion11"> MHA Subsidiary Legislation </label>
 <div> 
 <ul data-tight="true" class="tight">
 <p> <a href="_">To be updated </a>&nbsp; 
 </p></ul> </div></li>
 	
-<li><input type="checkbox" id="accordion11">  
-<label for="accordion10"> MHA Designated Entities </label>
-<div> 	
 <li><input type="checkbox" id="accordion12">  
-<label for="accordion12"> ST Logistics Pte. Ltd. (Unique Entity Number: 200412267E)  </label>
-<div> 	
-</div></li><table style="width: 90%;">
+<label for="accordion12"> MHA Designated Entities </label>
+<div> 
+
+</div></li><li><input type="checkbox" id="accordion13">  
+<label for="accordion13"> ST Logistics Pte. Ltd. (Unique Entity Number: 200412267E)  </label>
+</li><table style="width: 90%;">
 <tbody>
 <tr>
 
@@ -352,7 +352,7 @@ one-stop touchpoint for stakeholders.</p>
 <p>Minister for Home Affairs </p>
 </td>
 </tr>
-</tbody></table></div></li></ul>
+</tbody></table></ul>
 
 
 
