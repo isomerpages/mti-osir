@@ -16,15 +16,16 @@ of functions and powers, you may refer to (FAQ link).</p>
 <p>The Office of Significant Investments Review will remain as a dedicated
 one-stop touchpoint for stakeholders.</p>
 <p><strong>Ministry of Defence (MINDEF)</strong>
-</p>
+<br>MINDEF Subsidiary Legislation under SIRA:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>xxx</p>
+</li>
+<li>
+<p>xxx</p>
+</li>
+</ul>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>MINDEF Subsidiary Legislation</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p><em>(To be updated)</em>
-</p>
-</div>
-</details>
 <details class="isomer-details">
 <summary>Sembcorp Specialised Construction Pte. Ltd. (Unique Entity Number: 201908421C)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -237,15 +238,17 @@ one-stop touchpoint for stakeholders.</p>
 </div>
 </details>
 </div>
-<h4><strong>Ministry of Home Affairs (MHA)</strong></h4>
+<p><strong>Ministry of Home Affairs (MHA)</strong>
+<br>MHA Subsidiary Legislation under SIRA:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>xxx</p>
+</li>
+<li>
+<p>xxx</p>
+</li>
+</ul>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>MHA Subsidiary Legislation</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p><em>(To be updated)</em>
-</p>
-</div>
-</details>
 <details class="isomer-details">
 <summary>ST Logistics Pte. Ltd. (Unique Entity Number: 200412267E)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -289,12 +292,9 @@ one-stop touchpoint for stakeholders.</p>
 </div>
 </details>
 </div>
-<h4><strong>Ministry of Trade and Industry (MTI)</strong></h4>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>MTI Subsidiary Legislation</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<ol data-tight="true" class="tight">
+<p>Ministry of Trade and Industry (MTI)
+<br>MTI Subsidiary Legislation under SIRA:</p>
+<ul data-tight="true" class="tight">
 <li>
 <p><a href="https://sso.agc.gov.sg/SL/SIRA2024-S229-2024?DocDate=20240327" rel="noopener noreferrer nofollow" target="_blank"><u>Significant Investments Review Regulations 2024</u></a>
 </p>
@@ -303,9 +303,8 @@ one-stop touchpoint for stakeholders.</p>
 <p><a href="https://sso.agc.gov.sg/SL/SIRA2024-S230-2024?DocDate=20240327" rel="noopener noreferrer nofollow" target="_blank"><u>Significant Investments Review (Reviewing Tribunal) Rules 2024</u></a>
 </p>
 </li>
-</ol>
-</div>
-</details>
+</ul>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>ExxonMobil Asia Pacific Pte. Ltd. (Unique Entity Number: 196800312N)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -461,7 +460,6 @@ one-stop touchpoint for stakeholders.</p>
 </div>
 </details>
 </div>
-<p></p>
 <p><em>Note: Any formerly designated entities will also be listed on this page.</em>
 </p>
 <p></p>
