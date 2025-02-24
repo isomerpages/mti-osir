@@ -30,7 +30,6 @@ one-stop touchpoint for stakeholders.</p>
 <details class="isomer-details">
 <summary>Sembcorp Specialised Construction Pte. Ltd. (Unique Entity Number: 201908421C)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -73,57 +72,170 @@ one-stop touchpoint for stakeholders.</p>
 <details class="isomer-details">
 <summary>ST Engineering Marine Ltd. (Unique Entity Number: 196800180M)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p>Date of Designation: 31 May 2024
-<br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/1731.pdf" rel="noopener noreferrer nofollow" target="_blank">Information on Designation</a>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Date of Designation</strong>
 </p>
-<p></p>
-<p>Date of Transfer: 26 Feb 2025</p>
-<p></p>
-<p>Minister-in-charge: Minister for Defence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31 May 2024
+<br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/1731.pdf" rel="noopener nofollow" target="_blank">Information on Designation</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Date of Transfer</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26 Feb 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Minister-in-charge</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Minister for Defence</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 <details class="isomer-details">
 <summary>ST Engineering Land Systems Ltd. (Unique Entity Number: 197100263N)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p>Date of Designation: 31 May 2024
-<br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/1731.pdf" rel="noopener noreferrer nofollow" target="_blank">Information on Designation</a>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Date of Designation</strong>
 </p>
-<p></p>
-<p>Date of Transfer: 26 Feb 2025</p>
-<p></p>
-<p></p>
-<p>Minister-in-charge: Minister for Defence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31 May 2024
+<br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/1731.pdf" rel="noopener nofollow" target="_blank">Information on Designation</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Date of Transfer</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26 Feb 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Minister-in-charge</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Minister for Defence</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 <details class="isomer-details">
 <summary>ST Engineering Defence Aviation Services Pte. Ltd. (Unique Entity Number:
 197501559C)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p>Date of Designation: 31 May 2024
-<br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/1731.pdf" rel="noopener noreferrer nofollow" target="_blank">Information on Designation</a>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Date of Designation</strong>
 </p>
-<p></p>
-<p>Date of Transfer: 26 Feb 2025</p>
-<p></p>
-<p></p>
-<p>Minister-in-charge: Minister for Defence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31 May 2024
+<br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/1731.pdf" rel="noopener nofollow" target="_blank">Information on Designation</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Date of Transfer</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26 Feb 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Minister-in-charge</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Minister for Defence</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 <details class="isomer-details">
 <summary>ST Engineering Digital Systems Pte. Ltd. (Unique Entity Number: 202029257C)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p>Date of Designation: 31 May 2024
-<br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/1731.pdf" rel="noopener noreferrer nofollow" target="_blank">Information on Designation</a>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Date of Designation</strong>
 </p>
-<p></p>
-<p>Date of Transfer: 26 Feb 2025</p>
-<p></p>
-<p></p>
-<p>Minister-in-charge: Minister for Defence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31 May 2024
+<br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/1731.pdf" rel="noopener nofollow" target="_blank">Information on Designation</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Date of Transfer</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26 Feb 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Minister-in-charge</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Minister for Defence</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 </div>
@@ -139,14 +251,43 @@ one-stop touchpoint for stakeholders.</p>
 <details class="isomer-details">
 <summary>ST Logistics Pte. Ltd. (Unique Entity Number: 200412267E)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p>Date of Designation: 31 May 2024
-<br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/1731.pdf" rel="noopener noreferrer nofollow" target="_blank">Information on Designation</a>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Date of Designation</strong>
 </p>
-<p></p>
-<p>Date of Transfer: 26 Feb 2025</p>
-<p></p>
-<p>Minister-in-charge: Minister for Home Affairs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31 May 2024
+<br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/1731.pdf" rel="noopener nofollow" target="_blank">Information on Designation</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Date of Transfer</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26 Feb 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Minister-in-charge</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Minister for Home Affairs</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 </div>
