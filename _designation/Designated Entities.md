@@ -106,4 +106,25 @@ one-stop touchpoint for stakeholders.</p>
 <p>Minister for Trade and Industry </p>
 </td>
 </tr>
+</tbody></table></div>
+
+<input type="checkbox" id="accordion4">  
+<label for="accordion4"> Aster Chemicals and Energy Pte. Ltd. (Unique Entity Number: 202349112H)</label>
+<div>  
+<table style="width: 90%;">
+<tbody>
+<tr>
+<td>
+<p><strong> Date of Designation </strong></p>
+</td>
+<td>
+<p>21 November 2024 <br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/3795.pdf">Information on Designation</a>&nbsp; </p>
+</td>
+</tr>
+<tr>
+<td><strong> Minister-in-Charge</strong></td>
+<td>
+<p>Minister for Trade and Industry </p>
+</td>
+</tr>
 </tbody></table></div></ul>
