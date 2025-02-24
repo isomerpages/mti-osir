@@ -39,17 +39,19 @@ one-stop touchpoint for stakeholders.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Date of Designation</p>
+<p><strong>Date of Designation</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 May 2024</p>
-<p><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/1731.pdf" rel="noopener nofollow" target="_blank">Information on Designation</a>
+<p>31 May 2024
+<br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/1731.pdf" rel="noopener nofollow" target="_blank">Information on Designation</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Date of Transfer</p>
+<p><strong>Date of Transfer</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26 Feb 2025</p>
@@ -57,7 +59,8 @@ one-stop touchpoint for stakeholders.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Minister-in-charge</p>
+<p><strong>Minister-in-charge</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Minister for Defence</p>
