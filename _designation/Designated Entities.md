@@ -331,7 +331,7 @@ one-stop touchpoint for stakeholders.</p>
 <div><p></p>
 	
 <ul class="jekyllcodex_accordion">  
-<li><input type="checkbox" id="nested-accordion1">  
+<input type="checkbox" id="nested-accordion1">  
 <label for="nested-accordion1"> ST Logistics Pte. Ltd. (Unique Entity Number: 200412267E) </label>
 <div>
 <table style="width: 90%;">
@@ -354,7 +354,7 @@ one-stop touchpoint for stakeholders.</p>
 <p>Minister for Home Affairs </p>
 </td>
 </tr>
-</tbody></table></div></li></ul></div></li></ul>
+</tbody></table></div></ul></div></li></ul>
 
 
 <p><em>Note: Any formerly designated entities will also be listed on this page.</em>
