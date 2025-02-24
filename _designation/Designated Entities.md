@@ -158,7 +158,7 @@ one-stop touchpoint for stakeholders.</p>
 <summary>ST Engineering Defence Aviation Services Pte. Ltd. (Unique Entity Number:
 197501559C)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
+<table style="Width: 100px">
 <colgroup>
 <col>
 <col>
@@ -200,7 +200,7 @@ one-stop touchpoint for stakeholders.</p>
 <details class="isomer-details">
 <summary>ST Engineering Digital Systems Pte. Ltd. (Unique Entity Number: 202029257C)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
+<table style="Width: 100px">
 <colgroup>
 <col>
 <col>
@@ -252,7 +252,7 @@ one-stop touchpoint for stakeholders.</p>
 <details class="isomer-details">
 <summary>ST Logistics Pte. Ltd. (Unique Entity Number: 200412267E)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
+<table style="Width: 100px">
 <colgroup>
 <col>
 <col>
@@ -308,7 +308,7 @@ one-stop touchpoint for stakeholders.</p>
 <details class="isomer-details">
 <summary>ExxonMobil Asia Pacific Pte. Ltd. (Unique Entity Number: 196800312N)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
+<table style="Width: 100px">
 <colgroup>
 <col>
 <col>
@@ -352,7 +352,7 @@ one-stop touchpoint for stakeholders.</p>
 <details class="isomer-details">
 <summary>Shell Singapore Pte. Ltd. (Unique Entity Number: 196000089G)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
+<table style="Width: 100px">
 <colgroup>
 <col>
 <col>
@@ -396,7 +396,7 @@ one-stop touchpoint for stakeholders.</p>
 <details class="isomer-details">
 <summary>Singapore Refining Company Private Limited (Unique Entity Number: 197900084K)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
+<table style="Width: 100px">
 <colgroup>
 <col>
 <col>
@@ -429,7 +429,7 @@ one-stop touchpoint for stakeholders.</p>
 <details class="isomer-details">
 <summary>Aster Chemicals and Energy Pte. Ltd. (Unique Entity Number: 202349112H)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
+<table style="Width: 100px">
 <colgroup>
 <col>
 <col>
