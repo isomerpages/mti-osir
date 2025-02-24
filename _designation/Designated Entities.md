@@ -4,10 +4,7 @@ permalink: /designation/designated-entities/
 variant: markdown
 description: List of Designated Entities
 ---
-<p>Pursuant to section 17 of the Significant Investments Review Act (SIRA),
-the Minister for Trade and Industry may designate entities in
-the interest of Singapore's national security. The list of designated entities
-is published in the <a href="https://www.egazette.gov.sg/" rel="noopener nofollow" target="_blank">Government Gazette</a>.</p>
+<p>The Minister for Trade and Industry may choose to designate entities in the interest of Singapore's national security. This is pursuant to section 17 of the Significant Investments Review Act (SIRA). The list of designated entities is published in the <a href="https://www.egazette.gov.sg/" rel="noopener nofollow" target="_blank">Government Gazette</a>.</p>
 
 <p>Pursuant to section 6 of SIRA, the
 Prime Minister of Singapore may direct all of the functions and powers
@@ -21,8 +18,8 @@ one-stop touchpoint for stakeholders.</p>
 <p><strong>Ministry of Trade and Industry (MTI) - Subsidiary Legislation and Designated Entities 
 </strong></p><ul class="jekyllcodex_accordion"><strong>  
  
-<li><input type="checkbox" id="accordion0">  
-<label for="accordion0"> MTI Subsidiary Legislation </label>
+<li><input type="checkbox" id="accordion1">  
+<label for="accordion1"> MTI Subsidiary Legislation </label>
 <div>  
 <table style="width: 90%;">
 <tbody>
@@ -35,8 +32,8 @@ one-stop touchpoint for stakeholders.</p>
 </tbody></table></div>
 </li>
 	
-<li><input type="checkbox" id="accordion1">  
-<label for="accordion1"> ExxonMobil Asia Pacific Pte. Ltd. (Unique Entity Number: 196800312N) </label>
+<li><input type="checkbox" id="accordion2">  
+<label for="accordion2"> ExxonMobil Asia Pacific Pte. Ltd. (Unique Entity Number: 196800312N) </label>
 <div>  
 <table style="width: 90%;">
 <tbody>
@@ -63,8 +60,8 @@ one-stop touchpoint for stakeholders.</p>
 </tbody></table></div>
 </li>
 
-<li><input type="checkbox" id="accordion2">  
-<label for="accordion2"> Shell Singapore Pte. Ltd. (Unique Entity Number: 196000089G) </label>
+<li><input type="checkbox" id="accordion3">  
+<label for="accordion3"> Shell Singapore Pte. Ltd. (Unique Entity Number: 196000089G) </label>
 <div>  
 <table style="width: 90%;">
 <tbody>
@@ -90,8 +87,8 @@ one-stop touchpoint for stakeholders.</p>
 </tr>
 </tbody></table></div></li>
 	
-<li><input type="checkbox" id="accordion3">  
-<label for="accordion3"> Singapore Refining Company Private Limited (Unique Entity Number: 197900084K) </label>
+<li><input type="checkbox" id="accordion4">  
+<label for="accordion4"> Singapore Refining Company Private Limited (Unique Entity Number: 197900084K) </label>
 <div>  
 <table style="width: 90%;">
 <tbody>
@@ -111,8 +108,8 @@ one-stop touchpoint for stakeholders.</p>
 </tr>
 </tbody></table></div></li>
 	
-<li><input type="checkbox" id="accordion4">  
-<label for="accordion4"> Aster Chemicals and Energy Pte. Ltd. (Unique Entity Number: 202349112H)</label>
+<li><input type="checkbox" id="accordion5">  
+<label for="accordion5"> Aster Chemicals and Energy Pte. Ltd. (Unique Entity Number: 202349112H)</label>
 <div>  
 <table style="width: 90%;">
 <tbody>
