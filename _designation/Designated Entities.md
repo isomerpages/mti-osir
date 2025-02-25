@@ -59,11 +59,6 @@ one-stop touchpoint for stakeholders.</p>
 
 
 
-
-
-
-
-
 # **Option 1**
 
 <p><strong>Ministry of Trade and Industry (MTI) - Subsidiary Legislation and Designated Entities 
