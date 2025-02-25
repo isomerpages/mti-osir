@@ -31,7 +31,7 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 </div></li>  
  
 <li><input type="checkbox" id="accordion4">  
-<label for="accordion4">After the transfer of powers to a relevant Minister, will the specified designated entity still not be designated under the Significant Investments Review Act (SIRA) and not other legislation?</label><div>  
+<label for="accordion4">After the transfer of powers to a relevant Minister, will the specified designated entity still be designated under the Significant Investments Review Act (SIRA) and not other legislation?</label><div>  
 <p>Where there is a transfer of powers to a relevant Minister, the specified designated entity remains subject to provisions under the Significant Investments Review Act with the relevant Minister's powers derived from the Act.</p>
 </div></li>  
 
