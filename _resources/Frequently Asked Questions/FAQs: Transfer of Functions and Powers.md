@@ -11,7 +11,7 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 </p>
 <p>You may navigate other sections of FAQs from the menu bar.</p>
 
-<ul class="jekyllcodex\_accordion">  
+<ul class="jekyllcodex_accordion">  
   
 <li><input type="checkbox" id="accordion1">  
 <label for="accordion1">What powers have been retained by the Minister for Trade and Industry, and what powers have been transferred to the relevant Ministers?</label><div>  
