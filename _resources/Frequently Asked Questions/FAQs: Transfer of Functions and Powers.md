@@ -15,7 +15,7 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
   
 <li><input type="checkbox" id="accordion1">  
 <label for="accordion1">What powers have been retained by the Minister for Trade and Industry, and what powers have been transferred to the relevant Ministers?</label><div>  
-<p>Only the functions and powers of the Minister for Trade and Industry under Part 3 (other than section 17 and Division 6) and section 38 of the Significant Investments Review Act (SIRA) have been transferred to the respective relevant Minister for the specified designated entities, as set out in the notification published in the [Government Gazette](https://www.egazette.gov.sg/).</p>  
+<p>Only the functions and powers of the Minister for Trade and Industry under Part 3 (other than section 17 and Division 6) and section 38 of the Significant Investments Review Act (SIRA) have been transferred to the respective relevant Minister for the specified designated entities, as set out in the notification published in the <a href="https://www.egazette.gov.sg/" rel="noopener nofollow" target="_blank">Government Gazette</a>.</p>  
 </div></li>  
   
 <li><input type="checkbox" id="accordion2">  
@@ -27,7 +27,7 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 <label for="accordion3">What are the powers that can and cannot be transferred to a relevant Minister?</label><div>  
 <p>The powers to designate an entity, or to exercise targeted powers that can be used against any entity that has acted against Singapore's national security interests, can only be exercised by the Minister for Trade and Industry.
 </p><p> Besides that, the Prime Minister of Singapore may direct the transfer of selected functions and powers over a designated entity to the relevant Minister.</p>
-<p> Such transfers will be notified in the [Government Gazette](https://www.egazette.gov.sg/). </p>
+<p> Such transfers will be notified in the <a href="https://www.egazette.gov.sg/" rel="noopener nofollow" target="_blank">Government Gazette</a>.</p>
 </div></li>  
  
 <li><input type="checkbox" id="accordion4">  
