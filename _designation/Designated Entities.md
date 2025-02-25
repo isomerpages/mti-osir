@@ -181,9 +181,13 @@ one-stop touchpoint for stakeholders.</p>
 <p>Minister for Defence</p>
 </td>
 </tr>
-</tbody></table></div></li>
-
-<li><input type="checkbox" id="accordion7">  
+</tbody><tbody><tr>
+<td><strong> Subsidiary Legislation </strong></td>
+<td>
+<p><a href="_">[MINDEF] Significant Investments Review (Composition of Offences - Minister for Defence) Regulations 2025  </a>&nbsp; <a href="https://sso.agc.gov.sg/SL/SIRA2024-S230-2024?DocDate=20240327"><br> Significant Investments Review (Reviewing Tribunal) Rules 2024</a></p>
+</td></tr></tbody></table></div>
+	
+</li><li><input type="checkbox" id="accordion7">  
 <label for="accordion7"> ST Engineering Digital Systems Pte. Ltd. (Unique Entity Number: 202029257C) </label>
 <div>  
 <table style="width: 100%;">
@@ -208,9 +212,13 @@ one-stop touchpoint for stakeholders.</p>
 <p>Minister for Defence</p>
 </td>
 </tr>
-</tbody></table></div></li></ul>
+</tbody><tbody><tr>
+<td><strong> Subsidiary Legislation </strong></td>
+<td>
+<p><a href="_">[MINDEF] Significant Investments Review (Composition of Offences - Minister for Defence) Regulations 2025  </a>&nbsp; <a href="https://sso.agc.gov.sg/SL/SIRA2024-S230-2024?DocDate=20240327"><br> Significant Investments Review (Reviewing Tribunal) Rules 2024</a></p>
+</td></tr></tbody></table></div>
 
-<li><input type="checkbox" id="accordion8">  
+</li><li><input type="checkbox" id="accordion8">  
 <label for="accordion8"> ST Engineering Land Systems Ltd. (Unique Entity Number: 197100263N) </label>
 <div>  
 <table style="width: 100%;">
@@ -235,9 +243,13 @@ one-stop touchpoint for stakeholders.</p>
 <p>Minister for Defence</p>
 </td>
 </tr>
-</tbody></table></div></li>
+</tbody><tbody><tr>
+<td><strong> Subsidiary Legislation </strong></td>
+<td>
+<p><a href="_">[MINDEF] Significant Investments Review (Composition of Offences - Minister for Defence) Regulations 2025  </a>&nbsp; <a href="https://sso.agc.gov.sg/SL/SIRA2024-S230-2024?DocDate=20240327"><br> Significant Investments Review (Reviewing Tribunal) Rules 2024</a></p>
+</td></tr></tbody></table></div>
 
-<li><input type="checkbox" id="accordion9">  
+</li><li><input type="checkbox" id="accordion9">  
 <label for="accordion9"> ST Engineering Marine Ltd. (Unique Entity Number: 196800180M) </label>
 <div>  
 <table style="width: 100%;">
@@ -262,9 +274,13 @@ one-stop touchpoint for stakeholders.</p>
 <p>Minister for Defence</p>
 </td>
 </tr>
-</tbody></table></div></li>
+</tbody><tbody><tr>
+<td><strong> Subsidiary Legislation </strong></td>
+<td>
+<p><a href="_">[MINDEF] Significant Investments Review (Composition of Offences - Minister for Defence) Regulations 2025  </a>&nbsp; <a href="https://sso.agc.gov.sg/SL/SIRA2024-S230-2024?DocDate=20240327"><br> Significant Investments Review (Reviewing Tribunal) Rules 2024</a></p>
+</td></tr></tbody></table></div>
 	
-<li><input type="checkbox" id="accordion10">  
+</li><li><input type="checkbox" id="accordion10">  
 <label for="accordion10">ST Logistics Pte. Ltd. (Unique Entity Number: 200412267E)</label>
 <div>  
 <table style="width: 100%;">
@@ -289,8 +305,12 @@ one-stop touchpoint for stakeholders.</p>
 <p>Minister for Home Affairs </p>
 </td>
 </tr>
-</tbody></table></div></li>
+</tbody><tbody><tr>
+<td><strong> Subsidiary Legislation </strong></td>
+<td>
+<p><a href="_">[MINDEF] Significant Investments Review (Composition of Offences - Minister for Defence) Regulations 2025  </a>&nbsp; <a href="https://sso.agc.gov.sg/SL/SIRA2024-S230-2024?DocDate=20240327"><br> Significant Investments Review (Reviewing Tribunal) Rules 2024</a></p>
+</td></tr></tbody></table></div>
 
 <p><em>Note: Any formerly designated entities will also be listed on this page.</em>
 </p>
-<p></p>
+<p></p></li></ul>
