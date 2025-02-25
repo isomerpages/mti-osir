@@ -501,7 +501,7 @@ one-stop touchpoint for stakeholders.</p>
 </li><li><input type="checkbox" id="accordion18">  
 <label for="accordion18">ST Engineering Marine Ltd. (Unique Entity Number: 196800180M)</label>
 <div>  
-<table style="width: 95%;">
+<table style="width: 100%;">
 <tbody>
 <tr>
 <td>
@@ -527,13 +527,13 @@ one-stop touchpoint for stakeholders.</p>
 <tbody><tr>
 <td><strong> Subsidiary Legislation </strong></td>
 <td>
-<p><a href="_"> MINDEF Subsidiary Legislation under SIRA </a>&nbsp; </p>
+<p><a href="_"> MINDEF Subsidiary Legislation under SIRA </a>&nbsp; <a href="https://sso.agc.gov.sg/SL/SIRA2024-S230-2024?DocDate=20240327"><br> Significant Investments Review (Reviewing Tribunal) Rules 2024</a></p>
 </td></tr></tbody></table></div>
 
 </li><li><input type="checkbox" id="accordion19">  
 <label for="accordion19">ST Engineering Land Systems Ltd. (Unique Entity Number: 197100263N)</label>
 <div>  
-<table style="width: 95%;">
+<table style="width: 100%;">
 <tbody>
 <tr>
 <td>
@@ -559,7 +559,7 @@ one-stop touchpoint for stakeholders.</p>
 <tbody><tr>
 <td> Subsidiary Legislation </td>
 <td>
-<p><a href="_"> MINDEF Subsidiary Legislation under SIRA </a>&nbsp; </p>
+<p><a href="_"> MINDEF Subsidiary Legislation under SIRA </a>&nbsp; <a href="https://sso.agc.gov.sg/SL/SIRA2024-S230-2024?DocDate=20240327"><br> Significant Investments Review (Reviewing Tribunal) Rules 2024</a></p>
 </td></tr></tbody></table></div>
 
 <p><em>Note: Any formerly designated entities will also be listed on this page.</em>
