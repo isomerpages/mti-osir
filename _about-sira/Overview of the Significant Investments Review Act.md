@@ -22,21 +22,24 @@ Online:</p>
 </p>
 </li>
 </ol>
-<p>Subsidiary legislation under SIRA for the Ministry of Trade and Industry:</p>
+<p><strong>Subsidiary legislation under SIRA for the Ministry of Trade and Industry:</strong>
+</p>
 <ol start="3" data-tight="true" class="tight">
 <li>
 <p><a href="https://sso.agc.gov.sg/SL/SIRA2024-S229-2024?DocDate=20240327" rel="noopener noreferrer nofollow" target="_blank">Significant Investments Review Regulations 2024</a>
 </p>
 </li>
 </ol>
-<p>Subsidiary legislation under SIRA for the Ministry of Defence:</p>
+<p><strong>Subsidiary legislation under SIRA for the Ministry of Defence:</strong>
+</p>
 <ol start="4" data-tight="true" class="tight">
 <li>
 <p><em>To be updated</em>
 </p>
 </li>
 </ol>
-<p>Subsidiary legislation under SIRA for the Ministry of Home Affairs:</p>
+<p><strong>Subsidiary legislation under SIRA for the Ministry of Home Affairs:</strong>
+</p>
 <ol start="5" data-tight="true" class="tight">
 <li>
 <p><em>To be updated</em>
