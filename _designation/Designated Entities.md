@@ -118,7 +118,7 @@ one-stop touchpoint for stakeholders.</p>
 <tr>
 <td>Date of Exemption</td>
 <td>
-<p>31 May 2024 <br><a href="https://assets.egazette.gov.sg/2024/Legislative%20Supplements/Subsidiary%20Legislation%20Supplement/468.pdf">Information on Exemption</a>&nbsp; </p>
+<p>31 May 2024 <br><a href="https://assets.egazette.gov.sg/2024/Legislative%20Supplements/Subsidiary%20Legislation%20Supplement/469.pdf">Information on Exemption</a>&nbsp; </p>
 </td>
 </tr>
 <tr>
