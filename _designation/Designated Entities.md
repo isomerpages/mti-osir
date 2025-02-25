@@ -37,7 +37,7 @@ one-stop touchpoint for stakeholders.</p>
 <tr>
 <td> Subsidiary Legislation </td>
 <td>
-<p><a href="https://sso.agc.gov.sg/SL/SIRA2024-S229-2024?DocDate=20240327"> [MTI] Significant Investments Review Regulations 2024 </a>&nbsp; <a href="https://sso.agc.gov.sg/SL/SIRA2024-S230-2024?DocDate=20240327"><br> Significant Investments Review (Reviewing Tribunal) Rules 2024</a></p>
+1. <a href="https://sso.agc.gov.sg/SL/SIRA2024-S229-2024?DocDate=20240327"> [MTI] Significant Investments Review Regulations 2024 </a>&nbsp; <br>2. <a href="https://sso.agc.gov.sg/SL/SIRA2024-S230-2024?DocDate=20240327">Significant Investments Review (Reviewing Tribunal) Rules 2024</a><p></p>
 </td></tr></tbody></table></div></li>
 
 <li><input type="checkbox" id="accordion2">  
