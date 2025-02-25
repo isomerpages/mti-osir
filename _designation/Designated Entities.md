@@ -139,7 +139,7 @@ one-stop touchpoint for stakeholders.</p>
 <tbody>
 <tr>
 <td>
-<p><strong> Date of Designation </strong></p>
+<p>Date of Designation</p>
 </td>
 <td>
 <p>31 May 2024 <br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/1731.pdf">Information on Designation</a>&nbsp; </p>
