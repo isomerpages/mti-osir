@@ -11,7 +11,7 @@ description: List of Designated Entities
 <p>The Office of Significant Investments Review will remain as a dedicated
 one-stop touchpoint for stakeholders.</p>
 
-<strong> List of entities designated under SIRA </strong>
+##### <strong> List of entities designated under SIRA </strong>
 
 <ul class="jekyllcodex_accordion">
  
