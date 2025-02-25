@@ -16,7 +16,7 @@ one-stop touchpoint for stakeholders.</p>
 <ul class="jekyllcodex_accordion">
  
 <li><input type="checkbox" id="accordion1">  
-<label for="accordion1"> Aster Chemicals and Energy Pte. Ltd. (Unique Entity Number: 202349112H </label>
+<label for="accordion1"> Aster Chemicals and Energy Pte. Ltd. (Unique Entity Number: 202349112H) </label>
 <div>  
 <table style="width: 100%;">
 <tbody>
