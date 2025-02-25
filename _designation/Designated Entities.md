@@ -326,14 +326,14 @@ one-stop touchpoint for stakeholders.</p>
 <li><input type="checkbox" id="accordion12">  
 <label for="accordion12"> ST Logistics Pte. Ltd. (Unique Entity Number: 200412267E) </label>
 <div>  
-<table style="width: 90%;">
+<table style="width: 100%;">
 <tbody>
 <tr>
 <td>
 <p><strong> Date of Designation </strong></p>
 </td>
 <td>
-<p>31 May 2024 <br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/1731.pdf">Information on Designation</a>&nbsp; </p>
+<p><a href="_"> MHA Subsidiary Legislation under SIRA </a>&nbsp; <a href="https://sso.agc.gov.sg/SL/SIRA2024-S230-2024?DocDate=20240327"><br> Significant Investments Review (Reviewing Tribunal) Rules 2024</a></p>
 </td>
 </tr>
 <tr>
@@ -357,7 +357,7 @@ one-stop touchpoint for stakeholders.</p>
 <li><input type="checkbox" id="accordion13">  
 <label for="accordion13"> ExxonMobil Asia Pacific Pte. Ltd. (Unique Entity Number: 196800312N) </label>
 <div>  
-<table style="width: 90%;">
+<table style="width: 100%;">
 <tbody>
 <tr>
 <td>
@@ -382,13 +382,13 @@ one-stop touchpoint for stakeholders.</p>
 <tr>
 <td><strong> Subsidiary Legislation </strong></td>
 <td>
-<p><a href="_"> MTI Subsidiary Legislation under SIRA </a>&nbsp; </p>
+<p><a href="_"> MTI Subsidiary Legislation under SIRA </a>&nbsp; <a href="https://sso.agc.gov.sg/SL/SIRA2024-S230-2024?DocDate=20240327"><br> Significant Investments Review (Reviewing Tribunal) Rules 2024</a></p>
 </td></tr></tbody></table></div></li>
 
 <li><input type="checkbox" id="accordion14">  
 <label for="accordion14"> Shell Singapore Pte. Ltd. (Unique Entity Number: 196000089G) </label>
 <div>  
-<table style="width: 90%;">
+<table style="width: 100%;">
 <tbody>
 <tr>
 <td>
@@ -413,13 +413,13 @@ one-stop touchpoint for stakeholders.</p>
 <tr>
 <td><strong> Subsidiary Legislation </strong></td>
 <td>
-<p><a href="_"> MTI Subsidiary Legislation under SIRA </a>&nbsp; </p>
+<p><a href="_"> MTI Subsidiary Legislation under SIRA </a>&nbsp; <a href="https://sso.agc.gov.sg/SL/SIRA2024-S230-2024?DocDate=20240327"><br> Significant Investments Review (Reviewing Tribunal) Rules 2024</a></p>
 </td></tr></tbody></table></div></li>
 	
 <li><input type="checkbox" id="accordion15">  
 <label for="accordion15"> Singapore Refining Company Private Limited (Unique Entity Number: 197900084K) </label>
 <div>  
-<table style="width: 90%;">
+<table style="width: 100%;">
 <tbody>
 <tr>
 <td>
@@ -438,13 +438,13 @@ one-stop touchpoint for stakeholders.</p>
 <tr>
 <td><strong> Subsidiary Legislation </strong></td>
 <td>
-<p><a href="_"> MTI Subsidiary Legislation under SIRA </a>&nbsp; </p>
+<p><a href="_"> MTI Subsidiary Legislation under SIRA </a>&nbsp; <a href="https://sso.agc.gov.sg/SL/SIRA2024-S230-2024?DocDate=20240327"><br> Significant Investments Review (Reviewing Tribunal) Rules 2024</a></p>
 </td></tr></tbody></table></div></li>
 	
 <li><input type="checkbox" id="accordion16">  
 <label for="accordion16"> Aster Chemicals and Energy Pte. Ltd. (Unique Entity Number: 202349112H)</label>
 <div>  
-<table style="width: 90%;">
+<table style="width: 100%;">
 <tbody>
 <tr>
 <td>
@@ -463,13 +463,13 @@ one-stop touchpoint for stakeholders.</p>
 <tr>
 <td><strong> Subsidiary Legislation </strong></td>
 <td>
-<p><a href="_"> MTI Subsidiary Legislation under SIRA </a>&nbsp; </p>
+<p><a href="_"> MTI Subsidiary Legislation under SIRA </a>&nbsp; <a href="https://sso.agc.gov.sg/SL/SIRA2024-S230-2024?DocDate=20240327"><br> Significant Investments Review (Reviewing Tribunal) Rules 2024</a></p>
 </td></tr></tbody></table></div>
 
 </li><li><input type="checkbox" id="accordion17">  
 <label for="accordion17">Sembcorp Specialised Construction Pte. Ltd. (Unique Entity Number: 201908421C)</label>
 <div>  
-<table style="width: 95%;">
+<table style="width: 100%;">
 <tbody>
 <tr>
 <td>
@@ -495,7 +495,7 @@ one-stop touchpoint for stakeholders.</p>
 <tbody><tr>
 <td><strong> Subsidiary Legislation </strong></td>
 <td>
-<p><a href="_"> MINDEF Subsidiary Legislation under SIRA </a>&nbsp; </p>
+<p><a href="_"> MINDEF Subsidiary Legislation under SIRA </a>&nbsp; <a href="https://sso.agc.gov.sg/SL/SIRA2024-S230-2024?DocDate=20240327"><br> Significant Investments Review (Reviewing Tribunal) Rules 2024</a></p>
 </td></tr></tbody></table></div>
 
 </li><li><input type="checkbox" id="accordion18">  
