@@ -333,7 +333,7 @@ one-stop touchpoint for stakeholders.</p>
 <p><strong> Date of Designation </strong></p>
 </td>
 <td>
-<p><a href="_"> MHA Subsidiary Legislation under SIRA </a>&nbsp; <a href="https://sso.agc.gov.sg/SL/SIRA2024-S230-2024?DocDate=20240327"><br> Significant Investments Review (Reviewing Tribunal) Rules 2024</a></p>
+<p>31 May 2024 <br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/1731.pdf">Information on Designation</a>&nbsp; </p>
 </td>
 </tr>
 <tr>
@@ -351,7 +351,7 @@ one-stop touchpoint for stakeholders.</p>
 <tr>
 <td><strong> Subsidiary Legislation </strong></td>
 <td>
-<p><a href="_"> MHA Subsidiary Legislation under SIRA</a>&nbsp; </p>
+<p><a href="_"> MHA Subsidiary Legislation under SIRA </a>&nbsp; <a href="https://sso.agc.gov.sg/SL/SIRA2024-S230-2024?DocDate=20240327"><br> Significant Investments Review (Reviewing Tribunal) Rules 2024</a></p>
 </td></tr></tbody></table></div></li>
 	
 <li><input type="checkbox" id="accordion13">  
