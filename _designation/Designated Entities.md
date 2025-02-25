@@ -74,7 +74,7 @@ one-stop touchpoint for stakeholders.</p>
 <li><input type="checkbox" id="accordion3">  
 <label for="accordion3">Sembcorp Specialised Construction Pte. Ltd. (Unique Entity Number: 201908421C)</label>
 <div>  
-<table style="width: 100%;">
+<table style="width: 130%;">
 <tbody>
 <tr>
 <td>
