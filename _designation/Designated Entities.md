@@ -25,7 +25,7 @@ one-stop touchpoint for stakeholders.</p>
 <p>Date of Designation</p>
 </td>
 <td>
-<p>21 November 2024 <br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/1731.pdf">Information on Designation</a>&nbsp; </p>
+<p>21 November 2024 <br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/3795.pdf">Information on Designation</a>&nbsp; </p>
 </td>
 </tr>
 <tr>
