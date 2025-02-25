@@ -183,10 +183,10 @@ one-stop touchpoint for stakeholders.</p>
 </tr>
 </tbody></table></div></li>
 
-<li><input type="checkbox" id="accordion10">  
-<label for="accordion10"> ST Engineering Digital Systems Pte. Ltd. (Unique Entity Number: 202029257C) </label>
+<li><input type="checkbox" id="accordion7">  
+<label for="accordion7"> ST Engineering Digital Systems Pte. Ltd. (Unique Entity Number: 202029257C) </label>
 <div>  
-<table style="width: 90%;">
+<table style="width: 100%;">
 <tbody>
 <tr>
 <td>
@@ -213,7 +213,7 @@ one-stop touchpoint for stakeholders.</p>
 <li><input type="checkbox" id="accordion8">  
 <label for="accordion8"> ST Engineering Land Systems Ltd. (Unique Entity Number: 197100263N) </label>
 <div>  
-<table style="width: 90%;">
+<table style="width: 100%;">
 <tbody>
 <tr>
 <td>
@@ -237,8 +237,8 @@ one-stop touchpoint for stakeholders.</p>
 </tr>
 </tbody></table></div></li>
 
-<li><input type="checkbox" id="accordion6">  
-<label for="accordion6"> ST Engineering Marine Ltd. (Unique Entity Number: 196800180M) </label>
+<li><input type="checkbox" id="accordion9">  
+<label for="accordion9"> ST Engineering Marine Ltd. (Unique Entity Number: 196800180M) </label>
 <div>  
 <table style="width: 100%;">
 <tbody>
@@ -264,10 +264,10 @@ one-stop touchpoint for stakeholders.</p>
 </tr>
 </tbody></table></div></li>
 	
-<li><input type="checkbox" id="accordion11">  
-<label for="accordion11">ST Logistics Pte. Ltd. (Unique Entity Number: 200412267E)</label>
+<li><input type="checkbox" id="accordion10">  
+<label for="accordion10">ST Logistics Pte. Ltd. (Unique Entity Number: 200412267E)</label>
 <div>  
-<table style="width: 90%;">
+<table style="width: 100%;">
 <tbody>
 <tr>
 <td>
