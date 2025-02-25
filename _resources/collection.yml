@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Guidance Documents.md
+      - "Frequently Asked Questions/FAQs: Transfer of Functions and Powers.md"
       - Frequently Asked Questions/.keep
       - "Frequently Asked Questions/FAQs: Designation Process.md"
       - "Frequently Asked Questions/FAQs: Obligations of Designated Entities.md"
