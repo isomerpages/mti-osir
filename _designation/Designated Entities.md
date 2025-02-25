@@ -71,8 +71,66 @@ one-stop touchpoint for stakeholders.</p>
 <p><a href="https://sso.agc.gov.sg/SL/SIRA2024-S229-2024?DocDate=20240327"> [MTI] Significant Investments Review Regulations 2024 </a>&nbsp; <a href="https://sso.agc.gov.sg/SL/SIRA2024-S230-2024?DocDate=20240327"><br> Significant Investments Review (Reviewing Tribunal) Rules 2024</a></p>
 </td></tr></tbody></table></div></li>
 
+<li><input type="checkbox" id="accordion3">  
+<label for="accordion3">Sembcorp Specialised Construction Pte. Ltd. (Unique Entity Number: 201908421C)</label>
+<div>  
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<p><strong> Date of Designation </strong></p>
+</td>
+<td>
+<p>31 May 2024 <br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/1731.pdf">Information on Designation</a>&nbsp; </p>
+</td>
+</tr>
+<tr>
+<td><strong> Date of Transfer</strong></td>
+<td>
+<p>26 February 2025 <br><a href="_">Information on Transfer</a>&nbsp; </p>
+</td>
+</tr>
+<tr>
+<td><strong> Minister-in-Charge</strong></td>
+<td>
+<p>Minister for Defence </p>
+</td></tr><tr>
+</tr></tbody>
+<tbody><tr>
+<td><strong> Subsidiary Legislation </strong></td>
+<td>
+<p><a href="_">[MINDEF] Significant Investments Review (Composition of Offences - Minister for Defence) Regulations 2025  </a>&nbsp; <a href="https://sso.agc.gov.sg/SL/SIRA2024-S230-2024?DocDate=20240327"><br> Significant Investments Review (Reviewing Tribunal) Rules 2024</a></p>
+</td></tr></tbody></table></div>
 
-
+</li><li><input type="checkbox" id="accordion4">  
+<label for="accordion4"> Shell Singapore Pte. Ltd. (Unique Entity Number: 196000089G) </label>
+<div>  
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<p><strong> Date of Designation </strong></p>
+</td>
+<td>
+<p>31 May 2024 <br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/1731.pdf">Information on Designation</a>&nbsp; </p>
+</td>
+</tr>
+<tr>
+<td><strong> Date of Exemption</strong></td>
+<td>
+<p>31 May 2024 <br><a href="https://assets.egazette.gov.sg/2024/Legislative%20Supplements/Subsidiary%20Legislation%20Supplement/468.pdf">Information on Exemption</a>&nbsp; </p>
+</td>
+</tr>
+<tr>
+<td><strong> Minister-in-Charge</strong></td>
+<td>
+<p>Minister for Trade and Industry </p>
+</td>
+</tr>
+<tr><td><strong> Subsidiary Legislation </strong></td>
+<td>
+<p><a href="https://sso.agc.gov.sg/SL/SIRA2024-S229-2024?DocDate=20240327"> [MTI] Significant Investments Review Regulations 2024 </a>&nbsp; <a href="https://sso.agc.gov.sg/SL/SIRA2024-S230-2024?DocDate=20240327"><br> Significant Investments Review (Reviewing Tribunal) Rules 2024</a></p>
+</td></tr></tbody></table></div></li>
 
 
 
