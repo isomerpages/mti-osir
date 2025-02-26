@@ -62,7 +62,7 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 </p><p> Parties can seek reconsideration from the Minister within 14 calendar days after his decision; after which, they may appeal to a Reviewing Tribunal within 30 calendar days after the reconsideration decision.
 </p></div></li>
 
-<li><input type="checkbox" id="accordion5">
+<ul><li><input type="checkbox" id="accordion5">
 <label for="accordion5">How long will it take to know the outcome of a request for approval?</label><div>
 <p> OSIR will process all applications promptly. Applicants will be notified should more time or documents be required. Applicants can contact OSIR regarding the status or next steps of their application. </p>
 
@@ -82,9 +82,9 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 <ul>
 </ul></li></ul></div></li>
 	
-<li><input type="checkbox" id="accordion6">
+<ul><li><input type="checkbox" id="accordion6">
 <label for="accordion6">What is a Special Administration Order and under what circumstances will it be issued on a designated entity?</label><div>
 
 <p>Special Administration Orders (SAO) will only be exercised in the interest of security and reliability of the continued provisioning of critical functions by the designated entity, or when it is necessary in Singapore’s national security interests. </p>
 
-<p>The Minister may issue SAOs to direct the takeover of control of the affairs, businesses, and property of a designated entity by another party. Other orders can also be issued, such as directing the designated entity to immediately take or cease any action; or appointing a person to advise the designated entity in the proper conduct of its businesses or undertaking.</p></div></li></ul></ul></ul>
+<p>The Minister may issue SAOs to direct the takeover of control of the affairs, businesses, and property of a designated entity by another party. Other orders can also be issued, such as directing the designated entity to immediately take or cease any action; or appointing a person to advise the designated entity in the proper conduct of its businesses or undertaking.</p></div></li></ul></ul></ul></ul></ul>
