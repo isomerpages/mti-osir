@@ -42,6 +42,6 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 </div></li><li><input type="checkbox" id="accordion6">  
 <label for="accordion6">Are there any changes to the submissions for approval or notification?</label><div>
 
-<p>There is no change to the process for notification or approval. Any submissions should be submitted to<a href="mailto:submissions@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank">submissions@osir.gov.sg</a>. The Office of Significant Investments Review will then direct all requests to the relevant Ministers and their respective Ministries.
+<p>There is no change to the process for notification or approval. Any submissions should be submitted to <a href="mailto:submissions@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank">submissions@osir.gov.sg</a>. The Office of Significant Investments Review will then direct all requests to the relevant Ministers and their respective Ministries.
 	
 </p></div></li></ul>
