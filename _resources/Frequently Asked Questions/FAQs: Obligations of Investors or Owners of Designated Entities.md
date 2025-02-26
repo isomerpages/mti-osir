@@ -89,6 +89,49 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 
 <p>The obligations of a potential investor, intermediate holding company or an ultimate parent company to notify or seek approval apply regardless of whether the actions were the result of the intermediate holding company, the ultimate parent company or any other party.</p>
 
-<p>Parties may refer to&nbsp;<a href="https://www.osir.gov.sg/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener nofollow" target="_blank">Overview of Ownership &amp; Control Obligations under SIRA</a> for the prescribed thresholds. The thresholds are default thresholds and may differ for specific entities.</p>
+<p>Parties may refer to<a href="https://www.osir.gov.sg/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener nofollow" target="_blank">Overview of Ownership &amp; Control Obligations under SIRA</a> for the prescribed thresholds. The thresholds are default thresholds and may differ for specific entities.</p>
+
+</div></li><li><input type="checkbox" id="accordion8">
+<label for="accordion8">What are the obligations of the parent entities of designated entities?</label><div>
+
+<p> Only obligations related to changes in direct ownership or control specifically apply to parent entities. For example, if a parent entity seeks to sell off some of its shares in the designated entity and would fall below a prescribed threshold as a result, prior approval would be required for the sale.</p>
+
+<p>Similarly, if a parent entity seeks to increase its shareholding in a designated entity which causes it to cross a prescribed threshold as a result, prior approval would be required.</p>
+
+<p>Parties may refer to&nbsp;<a href="https://www.osir.gov.sg/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener nofollow" target="_blank">Overview of Ownership &amp; Control Obligations under SIRA</a>&nbsp;for the prescribed thresholds. The thresholds are default thresholds and may differ for specific entities.</p>
+
+<p>Parent entities may seek clarification from OSIR at&nbsp;<a href="mailto:contact@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact@osir.gov.sg</a>&nbsp;before the commencement of any formal application.</p>
+
+</div></li><li><input type="checkbox" id="accordion9">
+<label for="accordion9">Does a party have obligations when their equity interests in a designated entity changes as a result of actions by third parties?</label><div>
+
+<p>A party’s obligations arise whether the change in shareholdings or control is the result of its own actions or the actions of any other party.</p>
+
+<p>Examples: </p>
+<ul>
+<li><p>Where a party’s interest meets a prescribed threshold as the result of not participating in a share issuance; or </p>
+    
+</li><li><p>Where a party’s interest meets a prescribed threshold as the result of not participating in a share buyback.</p>
+    
+<p>Parties may refer to <a href="https://www.osir.gov.sg/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener nofollow" target="_blank">Overview of Ownership &amp; Control Obligations under SIRA </a>for the prescribed thresholds. The thresholds are default thresholds and may differ for specific entities. </p>
 	
-</div></li>
+</li><li><input type="checkbox" id="accordion10">
+<label for="accordion10">Does a party need to notify or seek approval when acquiring an equity interest if there is no intention to vote or exercise control over the designated entity?</label><div>
+
+<p>Any party investing in a designated entity, whether they seek control over the designated entity or otherwise, must comply with the obligations under the Significant Investments Review Act if they meet the prescribed thresholds. </p>
+
+<p>Parties may refer to&nbsp;<a href="https://www.osir.gov.sg/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener nofollow" target="_blank">Overview of Ownership &amp; Control Obligations under SIRA </a> for the prescribed thresholds. The thresholds are default thresholds and may differ for specific entities. </p>
+	
+</div></li><li><input type="checkbox" id="accordion11">
+<label for="accordion11">Does a party need to seek approval for the acquisition of equity interest which is exercisable only in the future (e.g. convertible loan, or options)?</label><div>
+
+<p>Under the Significant Investments Review Act, a party will be deemed to have equity interest as long as it has the right to acquire the equity interest or voting power. </p>
+
+<p>This may arise under an option, convertible loan or other arrangement where the equity interest is transferred to (or to the order of) the party, regardless of when the right is exercisable and whether there are conditions tied to it.</p>
+
+<p>Hence, a party entering into any such arrangement will need to notify or seek approval if the equity interest meets the prescribed thresholds.</p>
+
+<p>Parties may refer to&nbsp;[<a href="https://www.osir.gov.sg/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener nofollow" target="_blank">Overview of Ownership &amp; Control Obligations under SIRA </a>&nbsp;for the prescribed thresholds. The thresholds are default thresholds and may differ for specific entities.</p>
+	
+
+</div></li></ul></div></li>
