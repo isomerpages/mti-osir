@@ -63,9 +63,7 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 </li><li><input type="checkbox" id="accordion6">
 <label for="accordion6">Can an entity apply for reconsideration or appeal against a designation, and will the entity remain designated pending the outcome of these processes?</label><div>
 
-<p>Entities cannot be retrospectively designated.</p>
+<p>Parties can seek reconsideration from the Minister within 14 calendar days after his decision on designation; after which, they may appeal to a Reviewing Tribunal within 30 calendar days after the reconsideration decision. </p>
 
-<p>Parties can seek reconsideration from the Minister within 14 calendar days after his decision on designation; after which, they may appeal to a Reviewing Tribunal within 30 calendar days after the reconsideration decision.
-
-The Minister’s decision to designate the entity remains in effect, and must be complied with until it is cancelled on reconsideration. The Minister’s reconsideration decision remains in effect until it is reversed on appeal.</p></div>
+<p> The Minister’s decision to designate the entity remains in effect, and must be complied with until it is cancelled on reconsideration. The Minister’s reconsideration decision remains in effect until it is reversed on appeal.</p></div>
 </li></ul>
