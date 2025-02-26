@@ -31,7 +31,9 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 	
 <p>Should a designated entity subsequently cease to meet these criteria, cancellation of its designation may be possible.</p>
 	
-</div></li><li><input type="checkbox" id="accordion3">
+</div></li>
+
+<li><input type="checkbox" id="accordion3">
 <label for="accordion3">What is the designation process?</label><div>
 	
 <p>Unless considered to be not practicable or desirable to do so, before the Minister designates any entity, notice will be given to the entity of the Minister’s intent to designate it and the entity will generally be given at least 14 calendar days after the date of the notice to make representations on the proposed designation. </p>
@@ -43,3 +45,10 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 <p>Parties may wish to refer to <a href="https://www.osir.gov.sg/designation/designation-process/" rel="noopener noreferrer nofollow" target="_blank"> Designation Process</a> for a step-by-step process flow.</p><p></p>
 
 </div></li></ul>
+
+<li><input type="checkbox" id="accordion4">
+<label for="accordion4">How long will a designated entity be designated for?</label><div>
+
+<p>There is no duration tagged to designation. The entity will be designated for so long as it is in the interest of Singapore's national security.</p>
+
+<p>Any cancellation of designation will be notified in the&nbsp;<a href="https://www.egazette.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Government Gazette</a>. OSIR also maintains and publishes an updated&nbsp;<a href="https://www.osir.gov.sg/designation/designated-entities" rel="noopener noreferrer nofollow" target="_blank">list of designated entities</a>.</p></div></li>
