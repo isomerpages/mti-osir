@@ -46,7 +46,6 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 	<li><p></p>[For corporations] Chief Executive Officers, Directors, and Chairpersons of the Board of Directors;<p></p></li>
   <li><p></p>[For limited liability partnerships] Managers and Partners; and <p></p></li>  
 	<li><p></p>[For partnerships] Partners.</li>  
-
 </ul></div></li>
 
 <li><input type="checkbox" id="accordion4">
