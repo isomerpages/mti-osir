@@ -15,9 +15,9 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 <li><input type="checkbox" id="accordion1">
 <label for="accordion1">What are the key obligations of designated entities?</label><div>
 	
-<p>Key obligations of designated entities include the following:
+<p>Key obligations of designated entities include the following:</p>
 
-</p><ul>
+<ul>
 	<li><p></p><strong><u>Notifying the Minister</u></strong>&nbsp;within 7 calendar days after becoming aware of any relevant change in ownership or control; <p></p></li>
   <li><p></p><strong><u>Seeking the Minister’s approval</u></strong>&nbsp;prior to the appointment of specific key personnel; <p></p></li>  
 	<li><p></p><strong><u>Seeking the Minister’s approval, (together with the acquiror)</u></strong> prior to selling, as a going concern, of (any part of) the business or undertaking; <p></p></li>  
