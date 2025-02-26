@@ -26,7 +26,7 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 
 <p>Please refer to <a href="https://www.osir.gov.sg/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener nofollow" target="_blank">Overview of Ownership &amp; Control Obligations under SIRA</a> for more details on the obligations of a designated entity.&nbsp;  
 
-</p><p>Parties may seek clarification from OSIR at&nbsp;<a href="mailto:contact@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact@osir.gov.sg</a> before the commencement of any formal application.  
+</p><p>Parties may seek clarification from OSIR at <a href="mailto:contact@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact@osir.gov.sg</a> before the commencement of any formal application.  
   
 </p><p>To submit a notification or approval, please download the relevant <a href="https://www.osir.gov.sg/forms/notification-forms/" rel="noopener nofollow" target="_blank">Notification Form</a> or <a href="https://www.osir.gov.sg/forms/approval-forms" rel="noopener nofollow" target="_blank">Approval Form</a> and email the completed form to&nbsp;<a href="mailto:submissions@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank">submissions@osir.gov.sg</a>.</p></ul></div></li>
 
@@ -44,4 +44,17 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 </p><ul>
 	<li><p></p>[For corporations] Chief Executive Officers, Directors, and Chairpersons of the Board of Directors;<p></p></li>
   <li><p></p>[For limited liability partnerships] Managers and Partners; and <p></p></li>  
-	<li><p></p>[For partnerships] Partners.<p></p></li>  </ul></div></li></ul>
+	<li><p></p>[For partnerships] Partners.<p></p></li>  </ul></div></li>
+
+<li><input type="checkbox" id="accordion4">
+<label for="accordion4">What are the guidelines on the criteria for appointing key personnel?</label><div>
+	
+<p>In consideration for the appointment of key personnel, the Minister may consider the following:</p>
+<ul>
+<li><p></p> An assessment of the key personnel on criteria relating, but not limited to honesty, integrity, reputation and financial soundness; and <p></p></li>  
+	<li><p></p> Potential impact on national security interests. <p></p></li></ul>
+    
+<p> Please refer to the&nbsp;<a href="https://www.osir.gov.sg/resources/guidance-documents/" rel="noopener noreferrer nofollow" target="_blank">Guidelines on Criteria for Key Personnel</a>&nbsp;for more information.
+
+Parties can seek reconsideration from the Minister within 14 calendar days after his decision; after which, they may appeal to a Reviewing Tribunal within 30 calendar days after the reconsideration decision.
+</p></div></li></ul>
