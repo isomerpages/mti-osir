@@ -30,4 +30,25 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 </li><li><p></p> <a href="(https://www.osir.gov.sg/about-sira/appointment-of-key-personnel/" rel="noopener nofollow" target="_blank">Appointment of Key Personnel in a Designated Entity</a>
 
 <ul>
-</ul></li></ul></div></li></ul>
+</ul></li></ul></div></li>
+
+<li><input type="checkbox" id="accordion2">
+<label for="accordion2">In consideration for the approval of a transaction, the Minister may consider the following:</label><div>
+	
+<ul>
+<li><p></p>Whether the relevant person is fit and proper where the criteria include but are not limited to honesty, integrity, reputation, and financial soundness;
+
+</li><li><p></p>Whether the designated entity would be able to continue providing its critical function following the proposed transaction; and
+	
+</li><li><p></p>Whether the transaction is aligned with Singapore’s national security interests.
+	
+<p>Please refer to the <a href="https://www.osir.gov.sg/resources/guidance-documents/" rel="noopener nofollow" target="_blank">Guidelines on Fit and Proper Criteria</a>&nbsp;for more information. </p>
+
+<p>Mitigation measures may also be imposed as part of approval of a transaction.</p>
+
+<p>Parties may wish to contact <a href="mailto:contact@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact@osir.gov.sg</a>&nbsp;to discuss appropriate mitigation measures, which would depend on the facts and circumstances of each case. </p>
+
+</li></ul>
+
+
+</div></li></ul>
