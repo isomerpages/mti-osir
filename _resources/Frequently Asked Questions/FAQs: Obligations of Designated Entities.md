@@ -24,7 +24,7 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
   <li><p></p><strong><u>Seeking the Minister’s approval</u></strong>&nbsp;prior to winding up, dissolving, or terminating the entity, the making of any judicial management order or the appointment of any (interim) judicial manager; or <p></p></li>  
   <li><p></p><strong><u>Complying with conditions, directions or orders</u></strong> imposed by the Minister, if any. <p></p></li> </ul>
 
-<p>Please refer to <a href="https://www.osir.gov.sg/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener nofollow" target="_blank">Overview of Ownership &amp; Control Obligations under SIRA</a> for more details on the obligations of a designated entity.&nbsp;  
+<p>Please refer to <a href="https://www.osir.gov.sg/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener nofollow" target="_blank">Overview of Ownership and Control Obligations under SIRA</a> for more details on the obligations of a designated entity.&nbsp;  
 
 </p><p>Parties may seek clarification from OSIR at <a href="mailto:contact@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact@osir.gov.sg</a> before the commencement of any formal application.  
   
