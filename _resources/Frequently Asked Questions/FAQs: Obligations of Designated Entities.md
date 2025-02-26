@@ -30,7 +30,6 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
   
 </p><p>To submit a notification or approval, please download the relevant <a href="https://www.osir.gov.sg/forms/notification-forms/" rel="noopener nofollow" target="_blank">Notification Form</a> or <a href="https://www.osir.gov.sg/forms/approval-forms" rel="noopener nofollow" target="_blank">Approval Form</a> and email the completed form to&nbsp;<a href="mailto:submissions@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank">submissions@osir.gov.sg</a>.</p></div></li>
 
-<ul>
 <li><input type="checkbox" id="accordion2">
 <label for="accordion2">What are the obligations of a designated entity when appointing key personnel?</label><div>
 
@@ -40,7 +39,7 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 	
 </div></li>
 	
-<ul><li><input type="checkbox" id="accordion3">
+<li><input type="checkbox" id="accordion3">
 <label for="accordion3">What is the definition of key personnel?</label><div>
 <p>Key obligations of designated entities include the following:
 
@@ -87,4 +86,4 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 
 <p>Special Administration Orders (SAO) will only be exercised in the interest of security and reliability of the continued provisioning of critical functions by the designated entity, or when it is necessary in Singapore’s national security interests. </p>
 
-<p>The Minister may issue SAOs to direct the takeover of control of the affairs, businesses, and property of a designated entity by another party. Other orders can also be issued, such as directing the designated entity to immediately take or cease any action; or appointing a person to advise the designated entity in the proper conduct of its businesses or undertaking.</p></div></li></ul></ul></ul></ul></ul></ul>
+<p>The Minister may issue SAOs to direct the takeover of control of the affairs, businesses, and property of a designated entity by another party. Other orders can also be issued, such as directing the designated entity to immediately take or cease any action; or appointing a person to advise the designated entity in the proper conduct of its businesses or undertaking.</p></div></li></ul></ul></ul></ul>
