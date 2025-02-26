@@ -18,8 +18,8 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 <p>The Significant Investments Review Act (SIRA) applies to entities that are not designated, but only when the following two criteria are met:</p>
 
 <ul>
-	<p>* The entity has acted against Singapore’s national security interests; and </p>
-	<p>* There has been a transaction which resulted in changes to the entity’s ownership or control within the two years prior to the above-mentioned action by the entity against our national security interests. </p></ul>
+	<p></p><li> The entity has acted against Singapore’s national security interests; and <p></p></li>
+	<p></p><li>There has been a transaction which resulted in changes to the entity’s ownership or control within the two years prior to the above-mentioned action by the entity against our national security interests. <p></p></li></ul>
 	
 <p> Currently, there are already existing laws to deal with egregious acts against national security. For example, under the&nbsp;<a href="https://www.osir.gov.sg/resources/other-legislation/irda/" rel="noopener nofollow" target="_blank">Insolvency, Restructuring and Dissolution Act</a>, the Court may order the winding up of a company if it is being used against Singapore’s national security.&nbsp; However, winding up an entity could affect the continued provisioning of its functions, and may not be the desired outcome. </p>
 
