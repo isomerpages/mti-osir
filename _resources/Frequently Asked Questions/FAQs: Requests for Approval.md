@@ -44,7 +44,6 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
   <li>Approval with condition(s); or</li>  
 	<li>Rejection</li> </ul>
 <p>Where conditional approval is granted, the conditions attached would be determined on a case-by-case basis.</p>
-<p>Mitigation measures may also be imposed as part of approval of a transaction.</p>
 <p>Parties can seek reconsideration from the Minister within 14 calendar days after his decisions; after which, they may appeal to a Reviewing Tribunal within 30 calendar days after the reconsideration decision.</p>
 </div></li>
 
