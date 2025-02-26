@@ -78,7 +78,7 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 	<li><p></p>The transaction was entered into on, or after the designation date of the entity; and&nbsp;</li>
 	<li><p></p>If the transaction meets the prescribed ownership and control thresholds.</li></ul>
     
-<p>Parties may refer to <a href="https://www.osir.gov.sg/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener nofollow" target="_blank">Overview of Ownership &amp; Control Obligations under SIRA</a>&nbsp;for the prescribed ownership or control thresholds. The thresholds are default thresholds and may differ for specific entities.</p>
+<p>Parties may refer to <a href="https://www.osir.gov.sg/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener nofollow" target="_blank">Overview of Ownership and Control Obligations under SIRA</a>&nbsp;for the prescribed ownership or control thresholds. The thresholds are default thresholds and may differ for specific entities.</p>
 
 <p>If any clarification is required, parties may contact OSIR at&nbsp;<a href="mailto:contact@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact@osir.gov.sg</a>.</p></div></li>
 
