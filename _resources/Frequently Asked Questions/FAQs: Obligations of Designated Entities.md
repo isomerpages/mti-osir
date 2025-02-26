@@ -76,7 +76,7 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 	
 </li><li><p></p> <a href="https://www.osir.gov.sg/about-sira/acquiring-business-or-undertaking/" rel="noopener nofollow" target="_blank">Acquisition of the Business or Undertaking of a Designated Entity</a>
 	
-</li><li><p></p> <a href="(https://www.osir.gov.sg/about-sira/appointment-of-key-personnel/" rel="noopener nofollow" target="_blank">Appointment of Key Personnel in a Designated Entity</a>
+</li><li><p></p> <a href="https://www.osir.gov.sg/about-sira/appointment-of-key-personnel/" rel="noopener nofollow" target="_blank">Appointment of Key Personnel in a Designated Entity</a>
 <ul>
 </ul></li></ul></div></li>
 	
