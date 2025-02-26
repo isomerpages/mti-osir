@@ -42,6 +42,15 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 
 <p>While the above are default thresholds set out in the Significant Investments Review Act, the Minister has the flexibility to vary such thresholds for specific entities as the situation warrants, and if so, these will be prescribed in subsidiary legislation.</p>
 
-<p>Parties may wish to refer to&nbsp;<a href="https://www.osir.gov.sg/about-sira/acquiring-equity-interest-or-voting-power/" rel="noopener nofollow" target="_blank">Acquiring Equity Interest or Voting Power in a Designated Entity</a> for a step-by-step process flow.</p>
+<p>Parties may wish to refer to <a href="https://www.osir.gov.sg/about-sira/acquiring-equity-interest-or-voting-power/" rel="noopener nofollow" target="_blank">Acquiring Equity Interest or Voting Power in a Designated Entity</a> for a step-by-step process flow.</p>
 
 <p>Transactions involving the acquisition, as a going concern, of (any part of) the business or undertaking of a designated entity, will also require prior approval.</p></ul></div></li>
+
+<li><input type="checkbox" id="accordion3">
+<label for="accordion3">What are the prescribed thresholds for notification or approval for the sale of equity interest or voting power in a designated entity?</label><div>
+	
+<p>Parties will need to seek approval from the Minister prior to disposing equity interest or voting power in a designated entity which will result in them ceasing to be a 50% or 75% controller.</p>
+
+<p>While the above are default thresholds set out in the Significant Investments Review Act, the Minister has the flexibility to vary such thresholds for specific entities as the situation warrants, and if so, these will be prescribed in subsidiary legislation.</p>
+
+<p>Parties may wish to refer to&nbsp;<a href="https://www.osir.gov.sg/about-sira/disposing-equity-interest-or-voting-power/" rel="noopener nofollow" target="_blank">Disposal of Equity Interest or Voting Power in a Designated Entity</a> for a step-by-step process flow.</p></div></li>
