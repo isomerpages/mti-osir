@@ -91,7 +91,7 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 
 <p>The obligations of a potential investor, intermediate holding company or an ultimate parent company to notify or seek approval apply regardless of whether the actions were the result of the intermediate holding company, the ultimate parent company or any other party.</p>
 
-<p>Parties may refer to<a href="https://www.osir.gov.sg/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener nofollow" target="_blank">Overview of Ownership &amp; Control Obligations under SIRA</a> for the prescribed thresholds. The thresholds are default thresholds and may differ for specific entities.</p>
+<p>Parties may refer to <a href="https://www.osir.gov.sg/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener nofollow" target="_blank">Overview of Ownership and Control Obligations under SIRA</a> for the prescribed thresholds. The thresholds are default thresholds and may differ for specific entities.</p>
 
 </div></li><li><input type="checkbox" id="accordion8">
 <label for="accordion8">What are the obligations of the parent entities of designated entities?</label><div>
@@ -100,7 +100,7 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 
 <p>Similarly, if a parent entity seeks to increase its shareholding in a designated entity which causes it to cross a prescribed threshold as a result, prior approval would be required.</p>
 
-<p>Parties may refer to&nbsp;<a href="https://www.osir.gov.sg/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener nofollow" target="_blank">Overview of Ownership &amp; Control Obligations under SIRA</a>&nbsp;for the prescribed thresholds. The thresholds are default thresholds and may differ for specific entities.</p>
+<p>Parties may refer to&nbsp;<a href="https://www.osir.gov.sg/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener nofollow" target="_blank">Overview of Ownership and Control Obligations under SIRA</a>&nbsp;for the prescribed thresholds. The thresholds are default thresholds and may differ for specific entities.</p>
 
 <p>Parent entities may seek clarification from OSIR at&nbsp;<a href="mailto:contact@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact@osir.gov.sg</a>&nbsp;before the commencement of any formal application.</p>
 
@@ -122,7 +122,7 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 
 <p>Any party investing in a designated entity, whether they seek control over the designated entity or otherwise, must comply with the obligations under the Significant Investments Review Act if they meet the prescribed thresholds. </p>
 
-<p>Parties may refer to&nbsp;<a href="https://www.osir.gov.sg/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener nofollow" target="_blank">Overview of Ownership &amp; Control Obligations under SIRA </a> for the prescribed thresholds. The thresholds are default thresholds and may differ for specific entities. </p>
+<p>Parties may refer to&nbsp;<a href="https://www.osir.gov.sg/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener nofollow" target="_blank">Overview of Ownership and Control Obligations under SIRA </a> for the prescribed thresholds. The thresholds are default thresholds and may differ for specific entities. </p>
 	
 </div></li><li><input type="checkbox" id="accordion11">
 <label for="accordion11">Does a party need to seek approval for the acquisition of equity interest which is exercisable only in the future (e.g. convertible loan, or options)?</label><div>
@@ -133,7 +133,7 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 
 <p>Hence, a party entering into any such arrangement will need to notify or seek approval if the equity interest meets the prescribed thresholds.</p>
 
-<p>Parties may refer to <a href="https://www.osir.gov.sg/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener nofollow" target="_blank">Overview of Ownership &amp; Control Obligations under SIRA </a> for the prescribed thresholds. The thresholds are default thresholds and may differ for specific entities.</p>
+<p>Parties may refer to <a href="https://www.osir.gov.sg/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener nofollow" target="_blank">Overview of Ownership and Control Obligations under SIRA </a> for the prescribed thresholds. The thresholds are default thresholds and may differ for specific entities.</p>
 
 </div></li><li><input type="checkbox" id="accordion12">
 <label for="accordion12">What other regulations may affect transactions?</label><div>
