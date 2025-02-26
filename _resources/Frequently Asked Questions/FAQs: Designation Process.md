@@ -44,11 +44,11 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 
 <p>Parties may wish to refer to <a href="https://www.osir.gov.sg/designation/designation-process/" rel="noopener noreferrer nofollow" target="_blank"> Designation Process</a> for a step-by-step process flow.</p><p></p>
 
-</div></li></ul>
+</div></li>
 
 <li><input type="checkbox" id="accordion4">
 <label for="accordion4">How long will a designated entity be designated for?</label><div>
 
 <p>There is no duration tagged to designation. The entity will be designated for so long as it is in the interest of Singapore's national security.</p>
 
-<p>Any cancellation of designation will be notified in the&nbsp;<a href="https://www.egazette.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Government Gazette</a>. OSIR also maintains and publishes an updated&nbsp;<a href="https://www.osir.gov.sg/designation/designated-entities" rel="noopener noreferrer nofollow" target="_blank">list of designated entities</a>.</p></div></li>
+<p>Any cancellation of designation will be notified in the&nbsp;<a href="https://www.egazette.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Government Gazette</a>. OSIR also maintains and publishes an updated&nbsp;<a href="https://www.osir.gov.sg/designation/designated-entities" rel="noopener noreferrer nofollow" target="_blank">list of designated entities</a>.</p></div></li></ul>
