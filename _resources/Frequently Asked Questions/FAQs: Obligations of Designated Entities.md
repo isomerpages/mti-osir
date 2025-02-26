@@ -33,7 +33,7 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 <li><input type="checkbox" id="accordion2">
 <label for="accordion2">What are the obligations of a designated entity when appointing key personnel?</label><div>
 
-<p>For specified key personnel roles, designated entities will need to seek approval prior to the appointment of any new personnel to those roles. Please refer to&nbsp;<a href="https://www.osir.gov.sg/about-sira/appointment-of-key-personnel/" rel="noopener nofollow" target="_blank">Appointment of Key Personnel in a Designated Entity</a> for a step-by-step process flow. </p>
+<p>For specified key personnel roles, designated entities will need to seek approval prior to the appointment of any new personnel to those roles. Please refer to<a href="https://www.osir.gov.sg/about-sira/appointment-of-key-personnel/" rel="noopener nofollow" target="_blank">Appointment of Key Personnel in a Designated Entity</a> for a step-by-step process flow. </p>
 
 <p>The Minister may require the removal of an appointed key personnel of a designated entity if this was done without the necessary approval, or if any condition of approval has been breached. The Minister can also require the removal of any key personnel if deemed necessary in the interest of national security. </p>
 	
@@ -57,4 +57,24 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 <p> Please refer to the&nbsp;<a href="https://www.osir.gov.sg/resources/guidance-documents/" rel="noopener noreferrer nofollow" target="_blank">Guidelines on Criteria for Key Personnel</a> for more information.
 
 </p><p> Parties can seek reconsideration from the Minister within 14 calendar days after his decision; after which, they may appeal to a Reviewing Tribunal within 30 calendar days after the reconsideration decision.
-</p></div></li></ul>
+</p></div></li>
+
+<li><input type="checkbox" id="accordion5">
+<label for="accordion5">How long will it take to know the outcome of a request for approval?</label><div>
+<p> OSIR will process all applications promptly. Applicants will be notified should more time or documents be required. Applicants can contact OSIR regarding the status or next steps of their application. </p>
+
+<p>Parties may wish to contact&nbsp;<a href="mailto:contact@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact@osir.gov.sg</a>&nbsp;on any clarifications prior to the commencement of any formal application. </p>
+
+<p> Please refer to the pages below for the step-by-step process flows for:</p>
+<ul>
+	
+<li><p></p> <a href="https://www.osir.gov.sg/about-sira/acquiring-equity-interest-or-voting-power/" rel="noopener nofollow" target="_blank">Acquiring Equity Interest or Voting Power in a Designated Entity</a>
+  
+</li><li><p></p> <a href="https://www.osir.gov.sg/about-sira/disposing-equity-interest-or-voting-power/" rel="noopener nofollow" target="_blank">Disposal of Equity Interest or Voting Power in a Designated Entity</a>
+	
+</li><li><p></p> <a href="https://www.osir.gov.sg/about-sira/acquiring-business-or-undertaking/" rel="noopener nofollow" target="_blank">Acquisition of the Business or Undertaking of a Designated Entity</a>
+	
+</li><li><p></p> <a href="(https://www.osir.gov.sg/about-sira/appointment-of-key-personnel/" rel="noopener nofollow" target="_blank">Appointment of Key Personnel in a Designated Entity</a>
+
+<ul>
+</ul></li></ul></div></li></ul>
