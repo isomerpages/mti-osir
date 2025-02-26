@@ -33,7 +33,7 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 <li><input type="checkbox" id="accordion2">
 <label for="accordion2">What are the obligations of a designated entity when appointing key personnel?</label><div>
 
-<p>For specified key personnel roles, designated entities will need to seek approval prior to the appointment of any new personnel to those roles. Please refer to<a href="https://www.osir.gov.sg/about-sira/appointment-of-key-personnel/" rel="noopener nofollow" target="_blank">Appointment of Key Personnel in a Designated Entity</a> for a step-by-step process flow.</p>
+<p>For specified key personnel roles, designated entities will need to seek approval prior to the appointment of any new personnel to those roles. Please refer to <a href="https://www.osir.gov.sg/about-sira/appointment-of-key-personnel/" rel="noopener nofollow" target="_blank">Appointment of Key Personnel in a Designated Entity</a> for a step-by-step process flow.</p>
 
 <p>The Minister may require the removal of an appointed key personnel of a designated entity if this was done without the necessary approval, or if any condition of approval has been breached. The Minister can also require the removal of any key personnel if deemed necessary in the interest of national security. </p>
 </div></li>
@@ -45,7 +45,7 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 <ul>
 	<li><p></p>[For corporations] Chief Executive Officers, Directors, and Chairpersons of the Board of Directors;<p></p></li>
   <li><p></p>[For limited liability partnerships] Managers and Partners; and <p></p></li>  
-	<li><p></p>[For partnerships] Partners.<p></p></li>  
+	<li><p></p>[For partnerships] Partners.</li>  
 
 </ul></div></li>
 
@@ -78,7 +78,6 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 </li><li><p></p> <a href="https://www.osir.gov.sg/about-sira/acquiring-business-or-undertaking/" rel="noopener nofollow" target="_blank">Acquisition of the Business or Undertaking of a Designated Entity</a>
 	
 </li><li><p></p> <a href="(https://www.osir.gov.sg/about-sira/appointment-of-key-personnel/" rel="noopener nofollow" target="_blank">Appointment of Key Personnel in a Designated Entity</a>
-
 <ul>
 </ul></li></ul></div></li>
 	
