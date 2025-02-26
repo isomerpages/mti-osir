@@ -61,7 +61,7 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 
 <li><input type="checkbox" id="accordion6">
 <label for="accordion6">Can multiple parties submit a single application for the same transaction?</label><div>
-<p>The Significant Investments Review Act has been designed to be business-friendly.</p>&nbsp;
+<p>The Significant Investments Review Act has been designed to be business-friendly.</p>
 <p>If multiple parties to a particular transaction wish to submit a consolidated notification or application for approval (as applicable to their respective scenarios), they may do so.</p>
 <p>They will need to provide appropriate evidence of authorisation that the party responsible for the submission is doing so on behalf of the relevant parties.</p>
 <p>Parties may seek clarification from OSIR at&nbsp;<a href="mailto:contact@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact@osir.gov.sg</a>before the commencement of any formal application.</p>
