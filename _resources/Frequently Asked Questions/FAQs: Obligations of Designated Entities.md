@@ -77,4 +77,11 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 </li><li><p></p> <a href="(https://www.osir.gov.sg/about-sira/appointment-of-key-personnel/" rel="noopener nofollow" target="_blank">Appointment of Key Personnel in a Designated Entity</a>
 
 <ul>
-</ul></li></ul></div></li></ul>
+</ul></li></ul></div></li>
+	
+<li><input type="checkbox" id="accordion6">
+<label for="accordion6">What is a Special Administration Order and under what circumstances will it be issued on a designated entity?</label><div>
+
+<p>Special Administration Orders (SAO) will only be exercised in the interest of security and reliability of the continued provisioning of critical functions by the designated entity, or when it is necessary in Singapore’s national security interests. </p>
+
+<p>The Minister may issue SAOs to direct the takeover of control of the affairs, businesses, and property of a designated entity by another party. Other orders can also be issued, such as directing the designated entity to immediately take or cease any action; or appointing a person to advise the designated entity in the proper conduct of its businesses or undertaking.</p></div></li></ul>
