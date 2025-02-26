@@ -28,7 +28,7 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 
 <p><strong><u>Designated entities</u></strong>
 </p><ul><li><p></p>After becoming aware of a change in ownership or control; or<p></p>
-</li><li>If it is seeking to sell (any part of) the business or undertaking, as a going concern.<p></p></li>
+</li><li>If it is seeking to sell (any part of) the business or undertaking, as a going concern.</li>
 
 </ul></div></li>
 
