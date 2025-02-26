@@ -28,7 +28,9 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 
 <p><strong><u>Designated entities</u></strong>
 </p><ul><li><p></p>After becoming aware of a change in ownership or control; or<p></p>
-</li><li>If it is seeking to sell (any part of) the business or undertaking, as a going concern.<p></p></li></ul></div></li></ul>
+</li><li>If it is seeking to sell (any part of) the business or undertaking, as a going concern.<p></p></li>
+
+</ul></div></li>
 
 <li><input type="checkbox" id="accordion2">
 <label for="accordion2">What are the prescribed thresholds for notification or approval for the acquisition of equity interest or voting power in a designated entity?</label><div>
@@ -140,4 +142,4 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 
 <p>Please refer to&nbsp;<a href="https://www.osir.gov.sg/resources/other-legislation/sectoral-legislation/" rel="noopener nofollow" target="_blank">Sectoral Legislation with O&amp;C provisions</a> to see examples of other domestic sectoral legislation in Singapore and their respective regulators.</p>
 	
-</div></li></ul></div></li>
+</div></li></ul></div></li></ul>
