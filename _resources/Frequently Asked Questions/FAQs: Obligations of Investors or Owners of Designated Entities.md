@@ -79,3 +79,16 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 <p>Parties may refer to <a href="https://www.osir.gov.sg/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener nofollow" target="_blank">Overview of Ownership &amp; Control Obligations under SIRA</a>&nbsp;for the prescribed ownership or control thresholds. The thresholds are default thresholds and may differ for specific entities.</p>
 
 <p>If any clarification is required, parties may contact OSIR at&nbsp;<a href="mailto:contact@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact@osir.gov.sg</a>.</p></div></li>
+
+<li><input type="checkbox" id="accordion7">
+<label for="accordion7">Is notification or approval needed if a party is investing into a holding company of a designated entity?</label><div>
+	
+<p>Whether an intermediate holding company or an ultimate parent company will be subject to the ownership and control obligations in the Act is fact-specific, depending on the extent and nature of control they have in the designated entity.</p>
+
+<p>For example, where an intermediate holding company or an ultimate parent company owner’s total investment holding reaches a prescribed threshold, the relevant notification or approval obligations may apply.&nbsp;</p>
+
+<p>The obligations of a potential investor, intermediate holding company or an ultimate parent company to notify or seek approval apply regardless of whether the actions were the result of the intermediate holding company, the ultimate parent company or any other party.</p>
+
+<p>Parties may refer to&nbsp;<a href="https://www.osir.gov.sg/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener nofollow" target="_blank">Overview of Ownership &amp; Control Obligations under SIRA</a> for the prescribed thresholds. The thresholds are default thresholds and may differ for specific entities.</p>
+	
+</div></li>
