@@ -20,13 +20,13 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 
 </li><li><input type="checkbox" id="accordion2">  
 <label for="accordion2">What is the process for submitting a reconsideration application and are there any fees?</label><div>  
-<p>Parties may seek reconsideration from the Minister within 14 calendar days after receiving the decision. They may use the&nbsp;<a href="https://www.osir.gov.sg/forms/reconsideration-and-appeal-forms" rel="noopener nofollow" target="_blank">Reconsideration Application Form </a> and email the completed form to&nbsp;<a href="mailto:submissions@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank">submissions@osir.gov.sg</a>.</p>
+<p>Parties may seek reconsideration from the Minister within 14 calendar days after receiving the decision. They may use the <a href="https://www.osir.gov.sg/forms/reconsideration-and-appeal-forms" rel="noopener nofollow" target="_blank"> Reconsideration Application Form </a> and email the completed form to&nbsp;<a href="mailto:submissions@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank">submissions@osir.gov.sg</a>.</p>
 
 <p>There are no fees payable when submitting a reconsideration application. </p>
 
 <p>The Minister's decision must be complied with and remains in effect until it is cancelled or substituted on reconsideration. No further reconsideration can be made after Minister makes a decision on the reconsideration application.</p>
 
-<p>Parties may wish to refer to&nbsp;<a href="https://www.osir.gov.sg/about-sira/reconsideration-and-appeal/" rel="noopener nofollow" target="_blank">Reconsideration Process </a>&nbsp;for a step-by-step process flow.</p></div>
+<p>Parties may wish to refer to <a href="https://www.osir.gov.sg/about-sira/reconsideration-and-appeal/" rel="noopener nofollow" target="_blank">Reconsideration Process </a> for a step-by-step process flow.</p></div>
 
 </li><li><input type="checkbox" id="accordion3">  
 <label for="accordion3">What is the process for submitting an appeal and are there any fees?</label><div>  
@@ -34,7 +34,7 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 
 </p><p>Parties will be required to pay the prescribed appeal fee of $200 as part of the application. </p>
 
-<p>Appellants may use the relevant form available on&nbsp;<a href="https://www.mti.gov.sg/SIRA/Significant-Investments-Review-Act" rel="noopener nofollow" target="_blank">MTI website</a>&nbsp;and email the completed form to&nbsp;<a href="mailto:secretary@siratribunal.gov.sg" rel="noopener noreferrer nofollow" target="_blank">secretary@siratribunal.gov.sg</a>. </p>
+<p>Appellants may use the relevant form available on <a href="https://www.mti.gov.sg/SIRA/Significant-Investments-Review-Act" rel="noopener nofollow" target="_blank">MTI website</a>&nbsp;and email the completed form to <a href="mailto:secretary@siratribunal.gov.sg" rel="noopener noreferrer nofollow" target="_blank">secretary@siratribunal.gov.sg</a>. </p>
 
 <p>The Minister's reconsideration decision remains in effect until it is reversed on appeal. The Reviewing Tribunal's decision is final.</p>
 
@@ -46,9 +46,9 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 
 </li><li><input type="checkbox" id="accordion5">  
 <label for="accordion5">What is the timeline for the Minister to arrive at a reconsideration outcome, or for the Reviewing Tribunal to make its decision on an appeal?</label><div>  
-<p>Given that there may be diverse and complex considerations relating to national security concerns, decision-making authorities should be allowed adequate time to conduct thorough assessments and properly review the case before them.&nbsp;
-
-</p><p>Nonetheless, we will endeavour to process all applications for reconsideration and appeal expeditiously.</p></div>	
+<p>Given that there may be diverse and complex considerations relating to national security concerns, decision-making authorities should be allowed adequate time to conduct thorough assessments and properly review the case before them.</p>
+	
+<p>Nonetheless, we will endeavour to process all applications for reconsideration and appeal expeditiously.</p></div>	
 	
 </li> 
 </ul>
