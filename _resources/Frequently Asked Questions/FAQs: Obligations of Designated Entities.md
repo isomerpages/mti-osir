@@ -33,22 +33,23 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 <li><input type="checkbox" id="accordion2">
 <label for="accordion2">What are the obligations of a designated entity when appointing key personnel?</label><div>
 
-<p>For specified key personnel roles, designated entities will need to seek approval prior to the appointment of any new personnel to those roles. Please refer to<a href="https://www.osir.gov.sg/about-sira/appointment-of-key-personnel/" rel="noopener nofollow" target="_blank">Appointment of Key Personnel in a Designated Entity</a> for a step-by-step process flow. </p>
+<p>For specified key personnel roles, designated entities will need to seek approval prior to the appointment of any new personnel to those roles. Please refer to<a href="https://www.osir.gov.sg/about-sira/appointment-of-key-personnel/" rel="noopener nofollow" target="_blank">Appointment of Key Personnel in a Designated Entity</a> for a step-by-step process flow.</p>
 
 <p>The Minister may require the removal of an appointed key personnel of a designated entity if this was done without the necessary approval, or if any condition of approval has been breached. The Minister can also require the removal of any key personnel if deemed necessary in the interest of national security. </p>
-	
 </div></li>
 	
 <li><input type="checkbox" id="accordion3">
 <label for="accordion3">What is the definition of key personnel?</label><div>
-<p>Key obligations of designated entities include the following:
+<p>Key obligations of designated entities include the following:</p>
 
-</p><ul>
+<ul>
 	<li><p></p>[For corporations] Chief Executive Officers, Directors, and Chairpersons of the Board of Directors;<p></p></li>
   <li><p></p>[For limited liability partnerships] Managers and Partners; and <p></p></li>  
-	<li><p></p>[For partnerships] Partners.<p></p></li>  </ul></div></li>
+	<li><p></p>[For partnerships] Partners.<p></p></li>  
 
-<ul><li><input type="checkbox" id="accordion4">
+</ul></div></li>
+
+<li><input type="checkbox" id="accordion4">
 <label for="accordion4">What are the guidelines on the criteria for appointing key personnel?</label><div>
 	
 <p>In consideration for the appointment of key personnel, the Minister may consider the following:</p>
@@ -86,4 +87,4 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 
 <p>Special Administration Orders (SAO) will only be exercised in the interest of security and reliability of the continued provisioning of critical functions by the designated entity, or when it is necessary in Singapore’s national security interests. </p>
 
-<p>The Minister may issue SAOs to direct the takeover of control of the affairs, businesses, and property of a designated entity by another party. Other orders can also be issued, such as directing the designated entity to immediately take or cease any action; or appointing a person to advise the designated entity in the proper conduct of its businesses or undertaking.</p></div></li></ul></ul></ul></ul>
+<p>The Minister may issue SAOs to direct the takeover of control of the affairs, businesses, and property of a designated entity by another party. Other orders can also be issued, such as directing the designated entity to immediately take or cease any action; or appointing a person to advise the designated entity in the proper conduct of its businesses or undertaking.</p></div></li></ul></ul></ul>
