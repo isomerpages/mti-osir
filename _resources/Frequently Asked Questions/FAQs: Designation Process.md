@@ -42,7 +42,7 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 
 <p>Parties can seek reconsideration from the Minister within 14 calendar days after his decisions; after which, they may appeal to a Reviewing Tribunal within 30 calendar days after the reconsideration outcome.</p>
 
-<p>Parties may wish to refer to <a href="https://www.osir.gov.sg/designation/designation-process/" rel="noopener noreferrer nofollow" target="_blank"> Designation Process</a> for a step-by-step process flow.</p><p></p>
+<p>Parties may wish to refer to <a href="https://www.osir.gov.sg/designation/designation-process/" rel="noopener noreferrer nofollow" target="_blank"> Designation Process</a> for a step-by-step process flow.</p>
 
 </div></li>
 
