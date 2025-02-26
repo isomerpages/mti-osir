@@ -53,4 +53,15 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 
 <p>While the above are default thresholds set out in the Significant Investments Review Act, the Minister has the flexibility to vary such thresholds for specific entities as the situation warrants, and if so, these will be prescribed in subsidiary legislation.</p>
 
-<p>Parties may wish to refer to&nbsp;<a href="https://www.osir.gov.sg/about-sira/disposing-equity-interest-or-voting-power/" rel="noopener nofollow" target="_blank">Disposal of Equity Interest or Voting Power in a Designated Entity</a> for a step-by-step process flow.</p></div></li>
+<p>Parties may wish to refer to <a href="https://www.osir.gov.sg/about-sira/disposing-equity-interest-or-voting-power/" rel="noopener nofollow" target="_blank">Disposal of Equity Interest or Voting Power in a Designated Entity</a> for a step-by-step process flow.</p></div></li>
+
+<li><input type="checkbox" id="accordion4">
+<label for="accordion4">What are the obligations when buying a business from a designated entity?</label><div>
+
+<p>The acquiror, together with the designated entity, will need to seek approval from the Minister prior to the acquisition, as a going concern, of (any part of) the business or undertaking of the designated entity.</p>
+
+<p>Parties may wish to refer to <a href="https://www.osir.gov.sg/about-sira/acquiring-business-or-undertaking/" rel="noopener nofollow" target="_blank">Acquisition of the Business or undertaking of a Designated Entity</a>&nbsp;for a step-by-step process flow. </p>
+	
+</div></li><li><input type="checkbox" id="accordion5">
+<label for="accordion5">Are the notification and approval obligations applicable to divestments, mergers, and acquisitions?</label><div>
+<p>Regardless of the form of transaction, whenever a prescribed ownership or control threshold is met, or will be met, the relevant notification or approval obligation will apply.</p></div></li>
