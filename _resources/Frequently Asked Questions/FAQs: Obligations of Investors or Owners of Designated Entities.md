@@ -40,13 +40,13 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 <p>The default obligations are:</p>
 
 <ul><li><p></p>Notifying the Minister within 7 calendar days after becoming a 5% controller in a designated entity; and </li><p></p>
-<li><p></p>Seeking the Minister’s approval before becoming a 12%, 25%, or 50% controller in a designated entity. </li><p></p>
+<li><p></p>Seeking the Minister’s approval before becoming a 12%, 25%, or 50% controller in a designated entity. </li><p></p></ul>
 
 <p>While the above are default thresholds set out in the Significant Investments Review Act, the Minister has the flexibility to vary such thresholds for specific entities as the situation warrants, and if so, these will be prescribed in subsidiary legislation.</p>
 
 <p>Parties may wish to refer to <a href="https://www.osir.gov.sg/about-sira/acquiring-equity-interest-or-voting-power/" rel="noopener nofollow" target="_blank">Acquiring Equity Interest or Voting Power in a Designated Entity</a> for a step-by-step process flow.</p>
 
-<p>Transactions involving the acquisition, as a going concern, of (any part of) the business or undertaking of a designated entity, will also require prior approval.</p></ul></div></li>
+<p>Transactions involving the acquisition, as a going concern, of (any part of) the business or undertaking of a designated entity, will also require prior approval.</p></div></li></ul>
 
 <li><input type="checkbox" id="accordion3">
 <label for="accordion3">What are the prescribed thresholds for notification or approval for the sale of equity interest or voting power in a designated entity?</label><div>
@@ -140,5 +140,4 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 
 <p>Parties involved in transactions pertaining to an entity that is not designated under the Significant Investments Review Act, but covered by other domestic sectoral legislation may need to notify or seek approval from the relevant regulator in accordance with the relevant domestic sectoral legislation. </p>
 
-<p>Please refer to&nbsp;<a href="https://www.osir.gov.sg/resources/other-legislation/sectoral-legislation/" rel="noopener nofollow" target="_blank">Sectoral Legislation with O&amp;C provisions</a> to see examples of other domestic sectoral legislation in Singapore and their respective regulators.</p></div></li></ul>
-	
+<p>Please refer to&nbsp;<a href="https://www.osir.gov.sg/resources/other-legislation/sectoral-legislation/" rel="noopener nofollow" target="_blank">Sectoral Legislation with O&amp;C provisions</a> to see examples of other domestic sectoral legislation in Singapore and their respective regulators.</p></div></li>
