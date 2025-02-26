@@ -10,18 +10,39 @@ legislation and manages significant investments into critical entities,
 to safeguard Singapore's national security interests. This will provide
 businesses and investors with continued confidence in Singapore as a stable,
 trusted, and well-connected global business and investment hub.</p>
-<p>Click to access the following via Singapore Statutes Online:</p>
+<p>Click to access the relevant legislation for SIRA via Singapore Statutes
+Online:</p>
 <ol data-tight="true" class="tight">
 <li>
 <p><a href="https://sso.agc.gov.sg/Act/SIRA2024" rel="noopener noreferrer nofollow" target="_blank">SIRA</a>
 </p>
 </li>
 <li>
+<p><a href="https://sso.agc.gov.sg/SL/SIRA2024-S230-2024?DocDate=20240327" rel="noopener noreferrer nofollow" target="_blank">Significant Investments Review (Reviewing Tribunal) Rules 2024</a>
+</p>
+</li>
+</ol>
+<p><strong>Subsidiary legislation under SIRA for the Ministry of Trade and Industry:</strong>
+</p>
+<ol start="3" data-tight="true" class="tight">
+<li>
 <p><a href="https://sso.agc.gov.sg/SL/SIRA2024-S229-2024?DocDate=20240327" rel="noopener noreferrer nofollow" target="_blank">Significant Investments Review Regulations 2024</a>
 </p>
 </li>
+</ol>
+<p><strong>Subsidiary legislation under SIRA for the Ministry of Defence:</strong>
+</p>
+<ol start="4" data-tight="true" class="tight">
 <li>
-<p><a href="https://sso.agc.gov.sg/SL/SIRA2024-S230-2024?DocDate=20240327" rel="noopener noreferrer nofollow" target="_blank">Significant Investments Review (Reviewing Tribunal) Rules 2024</a>
+<p><em>To be updated</em>
+</p>
+</li>
+</ol>
+<p><strong>Subsidiary legislation under SIRA for the Ministry of Home Affairs:</strong>
+</p>
+<ol start="5" data-tight="true" class="tight">
+<li>
+<p><em>To be updated</em>
 </p>
 </li>
 </ol>

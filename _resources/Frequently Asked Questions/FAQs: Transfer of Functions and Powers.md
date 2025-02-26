@@ -1,0 +1,35 @@
+---
+title: "FAQs: Transfer of Functions and Powers"
+permalink: /resources/faqs/transfer-of-functions-and-powers/
+variant: markdown
+description: ""
+third_nav_title: Frequently Asked Questions
+---
+<p>The FAQs are intended to provide guidance to parties on the policy provisions
+and the administration of SIRA. They do not constitute as legal advice.</p>
+<p>If you have further clarifications, feel free to contact us at <a href="" rel="noopener nofollow" target="_blank">contact@osir.gov.sg.</a>
+</p>
+<p>You may navigate other sections of FAQs from the menu bar.</p>
+
+<ul class="jekyllcodex_accordion">  
+  
+<li><input type="checkbox" id="accordion1">  
+<label for="accordion1">Which entities have been designated?</label><div>  
+<p>All designation of entities will be notified in the <a href="https://www.egazette.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Government Gazette</a>.
+OSIR also maintains and publishes an updated <a href="https://www.osir.gov.sg/designation/designated-entities/" rel="noopener noreferrer nofollow" target="_blank">list of designated entities</a>.</p>  
+</div></li>  
+  
+<li><input type="checkbox" id="accordion2">  
+<label for="accordion2">What are the considerations in designating an entity?</label><div>  
+<p>Designation is not a process treated lightly and will only be done, if necessary, in the interest of Singapore’s national security. </p>
+
+<p>Various factors will be taken into consideration in deciding which entities should be considered for designation. These include: </p>
+<ul>
+	<p></p><li> Whether the entity provides a critical function in relation to Singapore’s national security interests, such as the delivery of essential goods or services to Singapore; and <p></p></li>
+	<p></p><li>Whether the entity is adequately covered by sectoral legislation. <p></p></li></ul>
+	
+<p> Should a designated entity subsequently cease to meet these criteria, cancellation of its designation may be possible. </p>
+	
+</div></li>  
+
+</ul>
