@@ -99,7 +99,7 @@ one-stop touchpoint for stakeholders.</p>
 <tbody><tr>
 <td> Subsidiary Legislation</td>
 <td>
-1. <a href="_">[MINDEF] To be updated</a>&nbsp; <br> 2. <a href="https://sso.agc.gov.sg/SL/SIRA2024-S230-2024?DocDate=20240327">Significant Investments Review (Reviewing Tribunal) Rules 2024</a>
+1. [MINDEF] To be updated<br> 2. <a href="https://sso.agc.gov.sg/SL/SIRA2024-S230-2024?DocDate=20240327">Significant Investments Review (Reviewing Tribunal) Rules 2024</a>
 </td></tr></tbody></table></div>
 
 </li><li><input type="checkbox" id="accordion4">  
@@ -182,7 +182,7 @@ one-stop touchpoint for stakeholders.</p>
 </td>
 </tr><tr><td>Subsidiary Legislation</td>
 <td>
-1. <a href="_">[MINDEF] To be updated</a>&nbsp;<br> 2.  <a href="https://sso.agc.gov.sg/SL/SIRA2024-S230-2024?DocDate=20240327">Significant Investments Review (Reviewing Tribunal) Rules 2024</a>
+1. [MINDEF] To be updated<br> 2.  <a href="https://sso.agc.gov.sg/SL/SIRA2024-S230-2024?DocDate=20240327">Significant Investments Review (Reviewing Tribunal) Rules 2024</a>
 </td></tr></tbody></table></div>
 	
 </li><li><input type="checkbox" id="accordion7">  
@@ -211,7 +211,7 @@ one-stop touchpoint for stakeholders.</p>
 </td>
 </tr><tr><td>Subsidiary Legislation</td>
 <td>
-1. <a href="_">[MINDEF] To be updated</a>&nbsp; <br> 2.  <a href="https://sso.agc.gov.sg/SL/SIRA2024-S230-2024?DocDate=20240327"> Significant Investments Review (Reviewing Tribunal) Rules 2024</a>
+1. [MINDEF] To be updated<br> 2.  <a href="https://sso.agc.gov.sg/SL/SIRA2024-S230-2024?DocDate=20240327"> Significant Investments Review (Reviewing Tribunal) Rules 2024</a>
 </td></tr></tbody></table></div>
 
 </li><li><input type="checkbox" id="accordion8">  
@@ -240,7 +240,7 @@ one-stop touchpoint for stakeholders.</p>
 </td>
 </tr><tr><td>Subsidiary Legislation</td>
 <td>
-1. <a href="_">[MINDEF] To be updated</a>&nbsp; <br> 2. <a href="https://sso.agc.gov.sg/SL/SIRA2024-S230-2024?DocDate=20240327"> Significant Investments Review (Reviewing Tribunal) Rules 2024</a>
+1. [MINDEF] To be updated <br> 2. <a href="https://sso.agc.gov.sg/SL/SIRA2024-S230-2024?DocDate=20240327"> Significant Investments Review (Reviewing Tribunal) Rules 2024</a>
 </td></tr></tbody></table></div>
 
 </li><li><input type="checkbox" id="accordion9">  
@@ -269,7 +269,7 @@ one-stop touchpoint for stakeholders.</p>
 </td>
 </tr><tr><td>Subsidiary Legislation</td>
 <td>
-1. <a href="_">[MINDEF] To be updated</a>&nbsp;<br> 2.  <a href="https://sso.agc.gov.sg/SL/SIRA2024-S230-2024?DocDate=20240327">Significant Investments Review (Reviewing Tribunal) Rules 2024</a>
+1. [MINDEF] To be updated<br> 2.  <a href="https://sso.agc.gov.sg/SL/SIRA2024-S230-2024?DocDate=20240327">Significant Investments Review (Reviewing Tribunal) Rules 2024</a>
 </td></tr></tbody></table></div>
 	
 </li><li><input type="checkbox" id="accordion10">  
@@ -298,7 +298,7 @@ one-stop touchpoint for stakeholders.</p>
 </td>
 </tr><tr><td>Subsidiary Legislation</td>
 <td>
-1. <a href="_">[MHA] To be updated  </a>&nbsp; <br> 2. <a href="https://sso.agc.gov.sg/SL/SIRA2024-S230-2024?DocDate=20240327">Significant Investments Review (Reviewing Tribunal) Rules 2024</a>
+1. [MINDEF] To be updated<br> 2. <a href="https://sso.agc.gov.sg/SL/SIRA2024-S230-2024?DocDate=20240327">Significant Investments Review (Reviewing Tribunal) Rules 2024</a>
 </td></tr></tbody></table></div>
 
 <p><em>Note: Any formerly designated entities will also be listed on this page.</em>
