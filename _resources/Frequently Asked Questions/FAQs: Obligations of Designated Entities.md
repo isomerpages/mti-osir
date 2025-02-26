@@ -54,7 +54,7 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 <li><p></p> An assessment of the key personnel on criteria relating, but not limited to honesty, integrity, reputation and financial soundness; and <p></p></li>  
 	<li><p></p> Potential impact on national security interests. <p></p></li></ul>
     
-<p> Please refer to the&nbsp;<a href="https://www.osir.gov.sg/resources/guidance-documents/" rel="noopener noreferrer nofollow" target="_blank">Guidelines on Criteria for Key Personnel</a>&nbsp;for more information.
+<p> Please refer to the&nbsp;<a href="https://www.osir.gov.sg/resources/guidance-documents/" rel="noopener noreferrer nofollow" target="_blank">Guidelines on Criteria for Key Personnel</a> for more information.
 
-Parties can seek reconsideration from the Minister within 14 calendar days after his decision; after which, they may appeal to a Reviewing Tribunal within 30 calendar days after the reconsideration decision.
+</p><p> Parties can seek reconsideration from the Minister within 14 calendar days after his decision; after which, they may appeal to a Reviewing Tribunal within 30 calendar days after the reconsideration decision.
 </p></div></li></ul>
