@@ -87,7 +87,7 @@ one-stop touchpoint for stakeholders.</p>
 <tr>
 <td> Date of Transfer</td>
 <td>
-<p>26 February 2025 <br><a href="_">Information on Transfer</a>&nbsp; </p>
+<p>26 February 2025 <br><a href="https://assets.egazette.gov.sg/2025/Government%20Gazette/Notices%20under%20other%20Acts/0679.pdf">Information on Transfer</a>&nbsp; </p>
 </td>
 </tr>
 <tr>
@@ -172,7 +172,7 @@ one-stop touchpoint for stakeholders.</p>
 <tr>
 <td>Date of Transfer</td>
 <td>
-<p> 26 February 2025 <br><a href="_">Information on Transfer</a>&nbsp; </p>
+<p> 26 February 2025 <br><a href="https://assets.egazette.gov.sg/2025/Government%20Gazette/Notices%20under%20other%20Acts/0679.pdf">Information on Transfer</a>&nbsp; </p>
 </td>
 </tr>
 <tr>
@@ -201,7 +201,7 @@ one-stop touchpoint for stakeholders.</p>
 <tr>
 <td>Date of Transfer</td>
 <td>
-<p> 26 February 2025 <br><a href="_">Information on Transfer</a>&nbsp; </p>
+<p> 26 February 2025 <br><a href="https://assets.egazette.gov.sg/2025/Government%20Gazette/Notices%20under%20other%20Acts/0679.pdf">Information on Transfer</a>&nbsp; </p>
 </td>
 </tr>
 <tr>
@@ -230,7 +230,7 @@ one-stop touchpoint for stakeholders.</p>
 <tr>
 <td>Date of Transfer</td>
 <td>
-<p> 26 February 2025 <br><a href="_">Information on Transfer</a>&nbsp; </p>
+<p> 26 February 2025 <br><a href="https://assets.egazette.gov.sg/2025/Government%20Gazette/Notices%20under%20other%20Acts/0679.pdf">Information on Transfer</a>&nbsp; </p>
 </td>
 </tr>
 <tr>
@@ -259,7 +259,7 @@ one-stop touchpoint for stakeholders.</p>
 <tr>
 <td>Date of Transfer</td>
 <td>
-<p> 26 February 2025 <br><a href="_">Information on Transfer</a>&nbsp; </p>
+<p> 26 February 2025 <br><a href="https://assets.egazette.gov.sg/2025/Government%20Gazette/Notices%20under%20other%20Acts/0679.pdf">Information on Transfer</a>&nbsp; </p>
 </td>
 </tr>
 <tr>
@@ -288,7 +288,7 @@ one-stop touchpoint for stakeholders.</p>
 <tr>
 <td>Date of Transfer</td>
 <td>
-<p>26 February 2025 <br><a href="_">Information on Transfer</a>&nbsp; </p>
+<p>26 February 2025 <br><a href="https://assets.egazette.gov.sg/2025/Government%20Gazette/Notices%20under%20other%20Acts/0679.pdf">Information on Transfer</a>&nbsp; </p>
 </td>
 </tr>
 <tr>
