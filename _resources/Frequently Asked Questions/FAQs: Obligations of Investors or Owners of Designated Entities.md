@@ -115,7 +115,7 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
     
 </li><li><p>Where a party’s interest meets a prescribed threshold as the result of not participating in a share buyback.</p>
     
-<p>Parties may refer to <a href="https://www.osir.gov.sg/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener nofollow" target="_blank">Overview of Ownership &amp; Control Obligations under SIRA </a>for the prescribed thresholds. The thresholds are default thresholds and may differ for specific entities. </p>
+<p>Parties may refer to <a href="https://www.osir.gov.sg/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener nofollow" target="_blank">Overview of Ownership &amp; Control Obligations under SIRA </a>for the prescribed thresholds. The thresholds are default thresholds and may differ for specific entities. </p></li></ul></div>
 	
 </li><li><input type="checkbox" id="accordion10">
 <label for="accordion10">Does a party need to notify or seek approval when acquiring an equity interest if there is no intention to vote or exercise control over the designated entity?</label><div>
@@ -142,4 +142,4 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 
 <p>Please refer to&nbsp;<a href="https://www.osir.gov.sg/resources/other-legislation/sectoral-legislation/" rel="noopener nofollow" target="_blank">Sectoral Legislation with O&amp;C provisions</a> to see examples of other domestic sectoral legislation in Singapore and their respective regulators.</p>
 	
-</div></li></ul></div></li></ul>
+</div></li></ul>
