@@ -298,7 +298,7 @@ one-stop touchpoint for stakeholders.</p>
 </td>
 </tr><tr><td>Subsidiary Legislation</td>
 <td>
-1. [MINDEF] To be updated<br> 2. <a href="https://sso.agc.gov.sg/SL/SIRA2024-S230-2024?DocDate=20240327">Significant Investments Review (Reviewing Tribunal) Rules 2024</a>
+1. [MHA] To be updated<br> 2. <a href="https://sso.agc.gov.sg/SL/SIRA2024-S230-2024?DocDate=20240327">Significant Investments Review (Reviewing Tribunal) Rules 2024</a>
 </td></tr></tbody></table></div>
 
 <p><em>Note: Any formerly designated entities will also be listed on this page.</em>
