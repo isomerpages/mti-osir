@@ -28,7 +28,7 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 
 <p><strong><u>Designated entities</u></strong>
 </p><ul><li><p></p>After becoming aware of a change in ownership or control; or<p></p>
-</li><li>If it is seeking to sell (any part of) the business or undertaking, as a going concern.<p></p></li>
+</li><li>If it is seeking to sell (any part of) the business or undertaking, as a going concern.</li>
 
 </ul></div></li>
 
@@ -40,13 +40,13 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 <p>The default obligations are:</p>
 
 <ul><li><p></p>Notifying the Minister within 7 calendar days after becoming a 5% controller in a designated entity; and </li><p></p>
-<li><p></p>Seeking the Minister’s approval before becoming a 12%, 25%, or 50% controller in a designated entity. </li><p></p>
+<li><p></p>Seeking the Minister’s approval before becoming a 12%, 25%, or 50% controller in a designated entity. </li><p></p></ul>
 
 <p>While the above are default thresholds set out in the Significant Investments Review Act, the Minister has the flexibility to vary such thresholds for specific entities as the situation warrants, and if so, these will be prescribed in subsidiary legislation.</p>
 
 <p>Parties may wish to refer to <a href="https://www.osir.gov.sg/about-sira/acquiring-equity-interest-or-voting-power/" rel="noopener nofollow" target="_blank">Acquiring Equity Interest or Voting Power in a Designated Entity</a> for a step-by-step process flow.</p>
 
-<p>Transactions involving the acquisition, as a going concern, of (any part of) the business or undertaking of a designated entity, will also require prior approval.</p></ul></div></li>
+<p>Transactions involving the acquisition, as a going concern, of (any part of) the business or undertaking of a designated entity, will also require prior approval.</p></div></li></ul>
 
 <li><input type="checkbox" id="accordion3">
 <label for="accordion3">What are the prescribed thresholds for notification or approval for the sale of equity interest or voting power in a designated entity?</label><div>
@@ -78,7 +78,7 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 	<li><p></p>The transaction was entered into on, or after the designation date of the entity; and&nbsp;</li>
 	<li><p></p>If the transaction meets the prescribed ownership and control thresholds.</li></ul>
     
-<p>Parties may refer to <a href="https://www.osir.gov.sg/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener nofollow" target="_blank">Overview of Ownership &amp; Control Obligations under SIRA</a>&nbsp;for the prescribed ownership or control thresholds. The thresholds are default thresholds and may differ for specific entities.</p>
+<p>Parties may refer to <a href="https://www.osir.gov.sg/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener nofollow" target="_blank">Overview of Ownership and Control Obligations under SIRA</a>&nbsp;for the prescribed ownership or control thresholds. The thresholds are default thresholds and may differ for specific entities.</p>
 
 <p>If any clarification is required, parties may contact OSIR at&nbsp;<a href="mailto:contact@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact@osir.gov.sg</a>.</p></div></li>
 
@@ -91,7 +91,7 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 
 <p>The obligations of a potential investor, intermediate holding company or an ultimate parent company to notify or seek approval apply regardless of whether the actions were the result of the intermediate holding company, the ultimate parent company or any other party.</p>
 
-<p>Parties may refer to<a href="https://www.osir.gov.sg/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener nofollow" target="_blank">Overview of Ownership &amp; Control Obligations under SIRA</a> for the prescribed thresholds. The thresholds are default thresholds and may differ for specific entities.</p>
+<p>Parties may refer to <a href="https://www.osir.gov.sg/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener nofollow" target="_blank">Overview of Ownership and Control Obligations under SIRA</a> for the prescribed thresholds. The thresholds are default thresholds and may differ for specific entities.</p>
 
 </div></li><li><input type="checkbox" id="accordion8">
 <label for="accordion8">What are the obligations of the parent entities of designated entities?</label><div>
@@ -100,7 +100,7 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 
 <p>Similarly, if a parent entity seeks to increase its shareholding in a designated entity which causes it to cross a prescribed threshold as a result, prior approval would be required.</p>
 
-<p>Parties may refer to&nbsp;<a href="https://www.osir.gov.sg/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener nofollow" target="_blank">Overview of Ownership &amp; Control Obligations under SIRA</a>&nbsp;for the prescribed thresholds. The thresholds are default thresholds and may differ for specific entities.</p>
+<p>Parties may refer to&nbsp;<a href="https://www.osir.gov.sg/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener nofollow" target="_blank">Overview of Ownership and Control Obligations under SIRA</a>&nbsp;for the prescribed thresholds. The thresholds are default thresholds and may differ for specific entities.</p>
 
 <p>Parent entities may seek clarification from OSIR at&nbsp;<a href="mailto:contact@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact@osir.gov.sg</a>&nbsp;before the commencement of any formal application.</p>
 
@@ -122,7 +122,7 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 
 <p>Any party investing in a designated entity, whether they seek control over the designated entity or otherwise, must comply with the obligations under the Significant Investments Review Act if they meet the prescribed thresholds. </p>
 
-<p>Parties may refer to&nbsp;<a href="https://www.osir.gov.sg/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener nofollow" target="_blank">Overview of Ownership &amp; Control Obligations under SIRA </a> for the prescribed thresholds. The thresholds are default thresholds and may differ for specific entities. </p>
+<p>Parties may refer to&nbsp;<a href="https://www.osir.gov.sg/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener nofollow" target="_blank">Overview of Ownership and Control Obligations under SIRA </a> for the prescribed thresholds. The thresholds are default thresholds and may differ for specific entities. </p>
 	
 </div></li><li><input type="checkbox" id="accordion11">
 <label for="accordion11">Does a party need to seek approval for the acquisition of equity interest which is exercisable only in the future (e.g. convertible loan, or options)?</label><div>
@@ -133,12 +133,11 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 
 <p>Hence, a party entering into any such arrangement will need to notify or seek approval if the equity interest meets the prescribed thresholds.</p>
 
-<p>Parties may refer to <a href="https://www.osir.gov.sg/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener nofollow" target="_blank">Overview of Ownership &amp; Control Obligations under SIRA </a> for the prescribed thresholds. The thresholds are default thresholds and may differ for specific entities.</p>
+<p>Parties may refer to <a href="https://www.osir.gov.sg/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener nofollow" target="_blank">Overview of Ownership and Control Obligations under SIRA </a> for the prescribed thresholds. The thresholds are default thresholds and may differ for specific entities.</p>
 
 </div></li><li><input type="checkbox" id="accordion12">
 <label for="accordion12">What other regulations may affect transactions?</label><div>
 
 <p>Parties involved in transactions pertaining to an entity that is not designated under the Significant Investments Review Act, but covered by other domestic sectoral legislation may need to notify or seek approval from the relevant regulator in accordance with the relevant domestic sectoral legislation. </p>
 
-<p>Please refer to&nbsp;<a href="https://www.osir.gov.sg/resources/other-legislation/sectoral-legislation/" rel="noopener nofollow" target="_blank">Sectoral Legislation with O&amp;C provisions</a> to see examples of other domestic sectoral legislation in Singapore and their respective regulators.</p></div></li></ul>
-	
+<p>Please refer to&nbsp;<a href="https://www.osir.gov.sg/resources/other-legislation/sectoral-legislation/" rel="noopener nofollow" target="_blank">Sectoral Legislation with O&amp;C provisions</a> to see examples of other domestic sectoral legislation in Singapore and their respective regulators.</p></div></li>
