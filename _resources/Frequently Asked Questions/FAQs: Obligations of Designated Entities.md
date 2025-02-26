@@ -22,13 +22,13 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
   <li><p></p><strong><u>Seeking the Minister’s approval</u></strong>&nbsp;prior to the appointment of specific key personnel; <p></p></li>  
 	<li><p></p><strong><u>Seeking the Minister’s approval, (together with the acquiror)</u></strong> prior to selling, as a going concern, of (any part of) the business or undertaking; <p></p></li>  
   <li><p></p><strong><u>Seeking the Minister’s approval</u></strong>&nbsp;prior to winding up, dissolving, or terminating the entity, the making of any judicial management order or the appointment of any (interim) judicial manager; or <p></p></li>  
-  <li><p></p><strong><u>Complying with conditions, directions or orders</u></strong> imposed by the Minister, if any. <p></p></li> 
+  <li><p></p><strong><u>Complying with conditions, directions or orders</u></strong> imposed by the Minister, if any. <p></p></li> </ul>
 
 <p>Please refer to <a href="https://www.osir.gov.sg/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener nofollow" target="_blank">Overview of Ownership &amp; Control Obligations under SIRA</a> for more details on the obligations of a designated entity.&nbsp;  
 
 </p><p>Parties may seek clarification from OSIR at <a href="mailto:contact@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact@osir.gov.sg</a> before the commencement of any formal application.  
   
-</p><p>To submit a notification or approval, please download the relevant <a href="https://www.osir.gov.sg/forms/notification-forms/" rel="noopener nofollow" target="_blank">Notification Form</a> or <a href="https://www.osir.gov.sg/forms/approval-forms" rel="noopener nofollow" target="_blank">Approval Form</a> and email the completed form to&nbsp;<a href="mailto:submissions@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank">submissions@osir.gov.sg</a>.</p></ul></div></li>
+</p><p>To submit a notification or approval, please download the relevant <a href="https://www.osir.gov.sg/forms/notification-forms/" rel="noopener nofollow" target="_blank">Notification Form</a> or <a href="https://www.osir.gov.sg/forms/approval-forms" rel="noopener nofollow" target="_blank">Approval Form</a> and email the completed form to&nbsp;<a href="mailto:submissions@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank">submissions@osir.gov.sg</a>.</p></div></li></ul>
 
 <li><input type="checkbox" id="accordion2">
 <label for="accordion2">What are the obligations of a designated entity when appointing key personnel?</label><div>
@@ -84,4 +84,4 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 
 <p>Special Administration Orders (SAO) will only be exercised in the interest of security and reliability of the continued provisioning of critical functions by the designated entity, or when it is necessary in Singapore’s national security interests. </p>
 
-<p>The Minister may issue SAOs to direct the takeover of control of the affairs, businesses, and property of a designated entity by another party. Other orders can also be issued, such as directing the designated entity to immediately take or cease any action; or appointing a person to advise the designated entity in the proper conduct of its businesses or undertaking.</p></div></li></ul>
+<p>The Minister may issue SAOs to direct the takeover of control of the affairs, businesses, and property of a designated entity by another party. Other orders can also be issued, such as directing the designated entity to immediately take or cease any action; or appointing a person to advise the designated entity in the proper conduct of its businesses or undertaking.</p></div></li>
