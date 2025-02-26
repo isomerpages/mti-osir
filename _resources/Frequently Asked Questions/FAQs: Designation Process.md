@@ -51,4 +51,21 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 
 <p>There is no duration tagged to designation. The entity will be designated for so long as it is in the interest of Singapore's national security.</p>
 
-<p>Any cancellation of designation will be notified in the&nbsp;<a href="https://www.egazette.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Government Gazette</a>. OSIR also maintains and publishes an updated&nbsp;<a href="https://www.osir.gov.sg/designation/designated-entities" rel="noopener noreferrer nofollow" target="_blank">list of designated entities</a>.</p></div></li></ul>
+<p>Any cancellation of designation will be notified in the&nbsp;<a href="https://www.egazette.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Government Gazette</a>. OSIR also maintains and publishes an updated&nbsp;<a href="https://www.osir.gov.sg/designation/designated-entities" rel="noopener noreferrer nofollow" target="_blank">list of designated entities</a>.</p></div></li>
+
+<li><input type="checkbox" id="accordion5">
+<label for="accordion5">If designated, can the entity have its designation backdated?</label><div>
+
+<p>Entities cannot be retrospectively designated.</p>
+
+<p>Obligations arising out of designation will only apply from the point of designation until such time when the designation is cancelled.</p></div>
+
+</li><li><input type="checkbox" id="accordion6">
+<label for="accordion6">Can an entity apply for reconsideration or appeal against a designation, and will the entity remain designated pending the outcome of these processes?</label><div>
+
+<p>Entities cannot be retrospectively designated.</p>
+
+<p>Parties can seek reconsideration from the Minister within 14 calendar days after his decision on designation; after which, they may appeal to a Reviewing Tribunal within 30 calendar days after the reconsideration decision.
+
+The Minister’s decision to designate the entity remains in effect, and must be complied with until it is cancelled on reconsideration. The Minister’s reconsideration decision remains in effect until it is reversed on appeal.</p></div>
+</li></ul>
