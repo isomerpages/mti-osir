@@ -36,8 +36,10 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 	
 <p>Unless considered to be not practicable or desirable to do so, before the Minister designates any entity, notice will be given to the entity of the Minister’s intent to designate it and the entity will generally be given at least 14 calendar days after the date of the notice to make representations on the proposed designation. </p>
 
-<p>Once a designation is made, as far as practicable, the Minister will notify the designated entity and any other parties who, in the Minister’s opinion, ought to have notice of the designation. Any designation, or cancellation of designation, will be notified in the&nbsp;[Government Gazette](https://www.egazette.gov.sg/).</p>
+<p>Once a designation is made, as far as practicable, the Minister will notify the designated entity and any other parties who, in the Minister’s opinion, ought to have notice of the designation. Any designation, or cancellation of designation, will be notified in the <a href="https://www.egazette.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Government Gazette</a>.</p>
 
-Parties can seek reconsideration from the Minister within 14 calendar days after his decisions; after which, they may appeal to a Reviewing Tribunal within 30 calendar days after the reconsideration outcome.  
+<p>Parties can seek reconsideration from the Minister within 14 calendar days after his decisions; after which, they may appeal to a Reviewing Tribunal within 30 calendar days after the reconsideration outcome.</p>
 
-Parties may wish to refer to&nbsp;[Designation Process](https://www.osir.gov.sg/designation/designation-process/)&nbsp;for a step-by-step process flow.<p></p></div></li></ul>
+<p>Parties may wish to refer to <a href="https://www.osir.gov.sg/designation/designation-process/" rel="noopener noreferrer nofollow" target="_blank"> Designation Process</a> for a step-by-step process flow.</p><p></p>
+
+</div></li></ul>
