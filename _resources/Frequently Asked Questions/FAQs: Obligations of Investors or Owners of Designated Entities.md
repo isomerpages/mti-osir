@@ -60,8 +60,22 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 
 <p>The acquiror, together with the designated entity, will need to seek approval from the Minister prior to the acquisition, as a going concern, of (any part of) the business or undertaking of the designated entity.</p>
 
-<p>Parties may wish to refer to <a href="https://www.osir.gov.sg/about-sira/acquiring-business-or-undertaking/" rel="noopener nofollow" target="_blank">Acquisition of the Business or undertaking of a Designated Entity</a>&nbsp;for a step-by-step process flow. </p>
+<p>Parties may wish to refer to <a href="https://www.osir.gov.sg/about-sira/acquiring-business-or-undertaking/" rel="noopener nofollow" target="_blank">Acquisition of the Business or undertaking of a Designated Entity</a> for a step-by-step process flow. </p>
 	
 </div></li><li><input type="checkbox" id="accordion5">
 <label for="accordion5">Are the notification and approval obligations applicable to divestments, mergers, and acquisitions?</label><div>
+	
 <p>Regardless of the form of transaction, whenever a prescribed ownership or control threshold is met, or will be met, the relevant notification or approval obligation will apply.</p></div></li>
+
+<li><input type="checkbox" id="accordion6">
+<label for="accordion6">Is notification or approval needed if a transaction was only completed after the entity’s designation date, but was entered into before it was designated?</label><div>
+	
+<p>Notification or approval would only need to be sought if:</p>
+
+<ul>
+	<li><p></p>The transaction was entered into on, or after the designation date of the entity; and&nbsp;</li>
+	<li><p></p>If the transaction meets the prescribed ownership and control thresholds.</li></ul>
+    
+<p>Parties may refer to <a href="https://www.osir.gov.sg/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener nofollow" target="_blank">Overview of Ownership &amp; Control Obligations under SIRA</a>&nbsp;for the prescribed ownership or control thresholds. The thresholds are default thresholds and may differ for specific entities.</p>
+
+<p>If any clarification is required, parties may contact OSIR at&nbsp;<a href="mailto:contact@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact@osir.gov.sg</a>.</p></div></li>
