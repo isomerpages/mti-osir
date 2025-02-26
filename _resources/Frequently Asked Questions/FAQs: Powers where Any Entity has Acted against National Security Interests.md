@@ -12,8 +12,8 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 
 <ul class="jekyllcodex_accordion">  
   
-<li><input type="checkbox" id="accordion1">  
-<label for="accordion1">Does the Significant Investments Review Act apply to entities that are not designated? If so, when do the powers under this Act apply?</label>
+<li><input type="checkbox" id="accordion1">
+<label for="accordion1">Does the Significant Investments Review Act apply to entities that are not designated? If so, when do the powers under this Act apply?</label><div>
 	
 <p>The Significant Investments Review Act (SIRA) applies to entities that are not designated, but only when the following two criteria are met:</p>
 
@@ -25,7 +25,7 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 
 <p>The powers under SIRA provide an alternative approach to winding up the company. </p>
 
-<p>Following the review of the transaction, a range of directions may be issued, such as directing the transacting party to transfer or dispose of his equity interest in the entity or directing the entity to restrict disclosure of confidential information to any person.</p>
+<p>Following the review of the transaction, a range of directions may be issued, such as directing the transacting party to transfer or dispose of his equity interest in the entity or directing the entity to restrict disclosure of confidential information to any person.</p></div>
 
 </li><li><input type="checkbox" id="accordion2">  
 <label for="accordion2">Why is there a two-year time bar?</label><div>  
