@@ -43,6 +43,12 @@ Parties may wish to refer to&nbsp;<a href="https://www.osir.gov.sg/about-sira/re
 </li><li><input type="checkbox" id="accordion4">  
 <label for="accordion4">What is the composition of the Reviewing Tribunal?</label><div>  
 <p>Each Reviewing Tribunal will consist of three individuals, appointed by the President on the advice of the Cabinet, including a chairperson who is a Supreme Court judge.</p></div>
+
+</li><li><input type="checkbox" id="accordion5">  
+<label for="accordion5">What is the timeline for the Minister to arrive at a reconsideration outcome, or for the Reviewing Tribunal to make its decision on an appeal?</label><div>  
+<p>Given that there may be diverse and complex considerations relating to national security concerns, decision-making authorities should be allowed adequate time to conduct thorough assessments and properly review the case before them.&nbsp;
+
+</p><p>Nonetheless, we will endeavour to process all applications for reconsideration and appeal expeditiously.</p></div>	
 	
 </li> 
 </ul>
