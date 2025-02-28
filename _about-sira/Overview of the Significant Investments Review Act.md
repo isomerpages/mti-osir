@@ -34,7 +34,7 @@ Online:</p>
 </p>
 <ol start="4" data-tight="true" class="tight">
 <li>
-<p><em>To be updated</em>
+<p><a href="https://assets.egazette.gov.sg/2025/Legislative%20Supplements/Subsidiary%20Legislation%20Supplement/150.pdf" rel="noopener nofollow" target="_blank">Significant Investments Review (Composition of Offences - Minister for Defence) Regulations 2025</a>
 </p>
 </li>
 </ol>
@@ -42,7 +42,7 @@ Online:</p>
 </p>
 <ol start="5" data-tight="true" class="tight">
 <li>
-<p><em>To be updated</em>
+<p><a href="https://assets.egazette.gov.sg/2025/Legislative%20Supplements/Subsidiary%20Legislation%20Supplement/149.pdf" rel="noopener nofollow" target="_blank">Significant Investments Review (Compoundable Offences - Minister for Home Affairs) Regulations 2025</a>
 </p>
 </li>
 </ol>
