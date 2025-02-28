@@ -298,7 +298,7 @@ one-stop touchpoint for stakeholders.</p>
 </td>
 </tr><tr><td>Subsidiary Legislation</td>
 <td>
-1.<a href="https://assets.egazette.gov.sg/2025/Legislative%20Supplements/Subsidiary%20Legislation%20Supplement/149.pdf">[MHA] Significant Investments Review (Compoundable Offences - Minister for Home Affairs) Regulations 2025</a><br> 2. <a href="https://sso.agc.gov.sg/SL/SIRA2024-S230-2024?DocDate=20240327">Significant Investments Review (Reviewing Tribunal) Rules 2024</a>
+1. <a href="https://assets.egazette.gov.sg/2025/Legislative%20Supplements/Subsidiary%20Legislation%20Supplement/149.pdf">[MHA] Significant Investments Review (Compoundable Offences - Minister for Home Affairs) Regulations 2025</a><br> 2. <a href="https://sso.agc.gov.sg/SL/SIRA2024-S230-2024?DocDate=20240327">Significant Investments Review (Reviewing Tribunal) Rules 2024</a>
 </td></tr></tbody></table></div>
 
 <p><em>Note: Any formerly designated entities will also be listed on this page.</em>
