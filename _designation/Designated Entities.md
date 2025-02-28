@@ -43,7 +43,7 @@ one-stop touchpoint for stakeholders.</p>
 <li><input type="checkbox" id="accordion2">  
 <label for="accordion2"> ExxonMobil Asia Pacific Pte. Ltd. (Unique Entity Number: 196800312N) </label>
 <div>  
-<table style="width: 100%;">
+<table style="width: 70%;">
 <tbody>
 <tr>
 <td>
@@ -74,7 +74,7 @@ one-stop touchpoint for stakeholders.</p>
 <li><input type="checkbox" id="accordion3">  
 <label for="accordion3">Sembcorp Specialised Construction Pte. Ltd. (Unique Entity Number: 201908421C)</label>
 <div>  
-<table style="width: 100%">
+<table style="width: 1000px">
 <tbody>
 <tr>
 <td>
