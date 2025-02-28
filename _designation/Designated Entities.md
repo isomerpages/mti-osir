@@ -105,7 +105,7 @@ one-stop touchpoint for stakeholders.</p>
 </li><li><input type="checkbox" id="accordion4">  
 <label for="accordion4"> Shell Singapore Pte. Ltd. (Unique Entity Number: 196000089G) </label>
 <div>  
-<table style="width: 100%;">
+<table style="width: 70%;">
 <tbody>
 <tr>
 <td>
@@ -135,7 +135,7 @@ one-stop touchpoint for stakeholders.</p>
 <li><input type="checkbox" id="accordion5">  
 <label for="accordion5"> Singapore Refining Company Private Limited (Unique Entity Number: 197900084K) </label>
 <div>  
-<table style="width: 100%;">
+<table style="width: 70%;">
 <tbody>
 <tr>
 <td>
@@ -159,7 +159,7 @@ one-stop touchpoint for stakeholders.</p>
 <label for="accordion6"> ST Engineering Defence Aviation Services Pte. Ltd. (Unique Entity Number:
 197501559C) </label>
 <div>  
-<table style="width: 100%;">
+<table style="width: 1000px;">
 <tbody>
 <tr>
 <td>
@@ -188,7 +188,7 @@ one-stop touchpoint for stakeholders.</p>
 </li><li><input type="checkbox" id="accordion7">  
 <label for="accordion7"> ST Engineering Digital Systems Pte. Ltd. (Unique Entity Number: 202029257C) </label>
 <div>  
-<table style="width: 100%;">
+<table style="width: 1000px;">
 <tbody>
 <tr>
 <td>
@@ -217,7 +217,7 @@ one-stop touchpoint for stakeholders.</p>
 </li><li><input type="checkbox" id="accordion8">  
 <label for="accordion8"> ST Engineering Land Systems Ltd. (Unique Entity Number: 197100263N) </label>
 <div>  
-<table style="width: 100%;">
+<table style="width: 1000px;">
 <tbody>
 <tr>
 <td>
@@ -246,7 +246,7 @@ one-stop touchpoint for stakeholders.</p>
 </li><li><input type="checkbox" id="accordion9">  
 <label for="accordion9"> ST Engineering Marine Ltd. (Unique Entity Number: 196800180M) </label>
 <div>  
-<table style="width: 100%;">
+<table style="width: 1000px;">
 <tbody>
 <tr>
 <td>
@@ -275,7 +275,7 @@ one-stop touchpoint for stakeholders.</p>
 </li><li><input type="checkbox" id="accordion10">  
 <label for="accordion10">ST Logistics Pte. Ltd. (Unique Entity Number: 200412267E)</label>
 <div>  
-<table style="width: 100%;">
+<table style="width: 1000px;">
 <tbody>
 <tr>
 <td>
