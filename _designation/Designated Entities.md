@@ -99,7 +99,7 @@ one-stop touchpoint for stakeholders.</p>
 <tbody><tr>
 <td> Subsidiary Legislation</td>
 <td>
-1. <a href="https://assets.egazette.gov.sg/2025/Legislative%20Supplements/Subsidiary%20Legislation%20Supplement/150.pdf">[MINDEF] Significant Investments Review (Composition of Offences - Minister for Defence) Regulations 2025</a><br> 2. <a href="https://sso.agc.gov.sg/SL/SIRA2024-S230-2024?DocDate=20240327">Significant Investments Review (Reviewing Tribunal) Rules 2024</a>
+1. <a href="https://sso.agc.gov.sg//SL/SIRA2024-S150-2025?DocDate=20250228">[MINDEF] Significant Investments Review (Composition of Offences - Minister for Defence) Regulations 2025</a><br> 2. <a href="https://sso.agc.gov.sg/SL/SIRA2024-S230-2024?DocDate=20240327">Significant Investments Review (Reviewing Tribunal) Rules 2024</a>
 </td></tr></tbody></table></div>
 
 </li><li><input type="checkbox" id="accordion4">  
@@ -182,7 +182,7 @@ one-stop touchpoint for stakeholders.</p>
 </td>
 </tr><tr><td>Subsidiary Legislation</td>
 <td>
-1. <a href="https://assets.egazette.gov.sg/2025/Legislative%20Supplements/Subsidiary%20Legislation%20Supplement/150.pdf">[MINDEF] Significant Investments Review (Composition of Offences - Minister for Defence) Regulations 2025</a><br> 2.  <a href="https://sso.agc.gov.sg/SL/SIRA2024-S230-2024?DocDate=20240327">Significant Investments Review (Reviewing Tribunal) Rules 2024</a>
+1. <a href="https://sso.agc.gov.sg//SL/SIRA2024-S150-2025?DocDate=20250228">[MINDEF] Significant Investments Review (Composition of Offences - Minister for Defence) Regulations 2025</a><br> 2.  <a href="https://sso.agc.gov.sg/SL/SIRA2024-S230-2024?DocDate=20240327">Significant Investments Review (Reviewing Tribunal) Rules 2024</a>
 </td></tr></tbody></table></div>
 	
 </li><li><input type="checkbox" id="accordion7">  
@@ -211,7 +211,7 @@ one-stop touchpoint for stakeholders.</p>
 </td>
 </tr><tr><td>Subsidiary Legislation</td>
 <td>
-1. <a href="https://assets.egazette.gov.sg/2025/Legislative%20Supplements/Subsidiary%20Legislation%20Supplement/150.pdf">[MINDEF] Significant Investments Review (Composition of Offences - Minister for Defence) Regulations 2025</a><br> 2.  <a href="https://sso.agc.gov.sg/SL/SIRA2024-S230-2024?DocDate=20240327"> Significant Investments Review (Reviewing Tribunal) Rules 2024</a>
+1. <a href="https://sso.agc.gov.sg//SL/SIRA2024-S150-2025?DocDate=20250228">[MINDEF] Significant Investments Review (Composition of Offences - Minister for Defence) Regulations 2025</a><br> 2.  <a href="https://sso.agc.gov.sg/SL/SIRA2024-S230-2024?DocDate=20240327"> Significant Investments Review (Reviewing Tribunal) Rules 2024</a>
 </td></tr></tbody></table></div>
 
 </li><li><input type="checkbox" id="accordion8">  
@@ -240,7 +240,7 @@ one-stop touchpoint for stakeholders.</p>
 </td>
 </tr><tr><td>Subsidiary Legislation</td>
 <td>
-1. <a href="https://assets.egazette.gov.sg/2025/Legislative%20Supplements/Subsidiary%20Legislation%20Supplement/150.pdf">[MINDEF] Significant Investments Review (Composition of Offences - Minister for Defence) Regulations 2025</a><br> 2. <a href="https://sso.agc.gov.sg/SL/SIRA2024-S230-2024?DocDate=20240327"> Significant Investments Review (Reviewing Tribunal) Rules 2024</a>
+1. <a href="https://sso.agc.gov.sg//SL/SIRA2024-S150-2025?DocDate=20250228">[MINDEF] Significant Investments Review (Composition of Offences - Minister for Defence) Regulations 2025</a><br> 2. <a href="https://sso.agc.gov.sg/SL/SIRA2024-S230-2024?DocDate=20240327"> Significant Investments Review (Reviewing Tribunal) Rules 2024</a>
 </td></tr></tbody></table></div>
 
 </li><li><input type="checkbox" id="accordion9">  
@@ -269,7 +269,7 @@ one-stop touchpoint for stakeholders.</p>
 </td>
 </tr><tr><td>Subsidiary Legislation</td>
 <td>
-1. <a href="https://assets.egazette.gov.sg/2025/Legislative%20Supplements/Subsidiary%20Legislation%20Supplement/150.pdf">[MINDEF] Significant Investments Review (Composition of Offences - Minister for Defence) Regulations 2025</a><br> 2.  <a href="https://sso.agc.gov.sg/SL/SIRA2024-S230-2024?DocDate=20240327">Significant Investments Review (Reviewing Tribunal) Rules 2024</a>
+1. <a href="https://sso.agc.gov.sg//SL/SIRA2024-S150-2025?DocDate=20250228">[MINDEF] Significant Investments Review (Composition of Offences - Minister for Defence) Regulations 2025</a><br> 2.  <a href="https://sso.agc.gov.sg/SL/SIRA2024-S230-2024?DocDate=20240327">Significant Investments Review (Reviewing Tribunal) Rules 2024</a>
 </td></tr></tbody></table></div>
 	
 </li><li><input type="checkbox" id="accordion10">  
