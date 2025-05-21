@@ -154,7 +154,7 @@ entity</p>
 <p><em>*For ST Logistics Pte. Ltd., Sembcorp Specialised Construction Pte. Ltd., ST Engineering Marine Ltd., ST Engineering Defence Aviation Services Pte. Ltd., ST Engineering Digital Systems Pte. Ltd., and ST Engineering Land Systems Ltd. only</em>
 </p>
 <p></p>
-<p><em><sub>(As of 12 June 2024)</sub></em>
+<p><em><sub>(As of 21 May 2025)</sub></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
