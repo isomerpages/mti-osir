@@ -22,7 +22,7 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 <p>The Prime Minister of Singapore may direct the transfer of selected functions and powers over a designated entity to a relevant Minister when the relevant Minister may be more suitable to oversee the designated entity. For example, if the entity is in a sector that comes under his or her purview.</p>
 	
 </div></li><li><input type="checkbox" id="accordion3">  
-<label for="accordion3">What are the powers that can and cannt be transferred to a relevant Minister?</label><div>  
+<label for="accordion3">What are the powers that can and cannot be transferred to a relevant Minister?</label><div>  
 <p>The powers to designate an entity, or to exercise targeted powers that can be used against any entity that has acted against Singapore's national security interests, can only be exercised by the Minister for Trade and Industry.</p>
 
 <p> Besides that, the Prime Minister of Singapore may direct the transfer of selected functions and powers over a designated entity to the relevant Minister.</p>
