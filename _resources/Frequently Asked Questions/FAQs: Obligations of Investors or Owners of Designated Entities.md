@@ -80,7 +80,7 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
     
 <p>Parties may refer to <a href="https://www.osir.gov.sg/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener nofollow" target="_blank">Overview of Ownership and Control Obligations under SIRA</a>&nbsp;for the prescribed ownership or control thresholds. The thresholds are default thresholds and may differ for specific entities.</p>
 
-<p>If any clarification is required, parties may contact OSIR at&nbsp;<a href="mailto:contact@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact@osir.gov.sg</a>.</p></div></li>
+<p>If any clarification is required, parties may contact OSIR at&nbsp;<a href="https://go.gov.sg/contactosir" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/contactosir</a>.</p></div></li>
 
 <li><input type="checkbox" id="accordion7">
 <label for="accordion7">Is notification or approval needed if a party is investing into a holding company of a designated entity?</label><div>
