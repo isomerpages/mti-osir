@@ -14,7 +14,7 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 <li><input type="checkbox" id="accordion1">
 <label for="accordion1">How long will it take to know the outcome of a request for approval?</label><div>
 <p>OSIR will process all applications promptly. Applicants would be notified should more time or documents be required. Applicants can contact OSIR regarding the status or next steps of their application. </p>
-<p>Parties may wish to contact&nbsp;<a href="mailto:contact@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact@osir.gov.sg</a> on any clarifications prior to the commencement of any formal application.</p>
+<p>Parties may wish to contact&nbsp;<a href="https://go.gov.sg/contactosir" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/contactosir</a> on any clarifications prior to the commencement of any formal application.</p>
 <p> Please may refer to the pages below for the step-by-step process flows for: </p>
 <ul>
 	<li><p></p><a href="https://www.osir.gov.sg/about-sira/acquiring-equity-interest-or-voting-power" rel="noopener noreferrer nofollow" target="_blank">Acquiring Equity Interest or Voting Power in a Designated Entity</a> <p></p></li>
@@ -33,7 +33,7 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 	<li>Whether the transaction is aligned with Singapore’s national security interests.</li> </ul>
 <p>Please refer to the&nbsp;<a href="https://www.osir.gov.sg/resources/guidance-documents/" rel="noopener noreferrer nofollow" target="_blank">Guidelines on Fit and Proper Criteria</a>&nbsp;for more information.</p>
 <p>Mitigation measures may also be imposed as part of approval of a transaction.</p>
-<p>Parties may wish to contact <a href="mailto:contact@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact@osir.gov.sg</a>&nbsp;to discuss appropriate mitigation measures, which would depend on the facts and circumstances of each case. </p>
+<p>Parties may wish to contact <a href="https://go.gov.sg/contactosir" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/contactosir</a>&nbsp;to discuss appropriate mitigation measures, which would depend on the facts and circumstances of each case. </p>
 </div></li>
 
 <li><input type="checkbox" id="accordion3">
@@ -64,7 +64,7 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 <p>The Significant Investments Review Act has been designed to be business-friendly.</p>
 <p>If multiple parties to a particular transaction wish to submit a consolidated notification or application for approval (as applicable to their respective scenarios), they may do so.</p>
 <p>They will need to provide appropriate evidence of authorisation that the party responsible for the submission is doing so on behalf of the relevant parties.</p>
-<p>Parties may seek clarification from OSIR at&nbsp;<a href="mailto:contact@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact@osir.gov.sg</a>before the commencement of any formal application.</p>
+<p>Parties may seek clarification from OSIR at&nbsp;<a href="https://go.gov.sg/contactosir" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/contactosir</a>before the commencement of any formal application.</p>
 </div></li>
 
 <li><input type="checkbox" id="accordion7">
