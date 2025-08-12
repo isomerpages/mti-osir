@@ -25,6 +25,11 @@ contacts:
   - content:
       - phone: ""
       - email: ""
+      - other: ""
+    title: ""
+  - content:
+      - phone: ""
+      - email: ""
       - other: '<div
           style="font-family:Sans-Serif;font-size:15px;color:#000;opacity:0.9;padding-top:5px;padding-bottom:8px;"></div><iframe
           style="width: 250%; height:800px"
