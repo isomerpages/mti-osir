@@ -64,7 +64,7 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 <p>The Significant Investments Review Act has been designed to be business-friendly.</p>
 <p>If multiple parties to a particular transaction wish to submit a consolidated notification or application for approval (as applicable to their respective scenarios), they may do so.</p>
 <p>They will need to provide appropriate evidence of authorisation that the party responsible for the submission is doing so on behalf of the relevant parties.</p>
-<p>Parties may seek clarification from OSIR at&nbsp;<a href="https://go.gov.sg/contactosir" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/contactosir</a>before the commencement of any formal application.</p>
+<p>Parties may seek clarification from OSIR at&nbsp;<a href="https://go.gov.sg/contactosir" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/contactosir</a> before the commencement of any formal application.</p>
 </div></li>
 
 <li><input type="checkbox" id="accordion7">
