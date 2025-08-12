@@ -34,7 +34,7 @@ contacts:
           height: 700px" src="https://form.gov.sg/687dfc62f4c0afec0b0dbc04"
           id="iframe"></iframe> <div style="font-size:19px; width:250%;"> If the
           form is not loaded, you may also reach OSIR <a target="_blank”"
-          href="”https://go.gov.sg/contactOSIR”">here</a>.</div>'
+          href="”https://go.gov.sg/contactOSIR">here</a>.</div>'
     title: General Enquiries & Feedback
 feedback: ""
 ---
