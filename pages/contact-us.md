@@ -30,14 +30,11 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: '<div
-          style="font-family:Sans-Serif;font-size:15px;color:#000;opacity:0.9;padding-top:5px;padding-bottom:8px;"></div><iframe
-          style="width: 250%; height:800px"
-          src="https://form.gov.sg/687dfc62f4c0afec0b0dbc04"
-          id="iframe"></iframe><div
-          style="font-family:Sans-Serif;font-size:12px;color:#999;opacity:
-          0.5;padding-top: 5px;">Powered by <a style="color: #999"
-          href="https://form.gov.sg">Form</a></div>'
+      - other: 'You may reach OSIR via the form below. <iframe style="width: 250%;
+          height: 700px" src="https://form.gov.sg/687dfc62f4c0afec0b0dbc04"
+          id="iframe"></iframe> <div style="font-size:19px; width:250%;"> If the
+          form is not loaded, you may also reach OSIR <a target="_blank”"
+          href="”https://go.gov.sg/contactOSIR”">here</a>.</div>'
     title: General Enquiries & Feedback
 feedback: ""
 ---
