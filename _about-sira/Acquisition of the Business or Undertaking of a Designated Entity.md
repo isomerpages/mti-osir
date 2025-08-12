@@ -10,7 +10,7 @@ description: ""
 <p>Potential acquirors, together with the designated entity, will need to
 seek approval from the Minister prior to acquiring, as a going concern,
 (any part of) the business or undertaking of a designated entity.&nbsp;</p>
-<p>Parties may seek clarification from OSIR at <a href="mailto:contact@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>contact@osir.gov.sg</u></a> before
-the commencement of any formal application.</p>
+<p>Parties may seek clarification from OSIR at <a href="https://go.gov.sg/contactosir" rel="noopener nofollow" target="_blank">go.gov.sg/contactosir</a> before the
+commencement of any formal application.</p>
 <p>Parties are to submit the relevant <a href="https://www.osir.gov.sg/forms/notification-forms/" rel="noopener noreferrer nofollow" target="_blank">notification forms</a> and
 <a href="https://www.osir.gov.sg/forms/approval-forms/" rel="noopener noreferrer nofollow" target="_blank">approval forms</a>via email to <a href="mailto:submissions@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank">submissions@osir.gov.sg</a>.</p>
