@@ -102,7 +102,7 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 
 <p>Parties may refer to&nbsp;<a href="https://www.osir.gov.sg/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener nofollow" target="_blank">Overview of Ownership and Control Obligations under SIRA</a>&nbsp;for the prescribed thresholds. The thresholds are default thresholds and may differ for specific entities.</p>
 
-<p>Parent entities may seek clarification from OSIR at&nbsp;<a href="mailto:contact@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact@osir.gov.sg</a>&nbsp;before the commencement of any formal application.</p>
+<p>Parent entities may seek clarification from OSIR at&nbsp;<a href="https://go.gov.sg/contactosir" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/contactosir</a>&nbsp;before the commencement of any formal application.</p>
 
 </div></li><li><input type="checkbox" id="accordion9">
 <label for="accordion9">Does a party have obligations when their equity interests in a designated entity changes as a result of actions by third parties?</label><div>
