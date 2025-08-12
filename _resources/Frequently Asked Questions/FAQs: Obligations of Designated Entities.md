@@ -26,7 +26,7 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 
 <p>Please refer to <a href="https://www.osir.gov.sg/about-sira/overview-of-ownership-and-control-obligations/" rel="noopener nofollow" target="_blank">Overview of Ownership and Control Obligations under SIRA</a> for more details on the obligations of a designated entity.&nbsp;  
 
-</p><p>Parties may seek clarification from OSIR at <a href="mailto:contact@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact@osir.gov.sg</a> before the commencement of any formal application.  
+</p><p>Parties may seek clarification from OSIR at <a href="https://go.gov.sg/contactosir" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/contactosir</a> before the commencement of any formal application.  
   
 </p><p>To submit a notification or approval, please download the relevant <a href="https://www.osir.gov.sg/forms/notification-forms/" rel="noopener nofollow" target="_blank">Notification Form</a> or <a href="https://www.osir.gov.sg/forms/approval-forms" rel="noopener nofollow" target="_blank">Approval Form</a> and email the completed form to&nbsp;<a href="mailto:submissions@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank">submissions@osir.gov.sg</a>.</p></div></li>
 
@@ -65,7 +65,7 @@ and the administration of SIRA. They do not constitute as legal advice.</p>
 <label for="accordion5">How long will it take to know the outcome of a request for approval?</label><div>
 <p> OSIR will process all applications promptly. Applicants will be notified should more time or documents be required. Applicants can contact OSIR regarding the status or next steps of their application. </p>
 
-<p>Parties may wish to contact&nbsp;<a href="mailto:contact@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact@osir.gov.sg</a>&nbsp;on any clarifications prior to the commencement of any formal application. </p>
+<p>Parties may wish to contact&nbsp;<a href="https://go.gov.sg/contactosir" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/contactosir</a>&nbsp;on any clarifications prior to the commencement of any formal application. </p>
 
 <p> Please refer to the pages below for the step-by-step process flows for:</p>
 <ul>
