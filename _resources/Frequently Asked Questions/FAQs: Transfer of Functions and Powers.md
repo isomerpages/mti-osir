@@ -7,7 +7,7 @@ third_nav_title: Frequently Asked Questions
 ---
 <p>The FAQs are intended to provide guidance to parties on the policy provisions
 and the administration of SIRA. They do not constitute as legal advice.</p>
-<p>If you have further clarifications, feel free to contact us at <a href="mailto:contact@osir.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact@osir.gov.sg</a>.
+<p>If you have further clarifications, feel free to contact us at <a href="https://go.gov.sg/contactosir" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/contactosir</a>.
 </p>
 
 <ul class="jekyllcodex_accordion">  
