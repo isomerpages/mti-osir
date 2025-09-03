@@ -17,18 +17,6 @@ locations:
 contacts:
   - content:
       - phone: ""
-      - email: confidential@osir.gov.sg
-      - other: If you have any information or concerns you wish to share in confidence,
-          please submit them to this email. Your identity will be kept
-          anonymous.
-    title: Raise Your Concerns
-  - content:
-      - phone: ""
-      - email: ""
-      - other: ""
-    title: ""
-  - content:
-      - phone: ""
       - email: ""
       - other: 'You may reach OSIR via the form below. <iframe style="width: 250%;
           height: 700px" src="https://form.gov.sg/687dfc62f4c0afec0b0dbc04"
@@ -36,5 +24,17 @@ contacts:
           form is not loaded, you may also reach OSIR <a target="_blank”"
           href="https://go.gov.sg/contactOSIR">here</a>.</div>'
     title: General Enquiries & Feedback
+  - content:
+      - phone: ""
+      - email: ""
+      - other: ""
+    title: ""
+  - content:
+      - phone: ""
+      - email: confidential@osir.gov.sg
+      - other: If you have any information or concerns you wish to share in confidence,
+          please submit them to this email. Your identity will be kept
+          anonymous.
+    title: Raise Your Concerns
 feedback: ""
 ---
