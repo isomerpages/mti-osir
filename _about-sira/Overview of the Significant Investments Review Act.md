@@ -21,10 +21,14 @@ Online:</p>
 <p><a href="https://sso.agc.gov.sg/SL/SIRA2024-S230-2024?DocDate=20240327" rel="noopener noreferrer nofollow" target="_blank">Significant Investments Review (Reviewing Tribunal) Rules 2024</a>
 </p>
 </li>
+<li>
+<p><a href="" rel="noopener nofollow" target="_blank">Significant Investments Review (Disregarded Equity Interests) Regulations 2025</a>
+</p>
+</li>
 </ol>
 <p><strong>Subsidiary legislation under SIRA for the Ministry of Trade and Industry:</strong>
 </p>
-<ol start="3" data-tight="true" class="tight">
+<ol start="4" data-tight="true" class="tight">
 <li>
 <p><a href="https://sso.agc.gov.sg/SL/SIRA2024-S229-2024?DocDate=20240327" rel="noopener noreferrer nofollow" target="_blank">Significant Investments Review Regulations 2024</a>
 </p>
@@ -32,15 +36,11 @@ Online:</p>
 </ol>
 <p><strong>Subsidiary legislation under SIRA for the Ministry of Defence:</strong>
 </p>
-<ol start="4" data-tight="true" class="tight">
-<li>
-<p><a href="https://sso.agc.gov.sg//SL/SIRA2024-S150-2025?DocDate=20250228" rel="noopener nofollow" target="_blank">Significant Investments Review (Composition of Offences - Minister for Defence) Regulations 2025</a>
+<p>5.<strong> </strong><a href="https://sso.agc.gov.sg//SL/SIRA2024-S150-2025?DocDate=20250228" rel="noopener nofollow" target="_blank">Significant Investments Review (Composition of Offences - Minister for Defence) Regulations 2025</a>
 </p>
-</li>
-</ol>
 <p><strong>Subsidiary legislation under SIRA for the Ministry of Home Affairs:</strong>
 </p>
-<ol start="5" data-tight="true" class="tight">
+<ol start="6" data-tight="true" class="tight">
 <li>
 <p><a href="https://sso.agc.gov.sg//SL/SIRA2024-S149-2025?DocDate=20250228" rel="noopener nofollow" target="_blank">Significant Investments Review (Compoundable Offences - Minister for Home Affairs) Regulations 2025</a>
 </p>
