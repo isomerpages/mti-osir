@@ -22,7 +22,7 @@ Online:</p>
 </p>
 </li>
 <li>
-<p><a href="" rel="noopener nofollow" target="_blank">Significant Investments Review (Disregarded Equity Interests) Regulations 2025</a>
+<p><a href="https://assets.egazette.gov.sg/2025/Legislative%20Supplements/Subsidiary%20Legislation%20Supplement/676.pdf" rel="noopener nofollow" target="_blank">Significant Investments Review (Disregarded Equity Interests) Regulations 2025</a>
 </p>
 </li>
 </ol>
