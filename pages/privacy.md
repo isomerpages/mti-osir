@@ -57,8 +57,7 @@ you to consult the privacy notices of those sites.
 </p>
 </li>
 <li>
-<p>Please contact&nbsp;OSIR at <a href="https://go.gov.sg/contactosir&quot;>go.gov.sg/contactosir" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/contactosir</a>&nbsp;if
-you:
+<p>Please contact&nbsp;OSIR at <a href="go.gov.sg/contactOSIR" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/contactosir</a>&nbsp;if you:
 <br>(a) Have any enquires or feedback on our data protection policies and
 procedures,
 <br>(b) Need more information on or access to data which you have provided
