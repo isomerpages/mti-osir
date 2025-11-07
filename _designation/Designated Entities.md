@@ -304,3 +304,22 @@ one-stop touchpoint for stakeholders.</p>
 <p><em>Note: Any formerly designated entities will also be listed on this page.</em>
 </p>
 <p></p></li></ul>
+
+##### <strong> List of formerly designated entities under SIRA </strong>
+
+<ul class="jekyllcodex_accordion">
+ 
+<li><input type="checkbox" id="accordion1">  
+<label for="accordion1"> Shell Singapore Pte. Ltd. (Unique Entity Number: 196000089G) </label>
+<div>  
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<p>Date of designation cancelled</p>
+</td>
+<td>
+<p>XX November 2024 <br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/3795.pdf">Information on cancelled designation</a>&nbsp; </p>
+</td>
+</tr>
+<tr></tr></tbody></table></div></li></ul>
