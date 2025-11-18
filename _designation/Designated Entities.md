@@ -316,10 +316,14 @@ one-stop touchpoint for stakeholders.</p>
 <tbody>
 <tr>
 <td>
-<p>Date of designation cancelled</p>
+<p>Date of Designation Cancelled</p>
 </td>
 <td>
-<p>XX November 2024 <br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/3795.pdf">Information on cancelled designation</a>&nbsp; </p>
+<p>19 November 2025 <br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/3795.pdf">Information on Cancelled Designation</a>&nbsp; </p>
 </td>
-</tr>
+</tr><tr><td>Information on Past Exemption</td>
+<td> 
+<p>31 May 2024 <br><a href="https://assets.egazette.gov.sg/2024/Legislative%20Supplements/Subsidiary%20Legislation%20Supplement/469.pdf">Information on Exemption</a>&nbsp; 
+</p>19 November 2025 <br>
+<a href="https://sso.agc.gov.sg//SL/SIRA2024-S149-2025?DocDate=20250228"> Information on Revoked Exemption</a><br></td></tr>
 <tr></tr></tbody></table></div></li></ul>
