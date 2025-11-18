@@ -325,5 +325,5 @@ one-stop touchpoint for stakeholders.</p>
 <td> 
 <p>31 May 2024 <br><a href="https://assets.egazette.gov.sg/2024/Legislative%20Supplements/Subsidiary%20Legislation%20Supplement/469.pdf">Information on Exemption</a>&nbsp; 
 </p>19 November 2025 <br>
-<a href="https://sso.agc.gov.sg//SL/SIRA2024-S149-2025?DocDate=20250228"> Information on Revoked Exemption</a><br></td></tr>
+<a href="https://assets.egazette.gov.sg/2025/Legislative%20Supplements/Subsidiary%20Legislation%20Supplement/710.pdf"> Information on Revoked Exemption</a><br></td></tr>
 <tr></tr></tbody></table></div></li></ul>
