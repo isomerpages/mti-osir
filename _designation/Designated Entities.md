@@ -102,37 +102,7 @@ one-stop touchpoint for stakeholders.</p>
 1. <a href="https://sso.agc.gov.sg//SL/SIRA2024-S150-2025?DocDate=20250228">[MINDEF] Significant Investments Review (Composition of Offences - Minister for Defence) Regulations 2025</a><br> 2. <a href="https://sso.agc.gov.sg/SL/SIRA2024-S230-2024?DocDate=20240327">Significant Investments Review (Reviewing Tribunal) Rules 2024</a>
 </td></tr></tbody></table></div>
 
-</li><li><input type="checkbox" id="accordion4">  
-<label for="accordion4"> Shell Singapore Pte. Ltd. (Unique Entity Number: 196000089G) </label>
-<div>  
-<table style="width: 100%;">
-<tbody>
-<tr>
-<td>
-<p> Date of Designation</p>
-</td>
-<td>
-<p>31 May 2024 <br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/1731.pdf">Information on Designation</a>&nbsp; </p>
-</td>
-</tr>
-<tr>
-<td>Date of Exemption</td>
-<td>
-<p>31 May 2024 <br><a href="https://assets.egazette.gov.sg/2024/Legislative%20Supplements/Subsidiary%20Legislation%20Supplement/469.pdf">Information on Exemption</a>&nbsp; </p>
-</td>
-</tr>
-<tr>
-<td>Minister-in-Charge</td>
-<td>
-<p>Minister for Trade and Industry </p>
-</td>
-</tr>
-<tr><td> Subsidiary Legislation</td>
-<td>
-1. <a href="https://sso.agc.gov.sg/SL/SIRA2024-S229-2024?DocDate=20240327"> [MTI] Significant Investments Review Regulations 2024 </a>&nbsp;<br> 2.  <a href="https://sso.agc.gov.sg/SL/SIRA2024-S230-2024?DocDate=20240327">Significant Investments Review (Reviewing Tribunal) Rules 2024</a>
-</td></tr></tbody></table></div></li>
-
-<li><input type="checkbox" id="accordion5">  
+</li><li><input type="checkbox" id="accordion5">  
 <label for="accordion5"> Singapore Refining Company Private Limited (Unique Entity Number: 197900084K) </label>
 <div>  
 <table style="width: 100%;">
@@ -301,6 +271,27 @@ one-stop touchpoint for stakeholders.</p>
 1. <a href="https://sso.agc.gov.sg//SL/SIRA2024-S149-2025?DocDate=20250228">[MHA] Significant Investments Review (Compoundable Offences - Minister for Home Affairs) Regulations 2025</a><br> 2. <a href="https://sso.agc.gov.sg/SL/SIRA2024-S230-2024?DocDate=20240327">Significant Investments Review (Reviewing Tribunal) Rules 2024</a>
 </td></tr></tbody></table></div>
 
-<p><em>Note: Any formerly designated entities will also be listed on this page.</em>
-</p>
 <p></p></li></ul>
+
+##### <strong> List of formerly designated entities under SIRA </strong>
+
+<ul class="jekyllcodex_accordion">
+ 
+<li><input type="checkbox" id="accordion11">  
+<label for="accordion11"> Shell Singapore Pte. Ltd. (Unique Entity Number: 196000089G) </label>
+<div>  
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<p>Date of Designation Cancelled</p>
+</td>
+<td>
+<p>19 November 2025 <br><a href="https://assets.egazette.gov.sg/2025/Government%20Gazette/Notices%20under%20other%20Acts/5543.pdf">Information on Cancelled Designation</a>&nbsp; </p>
+</td>
+</tr><tr><td>Information on Past Exemption</td>
+<td> 
+<p>31 May 2024 <br><a href="https://assets.egazette.gov.sg/2024/Legislative%20Supplements/Subsidiary%20Legislation%20Supplement/469.pdf">Information on Exemption</a>&nbsp; 
+</p>19 November 2025 <br>
+<a href="https://assets.egazette.gov.sg/2025/Legislative%20Supplements/Subsidiary%20Legislation%20Supplement/710.pdf"> Information on Revoked Exemption</a><br></td></tr>
+<tr></tr></tbody></table></div></li></ul>
