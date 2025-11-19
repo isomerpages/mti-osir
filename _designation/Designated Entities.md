@@ -271,8 +271,6 @@ one-stop touchpoint for stakeholders.</p>
 1. <a href="https://sso.agc.gov.sg//SL/SIRA2024-S149-2025?DocDate=20250228">[MHA] Significant Investments Review (Compoundable Offences - Minister for Home Affairs) Regulations 2025</a><br> 2. <a href="https://sso.agc.gov.sg/SL/SIRA2024-S230-2024?DocDate=20240327">Significant Investments Review (Reviewing Tribunal) Rules 2024</a>
 </td></tr></tbody></table></div>
 
-<p><em>Note: Any formerly designated entities will also be listed on this page.</em>
-</p>
 <p></p></li></ul>
 
 ##### <strong> List of formerly designated entities under SIRA </strong>
