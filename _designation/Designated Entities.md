@@ -287,7 +287,7 @@ one-stop touchpoint for stakeholders.</p>
 <p>Date of Designation Cancelled</p>
 </td>
 <td>
-<p>19 November 2025 <br><a href="https://assets.egazette.gov.sg/2024/Government%20Gazette/Notices%20under%20other%20Acts/3795.pdf">Information on Cancelled Designation</a>&nbsp; </p>
+<p>19 November 2025 <br><a href="https://assets.egazette.gov.sg/2025/Government%20Gazette/Notices%20under%20other%20Acts/5543.pdf">Information on Cancelled Designation</a>&nbsp; </p>
 </td>
 </tr><tr><td>Information on Past Exemption</td>
 <td> 
