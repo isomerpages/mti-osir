@@ -385,9 +385,9 @@ The Bus Services Industry Act 2015 (BSI Act); The Civil Aviation Authority of Si
 <u>CAAS Act</u><p>
 </p><p>Agency in charge: Civil Aviation Authority of Singapore (CAAS)</p>
 <p>Email address: <a href="mailto:qsm@caas.gov.sg">qsm@caas.gov.sg</a>&nbsp;&nbsp;</p>
-<p>Website: <a href="http://www.caas.gov.sg">www.caas.gov.sg</a>
+	<p>Website: <a href="http://www.caas.gov.sg">www.caas.gov.sg</a></p>
 	
-<u>MPA Act</u></p><p>
+<u>MPA Act</u><p></p><p>
 </p><p>Agency in charge: Maritime and Port Authority of Singapore (MPA)</p>
 <p>Email address: <a href="mailto:qsm@mpa.gov.sg">qsm@mpa.gov.sg</a>&nbsp;&nbsp;</p>
 <p>Website: <a href="http://www.mpa.gov.sg">www.mpa.gov.sg</a>
