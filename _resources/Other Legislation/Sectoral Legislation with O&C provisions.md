@@ -374,7 +374,7 @@ The Healthcare Services Act was enacted in 2020 to replace the Private Hospital 
 	</p><p>
 The Bus Services Industry Act 2015 (BSI Act); The Civil Aviation Authority of Singapore Act 2009 (CAAS Act); The Maritime and Port Authority of Singapore Act 1996 (MPA Act); and The Rapid Transit Systems Act 1996 (RTS Act).
 	
-Please contact the relevant Authorities for more information.</p>
+</p><p>Please contact the relevant Authorities for more information.</p>
 </td>
 <td>
 	<p><u>BSI Act/RTS Act</u></p><p>
