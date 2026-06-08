@@ -8,9 +8,9 @@ description: The Office of Significant Investments Review (OSIR), situated
   into critical entities, to safeguard Singapore's national security interests.
 image: /images/logo_1.jpg
 permalink: /
-notification: Government officials will never ask you to transfer money or
-  disclose bank log-in details over a phone call. Call the 24/7 ScamShield
-  Helpline at 1799 if you are unsure if something is a scam.
+notification: Please be informed that this website will be undergoing scheduled
+  maintenance on 11 June 2026 (6pm) to 12 June 2026 (12am). We apologise for any
+  inconvenience caused.
 sections:
   - hero:
       title: Office of Significant Investments Review
